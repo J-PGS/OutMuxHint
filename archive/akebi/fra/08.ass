@@ -1,0 +1,300 @@
+﻿[Script Info]
+Title: Français (France)
+Original Script: cr_fr  [http://www.crunchyroll.com/user/cr_fr]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,1,2,0002,0002,0025,1
+Style: Italique,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,1,1,2,0002,0002,0025,1
+Style: TiretsDefault,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,1,1,0020,0002,0025,1
+Style: TiretsItalique,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,1,1,1,0020,0002,0025,1
+Style: Sign,Arial,18,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,0,8,0002,0002,0025,1
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:18.08,0:00:19.08,Default,,0000,0000,0000,,Prêtes ?
+Dialogue: 0,0:02:13.23,0:02:17.74,Sign,SIGN,0000,0000,0000,,{\i1\b1}{\an8}RÉSULTATS DES EXAMENS DE MI-SEMESTRE\N1RE : TANIGAWA KEI, 2E : TATSUMORI AI
+Dialogue: 0,0:02:16.94,0:02:19.11,Default,,0000,0000,0000,,Tu as la 5e meilleure note des 5e ?
+Dialogue: 0,0:02:18.32,0:02:22.99,Sign,SIGN,0000,0000,0000,,{\i1\b1}{\an8}JE VEUX GAGNER, LA PROCHAINE FOIS
+Dialogue: 0,0:02:19.28,0:02:21.87,Default,,0000,0000,0000,,Notre classe occupe\Nla 1re et 2e place.
+Dialogue: 0,0:02:22.03,0:02:24.87,Default,,0000,0000,0000,,Tanigawa a même fait un sans-faute.
+Dialogue: 0,0:02:25.04,0:02:28.33,Default,,0000,0000,0000,,Moi, j’ose même pas\Naller voir mon classement…
+Dialogue: 0,0:02:28.46,0:02:30.62,Default,,0000,0000,0000,,J’étais aussi surprise que vous.
+Dialogue: 0,0:02:31.13,0:02:35.00,Default,,0000,0000,0000,,C’est la première fois\Nque tu es classée à un examen ?
+Dialogue: 0,0:02:35.17,0:02:36.26,Default,,0000,0000,0000,,Oui !
+Dialogue: 0,0:02:36.42,0:02:40.43,Default,,0000,0000,0000,,Je voulais étudier un max\Npour être sûre d’être prise ici,
+Dialogue: 0,0:02:40.55,0:02:42.55,Default,,0000,0000,0000,,alors j’ai révisé jour et nuit.
+Dialogue: 0,0:02:42.72,0:02:46.22,Default,,0000,0000,0000,,Mais je ne savais pas\Nsi j’étais bien classée…
+Dialogue: 0,0:02:48.14,0:02:49.56,Default,,0000,0000,0000,,Ça te ressemble bien.
+Dialogue: 0,0:02:50.31,0:02:52.73,Default,,0000,0000,0000,,Je peux avoir votre attention ?
+Dialogue: 0,0:02:59.53,0:03:00.32,Default,,0000,0000,0000,,Bon !
+Dialogue: 0,0:03:00.32,0:03:03.82,Sign,SIGN,0000,0000,0000,,{\i1\b1}{\an8}À PROPOS DU FESTIVAL SPORTIF
+Dialogue: 0,0:03:00.91,0:03:03.82,Default,,0000,0000,0000,,Si vous n’avez pas bien réussi\Naux examens,
+Dialogue: 0,0:03:04.16,0:03:06.29,Default,,0000,0000,0000,,il va falloir vous ressaisir !
+Dialogue: 0,0:03:06.41,0:03:07.54,Default,,0000,0000,0000,,Je peux parler ?
+Dialogue: 0,0:03:07.75,0:03:11.42,Default,,0000,0000,0000,,Je pense que c’est toi\Nqui as le moins digéré les résultats.
+Dialogue: 0,0:03:11.54,0:03:14.38,TiretsDefault,,0176,0000,0000,,– Je vais t’aplatir ton grand front.\N– Méchante !
+Dialogue: 0,0:03:14.63,0:03:19.30,Default,,0000,0000,0000,,Enfin, la 1re a fait un sans-faute,\Nalors te tracasse pas avec ça.
+Dialogue: 0,0:03:19.47,0:03:21.76,Default,,0000,0000,0000,,Pourquoi tu me prends de haut ?
+Dialogue: 0,0:03:22.09,0:03:25.22,Default,,0000,0000,0000,,Euh… Est-ce qu’on peut continuer ?
+Dialogue: 0,0:03:27.39,0:03:32.48,Default,,0000,0000,0000,,On voudrait former les équipes\Npour les épreuves du festival sportif.
+Dialogue: 0,0:03:33.44,0:03:35.23,Default,,0000,0000,0000,,On vise la victoire !
+Dialogue: 0,0:03:36.44,0:03:41.53,Default,,0000,0000,0000,,Commençons par les épreuves\Nqui ont été les plus sollicitées.
+Dialogue: 0,0:03:42.15,0:03:45.49,Default,,0000,0000,0000,,Personne n’a fait\Nde choix au hasard, j’espère.
+Dialogue: 0,0:03:45.66,0:03:49.25,Default,,0000,0000,0000,,Sachez qu’on a vos résultats\Ndu test de capacités physiques.
+Dialogue: 0,0:03:49.54,0:03:51.79,Default,,0000,0000,0000,,Participez au moins à une épreuve,
+Dialogue: 0,0:03:52.21,0:03:54.83,Default,,0000,0000,0000,,et même plus, si vous le désirez.
+Dialogue: 0,0:03:55.08,0:03:56.63,Default,,0000,0000,0000,,Bien, pour commencer…
+Dialogue: 0,0:03:59.80,0:04:02.30,Sign,SIGN,0000,0000,0000,,{\i1\b1}{\an8}TENNIS DE TABLE – 2 ÉLÈVES
+Dialogue: 0,0:04:04.76,0:04:06.30,Default,,0000,0000,0000,,Au tennis de table,
+Dialogue: 0,0:04:06.30,0:04:10.06,Sign,SIGN,0000,0000,0000,,{\i1\b1}{\an8}TENNIS DE TABLE – 2 ÉLÈVES\NÔKUMA, TÔGEGUCHI
+Dialogue: 0,0:04:06.72,0:04:09.56,Default,,0000,0000,0000,,on comptera sur Tôgeguchi et Ôkuma.
+Dialogue: 0,0:04:14.23,0:04:17.98,Default,,0000,0000,0000,,Pour le badminton,\NHiraiwa et Hebimori.
+Dialogue: 0,0:04:17.82,0:04:20.57,Sign,SIGN,0000,0000,0000,,{\i1\b1}{\an8}ENCOURAGEMENTS – 4 ÉLÈVES
+Dialogue: 0,0:04:19.61,0:04:22.07,Default,,0000,0000,0000,,Aux encouragements, Nawashiro,
+Dialogue: 0,0:04:22.36,0:04:23.57,Default,,0000,0000,0000,,Kamimoku,
+Dialogue: 0,0:04:23.82,0:04:26.28,Default,,0000,0000,0000,,Akebi, et…
+Dialogue: 0,0:04:29.62,0:04:31.29,Default,,0000,0000,0000,,Tanigawa, donc.
+Dialogue: 0,0:04:34.33,0:04:38.00,Default,,0000,0000,0000,,Et enfin, la natation,\Navec Akebi Komichi…
+Dialogue: 0,0:04:38.17,0:04:39.09,Default,,0000,0000,0000,,Oui !
+Dialogue: 0,0:04:39.34,0:04:40.92,Default,,0000,0000,0000,,… Ôkuma Minoru…
+Dialogue: 0,0:04:41.13,0:04:42.09,Default,,0000,0000,0000,,Oui.
+Dialogue: 0,0:04:42.59,0:04:44.05,Default,,0000,0000,0000,,… Tatsumori Ai…
+Dialogue: 0,0:04:45.76,0:04:46.72,Default,,0000,0000,0000,,et pour finir,
+Dialogue: 0,0:04:47.09,0:04:48.55,Default,,0000,0000,0000,,Minakami Riri.
+Dialogue: 0,0:04:49.51,0:04:53.35,Default,,0000,0000,0000,,Minakami fait de la natation,\Nalors elle nagera en dernier.
+Dialogue: 0,0:04:58.15,0:04:59.27,Default,,0000,0000,0000,,Ça m’va.
+Dialogue: 0,0:04:59.61,0:05:02.61,Default,,0000,0000,0000,,{\i1}Ah oui, elle fait partie\Ndu club de natation.{\i0}
+Dialogue: 0,0:05:03.28,0:05:04.99,Default,,0000,0000,0000,,Je peux prendre la parole ?
+Dialogue: 0,0:05:05.57,0:05:07.24,Default,,0000,0000,0000,,Oui, Kizaki.
+Dialogue: 0,0:05:07.61,0:05:10.45,Default,,0000,0000,0000,,Komichi est une excellente nageuse.
+Dialogue: 0,0:05:11.12,0:05:12.24,Default,,0000,0000,0000,,Ah bon ?
+Dialogue: 0,0:05:12.37,0:05:15.21,Default,,0000,0000,0000,,Elle est assez rapide\Npour nager en dernier.
+Dialogue: 0,0:05:16.58,0:05:17.96,Default,,0000,0000,0000,,Erika…
+Dialogue: 0,0:05:20.09,0:05:22.17,Default,,0000,0000,0000,,Pourquoi tu ne l’as pas dit ?
+Dialogue: 0,0:05:22.34,0:05:25.42,Default,,0000,0000,0000,,Je nage par plaisir !\NJe me suis jamais chronométrée…
+Dialogue: 0,0:05:25.55,0:05:27.05,Default,,0000,0000,0000,,Si on vise la victoire,
+Dialogue: 0,0:05:27.22,0:05:30.43,Default,,0000,0000,0000,,on devrait établir l’ordre\Npar rapport à leurs temps.
+Dialogue: 0,0:05:31.26,0:05:34.85,Default,,0000,0000,0000,,Tu n’as pas tort…\NTu en penses quoi, Minakami ?
+Dialogue: 0,0:05:37.52,0:05:38.77,Default,,0000,0000,0000,,Ça m’dérange pas.
+Dialogue: 0,0:05:39.61,0:05:42.11,Default,,0000,0000,0000,,Elles vont bientôt\Ndevoir s’entraîner,
+Dialogue: 0,0:05:42.27,0:05:44.94,Default,,0000,0000,0000,,alors il faudrait trancher\Nrapidement.
+Dialogue: 0,0:05:45.07,0:05:49.11,Default,,0000,0000,0000,,La piscine extérieure\Nne doit pas encore être remplie.
+Dialogue: 0,0:05:49.66,0:05:50.66,Default,,0000,0000,0000,,Minakami,
+Dialogue: 0,0:05:50.87,0:05:54.87,Default,,0000,0000,0000,,ce serait possible d’emprunter\Nla piscine de ton club, demain ?
+Dialogue: 0,0:05:55.04,0:05:55.91,Default,,0000,0000,0000,,J’demanderai.
+Dialogue: 0,0:06:02.42,0:06:04.67,Sign,SIGN,0000,0000,0000,,{\i1\b1}5E 3
+Dialogue: 0,0:06:04.13,0:06:06.59,Default,,0000,0000,0000,,Je te laisse. À demain, Komichi.
+Dialogue: 0,0:06:06.76,0:06:08.38,Default,,0000,0000,0000,,OK, à demain !
+Dialogue: 0,0:06:12.22,0:06:15.43,Default,,0000,0000,0000,,Que la meilleure d’entre nous gagne,\NMinakami.
+Dialogue: 0,0:06:16.48,0:06:17.48,Default,,0000,0000,0000,,Ouais.
+Dialogue: 0,0:06:18.14,0:06:21.86,Default,,0000,0000,0000,,J’ignorais qu’il y avait\Nun festival sportif au collège,
+Dialogue: 0,0:06:21.98,0:06:24.07,Default,,0000,0000,0000,,alors j’ai hâte d’y être.
+Dialogue: 0,0:06:24.27,0:06:28.20,Default,,0000,0000,0000,,Minakami, est-ce que tu pratiques\Nla natation depuis longtemps ?
+Dialogue: 0,0:06:28.36,0:06:31.24,TiretsDefault,,0206,0000,0000,,– Pas b’soin d’être si polie.\N– Ah, pardon…
+Dialogue: 0,0:06:31.37,0:06:32.78,Default,,0000,0000,0000,,Et appelle-moi Riri.
+Dialogue: 0,0:06:34.03,0:06:35.74,Default,,0000,0000,0000,,D’accord, Riri…
+Dialogue: 0,0:06:35.87,0:06:37.41,Default,,0000,0000,0000,,J’suis bonne nageuse.
+Dialogue: 0,0:06:37.58,0:06:40.33,Default,,0000,0000,0000,,En primaire,\Nj’ai nagé au niveau national.
+Dialogue: 0,0:06:41.08,0:06:43.75,Default,,0000,0000,0000,,Au niveau national ?\NAh, quand même…
+Dialogue: 0,0:06:43.88,0:06:47.92,Default,,0000,0000,0000,,Je risque pas\Nde t’arriver à la cheville, alors.
+Dialogue: 0,0:06:52.97,0:06:56.47,Default,,0000,0000,0000,,J’ai choisi Rôbai\Nparce que son blazer était sympa,
+Dialogue: 0,0:06:56.64,0:07:01.56,Default,,0000,0000,0000,,mais j’ai eu l’coup d’foudre\Nquand j’t’ai vue avec ta marinière !
+Dialogue: 0,0:07:03.02,0:07:05.57,Default,,0000,0000,0000,,Dis, si jamais j’gagne,
+Dialogue: 0,0:07:05.73,0:07:08.61,Default,,0000,0000,0000,,échange ton uniforme avec le mien.
+Dialogue: 0,0:07:09.57,0:07:12.53,Default,,0000,0000,0000,,Et si je perds,\Nje ferai tout ce que tu veux.
+Dialogue: 0,0:07:12.70,0:07:16.74,Default,,0000,0000,0000,,Attends ! L’école acceptera jamais\Nqu’on change d’uniformes !
+Dialogue: 0,0:07:16.91,0:07:17.83,Default,,0000,0000,0000,,Tu crois ?
+Dialogue: 0,0:07:18.54,0:07:22.08,Default,,0000,0000,0000,,Vu qu’c’est la principale\Nqui l’a décidé,
+Dialogue: 0,0:07:22.92,0:07:24.04,Default,,0000,0000,0000,,ça devrait aller.
+Dialogue: 0,0:07:25.84,0:07:27.25,Default,,0000,0000,0000,,{\i1}Oui, la connaissant…{\i0}
+Dialogue: 0,0:07:28.34,0:07:30.72,Default,,0000,0000,0000,,Enfin, j’te laisse y réfléchir.
+Dialogue: 0,0:07:30.88,0:07:34.93,Default,,0000,0000,0000,,Même si t’es pas partante,\Nmoi, j’suis chaud bouillante !
+Dialogue: 0,0:07:45.11,0:07:46.27,Default,,0000,0000,0000,,Quoi ?
+Dialogue: 0,0:07:48.28,0:07:51.24,Default,,0000,0000,0000,,Tu as beau avoir confiance\Nen ta nage,
+Dialogue: 0,0:07:51.45,0:07:53.53,Default,,0000,0000,0000,,tu tiens vraiment à tenir ce pari ?
+Dialogue: 0,0:07:53.95,0:07:57.12,Default,,0000,0000,0000,,T’écoutes aux portes ?\NC’est pas bien, ça.
+Dialogue: 0,0:07:57.28,0:07:58.45,Default,,0000,0000,0000,,Mais non !
+Dialogue: 0,0:07:58.58,0:08:01.71,Default,,0000,0000,0000,,Je vous ai entendues\Nen allant récupérer un truc.
+Dialogue: 0,0:08:02.83,0:08:05.08,Default,,0000,0000,0000,,OK, si tu le dis…
+Dialogue: 0,0:08:07.04,0:08:08.55,Default,,0000,0000,0000,,Tatsumori…
+Dialogue: 0,0:08:08.96,0:08:10.80,Default,,0000,0000,0000,,t’es sérieuse, comme nana.
+Dialogue: 0,0:08:13.18,0:08:16.60,Default,,0000,0000,0000,,On s’éclate plus\Nquand y a un enjeu, non ?
+Dialogue: 0,0:08:17.64,0:08:20.60,Default,,0000,0000,0000,,Je n’aime pas ce genre\Nde provocation.
+Dialogue: 0,0:08:21.64,0:08:25.02,Default,,0000,0000,0000,,Je m’fiche de c’qu’on peut\Npenser de moi.
+Dialogue: 0,0:08:27.23,0:08:28.82,Default,,0000,0000,0000,,Ton air si sérieux, là…
+Dialogue: 0,0:08:29.36,0:08:30.36,Default,,0000,0000,0000,,Moi,
+Dialogue: 0,0:08:31.07,0:08:32.32,Default,,0000,0000,0000,,je l’aime bien.
+Dialogue: 0,0:08:34.91,0:08:39.74,Default,,0000,0000,0000,,J’ai une idée ! Si j’gagne,\Ntu pourrais m’rendre un p’tit service ?
+Dialogue: 0,0:08:49.21,0:08:51.38,Default,,0000,0000,0000,,Maman !
+Dialogue: 0,0:08:51.55,0:08:52.63,Default,,0000,0000,0000,,Déjà rentrée ?
+Dialogue: 0,0:08:52.80,0:08:55.84,Default,,0000,0000,0000,,Tu sais où est rangé\Nmon maillot de bain ?
+Dialogue: 0,0:08:56.39,0:08:57.59,Default,,0000,0000,0000,,Ton maillot ?
+Dialogue: 0,0:08:58.47,0:09:01.43,Default,,0000,0000,0000,,Tu l’as porté le week-end\Noù Erika est venue.
+Dialogue: 0,0:09:02.02,0:09:04.39,Default,,0000,0000,0000,,Tu as déjà tes cours de natation ?
+Dialogue: 0,0:09:12.07,0:09:14.78,Default,,0000,0000,0000,,Komichi, viens ici un instant.
+Dialogue: 0,0:09:16.70,0:09:17.86,Default,,0000,0000,0000,,Je vois…
+Dialogue: 0,0:09:18.28,0:09:20.45,Default,,0000,0000,0000,,Elle a nagé au niveau national.
+Dialogue: 0,0:09:20.58,0:09:21.58,Default,,0000,0000,0000,,Oui.
+Dialogue: 0,0:09:23.00,0:09:26.12,Default,,0000,0000,0000,,C’est la même taille\Nque ton uniforme actuel.
+Dialogue: 0,0:09:28.83,0:09:30.79,Default,,0000,0000,0000,,Maman, ce serait pas…
+Dialogue: 0,0:09:37.84,0:09:40.72,Default,,0000,0000,0000,,C’est ton uniforme d’été, Komichi.
+Dialogue: 0,0:09:44.06,0:09:45.06,Default,,0000,0000,0000,,Sauf que…
+Dialogue: 0,0:09:45.56,0:09:49.40,Default,,0000,0000,0000,,si tu perds contre Riri,\Nc’est elle qui le portera.
+Dialogue: 0,0:09:49.56,0:09:51.94,Default,,0000,0000,0000,,Il faudra le réajuster à sa taille.
+Dialogue: 0,0:09:52.27,0:09:54.48,Default,,0000,0000,0000,,Rigole pas avec ça, maman !
+Dialogue: 0,0:09:56.19,0:09:59.57,Default,,0000,0000,0000,,{\i1}Je tiens vraiment à le porter,\Nmais bon…{\i0}
+Dialogue: 0,0:09:59.91,0:10:01.58,Default,,0000,0000,0000,,Allez, lève les bras.
+Dialogue: 0,0:10:01.83,0:10:02.83,Default,,0000,0000,0000,,Oui.
+Dialogue: 0,0:10:09.75,0:10:11.04,Default,,0000,0000,0000,,Fais de ton mieux.
+Dialogue: 0,0:10:13.25,0:10:16.59,Default,,0000,0000,0000,,{\i1}Je refuse de lui céder mon uniforme !{\i0}
+Dialogue: 0,0:10:28.89,0:10:31.94,Default,,0000,0000,0000,,Bon ! T’es prête, Komichi ?
+Dialogue: 0,0:10:33.73,0:10:34.61,Default,,0000,0000,0000,,Oui.
+Dialogue: 0,0:11:02.84,0:11:04.43,Default,,0000,0000,0000,,Les règles sont simples.
+Dialogue: 0,0:11:04.76,0:11:08.02,Default,,0000,0000,0000,,La gagnante nagera\Nen dernière position à l’épreuve.
+Dialogue: 0,0:11:08.56,0:11:10.48,Default,,0000,0000,0000,,On nous a accordé dix minutes.
+Dialogue: 0,0:11:10.73,0:11:12.31,Default,,0000,0000,0000,,Ne perdons pas de temps.
+Dialogue: 0,0:11:12.69,0:11:15.07,Default,,0000,0000,0000,,Il n’y a qu’une manche\Nen nage libre.
+Dialogue: 0,0:11:16.86,0:11:19.40,Default,,0000,0000,0000,,Qui va gagner, à ton avis ?
+Dialogue: 0,0:11:19.86,0:11:21.11,Default,,0000,0000,0000,,Aucune idée.
+Dialogue: 0,0:11:22.28,0:11:23.53,Default,,0000,0000,0000,,À vos marques…
+Dialogue: 0,0:11:25.28,0:11:26.37,Default,,0000,0000,0000,,prêts…
+Dialogue: 0,0:11:28.87,0:11:29.83,Default,,0000,0000,0000,,Mais je sais
+Dialogue: 0,0:11:30.12,0:11:33.13,Default,,0000,0000,0000,,que Komichi nage vraiment vite.
+Dialogue: 0,0:11:39.92,0:11:41.80,Default,,0000,0000,0000,,Qui va ressortir en premier ?
+Dialogue: 0,0:11:45.39,0:11:46.81,Default,,0000,0000,0000,,C’est Riri !
+Dialogue: 0,0:11:49.27,0:11:50.93,Default,,0000,0000,0000,,Akebi est rapide !
+Dialogue: 0,0:11:51.60,0:11:53.35,Default,,0000,0000,0000,,Elles nagent côte à côte !
+Dialogue: 0,0:11:55.19,0:11:56.44,Default,,0000,0000,0000,,Au tour du virage !
+Dialogue: 0,0:12:04.36,0:12:05.82,Default,,0000,0000,0000,,L’écart se creuse !
+Dialogue: 0,0:12:23.05,0:12:26.34,Default,,0000,0000,0000,,Tu peux gagner, Komichi !
+Dialogue: 0,0:12:27.85,0:12:29.97,Default,,0000,0000,0000,,Courage !
+Dialogue: 0,0:12:49.87,0:12:52.16,Default,,0000,0000,0000,,Vainqueure, Minakami Riri !
+Dialogue: 0,0:12:56.54,0:12:59.46,Default,,0000,0000,0000,,{\i1}J’ai… perdu…{\i0}
+Dialogue: 0,0:13:00.05,0:13:02.80,Default,,0000,0000,0000,,T’es super rapide, Komichi !
+Dialogue: 0,0:13:08.22,0:13:12.35,Default,,0000,0000,0000,,C’est dingue, tu m’as rattrapée\Nalors que j’nageais à fond.
+Dialogue: 0,0:13:15.14,0:13:17.27,Default,,0000,0000,0000,,Mais j’ai perdu ma marinière…
+Dialogue: 0,0:13:17.44,0:13:19.48,Default,,0000,0000,0000,,Ah, désolée, c’était un bobard.
+Dialogue: 0,0:13:21.32,0:13:23.78,Default,,0000,0000,0000,,T’as toujours le sourire, t’sais ?
+Dialogue: 0,0:13:24.03,0:13:26.57,Default,,0000,0000,0000,,Alors j’voulais t’affronter\Nsérieusement.
+Dialogue: 0,0:13:28.74,0:13:32.20,Default,,0000,0000,0000,,C’est la première fois\Nque j’m’éclate autant.
+Dialogue: 0,0:13:33.70,0:13:35.50,Default,,0000,0000,0000,,J’te remercie, vraiment.
+Dialogue: 0,0:13:37.08,0:13:38.08,Default,,0000,0000,0000,,Moi aussi,
+Dialogue: 0,0:13:38.38,0:13:42.05,Default,,0000,0000,0000,,je m’étais jamais autant donnée\Ncontre quelqu’un !
+Dialogue: 0,0:13:42.67,0:13:45.17,Default,,0000,0000,0000,,Je m’entraînerai\Npour nager plus vite…
+Dialogue: 0,0:13:46.22,0:13:49.01,Default,,0000,0000,0000,,Alors je veux gagner,\Nla prochaine fois.
+Dialogue: 0,0:13:50.18,0:13:52.01,Default,,0000,0000,0000,,Je veux remporter l’épreuve !
+Dialogue: 0,0:13:54.68,0:13:55.93,Default,,0000,0000,0000,,Bien dit.
+Dialogue: 0,0:13:57.73,0:13:59.65,Default,,0000,0000,0000,,On décrochera la victoire !
+Dialogue: 0,0:14:14.16,0:14:16.79,Default,,0000,0000,0000,,Vous vous êtes bien battues,\Nles filles.
+Dialogue: 0,0:14:17.04,0:14:18.12,Default,,0000,0000,0000,,Tatsumori…
+Dialogue: 0,0:14:19.12,0:14:20.46,Default,,0000,0000,0000,,Ôkuma !
+Dialogue: 0,0:14:21.42,0:14:26.17,Default,,0000,0000,0000,,Entraînons-nous un maximum\Ntoutes les quatre, d’accord ?
+Dialogue: 0,0:14:26.42,0:14:27.72,Default,,0000,0000,0000,,Compte là-dessus.
+Dialogue: 0,0:14:32.55,0:14:34.18,Default,,0000,0000,0000,,Par rapport à ça…
+Dialogue: 0,0:14:37.31,0:14:39.27,Sign,SIGN,0000,0000,0000,,{\i1\b1}5E 3
+Dialogue: 0,0:14:38.35,0:14:41.27,Default,,0000,0000,0000,,Si j’ai pas la moyenne\Naux rattrapages,
+Dialogue: 0,0:14:41.44,0:14:44.02,Default,,0000,0000,0000,,j’pourrai ni m’entraîner\Nni aller au club.
+Dialogue: 0,0:14:45.98,0:14:47.82,Default,,0000,0000,0000,,La cheffe du club est stricte…
+Dialogue: 0,0:14:47.94,0:14:49.86,TiretsDefault,,0251,0000,0000,,– Tiens…\N– J’ai une idée !
+Dialogue: 0,0:14:50.03,0:14:52.07,Default,,0000,0000,0000,,Demandons à Tanigawa de nous aider.
+Dialogue: 0,0:14:52.20,0:14:54.49,Default,,0000,0000,0000,,Je dois aussi rattraper\Nune matière,
+Dialogue: 0,0:14:54.66,0:14:57.25,Default,,0000,0000,0000,,et Tanigawa\Nexplique vraiment bien.
+Dialogue: 0,0:14:58.37,0:15:00.67,Default,,0000,0000,0000,,Ah, c’est bon à savoir.
+Dialogue: 0,0:15:01.04,0:15:04.17,Default,,0000,0000,0000,,Tanigawa et Komichi\Nsont bonnes à l’école.
+Dialogue: 0,0:15:05.63,0:15:06.67,Default,,0000,0000,0000,,Mais bon,
+Dialogue: 0,0:15:06.80,0:15:09.42,TiretsDefault,,0178,0000,0000,,– j’ai déjà demandé à quelqu’un.\N– Hé !
+Dialogue: 0,0:15:09.59,0:15:12.59,Default,,0000,0000,0000,,Elle devait m’aider à réviser,\Nsi j’gagnais.
+Dialogue: 0,0:15:12.76,0:15:16.22,TiretsDefault,,0203,0000,0000,,– Tais-toi !\N– On s’l’était promis, hein ?
+Dialogue: 0,0:15:18.06,0:15:21.81,Default,,0000,0000,0000,,Alors j’me suis défoncée\Npour battre Komichi à la nage.
+Dialogue: 0,0:15:22.10,0:15:25.11,Default,,0000,0000,0000,,Elle a même tout écrit\Ndans un cahier, quoi…
+Dialogue: 0,0:15:25.27,0:15:27.57,Default,,0000,0000,0000,,Encore un manuel fait à la main !
+Dialogue: 0,0:15:27.73,0:15:29.57,Default,,0000,0000,0000,,Tu as une jolie écriture !
+Dialogue: 0,0:15:32.16,0:15:33.11,Default,,0000,0000,0000,,Eh bah…
+Dialogue: 0,0:15:33.66,0:15:34.82,Default,,0000,0000,0000,,Merci, t’assures.
+Dialogue: 0,0:15:37.41,0:15:40.37,Default,,0000,0000,0000,,C’est rien…\NÇa m’a permis de réviser.
+Dialogue: 0,0:15:40.54,0:15:44.88,Default,,0000,0000,0000,,Et puis, on peut pas s’entraîner\Nsans toi, non ?
+Dialogue: 0,0:15:45.71,0:15:48.71,Default,,0000,0000,0000,,Mais je te préviens,\Nt’as intérêt à réussir !
+Dialogue: 0,0:15:48.88,0:15:50.97,Default,,0000,0000,0000,,Ça sent les révisions spartiates…
+Dialogue: 0,0:15:51.13,0:15:54.09,Default,,0000,0000,0000,,Ai, aide-moi aussi à réviser !
+Dialogue: 0,0:15:54.26,0:15:56.72,Default,,0000,0000,0000,,Tu devais pas demander ça\Nà Tanigawa ?
+Dialogue: 0,0:15:57.10,0:15:59.98,Default,,0000,0000,0000,,Avec vous deux,\Nje cartonnerai deux fois plus.
+Dialogue: 0,0:16:00.14,0:16:01.39,Default,,0000,0000,0000,,Je t’aiderai aussi !
+Dialogue: 0,0:16:01.56,0:16:03.10,Default,,0000,0000,0000,,À quoi ça servira ?
+Dialogue: 0,0:16:21.71,0:16:23.79,Default,,0000,0000,0000,,Les journées sont plus longues.
+Dialogue: 0,0:16:25.25,0:16:26.92,Default,,0000,0000,0000,,On sent que l’été arrive.
+Dialogue: 0,0:16:44.06,0:16:45.06,Default,,0000,0000,0000,,J’ai terminé !
+Dialogue: 0,0:16:48.02,0:16:51.74,Default,,0000,0000,0000,,Elle est légère !\NEt elle est encore chaude.
+Dialogue: 0,0:16:53.40,0:16:55.70,Default,,0000,0000,0000,,Le chemisier est trop joli !
+Dialogue: 0,0:16:55.95,0:16:57.99,Default,,0000,0000,0000,,Le tissu blanc est en polyester,
+Dialogue: 0,0:16:58.32,0:17:00.79,Default,,0000,0000,0000,,et le bleu marine en laine d’été.
+Dialogue: 0,0:17:01.16,0:17:04.75,Default,,0000,0000,0000,,Ils sont plus fins que la normale\Net se froissent moins.
+Dialogue: 0,0:17:04.91,0:17:06.42,Default,,0000,0000,0000,,Ah bon ?
+Dialogue: 0,0:17:06.62,0:17:08.42,Default,,0000,0000,0000,,C’est une belle création,
+Dialogue: 0,0:17:08.92,0:17:12.59,Default,,0000,0000,0000,,ne la salis pas en t’excitant trop\Nparce que c’est l’été.
+Dialogue: 0,0:17:13.01,0:17:14.59,Default,,0000,0000,0000,,Je ferai attention !
+Dialogue: 0,0:17:14.76,0:17:16.80,Default,,0000,0000,0000,,Et essuie bien ta transpiration.
+Dialogue: 0,0:17:17.64,0:17:19.97,Default,,0000,0000,0000,,{\i1}Je sais que je demande l’impossible.{\i0}
+Dialogue: 0,0:17:27.48,0:17:29.48,Default,,0000,0000,0000,,Tu dois bientôt partir, non ?
+Dialogue: 0,0:17:34.99,0:17:39.57,Default,,0000,0000,0000,,Komichi ! Change-toi vite\Navant que papa n’aille au travail !
+Dialogue: 0,0:17:41.62,0:17:43.37,Default,,0000,0000,0000,,Oui !
+Dialogue: 0,0:17:56.01,0:17:57.09,Default,,0000,0000,0000,,Hein ?
+Dialogue: 0,0:18:21.57,0:18:24.66,Default,,0000,0000,0000,,Maman ! Tu peux venir une minute ?
+Dialogue: 0,0:18:24.83,0:18:26.00,Default,,0000,0000,0000,,J’arrive !
+Dialogue: 0,0:18:26.50,0:18:28.71,Default,,0000,0000,0000,,T’as hâte de la voir aussi, papa ?
+Dialogue: 0,0:18:28.92,0:18:30.63,Default,,0000,0000,0000,,Euh, oui…
+Dialogue: 0,0:18:30.79,0:18:35.67,Default,,0000,0000,0000,,Komichi voulait essayer sa marinière,\Nmais elle a dit qu’elle attendrait
+Dialogue: 0,0:18:35.84,0:18:37.92,Default,,0000,0000,0000,,pour te la montrer en premier.
+Dialogue: 0,0:18:38.30,0:18:39.97,Default,,0000,0000,0000,,Ah… ah bon ?
+Dialogue: 0,0:18:42.72,0:18:44.06,Default,,0000,0000,0000,,Et le crochet ?
+Dialogue: 0,0:18:47.31,0:18:49.48,Default,,0000,0000,0000,,L’oublie pas, vu comme tu t’agites…
+Dialogue: 0,0:18:52.77,0:18:55.61,Default,,0000,0000,0000,,Bah alors ? Tu es encore nerveuse ?
+Dialogue: 0,0:18:55.86,0:18:57.36,Default,,0000,0000,0000,,Tu devrais être habituée.
+Dialogue: 0,0:18:57.53,0:18:59.82,Default,,0000,0000,0000,,Cette marinière est bien plus jolie.
+Dialogue: 0,0:18:59.95,0:19:02.95,Default,,0000,0000,0000,,Elle a un décolleté en V\Net un ruban rouge.
+Dialogue: 0,0:19:03.12,0:19:05.70,Default,,0000,0000,0000,,C’est limite du gâchis\Nque je la porte…
+Dialogue: 0,0:19:06.29,0:19:08.37,Default,,0000,0000,0000,,Dépêche-toi d’y aller.
+Dialogue: 0,0:19:13.96,0:19:15.71,Default,,0000,0000,0000,,Merci, maman.
+Dialogue: 0,0:19:18.38,0:19:19.92,Default,,0000,0000,0000,,Je t’en prie.
+Dialogue: 0,0:19:25.22,0:19:26.47,Default,,0000,0000,0000,,Papa…
+Dialogue: 0,0:19:34.65,0:19:35.73,Default,,0000,0000,0000,,Tu aimes ?
+Dialogue: 0,0:19:36.23,0:19:38.03,Default,,0000,0000,0000,,Oui, ça te va bien.
+Dialogue: 0,0:19:40.61,0:19:43.07,Default,,0000,0000,0000,,Komichi ! Saute en tournant !
+Dialogue: 0,0:19:43.24,0:19:44.82,Default,,0000,0000,0000,,Tu sais, comme Miki !
+Dialogue: 0,0:19:44.99,0:19:46.33,Default,,0000,0000,0000,,Regarde bien…
+Dialogue: 0,0:21:15.54,0:21:20.50,Default,,0000,0000,0000,,Supervision du projet : Nina Trommer\NRepérage : Stephanie Leborgne
+Dialogue: 0,0:21:21.21,0:21:25.80,Default,,0000,0000,0000,,Traduction : Benjamin Moro\NRelecture : Marion Sals
+Dialogue: 0,0:21:26.38,0:21:30.01,Default,,0000,0000,0000,,Publication : Jelizaveta Stolarova\NWAKANIM
+Dialogue: 0,0:21:33.02,0:21:36.48,Default,,0000,0000,0000,,J’oubliais, j’ai acheté quelque chose\Npour fêter ça.
+Dialogue: 0,0:21:36.73,0:21:38.69,TiretsDefault,,0253,0000,0000,,– Ah bon, quoi ?\N– Un gâteau.
+Dialogue: 0,0:21:40.06,0:21:43.32,Default,,0000,0000,0000,,Celui que vous aviez aimé,\Nla dernière fois…
+Dialogue: 0,0:22:02.96,0:22:06.76,Default,,0000,0000,0000,,Maman !\NLe bain est pas encore prêt ?
+Dialogue: 0,0:22:06.92,0:22:09.97,Default,,0000,0000,0000,,Ah bon ?\NIl devrait être bientôt rempli.
+Dialogue: 0,0:22:10.14,0:22:12.26,Default,,0000,0000,0000,,Sors déjà les serviettes !
+Dialogue: 0,0:22:12.43,0:22:13.51,Default,,0000,0000,0000,,D’accord !
+Dialogue: 0,0:22:32.74,0:22:35.41,Default,,0000,0000,0000,,Kao ! Viens prendre ton bain…
+Dialogue: 0,0:22:38.37,0:22:40.00,Default,,0000,0000,0000,,Komichi…
+Dialogue: 0,0:22:42.04,0:22:42.92,Default,,0000,0000,0000,,Moi,
+Dialogue: 0,0:22:43.38,0:22:46.63,Default,,0000,0000,0000,,je suis pas aussi jolie que toi…
+Dialogue: 0,0:22:52.14,0:22:56.97,Default,,0000,0000,0000,,Cette marinière t’ira aussi\Nquand tu seras plus grande.
+Dialogue: 0,0:22:58.98,0:23:00.94,TiretsDefault,,0268,0000,0000,,– Vraiment ?\N– Oui.
+Dialogue: 0,0:23:01.81,0:23:03.27,Default,,0000,0000,0000,,Alors en attendant…
+Dialogue: 0,0:23:13.74,0:23:15.54,Default,,0000,0000,0000,,Et voilà, j’ai terminé.
+Dialogue: 0,0:23:17.41,0:23:18.41,Default,,0000,0000,0000,,Regarde.
+Dialogue: 0,0:23:25.96,0:23:27.30,Default,,0000,0000,0000,,Komichi !
+Dialogue: 0,0:23:28.38,0:23:30.47,Default,,0000,0000,0000,,Je suis jolie ?
+Dialogue: 0,0:23:30.72,0:23:32.97,Default,,0000,0000,0000,,Oui, même très belle !
+Dialogue: 0,0:23:34.26,0:23:37.14,Default,,0000,0000,0000,,Komichi, Kao !\NPrenez vite votre bain !
+Dialogue: 0,0:23:37.31,0:23:38.98,Default,,0000,0000,0000,,Oui, maman !

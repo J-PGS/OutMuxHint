@@ -1,0 +1,174 @@
+﻿[Script Info]
+Title: Français (France)
+Original Script: cr_fr  [http://www.crunchyroll.com/user/cr_fr]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,1,2,0002,0002,0025,1
+Style: Italique,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,1,1,2,0002,0002,0025,1
+Style: TiretsDefault,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,1,1,0020,0002,0025,1
+Style: TiretsItalique,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,1,1,1,0020,0002,0025,1
+Style: Sign,Arial,18,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,0,8,0002,0002,0025,1
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:09.94,0:00:13.07,Sign,SIGN,0000,0000,0000,,{\i1\b1}{\an8}FESTIVAL SPORTIF DE L’ÉCOLE RÔBAI
+Dialogue: 0,0:00:29.50,0:00:31.17,Default,,0000,0000,0000,,Allez, dépêchez-vous !
+Dialogue: 0,0:00:38.10,0:00:39.93,Default,,0000,0000,0000,,{\i1}Voici le premier groupe !{\i0}
+Dialogue: 0,0:00:40.10,0:00:43.43,Default,,0000,0000,0000,,{\i1}Accueillez\Nle club de musique populaire.{\i0}
+Dialogue: 0,0:02:27.41,0:02:30.50,Sign,SIGN,0000,0000,0000,,{\i1\b1}{\an8}GRÂCE AUX AUTRES
+Dialogue: 0,0:02:30.50,0:02:34.00,Sign,SIGN,0000,0000,0000,,{\i1\b1}{\an8}LA CLASSE GAGNANTE DES 5E EST…
+Dialogue: 0,0:02:37.17,0:02:39.01,Default,,0000,0000,0000,,Merci !
+Dialogue: 0,0:02:42.64,0:02:44.01,Default,,0000,0000,0000,,{\i1}Nous revoilà.{\i0}
+Dialogue: 0,0:02:44.18,0:02:47.35,Default,,0000,0000,0000,,{\i1}Vous profitez bien\Nde la soirée de clôture ?{\i0}
+Dialogue: 0,0:02:47.52,0:02:49.23,Default,,0000,0000,0000,,Ouais !
+Dialogue: 0,0:02:49.48,0:02:52.86,Default,,0000,0000,0000,,{\i1}Parfait !\NCe groupe a chauffé la salle.{\i0}
+Dialogue: 0,0:02:54.82,0:02:58.57,Default,,0000,0000,0000,,{\i1}Au tour de la danse très attendue\Ndu club de théâtre !{\i0}
+Dialogue: 0,0:03:04.91,0:03:06.33,Default,,0000,0000,0000,,Usagihara…
+Dialogue: 0,0:03:08.45,0:03:11.92,Default,,0000,0000,0000,,{\i1}Cette année,\Nil n’y a qu’une nouvelle membre !{\i0}
+Dialogue: 0,0:03:12.33,0:03:16.13,Default,,0000,0000,0000,,{\i1}Et il s’agit de la fille\Ndont tout le monde parle.{\i0}
+Dialogue: 0,0:03:17.42,0:03:18.67,Default,,0000,0000,0000,,Tu sues pas trop ?
+Dialogue: 0,0:03:18.88,0:03:19.67,Default,,0000,0000,0000,,Non.
+Dialogue: 0,0:03:20.30,0:03:23.34,Default,,0000,0000,0000,,{\i1}Quand vous croisez son regard,\Nelle vous salue…{\i0}
+Dialogue: 0,0:03:23.51,0:03:26.01,Default,,0000,0000,0000,,{\i1}… et elle est connue\Npour sa marinière.{\i0}
+Dialogue: 0,0:03:26.76,0:03:30.06,Default,,0000,0000,0000,,Le spectacle commence\Ndès qu’elles t’appellent.
+Dialogue: 0,0:03:30.23,0:03:31.10,Default,,0000,0000,0000,,Oui.
+Dialogue: 0,0:03:33.19,0:03:34.40,Default,,0000,0000,0000,,T’es nerveuse ?
+Dialogue: 0,0:03:35.06,0:03:36.11,Default,,0000,0000,0000,,Un petit peu.
+Dialogue: 0,0:03:37.27,0:03:39.86,Default,,0000,0000,0000,,T’inquiète pas, tu vas assurer.
+Dialogue: 0,0:03:40.07,0:03:42.03,Default,,0000,0000,0000,,Je te soutiendrai de loin.
+Dialogue: 0,0:03:43.07,0:03:43.99,Default,,0000,0000,0000,,Merci !
+Dialogue: 0,0:03:44.24,0:03:46.20,Default,,0000,0000,0000,,{\i1}C’est bon, vous avez trouvé ?{\i0}
+Dialogue: 0,0:03:46.37,0:03:48.87,Default,,0000,0000,0000,,{\i1}Que la danse commence, alors !{\i0}
+Dialogue: 0,0:04:07.89,0:04:09.89,Default,,0000,0000,0000,,{\i1}Il n’y a pas un seul bruit.{\i0}
+Dialogue: 0,0:04:11.98,0:04:13.89,Default,,0000,0000,0000,,{\i1}On se croirait sous l’eau…{\i0}
+Dialogue: 0,0:04:36.54,0:04:38.42,Default,,0000,0000,0000,,Encore merci !
+Dialogue: 0,0:04:40.67,0:04:43.84,Default,,0000,0000,0000,,L’idée de l’accompagnement\Nl’a bien emballée !
+Dialogue: 0,0:04:44.01,0:04:47.39,Default,,0000,0000,0000,,J’étais surprise\Nqu’elle me demande de jouer sur scène.
+Dialogue: 0,0:04:48.60,0:04:52.98,Default,,0000,0000,0000,,Merci, d’ailleurs…\NTu m’as même prêté le CD.
+Dialogue: 0,0:04:54.10,0:04:56.90,Default,,0000,0000,0000,,C’est rien !\NEt ça fera plaisir à Akebi.
+Dialogue: 0,0:05:03.61,0:05:06.78,Default,,0000,0000,0000,,Ta danse sera accompagnée au piano,\Nc’est ça ?
+Dialogue: 0,0:05:06.95,0:05:10.16,Default,,0000,0000,0000,,Oui !\ND’ailleurs, j’adore ce passage.
+Dialogue: 0,0:05:10.33,0:05:14.16,Default,,0000,0000,0000,,Et si quelqu’un jouait du piano\Nen direct, le jour J ?
+Dialogue: 0,0:05:15.87,0:05:18.79,Default,,0000,0000,0000,,Ce serait trop beau pour être vrai.
+Dialogue: 0,0:05:20.04,0:05:23.01,Default,,0000,0000,0000,,{\i1}Oui… vraiment trop beau.{\i0}
+Dialogue: 0,0:05:43.69,0:05:44.99,Default,,0000,0000,0000,,Ce geste…
+Dialogue: 0,0:05:48.78,0:05:50.87,Default,,0000,0000,0000,,Courage !
+Dialogue: 0,0:06:03.59,0:06:06.13,Default,,0000,0000,0000,,{\i1}C’est l’même\Nque pour nous encourager !{\i0}
+Dialogue: 0,0:06:06.76,0:06:09.59,Default,,0000,0000,0000,,{\i1}Akebi courait toujours\Ndans tous les sens.{\i0}
+Dialogue: 0,0:06:10.34,0:06:12.55,Default,,0000,0000,0000,,{\i1}Je l’observais de derrière,{\i0}
+Dialogue: 0,0:06:13.01,0:06:14.14,Default,,0000,0000,0000,,{\i1}mais maintenant…{\i0}
+Dialogue: 0,0:06:14.35,0:06:17.56,Default,,0000,0000,0000,,{\i1}Ah là là…\NJe suis bête, quand je m’y mets.{\i0}
+Dialogue: 0,0:06:18.31,0:06:21.56,Default,,0000,0000,0000,,{\i1}Je ne peux pas voir Komichi\Nen lui tournant le dos.{\i0}
+Dialogue: 0,0:06:25.40,0:06:26.57,Default,,0000,0000,0000,,{\i1}Tant pis.{\i0}
+Dialogue: 0,0:06:27.36,0:06:28.90,Default,,0000,0000,0000,,{\i1}Je n’ai qu’à me rappeler.{\i0}
+Dialogue: 0,0:06:39.54,0:06:40.33,Default,,0000,0000,0000,,{\i1}Après tout,{\i0}
+Dialogue: 0,0:06:41.42,0:06:43.13,Default,,0000,0000,0000,,{\i1}depuis ce matin…{\i0}
+Dialogue: 0,0:06:57.68,0:07:00.02,Default,,0000,0000,0000,,Regarde, j’y arrive aussi.
+Dialogue: 0,0:07:00.69,0:07:03.11,Default,,0000,0000,0000,,Tu t’es beaucoup entraînée\Navec elle.
+Dialogue: 0,0:07:03.94,0:07:06.86,Default,,0000,0000,0000,,{\i1}Akebi nous a encouragées.{\i0}
+Dialogue: 0,0:07:31.13,0:07:33.84,Default,,0000,0000,0000,,Ce coup était impossible\Nà rattraper !
+Dialogue: 0,0:07:55.87,0:07:59.12,Default,,0000,0000,0000,,Hotaru !\NPleure pas, t’as bien joué !
+Dialogue: 0,0:08:01.00,0:08:02.71,Default,,0000,0000,0000,,{\i1}Même après ce match…{\i0}
+Dialogue: 0,0:08:40.41,0:08:41.37,Default,,0000,0000,0000,,{\i1}À chaque instant…{\i0}
+Dialogue: 0,0:08:41.54,0:08:42.62,Default,,0000,0000,0000,,{\i1}… Akebi était là…{\i0}
+Dialogue: 0,0:08:43.79,0:08:45.42,Default,,0000,0000,0000,,{\i1}… pour nous encourager.{\i0}
+Dialogue: 0,0:08:49.92,0:08:52.92,Default,,0000,0000,0000,,{\i1}C’est à notre tour\Nde lui rendre la pareille !{\i0}
+Dialogue: 0,0:09:16.41,0:09:17.91,Sign,SIGN,0000,0000,0000,,{\i1\b1}{\an8}LOVE AKEBI
+Dialogue: 0,0:09:23.12,0:09:25.41,Default,,0000,0000,0000,,{\i1}J’entends leurs encouragements.{\i0}
+Dialogue: 0,0:09:27.79,0:09:30.79,Default,,0000,0000,0000,,{\i1}Au 3e couloir de la finale,\Nla 5e 3.{\i0}
+Dialogue: 0,0:09:42.26,0:09:43.77,Default,,0000,0000,0000,,Allez !
+Dialogue: 0,0:09:44.73,0:09:47.02,TiretsDefault,,0278,0000,0000,,– Ôkuma !\N– Fonce !
+Dialogue: 0,0:09:56.11,0:09:58.95,Default,,0000,0000,0000,,Donne tout ce que tu as,\NTatsumori !
+Dialogue: 0,0:09:59.07,0:09:59.95,Default,,0000,0000,0000,,Komichi.
+Dialogue: 0,0:10:00.28,0:10:02.37,Default,,0000,0000,0000,,C’pas grave si tu traînes.
+Dialogue: 0,0:10:03.41,0:10:05.45,Default,,0000,0000,0000,,Merci de t’inquiéter pour moi.
+Dialogue: 0,0:10:06.25,0:10:09.42,Default,,0000,0000,0000,,Bon, il est temps\Nde faire un peu d’exercice !
+Dialogue: 0,0:10:09.67,0:10:10.67,Default,,0000,0000,0000,,Ouais.
+Dialogue: 0,0:10:22.43,0:10:25.35,TiretsDefault,,0256,0000,0000,,– Komichi !\N– Vas-y, Akebi !
+Dialogue: 0,0:10:25.52,0:10:27.48,TiretsDefault,,0274,0000,0000,,– Akebi !\N– Courage !
+Dialogue: 0,0:10:41.24,0:10:44.08,Default,,0000,0000,0000,,À toi de jouer, Riri !
+Dialogue: 0,0:10:49.50,0:10:51.21,TiretsDefault,,0285,0000,0000,,– Allez !\N– Vas-y !
+Dialogue: 0,0:10:57.71,0:11:00.05,Default,,0000,0000,0000,,Fonce !
+Dialogue: 0,0:11:09.14,0:11:11.90,Default,,0000,0000,0000,,{\i1}La 5e 3 remporte\Nle relais de natation !{\i0}
+Dialogue: 0,0:11:20.40,0:11:22.53,Default,,0000,0000,0000,,{\i1}J’ai pu réaliser cet exploit…{\i0}
+Dialogue: 0,0:11:24.37,0:11:26.33,Default,,0000,0000,0000,,{\i1}uniquement grâce aux autres !{\i0}
+Dialogue: 0,0:11:30.58,0:11:33.50,Default,,0000,0000,0000,,{\i1}Komichi me surprend\Ndepuis notre rencontre.{\i0}
+Dialogue: 0,0:11:34.63,0:11:37.71,Default,,0000,0000,0000,,{\i1}Et ce sera sans doute\Ntoujours le cas.{\i0}
+Dialogue: 0,0:11:39.88,0:11:42.34,Default,,0000,0000,0000,,La deuxième partie\Nse joue au violon.
+Dialogue: 0,0:12:24.47,0:12:25.51,Default,,0000,0000,0000,,{\i1}Honnêtement,{\i0}
+Dialogue: 0,0:12:25.93,0:12:29.35,Default,,0000,0000,0000,,{\i1}si j’ai repris du plaisir\Nà jouer des instruments…{\i0}
+Dialogue: 0,0:12:33.81,0:12:35.69,Default,,0000,0000,0000,,{\i1}c’est grâce à toi, Komichi.{\i0}
+Dialogue: 0,0:13:03.22,0:13:06.43,Default,,0000,0000,0000,,La dernière épreuve se termine !\NDépêchez-vous !
+Dialogue: 0,0:13:06.68,0:13:07.84,Default,,0000,0000,0000,,C’est la finale !
+Dialogue: 0,0:13:13.43,0:13:15.94,Sign,SIGN,0000,0000,0000,,{\i1\b1}{\an8}5E 3 / 5E 1
+Dialogue: 0,0:13:15.94,0:13:18.27,Default,,0000,0000,0000,,Ouah… Ça m’stresse, tout ça.
+Dialogue: 0,0:13:20.19,0:13:21.94,Default,,0000,0000,0000,,Vas-y, Riri !
+Dialogue: 0,0:13:26.11,0:13:27.11,Default,,0000,0000,0000,,Attrape-la !
+Dialogue: 0,0:13:32.79,0:13:36.04,Default,,0000,0000,0000,,{\i1}On a perdu notre avance…\NC’est ma faute.{\i0}
+Dialogue: 0,0:13:36.67,0:13:37.50,Default,,0000,0000,0000,,Désolée.
+Dialogue: 0,0:13:41.00,0:13:42.30,Default,,0000,0000,0000,,Joli plongeon.
+Dialogue: 0,0:13:42.55,0:13:45.09,TiretsDefault,,0262,0000,0000,,– Komichi !\N– Lâche rien !
+Dialogue: 0,0:13:45.30,0:13:47.05,Default,,0000,0000,0000,,Démenez-vous comme Komi !
+Dialogue: 0,0:14:25.84,0:14:27.84,Default,,0000,0000,0000,,Il nous faut le dernier set !
+Dialogue: 0,0:14:28.01,0:14:29.51,Default,,0000,0000,0000,,La victoire est à nous !
+Dialogue: 0,0:14:49.24,0:14:50.82,Default,,0000,0000,0000,,{\i1}Je dois faire la passe !{\i0}
+Dialogue: 0,0:15:03.71,0:15:05.88,Default,,0000,0000,0000,,Minakami l’a renvoyée, mais…
+Dialogue: 0,0:15:09.09,0:15:10.18,Default,,0000,0000,0000,,Elle l’a eue !
+Dialogue: 0,0:15:11.13,0:15:12.51,Default,,0000,0000,0000,,C’est pas terminé !
+Dialogue: 0,0:15:24.94,0:15:26.73,Default,,0000,0000,0000,,Komi !
+Dialogue: 0,0:15:30.82,0:15:32.91,Default,,0000,0000,0000,,{\i1}Je ne me vois pas échouer.{\i0}
+Dialogue: 0,0:15:40.00,0:15:40.87,Default,,0000,0000,0000,,{\i1}Après tout…{\i0}
+Dialogue: 0,0:15:42.50,0:15:44.54,Default,,0000,0000,0000,,{\i1}j’ai réalisé une belle prouesse.{\i0}
+Dialogue: 0,0:15:54.39,0:15:56.26,Default,,0000,0000,0000,,{\i1}Une si belle prouesse !{\i0}
+Dialogue: 0,0:16:47.15,0:16:49.02,TiretsDefault,,0284,0000,0000,,– Akebi !\N– Akebi !
+Dialogue: 0,0:16:49.27,0:16:51.11,Default,,0000,0000,0000,,Kizaki !
+Dialogue: 0,0:16:52.69,0:16:55.20,TiretsDefault,,0264,0000,0000,,– Akebi !\N– J’ai adoré !
+Dialogue: 0,0:16:55.36,0:16:57.62,Default,,0000,0000,0000,,C’était super, bravo !
+Dialogue: 0,0:17:12.63,0:17:13.63,Default,,0000,0000,0000,,Erika.
+Dialogue: 0,0:17:14.13,0:17:15.18,Default,,0000,0000,0000,,Merci.
+Dialogue: 0,0:17:30.90,0:17:36.99,Sign,SIGN,0000,0000,0000,,{\i1\b1}{\an8}LA 5E 3 A REMPORTÉ LE TOURNOI DES 5E !
+Dialogue: 0,0:17:56.01,0:18:02.01,Sign,SIGN,0000,0000,0000,,{\i1\b1}{\an8}LUNDI\NRÉPÉTER / ARRÊTER
+Dialogue: 0,0:18:15.03,0:18:17.53,Sign,SIGN,0000,0000,0000,,{\i1\b1}{\an8}PROGRAMME\NDE LA SOIRÉE DE CLÔTURE DU FESTIVAL
+Dialogue: 0,0:18:24.24,0:18:26.33,Default,,0000,0000,0000,,T’es enfin réveillée ?
+Dialogue: 0,0:18:30.54,0:18:32.50,Default,,0000,0000,0000,,Mince, il est quelle heure ?
+Dialogue: 0,0:18:33.75,0:18:36.46,Default,,0000,0000,0000,,Aujourd’hui,\Nje me suis levée avant toi !
+Dialogue: 0,0:18:36.63,0:18:38.88,Default,,0000,0000,0000,,Le petit déjeuner est servi !
+Dialogue: 0,0:18:39.38,0:18:41.76,Default,,0000,0000,0000,,Je descends dans une minute !
+Dialogue: 0,0:18:51.73,0:18:53.11,Default,,0000,0000,0000,,C’est étrange.
+Dialogue: 0,0:18:53.52,0:18:55.53,Default,,0000,0000,0000,,On aurait presque dit un rêve.
+Dialogue: 0,0:19:48.33,0:19:50.16,Default,,0000,0000,0000,,Je te dépose sur le chemin ?
+Dialogue: 0,0:19:50.37,0:19:53.25,Default,,0000,0000,0000,,Pas besoin !\NJ’y vais toujours en courant.
+Dialogue: 0,0:19:53.42,0:19:55.54,TiretsDefault,,0227,0000,0000,,– Tu n’as rien oublié ?\N– Non.
+Dialogue: 0,0:19:56.09,0:19:57.13,Default,,0000,0000,0000,,Komichi !
+Dialogue: 0,0:19:59.42,0:20:01.30,Default,,0000,0000,0000,,Ton col est mal mis.
+Dialogue: 0,0:20:03.18,0:20:04.34,Default,,0000,0000,0000,,Merci.
+Dialogue: 0,0:20:08.89,0:20:10.02,Default,,0000,0000,0000,,À ce soir !
+Dialogue: 0,0:20:20.82,0:20:23.49,Default,,0000,0000,0000,,Hé oh ! Komichi !
+Dialogue: 0,0:20:25.78,0:20:29.04,Default,,0000,0000,0000,,Bonjour, M. Taira !
+Dialogue: 0,0:20:53.10,0:20:56.48,Default,,0000,0000,0000,,Une, deux, trois, quatre…
+Dialogue: 0,0:20:56.60,0:20:59.44,TiretsDefault,,0271,0000,0000,,– J’envoie !\N– OK !
+Dialogue: 0,0:20:59.61,0:21:02.61,Sign,SIGN,0000,0000,0000,,{\i1\b1}{\an8}CLUB DE NATATION, DE TENNIS,\NDE TENNIS DE TABLE…
+Dialogue: 0,0:21:23.13,0:21:24.26,Default,,0000,0000,0000,,Je t’attendais.
+Dialogue: 0,0:21:29.64,0:21:33.64,Sign,SIGN,0000,0000,0000,,{\i1\b1}{\an8}LA 5E 3 A REMPORTÉ LE TOURNOI DES 5E !
+Dialogue: 0,0:21:44.99,0:21:47.03,Default,,0000,0000,0000,,On s’est bien amusées.
+Dialogue: 0,0:21:47.24,0:21:48.32,Default,,0000,0000,0000,,Oui.
+Dialogue: 0,0:21:48.49,0:21:50.16,Default,,0000,0000,0000,,J’espère qu’on remettra ça.
+Dialogue: 0,0:21:50.78,0:21:53.45,Default,,0000,0000,0000,,Bien sûr, et plus d’une fois.
+Dialogue: 0,0:22:06.88,0:22:07.88,Default,,0000,0000,0000,,Salut !
+Dialogue: 0,0:23:22.67,0:23:25.75,Sign,SIGN,0000,0000,0000,,{\i1\b1}{\an8}LA 5E 3 A REMPORTÉ LE TOURNOI DES 5E !
+Dialogue: 0,0:23:25.92,0:23:30.26,Default,,0000,0000,0000,,Supervision du projet : Nina Trommer\NRepérage : Stephanie Leborgne
+Dialogue: 0,0:23:30.47,0:23:34.05,Default,,0000,0000,0000,,Traduction : Benjamin Moro\NRelecture : Marion Sals
+Dialogue: 0,0:23:34.26,0:23:37.27,Default,,0000,0000,0000,,Publication : Jelizaveta Stolarova\NWAKANIM

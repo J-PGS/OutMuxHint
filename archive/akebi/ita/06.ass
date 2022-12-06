@@ -1,0 +1,390 @@
+﻿[Script Info]
+Title: Italiano
+Original Script: cr_it  [http://www.crunchyroll.com/user/cr_it]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,0010,0010,0010,1
+Style: main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0015,0
+Style: top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0015,0
+Style: italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0015,0
+Style: italicstop,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0015,0
+Style: flashback,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H0067482E,&H0067482E,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0015,1
+Style: flashback italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H0067482E,&H0067482E,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0015,1
+Style: flashbacktop,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H0067482E,&H0067482E,0,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0015,0
+Style: flashbackitalicstop,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H0067482E,&H0067482E,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0015,0
+Style: sign_3520_34_Episode_One__The,Georgia,11,&H32000000,&H000000FF,&HC8FFFFFF,&HC8FFFFFF,0,0,0,0,100,100,0,0,1,1,1,8,0030,0030,0020,1
+Style: sign_12822_113_Mangetsu_Dormito,Times New Roman,9,&H00787878,&H000000FF,&H00F2F6F7,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,2,0030,0030,0020,1
+Style: sign_2013_19_Self_introductio,Trebuchet MS,40,&H00DDD9CE,&H000000FF,&H00E8EAEA,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,2,0030,0030,0020,1
+Style: sign_8133_69_Class_1_3,Comic Sans MS,11,&H00042B45,&H000000FF,&H0084B6D3,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,2,0030,0030,0020,1
+Style: sign_9021_82_Green_Tea,Times New Roman,8,&H00726A6F,&H000000FF,&H00F0ECEF,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,0030,0030,0020,1
+Style: sign_9021_87_Warm,Trebuchet MS,18,&H00EAE8F6,&H000000FF,&H00A997CD,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,2,0030,0030,0020,1
+Style: sign_10882_110_Red_Bean_Soup,Times New Roman,15,&H000B0C22,&H000000FF,&H00C9DBD6,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,8,0030,0030,0020,1
+Style: sign_11882_142_Akebi_Komichi_is,Comic Sans MS,15,&H006B6F6F,&H000000FF,&H006D66AB,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,3,0030,0030,0020,1
+Style: sign_22766_273_Akebi_Komichi,Trebuchet MS,15,&H00ABCB8C,&H000000FF,&H00CEDDDF,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,8,0030,0030,0020,1
+Style: sign_4166_34__Mon__,Comic Sans MS,40,&H00CCC5C2,&H000000FF,&H005C4F46,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,8,0030,0030,0020,1
+Style: sign_4304_36_Monday,Georgia,11,&H004F3E33,&H000000FF,&H00F1DACC,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,8,0030,0030,0020,1
+Style: sign_4409_45_Wednesday,Arial,21,&H00FFFFFF,&H000000FF,&H00847455,&H00847455,-1,0,0,0,100,100,0,0,1,1,0,8,0030,0030,0020,1
+Style: sign_4532_49__Wednesday__,Comic Sans MS,40,&H00939592,&H000000FF,&H00EFEFEF,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0030,0030,0020,1
+Style: sign_6588_80_School_Library,Times New Roman,40,&H003C6790,&H000000FF,&H0084B6D3,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,8,0030,0030,0020,1
+Style: sign_6624_81_Introduction_to_,Times New Roman,21,&H001A3F51,&H000000FF,&H00C3D3E0,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,8,0030,0030,0020,1
+Style: sign_14930_162_Freshwater_Fish_,Verdana,18,&H006B6E72,&H000000FF,&H00EAEBF0,&H00000000,0,0,0,0,100,100,0,0,1,3,0,8,0030,0030,0020,1
+Style: sign_20425_209_Video,Arial,10,&H00E1F2E5,&H000000FF,&H002A3D36,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,8,0030,0030,0020,1
+Style: Overlap,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H006C6C6C,&H006C6C6C,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:02.92,0:00:05.35,italics,Komichi,0000,0000,0000,,Kizaki ha delle belle ciglia.
+Dialogue: 0,0:00:09.98,0:00:11.80,italics,Komichi,0000,0000,0000,,E sa pure suonare degli strumenti musicali.
+Dialogue: 0,0:00:19.15,0:00:21.46,main,Touko,0000,0000,0000,,Kizaki, sei stata fantastica!
+Dialogue: 0,0:00:21.46,0:00:23.96,main,Erika,0000,0000,0000,,Lo suono da una vita. Voglio ben vedere.
+Dialogue: 0,0:00:23.96,0:00:24.75,italics,Komichi,0000,0000,0000,,È proprio stupenda...
+Dialogue: 0,0:00:25.23,0:00:27.01,italics,Komichi,0000,0000,0000,,la mia amica.
+Dialogue: 0,0:00:28.68,0:00:30.43,main,Erika,0000,0000,0000,,Senti, Akebi...
+Dialogue: 0,0:00:31.25,0:00:35.00,main,Erika,0000,0000,0000,,Ultimamente non fai che guardarmi.
+Dialogue: 0,0:02:05.52,0:02:10.98,sign_3520_34_Episode_One__The,Title,0000,0000,0000,,{\fad(482,1)\pos(160,68)\fs14}Episodio Sei \NDomani non c'è scuola, vero?
+Dialogue: 0,0:02:07.97,0:02:10.32,flashback italics,TV Voice,0000,0000,0000,,E ora le previsioni del tempo su tutta la nazione.
+Dialogue: 0,0:02:10.99,0:02:13.83,flashbackitalicstop,TV Voice,0000,0000,0000,,Le piogge che hanno colpito\Nle regioni del Kinki e del Kanto
+Dialogue: 0,0:02:13.83,0:02:15.77,flashbackitalicstop,TV Voice,0000,0000,0000,,si attenueranno da domani mattina,
+Dialogue: 0,0:02:15.77,0:02:18.28,flashbackitalicstop,TV Voice,0000,0000,0000,,lasciando spazio a cielo sereno \Nsulla maggior parte del Paese.
+Dialogue: 0,0:02:18.28,0:02:21.10,flashbackitalicstop,TV Voice,0000,0000,0000,,Tuttavia, un'area di pressione bassa \Nnel nord dell'Hokkaido
+Dialogue: 0,0:02:20.94,0:02:22.38,flashback,Komichi,0000,0000,0000,,Sì! Ho deciso!
+Dialogue: 0,0:02:21.10,0:02:24.90,flashbackitalicstop,TV Voice,0000,0000,0000,,potrebbe portare tempo meno \Nfavorevole per un breve periodo.
+Dialogue: 0,0:02:22.38,0:02:25.49,flashback,Komichi,0000,0000,0000,,Per il prossimo fine settimana \Ninviterò a casa nostra la mia amica!
+Dialogue: 0,0:02:25.49,0:02:28.04,flashbackitalicstop,TV Voice,0000,0000,0000,,E adesso le temperature...
+Dialogue: 0,0:02:26.21,0:02:28.05,flashback,Kao,0000,0000,0000,,Una sola? Una sola?
+Dialogue: 0,0:02:28.05,0:02:31.05,flashback,Komichi,0000,0000,0000,,Certo! Non ho ancora il coraggio \Nper invitarne più di una!
+Dialogue: 0,0:02:28.50,0:02:31.05,flashbackitalicstop,TV Voice,0000,0000,0000,,Nel Giappone occidentale \Nsaranno di 2 o 3 gradi più alte di oggi.
+Dialogue: 0,0:02:31.05,0:02:35.71,flashback,Yuwa,0000,0000,0000,,Erika, hai detto? La ragazza che ti è parsa interessante \Nappena l'hai vista?
+Dialogue: 0,0:02:31.46,0:02:35.82,flashbackitalicstop,TV Voice,0000,0000,0000,,In particolare a Kagoshima e a Kumamoto \Npotrebbero esserci giornate molto calde.
+Dialogue: 0,0:02:35.71,0:02:38.70,flashback,Komichi,0000,0000,0000,,Sì! Devo pulire la mia stanza!
+Dialogue: 0,0:02:35.82,0:02:39.70,flashbackitalicstop,TV Voice,0000,0000,0000,,Anche nel Giappone orientale dovrebbe \Nfare caldo abbastanza per fare il bucato.
+Dialogue: 0,0:02:38.70,0:02:40.31,flashback,Kao,0000,0000,0000,,Ti do una mano!
+Dialogue: 0,0:02:40.31,0:02:43.13,flashbackitalicstop,TV Voice,0000,0000,0000,,Per concludere, le previsioni\N per la settimana da Nagoya a Naha.
+Dialogue: 0,0:02:40.31,0:02:43.13,flashback,Yuwa,0000,0000,0000,,Ehi, la cena è pronta!
+Dialogue: 0,0:02:43.13,0:02:44.39,flashback,Komichi,0000,0000,0000,,Mangiamo dopo!
+Dialogue: 0,0:02:43.13,0:02:46.48,flashbackitalicstop,TV Voice,0000,0000,0000,,A Okinawa clima sfavorevole \Nper tutto il fine settimana.
+Dialogue: 0,0:02:44.39,0:02:45.81,flashback,Kao,0000,0000,0000,,Mangiamo dopo!
+Dialogue: 0,0:02:49.07,0:02:53.02,italics,Komichi,0000,0000,0000,,Una settimana fa ero sicurissima di me.
+Dialogue: 0,0:02:53.73,0:02:55.23,sign_4166_34__Mon__,Text,0000,0000,0000,,{\pos(357,240)\fsp6\c&HFFFFFF&\fs27}(Lun.)
+Dialogue: 0,0:02:55.24,0:02:58.52,italics,Komichi,0000,0000,0000,,È la prima volta che invito una ragazza \Ndella mia stessa età a casa nostra.
+Dialogue: 0,0:02:59.49,0:03:00.74,sign_4304_36_Monday,Text,0000,0000,0000,,{\fax-0.73\pos(116,18)\frz354\blur1}Lunedì
+Dialogue: 0,0:02:59.49,0:03:00.74,sign_4304_36_Monday,Text,0000,0000,0000,,{\fax0.1\frx50\fry356\frz351.6\pos(352,47)}Martedì
+Dialogue: 0,0:02:59.49,0:03:00.74,sign_4304_36_Monday,Text,0000,0000,0000,,{\fax0.16\pos(600,75)\frx41\fry20\frz351.8}Mercoledì
+Dialogue: 0,0:02:59.49,0:03:00.74,sign_4304_36_Monday,Text,0000,0000,0000,,{\frz-7.73\fax-0.29\pos(88,45)\frx34\fry346\blur1\fs21\c&H998876&}Storia e Geografia
+Dialogue: 0,0:02:59.49,0:03:00.74,sign_4304_36_Monday,Text,0000,0000,0000,,{\fax0.14\fs21\c&H403128&\pos(345,76)\fay-.01\frx38\fry348\frz352}Giapponese
+Dialogue: 0,0:02:59.49,0:03:00.74,sign_4304_36_Monday,Text,0000,0000,0000,,{\fax0.16\fs21\c&H403128&\fay-.05\pos(606,107)\frx38\fry22\frz348.7}Giapponese
+Dialogue: 0,0:02:59.49,0:03:00.74,sign_4304_36_Monday,Text,0000,0000,0000,,{\fax0.17\fs21\c&H403128&\fay-.01\frx38\fry348\pos(316,227)\frz350.3}Educazione Fisica
+Dialogue: 0,0:02:59.49,0:03:00.74,sign_4304_36_Monday,Text,0000,0000,0000,,{\fax0.29\fs21\c&H403128&\fay-.07\frx38\fry22\pos(623,263)\frz346.1}Inglese
+Dialogue: 0,0:03:00.73,0:03:03.22,italics,Komichi,0000,0000,0000,,Cosa dovrei dirle perché venga da noi?
+Dialogue: 0,0:03:03.87,0:03:03.99,sign_4409_45_Wednesday,Text,0000,0000,0000,,{\frz17.55\pos(303,242)}Mercoledì
+Dialogue: 0,0:03:03.99,0:03:04.12,sign_4409_45_Wednesday,Text,0000,0000,0000,,{\frz18.16\pos(307,239)}Mercoledì
+Dialogue: 0,0:03:04.12,0:03:04.74,sign_4409_45_Wednesday,Text,0000,0000,0000,,{\pos(310,239)\frz18.16}Mercoledì
+Dialogue: 0,0:03:04.74,0:03:07.19,italics,Komichi,0000,0000,0000,,Parlare possiamo farlo a scuola...
+Dialogue: 0,0:03:09.00,0:03:09.12,sign_4532_49__Wednesday__,Text,0000,0000,0000,,{\frz6.17\pos(305,56)\clip(m 209 93 l 253 58 445 42 453 89 210 116)}(Mercoledì)
+Dialogue: 0,0:03:09.00,0:03:10.25,sign_4532_49__Wednesday__,Text,0000,0000,0000,,{\frz7.21\pos(424,251)\c&H616461&}(Giovedì)
+Dialogue: 0,0:03:09.12,0:03:09.25,sign_4532_49__Wednesday__,Text,0000,0000,0000,,{\frz6.17\pos(305,56)\clip(m 278 101 l 342 51 457 45 453 96)}(Mercoledì)
+Dialogue: 0,0:03:09.25,0:03:09.37,sign_4532_49__Wednesday__,Text,0000,0000,0000,,{\frz6.17\pos(305,56)\clip(m 251 103 l 206 107 203 62 298 52)}(Mercoledì)
+Dialogue: 0,0:03:09.37,0:03:09.50,sign_4532_49__Wednesday__,Text,0000,0000,0000,,{\frz6.17\pos(305,56)\clip(m 323 102 l 352 75 371 49 181 54 171 112)}(Mercoledì)
+Dialogue: 0,0:03:09.50,0:03:09.62,sign_4532_49__Wednesday__,Text,0000,0000,0000,,{\frz6.17\pos(305,56)\clip(m 367 91 l 389 73 388 66 406 49 215 66 212 111)}(Mercoledì)
+Dialogue: 0,0:03:09.62,0:03:10.25,sign_4532_49__Wednesday__,Text,0000,0000,0000,,{\frz6.17\pos(305,56)}(Mercoledì)
+Dialogue: 0,0:03:10.23,0:03:13.50,italics,Komichi,0000,0000,0000,,e possiamo passare del tempo \Nassieme tra una lezione e l'altra.
+Dialogue: 0,0:03:13.50,0:03:14.85,flashback,Erika,0000,0000,0000,,Dimmi, Akebi...
+Dialogue: 0,0:03:18.22,0:03:21.97,italics,Komichi,0000,0000,0000,,A forza di pensare così, senza che me accorgessi...
+Dialogue: 0,0:03:22.86,0:03:23.83,flashback,Erika,0000,0000,0000,,Eh?!
+Dialogue: 0,0:03:24.47,0:03:26.97,sign_4166_34__Mon__,Text,0000,0000,0000,,{\pos(353,235)\fsp6\c&HAAB3B4&\fs27}(Ven.)
+Dialogue: 0,0:03:25.50,0:03:26.98,main,Erika,0000,0000,0000,,Senti, Akebi...
+Dialogue: 0,0:03:27.44,0:03:30.58,main,Erika,0000,0000,0000,,Ultimamente non fai che guardarmi, vero?
+Dialogue: 0,0:03:30.58,0:03:33.15,main,Komichi,0000,0000,0000,,Eh? N-N-No, ti sbagli!
+Dialogue: 0,0:03:33.15,0:03:34.98,main,Erika,0000,0000,0000,,No, invece. Lo stavi facendo anche adesso.
+Dialogue: 0,0:03:38.48,0:03:40.65,main,Erika,0000,0000,0000,,C'è qualcosa che non riesci a dirmi?
+Dialogue: 0,0:03:41.10,0:03:45.44,main,Komichi,0000,0000,0000,,Beh... Domani è sabato e non c'è scuola, giusto?
+Dialogue: 0,0:03:45.44,0:03:48.48,main,Erika,0000,0000,0000,,S-Sì, ma perché tutta questa formalità?
+Dialogue: 0,0:03:48.86,0:03:52.72,main,Komichi,0000,0000,0000,,Oh, ecco... Beh...
+Dialogue: 0,0:03:55.14,0:03:58.42,main,Komichi,0000,0000,0000,,C-Cosa ne pensi di una casa \Ncon infiltrazioni dal tetto?
+Dialogue: 0,0:03:58.42,0:03:59.46,main,Erika,0000,0000,0000,,Ah?
+Dialogue: 0,0:04:00.33,0:04:03.32,main,Erika,0000,0000,0000,,Ovviamente, credo che dovrebbe essere riparata.
+Dialogue: 0,0:04:03.70,0:04:05.97,main,Erika,0000,0000,0000,,Nessuno vuole bagnarsi dentro casa.
+Dialogue: 0,0:04:07.71,0:04:12.32,main,Komichi,0000,0000,0000,,H-Hai ragione! \NEra questo che volevo chiederti!
+Dialogue: 0,0:04:12.32,0:04:13.15,main,Erika,0000,0000,0000,,Eh?
+Dialogue: 0,0:04:13.90,0:04:16.07,italics,Erika,0000,0000,0000,,Akebi si comporta in modo strano...
+Dialogue: 0,0:04:17.18,0:04:20.60,italics,Komichi,0000,0000,0000,,Dobbiamo riparare quell'infiltrazione, \Nprima di invitare qualcuno.
+Dialogue: 0,0:04:24.73,0:04:26.29,main,Erika,0000,0000,0000,,Senti, Akebi...
+Dialogue: 0,0:04:27.50,0:04:30.60,main,Erika,0000,0000,0000,,Sto per andare in biblioteca...
+Dialogue: 0,0:04:31.44,0:04:32.24,main,Erika,0000,0000,0000,,Vuoi venire anche tu?
+Dialogue: 0,0:04:34.75,0:04:36.25,sign_6588_80_School_Library,Text,0000,0000,0000,,{\pos(263,252)\frx358\fry306\frz358.4}Biblioteca
+Dialogue: 0,0:04:36.25,0:04:37.50,sign_6624_81_Introduction_to_,Text,0000,0000,0000,,{\pos(520,50)}Introduzione alla pesca
+Dialogue: 0,0:04:37.49,0:04:38.96,italics,Erika,0000,0000,0000,,Mi sta ancora fissando.
+Dialogue: 0,0:04:39.40,0:04:42.20,italics,Erika,0000,0000,0000,,È ovvio che non mi ha detto \Ntutto quello che voleva.
+Dialogue: 0,0:04:45.30,0:04:48.39,main,Komichi,0000,0000,0000,,Il libro che stai leggendo sembra interessante.
+Dialogue: 0,0:04:49.60,0:04:52.48,main,Erika,0000,0000,0000,,Sei mai andata a pescare?
+Dialogue: 0,0:04:52.48,0:04:53.57,main,Komichi,0000,0000,0000,,Sì!
+Dialogue: 0,0:04:54.34,0:04:55.27,main,Erika,0000,0000,0000,,Davvero?!
+Dialogue: 0,0:04:55.27,0:04:57.95,main,Komichi,0000,0000,0000,,Sì, al lago vicino a casa.
+Dialogue: 0,0:04:57.95,0:05:00.73,main,Komichi,0000,0000,0000,,Ma non faccio niente di strepitoso.
+Dialogue: 0,0:05:00.73,0:05:03.10,main,Komichi,0000,0000,0000,,Uso un bastoncino di legno flessibile, filo da cucito
+Dialogue: 0,0:05:03.10,0:05:04.87,main,Komichi,0000,0000,0000,,e tentacoli di calamaro avanzati come esca.
+Dialogue: 0,0:05:05.21,0:05:06.31,italics,Erika,0000,0000,0000,,Fa tutto a mano?
+Dialogue: 0,0:05:06.31,0:05:08.35,main,Komichi,0000,0000,0000,,Ma prendo sempre e solo gamberi.
+Dialogue: 0,0:05:08.35,0:05:11.01,main,Komichi,0000,0000,0000,,Non mi è mai capitato di catturare un pesce.
+Dialogue: 0,0:05:11.47,0:05:14.97,main,Komichi,0000,0000,0000,,Quindi, siccome quel metodo non funziona,\Nentro in acqua a piedi nudi.
+Dialogue: 0,0:05:14.97,0:05:16.41,italics,Erika,0000,0000,0000,,A piedi nudi?
+Dialogue: 0,0:05:16.41,0:05:19.86,main,Komichi,0000,0000,0000,,Poi io li blocco, Kao prende il retino e...
+Dialogue: 0,0:05:19.86,0:05:21.40,main,Erika,0000,0000,0000,,Incredibile!
+Dialogue: 0,0:05:21.40,0:05:21.80,main,Komichi,0000,0000,0000,,Eh?
+Dialogue: 0,0:05:21.80,0:05:24.55,main,Erika,0000,0000,0000,,È proprio quello che mi piacerebbe provare!
+Dialogue: 0,0:05:25.31,0:05:26.77,main,Erika,0000,0000,0000,,Quanto ti invidio!
+Dialogue: 0,0:05:27.27,0:05:28.75,main,Komichi,0000,0000,0000,,Kizaki?
+Dialogue: 0,0:05:31.19,0:05:32.13,main,Erika,0000,0000,0000,,Ecco...
+Dialogue: 0,0:05:32.97,0:05:33.76,main,Erika,0000,0000,0000,,Se...
+Dialogue: 0,0:05:34.12,0:05:35.55,main,Erika,0000,0000,0000,,Se non ti dispiace...
+Dialogue: 0,0:05:35.55,0:05:39.11,italics,Komichi,0000,0000,0000,,Giusto! Non dovrei invitarla solo a casa.
+Dialogue: 0,0:05:39.42,0:05:40.57,main,Komichi,0000,0000,0000,,Andiamoci assieme!
+Dialogue: 0,0:05:40.57,0:05:41.07,main,Erika,0000,0000,0000,,Eh?
+Dialogue: 0,0:05:41.64,0:05:43.41,main,Komichi,0000,0000,0000,,Che ne dici di... domani?
+Dialogue: 0,0:05:43.41,0:05:44.44,main,Erika,0000,0000,0000,,Domani?
+Dialogue: 0,0:05:46.45,0:05:49.73,flashback,Komichi,0000,0000,0000,,{\fad(1,632)}Beh... Domani è sabato e non c'è scuola, giusto?
+Dialogue: 0,0:05:50.61,0:05:53.44,main,Erika,0000,0000,0000,,Per caso, è per questo che \Nnon facevi che guardarmi?
+Dialogue: 0,0:05:58.96,0:06:00.34,main,Student,0000,0000,0000,,Silenzio, per cortesia.
+Dialogue: 0,0:06:04.39,0:06:06.62,italics,Komichi,0000,0000,0000,,La promessa di incontrarci nel fine settimana.
+Dialogue: 0,0:06:09.38,0:06:10.68,italics,Komichi,0000,0000,0000,,La prima della mia vita!
+Dialogue: 0,0:06:27.52,0:06:28.87,main,Erika,0000,0000,0000,,Non vedo l'ora!
+Dialogue: 0,0:06:49.13,0:06:51.20,main,Erika,0000,0000,0000,,Non sapevo ci fosse un posto come questo!
+Dialogue: 0,0:06:52.02,0:06:54.10,main,Erika,0000,0000,0000,,È stupendo per incontrarsi!
+Dialogue: 0,0:06:58.07,0:07:00.63,main,Erika,0000,0000,0000,,Sono in anticipo di un'ora.
+Dialogue: 0,0:07:02.13,0:07:03.83,main,Erika,0000,0000,0000,,Che bella giornata!
+Dialogue: 0,0:07:08.22,0:07:11.21,italics,Erika,0000,0000,0000,,Chissà come reagirà Akebi!
+Dialogue: 0,0:07:24.34,0:07:26.97,main,Erika,0000,0000,0000,,Forse dovrei ambientarmi un po' all'acqua.
+Dialogue: 0,0:07:26.97,0:07:29.67,main,Erika,0000,0000,0000,,Non voglio fare una brutta figura con Akebi.
+Dialogue: 0,0:07:31.04,0:07:34.19,main,Erika,0000,0000,0000,,Mamma darebbe in escandescenza, \Nse mi vedesse così.
+Dialogue: 0,0:07:38.00,0:07:40.34,italics,Erika,0000,0000,0000,,Oh, no... Non riesco a smettere!
+Dialogue: 0,0:07:44.70,0:07:48.61,italics,Komichi,0000,0000,0000,,È la prima volta che indosso \Nla gonna fatta da mamma!
+Dialogue: 0,0:07:48.61,0:07:50.82,italics,Komichi,0000,0000,0000,,Oggi mi vedo con Kizaki, dopotutto!
+Dialogue: 0,0:07:50.82,0:07:53.90,italics,Komichi,0000,0000,0000,,Non posso mica presentarmi con la solita tuta!
+Dialogue: 0,0:08:01.19,0:08:03.44,main,Komichi,0000,0000,0000,,Sono arrivata troppo presto.
+Dialogue: 0,0:08:06.68,0:08:07.57,main,Komichi,0000,0000,0000,,Eh?
+Dialogue: 0,0:08:13.27,0:08:14.53,main,Komichi,0000,0000,0000,,Kizaki!
+Dialogue: 0,0:08:33.75,0:08:35.06,main,Komichi,0000,0000,0000,,Stai bene?
+Dialogue: 0,0:08:36.78,0:08:39.83,main,Erika,0000,0000,0000,,Sto bene... Akebi...
+Dialogue: 0,0:08:40.79,0:08:42.66,main,Erika,0000,0000,0000,,Sei proprio brava a nuotare.
+Dialogue: 0,0:08:45.34,0:08:46.58,main,Komichi,0000,0000,0000,,Ah, ecco!
+Dialogue: 0,0:08:46.99,0:08:50.16,main,Komichi,0000,0000,0000,,Anche tu hai indossato qualcosa \Nche va bene in acqua!
+Dialogue: 0,0:08:50.16,0:08:51.93,main,Erika,0000,0000,0000,,Non è un costume da bagno, ma sì.
+Dialogue: 0,0:08:56.15,0:08:59.24,main,Komichi,0000,0000,0000,,Kizaki, grazie per essere venuta oggi!
+Dialogue: 0,0:08:59.24,0:09:00.34,main,Erika,0000,0000,0000,,Grazie a te!
+Dialogue: 0,0:09:00.66,0:09:03.42,main,Komichi,0000,0000,0000,,Ho chiesto quale fosse il punto migliore per pescare.
+Dialogue: 0,0:09:03.42,0:09:04.98,main,Komichi,0000,0000,0000,,C'è da camminare un po'.
+Dialogue: 0,0:09:04.98,0:09:06.99,main,Erika,0000,0000,0000,,Ah, sì? Andiamo!
+Dialogue: 0,0:09:08.46,0:09:10.61,main,Komichi,0000,0000,0000,,Che meraviglia, Kizaki!
+Dialogue: 0,0:09:10.61,0:09:12.11,main,Erika,0000,0000,0000,,L'ho presa da poco.
+Dialogue: 0,0:09:12.31,0:09:14.79,main,Erika,0000,0000,0000,,Solo che non ho mai avuto occasione \Ndi andare a pescare.
+Dialogue: 0,0:09:14.79,0:09:16.68,main,Erika,0000,0000,0000,,Oggi è la prima volta!
+Dialogue: 0,0:09:16.68,0:09:18.61,main,Erika,0000,0000,0000,,Per questo non vedo proprio l'ora!
+Dialogue: 0,0:09:18.61,0:09:19.62,main,Komichi,0000,0000,0000,,Anch'io!
+Dialogue: 0,0:09:19.62,0:09:22.74,main,Komichi,0000,0000,0000,,Comunque parlavo di tutto l'equipaggiamento, \Nnon solo della canna.
+Dialogue: 0,0:09:22.74,0:09:25.46,main,Erika,0000,0000,0000,,D-Davvero? Grazie.
+Dialogue: 0,0:09:41.44,0:09:45.60,italics,Komichi,0000,0000,0000,,Spero tanto che oggi \NKizaki catturi un pesce bello grosso!
+Dialogue: 0,0:09:48.09,0:09:51.03,main,Erika,0000,0000,0000,,Qui prenderemo qualcosa di sicuro!
+Dialogue: 0,0:09:51.03,0:09:53.74,main,Komichi,0000,0000,0000,,Bene! Mi preparo anch'io!
+Dialogue: 0,0:09:59.49,0:10:02.07,main,Erika,0000,0000,0000,,Asp... M-Ma peschi con quello?
+Dialogue: 0,0:10:02.07,0:10:03.56,main,Erika,0000,0000,0000,,Senza la canna?
+Dialogue: 0,0:10:03.56,0:10:07.04,main,Komichi,0000,0000,0000,,Sì. È riso. In questo modo\Nsi possono catturare i pesci più piccoli.
+Dialogue: 0,0:10:07.04,0:10:09.15,main,Komichi,0000,0000,0000,,Io provo qui.
+Dialogue: 0,0:10:16.14,0:10:17.79,main,Komichi,0000,0000,0000,,Oh! Ne ho preso uno!
+Dialogue: 0,0:10:17.79,0:10:18.88,main,Erika,0000,0000,0000,,Stai scherzando?!
+Dialogue: 0,0:10:18.88,0:10:20.33,main,Komichi,0000,0000,0000,,Chissà come si chiama.
+Dialogue: 0,0:10:20.33,0:10:22.45,main,Erika,0000,0000,0000,,Aspetta un momento! Faccio una ricerca!
+Dialogue: 0,0:10:22.68,0:10:25.27,main,Erika,0000,0000,0000,,R-Rhynchocypris lagowskii...
+Dialogue: 0,0:10:22.68,0:10:27.94,sign_14930_162_Freshwater_Fish_,Text,0000,0000,0000,,{\pos(175,280)\fs13}Pesci d'acqua dolce \Ngiapponesi
+Dialogue: 0,0:10:25.27,0:10:27.92,main,Komichi,0000,0000,0000,,Lagowskino! Che bel nome!
+Dialogue: 0,0:10:28.48,0:10:31.76,italics,Erika,0000,0000,0000,,Akebi è incredibile! \NRiesce a pescare con così poco.
+Dialogue: 0,0:10:34.45,0:10:35.88,italics,Erika,0000,0000,0000,,Posso farcela anch'io.
+Dialogue: 0,0:10:46.58,0:10:48.12,italics,Erika,0000,0000,0000,,I pesci ci sono.
+Dialogue: 0,0:10:48.75,0:10:50.18,italics,Erika,0000,0000,0000,,Questo è certo.
+Dialogue: 0,0:10:50.18,0:10:52.66,main,Komichi,0000,0000,0000,,Oh! Un altro lagowskino!
+Dialogue: 0,0:10:52.66,0:10:55.09,italics,Erika,0000,0000,0000,,Eppure, io...
+Dialogue: 0,0:11:00.33,0:11:03.67,main,Komichi,0000,0000,0000,,Sarà difficile con quell'esca. \NNon possono mangiarla.
+Dialogue: 0,0:11:03.67,0:11:06.22,main,Erika,0000,0000,0000,,Già, ma non ne ho altre.
+Dialogue: 0,0:11:06.47,0:11:08.91,main,Komichi,0000,0000,0000,,Che ne dici di provare dove \Nl'uccello di prima ha preso il pesce?
+Dialogue: 0,0:11:08.91,0:11:11.63,main,Erika,0000,0000,0000,,Sì... ma è lontano.
+Dialogue: 0,0:11:17.16,0:11:20.22,main,Komichi,0000,0000,0000,,Credo che tu l'abbia lanciata troppo in alto.
+Dialogue: 0,0:11:24.78,0:11:27.98,main,Erika,0000,0000,0000,,Devo attendere un po' di più... e poi lanciare!
+Dialogue: 0,0:11:29.21,0:11:31.24,main,Komichi,0000,0000,0000,,Wow! Centrato in pieno!
+Dialogue: 0,0:11:43.48,0:11:44.78,main,Erika,0000,0000,0000,,Credo si sia impigliata.
+Dialogue: 0,0:11:44.78,0:11:46.99,main,Komichi,0000,0000,0000,,Vado a riprenderla a nuoto!
+Dialogue: 0,0:11:46.99,0:11:49.38,main,Erika,0000,0000,0000,,Non c'è bisogno di arrivare a tanto.
+Dialogue: 0,0:11:49.38,0:11:52.03,main,Erika,0000,0000,0000,,Provo a girarci intorno per vedere se si sgancia.
+Dialogue: 0,0:11:52.27,0:11:53.74,main,Komichi,0000,0000,0000,,Oh... Ok.
+Dialogue: 0,0:12:12.16,0:12:14.84,italics,Erika,0000,0000,0000,,Non so perché sono tanto emozionata per questo...
+Dialogue: 0,0:12:14.84,0:12:16.38,italics,Erika,0000,0000,0000,,ma sono felice.
+Dialogue: 0,0:12:21.90,0:12:23.76,main,Erika,0000,0000,0000,,Eh? Di nuovo?
+Dialogue: 0,0:12:27.13,0:12:29.85,main,Erika,0000,0000,0000,,No... Qualcosa ha abboccato!
+Dialogue: 0,0:12:32.98,0:12:33.92,italics,Erika,0000,0000,0000,,Non ci credo!
+Dialogue: 0,0:12:36.05,0:12:38.98,italics,Erika,0000,0000,0000,,Voglio tornare indietro, \Nma l'acqua mi sta entrando nello scafandro...
+Dialogue: 0,0:12:42.62,0:12:43.98,main,Komichi,0000,0000,0000,,Kizaki?
+Dialogue: 0,0:12:44.28,0:12:46.53,main,Erika,0000,0000,0000,,Akebi! Ho preso qualcosa!
+Dialogue: 0,0:12:46.94,0:12:48.02,main,Erika,0000,0000,0000,,Aiutami!
+Dialogue: 0,0:12:48.02,0:12:49.23,main,Komichi,0000,0000,0000,,Kizaki!
+Dialogue: 0,0:12:56.00,0:12:57.27,main,Komichi,0000,0000,0000,,Eccomi!
+Dialogue: 0,0:12:57.27,0:12:58.26,main,Erika,0000,0000,0000,,Grazie.
+Dialogue: 0,0:12:58.26,0:13:00.10,main,Erika,0000,0000,0000,,Tieni la canna mentre mi tolgo lo scafandro.
+Dialogue: 0,0:13:00.10,0:13:01.56,main,Komichi,0000,0000,0000,,Eh? O-Ok!
+Dialogue: 0,0:13:10.39,0:13:13.57,main,Komichi,0000,0000,0000,,Kizaki! Che devo fare?!
+Dialogue: 0,0:13:16.56,0:13:17.63,main,Erika,0000,0000,0000,,Eccomi, scusa!
+Dialogue: 0,0:13:20.17,0:13:23.67,italics,Erika,0000,0000,0000,,Non sapevo che i pesci fossero così forti.
+Dialogue: 0,0:13:23.67,0:13:25.72,italics,Erika,0000,0000,0000,,Come faccio a tirarlo fuori dall'acqua?
+Dialogue: 0,0:13:27.04,0:13:28.79,main,Komichi,0000,0000,0000,,Kizaki, usiamo questo!
+Dialogue: 0,0:13:32.01,0:13:33.50,italics,Erika; Komichi,0000,0000,0000,,Ancora un piccolo sforzo...
+Dialogue: 0,0:13:32.01,0:13:33.50,Overlap,Erika; Komichi,0000,0000,0000,,{\i1}Ancora un piccolo sforzo...{\i0}
+Dialogue: 0,0:13:35.56,0:13:37.24,italics,Erika; Komichi,0000,0000,0000,,Ancora un piccolo sforzo...
+Dialogue: 0,0:13:35.56,0:13:37.24,Overlap,Erika; Komichi,0000,0000,0000,,{\i1}Ancora un piccolo sforzo...{\i0}
+Dialogue: 0,0:13:56.45,0:13:58.46,main,Erika; Komichi,0000,0000,0000,,Ce l'abbiamo fatta!
+Dialogue: 0,0:14:01.01,0:14:02.85,main,Komichi,0000,0000,0000,,Su, di' "cheese"!
+Dialogue: 0,0:14:05.37,0:14:08.39,main,Erika,0000,0000,0000,,Pazzesco! Un vero pesce!
+Dialogue: 0,0:14:08.81,0:14:11.67,top,Erika,0000,0000,0000,,Wow, quindi è così che sono al tatto.
+Dialogue: 0,0:14:09.01,0:14:11.02,italics,Komichi,0000,0000,0000,,Kisaki si sta divertendo.
+Dialogue: 0,0:14:11.87,0:14:14.57,main,Erika,0000,0000,0000,,Le macchioline che ha sul dorso \Nsono bellissime.
+Dialogue: 0,0:14:11.87,0:14:17.83,sign_20425_209_Video,Text,0000,0000,0000,,{\frz-90\pos(80,177)}Video
+Dialogue: 0,0:14:15.45,0:14:17.82,main,Erika,0000,0000,0000,,Però mi fa pena tenerlo così.
+Dialogue: 0,0:14:22.31,0:14:24.75,main,Erika,0000,0000,0000,,Addio. E grazie.
+Dialogue: 0,0:14:27.16,0:14:28.58,main,Erika,0000,0000,0000,,È andato.
+Dialogue: 0,0:14:28.59,0:14:38.10,sign_20425_209_Video,Text,0000,0000,0000,,{\frz92\c&HA78E4F&\pos(612,181)\fs12}Video
+Dialogue: 0,0:14:30.96,0:14:33.24,main,Erika; Komichi,0000,0000,0000,,E adesso giochiamo un po' nell'acqua!
+Dialogue: 0,0:14:30.96,0:14:33.24,Overlap,Erika; Komichi,0000,0000,0000,,E adesso giochiamo un po' nell'acqua!
+Dialogue: 0,0:14:55.83,0:14:57.55,main,Komichi,0000,0000,0000,,Dimmi, Kizaki...
+Dialogue: 0,0:14:58.72,0:15:00.63,main,Komichi,0000,0000,0000,,Oggi ti sei divertita?
+Dialogue: 0,0:15:08.91,0:15:09.81,main,Erika,0000,0000,0000,,Sì.
+Dialogue: 0,0:15:10.16,0:15:11.55,main,Erika,0000,0000,0000,,Tantissimo!
+Dialogue: 0,0:15:16.40,0:15:18.71,main,Komichi,0000,0000,0000,,Kizaki, hai portato un cambio d'abito?
+Dialogue: 0,0:15:19.77,0:15:21.31,main,Erika,0000,0000,0000,,Sì.
+Dialogue: 0,0:15:21.31,0:15:24.61,main,Erika,0000,0000,0000,,C'è un posto dove posso cambiarmi?\NMagari con un bagno?
+Dialogue: 0,0:15:24.61,0:15:27.52,main,Komichi,0000,0000,0000,,Dietro quegli alberi laggiù \Nnon ti vedrà nessuno.
+Dialogue: 0,0:15:27.52,0:15:28.28,main,Erika,0000,0000,0000,,Eh?
+Dialogue: 0,0:15:28.28,0:15:29.04,main,Komichi,0000,0000,0000,,Eh?
+Dialogue: 0,0:15:30.00,0:15:32.70,main,Komichi,0000,0000,0000,,S-Scherzavo!
+Dialogue: 0,0:15:39.03,0:15:40.85,main,Komichi,0000,0000,0000,,Ancora un po' e arriviamo a casa mia!
+Dialogue: 0,0:15:41.25,0:15:42.19,main,Erika,0000,0000,0000,,Va bene.
+Dialogue: 0,0:15:42.95,0:15:45.48,italics,Erika,0000,0000,0000,,Alla fine sto andando a casa di Akebi.
+Dialogue: 0,0:15:45.48,0:15:48.51,italics,Erika,0000,0000,0000,,E per di più ci sto andando\N per cambiarmi usare il bagno.
+Dialogue: 0,0:15:48.51,0:15:50.02,main,Komichi,0000,0000,0000,,Oh! Kao!
+Dialogue: 0,0:15:51.11,0:15:53.75,main,Komichi,0000,0000,0000,,Kao! Lei è Kizaki!
+Dialogue: 0,0:15:53.75,0:15:55.09,italics,Erika,0000,0000,0000,,Un'Akebi in miniatura?
+Dialogue: 0,0:15:58.60,0:16:00.56,main,Kao,0000,0000,0000,,Mamma!
+Dialogue: 0,0:16:00.56,0:16:04.26,main,Kao,0000,0000,0000,,Komichi ha portato la sua amica!
+Dialogue: 0,0:16:10.91,0:16:15.91,main,Erika,0000,0000,0000,,L'edificio col tetto rosso che ho visto \Nmentre andavo al lago è casa tua?
+Dialogue: 0,0:16:16.61,0:16:18.64,main,Kao,0000,0000,0000,,Mamma, guarda!
+Dialogue: 0,0:16:18.64,0:16:21.86,main,Yuwa,0000,0000,0000,,Wow, com'è grande questa foglia di farfaraccio.
+Dialogue: 0,0:16:21.86,0:16:23.84,main,Yuwa,0000,0000,0000,,Potrei farci uno stufato.
+Dialogue: 0,0:16:23.84,0:16:25.42,main,Kao,0000,0000,0000,,Non è un ombrello?
+Dialogue: 0,0:16:25.88,0:16:29.47,main,Yuwa,0000,0000,0000,,Benvenuta. \NTu devi essere la bellissima Kizaki.
+Dialogue: 0,0:16:31.37,0:16:32.59,main,Yuwa,0000,0000,0000,,In effetti lo sei davvero!
+Dialogue: 0,0:16:32.59,0:16:37.11,italics,Erika,0000,0000,0000,,Eh? Akebi, non dovresti descrivermi così.
+Dialogue: 0,0:16:37.34,0:16:38.62,main,Erika,0000,0000,0000,,Piacere di conoscerla.
+Dialogue: 0,0:16:39.04,0:16:40.37,main,Erika,0000,0000,0000,,Mi scusi se sono piombata qui all'im—
+Dialogue: 0,0:16:40.37,0:16:41.90,main,Komichi,0000,0000,0000,,Mamma, è stato incredibile!
+Dialogue: 0,0:16:41.90,0:16:44.40,main,Komichi,0000,0000,0000,,Kizaki ha catturato un pesce bello grosso!
+Dialogue: 0,0:16:44.40,0:16:46.23,main,Yuwa,0000,0000,0000,,Wow, che meraviglia!
+Dialogue: 0,0:16:46.47,0:16:48.20,main,Yuwa,0000,0000,0000,,È un salmerino maschio?
+Dialogue: 0,0:16:48.20,0:16:50.84,main,Komichi,0000,0000,0000,,Vero? Anch'io ci son rimasta!
+Dialogue: 0,0:16:48.59,0:16:51.28,top,Kao,0000,0000,0000,,Vedere! Vedere!
+Dialogue: 0,0:16:50.84,0:16:52.13,main,Erika,0000,0000,0000,,Scusi...
+Dialogue: 0,0:16:52.48,0:16:54.18,main,Yuwa,0000,0000,0000,,Sei stata davvero brava!
+Dialogue: 0,0:16:58.70,0:17:02.78,main,Yuwa,0000,0000,0000,,Bene, ora andate tutte e due a farvi la doccia.
+Dialogue: 0,0:17:03.37,0:17:06.08,main,Yuwa,0000,0000,0000,,Si direbbe che vi siate divertite parecchio.
+Dialogue: 0,0:17:06.08,0:17:08.81,main,Yuwa,0000,0000,0000,,Erika, il bagno è di là.
+Dialogue: 0,0:17:08.81,0:17:10.43,main,Erika,0000,0000,0000,,O-Oh... Grazie.
+Dialogue: 0,0:17:10.43,0:17:12.85,main,Yuwa,0000,0000,0000,,Kao, portale un asciugamano.
+Dialogue: 0,0:17:12.85,0:17:15.86,main,Kao,0000,0000,0000,,Va bene! Aspetta qui, Erika!
+Dialogue: 0,0:17:17.14,0:17:20.06,main,Erika,0000,0000,0000,,Tua madre è davvero fantastica.
+Dialogue: 0,0:17:22.03,0:17:23.35,main,Erika,0000,0000,0000,,Akebi?!
+Dialogue: 0,0:17:24.26,0:17:25.15,main,Yuwa,0000,0000,0000,,Usa questo.
+Dialogue: 0,0:17:25.67,0:17:27.11,main,Yuwa,0000,0000,0000,,E fa' pure con comodo.
+Dialogue: 0,0:17:27.11,0:17:27.73,main,Erika,0000,0000,0000,,La ringrazio.
+Dialogue: 0,0:17:29.94,0:17:32.23,italics,Yuwa,0000,0000,0000,,Che buon profumo.
+Dialogue: 0,0:17:33.76,0:17:37.87,italics,Erika,0000,0000,0000,,Spogliarmi completamente in casa d'altri \Nmi rende un po' nervosa.
+Dialogue: 0,0:17:37.87,0:17:41.04,main,Erika,0000,0000,0000,,Senti, Akebi, va' prima tu...
+Dialogue: 0,0:17:41.04,0:17:42.90,main,Komichi,0000,0000,0000,,Non è giusto!
+Dialogue: 0,0:17:42.90,0:17:46.01,main,Komichi,0000,0000,0000,,Ti hanno appena conosciuta\Ne ti chiamano già per nome.
+Dialogue: 0,0:17:46.01,0:17:49.24,main,Erika,0000,0000,0000,,È così importante come mi chiamano?
+Dialogue: 0,0:17:49.65,0:17:53.48,main,Komichi,0000,0000,0000,,Ecco... Finora non ci avevo mai pensato molto.
+Dialogue: 0,0:17:54.46,0:17:57.98,main,Komichi,0000,0000,0000,,Ma quando le ho sentite chiamarti per nome,
+Dialogue: 0,0:17:57.98,0:17:59.36,main,Komichi,0000,0000,0000,,mi son sentita...
+Dialogue: 0,0:18:02.06,0:18:05.83,main,Komichi,0000,0000,0000,,{\i1}mooolto{\i0} invidiosa!
+Dialogue: 0,0:18:05.83,0:18:08.40,italics,Erika,0000,0000,0000,,Akebi non ha esitato nemmeno un attimo.
+Dialogue: 0,0:18:11.38,0:18:14.07,main,Komichi,0000,0000,0000,,Kizaki, che pelle chiara!
+Dialogue: 0,0:18:14.07,0:18:15.65,main,Komichi,0000,0000,0000,,Che invidia!
+Dialogue: 0,0:18:16.07,0:18:17.74,main,Komichi,0000,0000,0000,,Non ti va l'acqua negli occhi?
+Dialogue: 0,0:18:17.74,0:18:18.63,main,Erika,0000,0000,0000,,No.
+Dialogue: 0,0:18:19.08,0:18:20.67,main,Komichi,0000,0000,0000,,La spugna non ti fa male?
+Dialogue: 0,0:18:20.67,0:18:21.48,main,Erika,0000,0000,0000,,No.
+Dialogue: 0,0:18:21.89,0:18:23.89,main,Komichi,0000,0000,0000,,Cercherò di non farti arrossare la pelle.
+Dialogue: 0,0:18:24.37,0:18:25.29,main,Erika,0000,0000,0000,,Va bene.
+Dialogue: 0,0:18:27.31,0:18:30.67,main,Erika,0000,0000,0000,,Grazie. Ora lavo io te.
+Dialogue: 0,0:18:30.67,0:18:33.57,main,Komichi,0000,0000,0000,,No, tu esci pure e vestiti.
+Dialogue: 0,0:18:33.57,0:18:35.81,main,Komichi,0000,0000,0000,,Sarò pronta anch'io per quando avrai finito.
+Dialogue: 0,0:18:36.33,0:18:38.55,main,Erika,0000,0000,0000,,Va bene. Grazie.
+Dialogue: 0,0:18:39.58,0:18:44.05,main,Komichi,0000,0000,0000,,Kao! Mostra a Kizaki la nostra stanza!
+Dialogue: 0,0:18:44.05,0:18:47.00,main,Komichi,0000,0000,0000,,E di' alla mamma di portare uno spuntino!
+Dialogue: 0,0:18:48.81,0:18:52.06,main,Komichi,0000,0000,0000,,Metti pure l'asciugamano in lavatrice,\Nquando hai finito.
+Dialogue: 0,0:18:52.06,0:18:53.02,main,Erika,0000,0000,0000,,Ok.
+Dialogue: 0,0:18:54.21,0:18:56.55,italics,Erika,0000,0000,0000,,Akebi è davvero brava a prendersi cura degli altri.
+Dialogue: 0,0:18:56.55,0:18:58.56,italics,Erika,0000,0000,0000,,Sarà sempre così a casa?
+Dialogue: 0,0:19:01.03,0:19:03.43,italics,Erika,0000,0000,0000,,Non si è nemmeno asciugata i capelli.
+Dialogue: 0,0:19:03.80,0:19:04.86,main,Erika,0000,0000,0000,,Grazie.
+Dialogue: 0,0:19:04.86,0:19:06.29,main,Komichi,0000,0000,0000,,Ci sono abituata.
+Dialogue: 0,0:19:08.16,0:19:09.31,italics,Erika,0000,0000,0000,,Lo è davvero.
+Dialogue: 0,0:19:09.66,0:19:13.41,main,Erika,0000,0000,0000,,Sei fortunata ad avere qualcuno che ti asciuga\N i capelli così bene ogni volta.
+Dialogue: 0,0:19:13.41,0:19:16.25,main,Kao,0000,0000,0000,,Sì, ma non usa la spazzola con me.
+Dialogue: 0,0:19:16.25,0:19:18.16,main,Kao,0000,0000,0000,,Li asciuga un po' come capita.
+Dialogue: 0,0:19:18.16,0:19:20.22,main,Kao,0000,0000,0000,,Komichi di solito non è così.
+Dialogue: 0,0:19:20.22,0:19:21.11,main,Erika,0000,0000,0000,,Eh?
+Dialogue: 0,0:19:21.11,0:19:23.76,main,Kao,0000,0000,0000,,Oggi si sta impegnando molto.
+Dialogue: 0,0:19:23.76,0:19:27.76,main,Komichi,0000,0000,0000,,Kao! Non devi essere per forza così sincera!
+Dialogue: 0,0:19:29.01,0:19:34.26,main,Erika,0000,0000,0000,,Dimmi, Kao... \Ncosa ti piace di Ake— cioè di tua sorella?
+Dialogue: 0,0:19:35.80,0:19:38.78,italics,Erika,0000,0000,0000,,Oh, assume pure le stesse pose di Akebi.
+Dialogue: 0,0:19:38.78,0:19:42.03,italics,Komichi,0000,0000,0000,,Non dire niente di strano! \NNon dire niente di strano!
+Dialogue: 0,0:19:42.03,0:19:45.10,main,Yuwa,0000,0000,0000,,Komichi, ho portato da bere. \NMi apri la porta?
+Dialogue: 0,0:19:45.10,0:19:46.96,main,Komichi,0000,0000,0000,,A-Arrivo!
+Dialogue: 0,0:19:48.93,0:19:51.22,main,Yuwa,0000,0000,0000,,Ecco. Dolcetti e caffè.
+Dialogue: 0,0:19:51.22,0:19:52.95,main,Komichi,0000,0000,0000,,Grazie, mamma!
+Dialogue: 0,0:19:52.95,0:19:54.38,main,Erika,0000,0000,0000,,Grazie.
+Dialogue: 0,0:19:56.39,0:19:59.13,main,Kao,0000,0000,0000,,Quando lo sculacci, \Nil suo didietro fa un bel suono.
+Dialogue: 0,0:20:04.20,0:20:08.02,main,Komichi,0000,0000,0000,,Kao! Non sono queste le cose \Nche Kizaki vorrebbe sapere!
+Dialogue: 0,0:20:08.02,0:20:10.39,main,Kao,0000,0000,0000,,Ma tu lo fai sempre.
+Dialogue: 0,0:20:11.60,0:20:13.91,main,Erika,0000,0000,0000,,Perché dovresti fare una cosa del genere?
+Dialogue: 0,0:20:14.16,0:20:16.84,main,Yuwa,0000,0000,0000,,Ha iniziato per far ridere Kao \Nquand'era appena nata.
+Dialogue: 0,0:20:17.30,0:20:20.10,main,Yuwa,0000,0000,0000,,Fa anche un sacco di altre cose imbarazzanti.
+Dialogue: 0,0:20:20.10,0:20:21.14,main,Yuwa,0000,0000,0000,,Vuoi vedere?
+Dialogue: 0,0:20:21.14,0:20:22.75,main,Komichi,0000,0000,0000,,Ma mamma!
+Dialogue: 0,0:20:22.75,0:20:23.65,main,Yuwa,0000,0000,0000,,Ecco!
+Dialogue: 0,0:20:25.74,0:20:27.63,main,Yuwa,0000,0000,0000,,Guarda qui ad esempio!
+Dialogue: 0,0:20:28.57,0:20:29.69,main,Erika,0000,0000,0000,,Che carina.
+Dialogue: 0,0:20:31.95,0:20:36.39,italics,Komichi,0000,0000,0000,,Io volevo apparire stupenda ai suoi occhi!
+Dialogue: 0,0:20:41.70,0:20:45.09,main,Yuwa,0000,0000,0000,,Scusa se non siamo state molto ospitali oggi.
+Dialogue: 0,0:20:45.09,0:20:46.02,main,Erika,0000,0000,0000,,Ma no,
+Dialogue: 0,0:20:46.02,0:20:48.69,main,Erika,0000,0000,0000,,il caffè e i dolcetti erano davvero buoni.
+Dialogue: 0,0:20:48.69,0:20:51.81,main,Erika,0000,0000,0000,,E ora mi sta accompagnando a casa. \NÈ ben più di quanto fosse necessario.
+Dialogue: 0,0:20:53.05,0:20:54.64,main,Yuwa; Kao; Komichi,0000,0000,0000,,Torna a trovarci ogni tanto!
+Dialogue: 0,0:20:53.05,0:20:54.64,top,Yuwa; Kao; Komichi,0000,0000,0000,,Torna a trovarci ogni tanto!
+Dialogue: 0,0:20:53.05,0:20:54.64,Overlap,Yuwa; Kao; Komichi,0000,0000,0000,,Torna a trovarci ogni tanto!
+Dialogue: 0,0:20:57.03,0:20:57.87,main,Erika,0000,0000,0000,,Senz'altro!
+Dialogue: 0,0:21:04.45,0:21:06.69,main,Erika,0000,0000,0000,,Akebi, ci vediamo a scuola.
+Dialogue: 0,0:21:06.69,0:21:08.40,main,Komichi,0000,0000,0000,,Sì, ci vediamo.
+Dialogue: 0,0:21:25.55,0:21:28.77,main,Erika,0000,0000,0000,,Komichi! Komichi!
+Dialogue: 0,0:21:29.67,0:21:32.88,main,Erika,0000,0000,0000,,Da oggi, io ti chiamerò "Komichi"!
+Dialogue: 0,0:21:33.90,0:21:39.49,main,Erika,0000,0000,0000,,Quindi... tu chiamami pure "Erika"!
+Dialogue: 0,0:21:45.59,0:21:46.62,main,Komichi,0000,0000,0000,,Ok!
+Dialogue: 0,0:21:48.96,0:21:52.62,main,Yuwa,0000,0000,0000,,Komichi, copriti bene quando dormi \No prenderai il raffreddore.
+Dialogue: 0,0:21:52.89,0:21:54.51,main,Komichi,0000,0000,0000,,Va bene!

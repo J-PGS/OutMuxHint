@@ -1,0 +1,299 @@
+﻿[Script Info]
+Title: Français (France)
+Original Script: cr_fr  [http://www.crunchyroll.com/user/cr_fr]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,1,2,0002,0002,0025,1
+Style: Italique,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,1,1,2,0002,0002,0025,1
+Style: TiretsDefault,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,1,1,0020,0002,0025,1
+Style: TiretsItalique,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,1,1,1,0020,0002,0025,1
+Style: Sign,Arial,18,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,0,8,0002,0002,0025,1
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:03.73,0:00:04.65,Sign,,0000,0000,0000,,{\i1\b1}{\an8}DORTOIR
+Dialogue: 0,0:00:04.73,0:00:05.65,Sign,,0000,0000,0000,,{\i1\b1}{\an8}MAN
+Dialogue: 0,0:00:05.73,0:00:06.65,Sign,,0000,0000,0000,,{\i1\b1}{\an8}GETSU
+Dialogue: 0,0:00:06.73,0:00:09.23,Sign,,0000,0000,0000,,{\i1\b1}{\an8}DORTOIR MANGETSU
+Dialogue: 0,0:00:11.53,0:00:13.86,Default,,0000,0000,0000,,Tu dois être Ôkuma Minoru.
+Dialogue: 0,0:00:17.37,0:00:21.29,Default,,0000,0000,0000,,La plupart des élèves\Nn’arrivent au dortoir que demain.
+Dialogue: 0,0:00:21.50,0:00:24.08,Default,,0000,0000,0000,,Je te ferai visiter rapidement\Nles locaux,
+Dialogue: 0,0:00:24.25,0:00:27.08,Default,,0000,0000,0000,,alors profite de la journée\Npour te reposer.
+Dialogue: 0,0:00:27.25,0:00:28.63,Default,,0000,0000,0000,,Tu dois être fatiguée.
+Dialogue: 0,0:00:28.79,0:00:29.80,Default,,0000,0000,0000,,Oui.
+Dialogue: 0,0:00:45.52,0:00:46.56,Default,,0000,0000,0000,,Ouah !
+Dialogue: 0,0:00:49.57,0:00:52.53,Default,,0000,0000,0000,,Cette cicindèle\Nest plus jolie qu’en photo.
+Dialogue: 0,0:00:54.74,0:00:57.99,Default,,0000,0000,0000,,Il y a un paon-du-jour !\NJ’en avais jamais vu.
+Dialogue: 0,0:01:05.54,0:01:06.75,Default,,0000,0000,0000,,Attends !
+Dialogue: 0,0:01:23.93,0:01:25.18,Sign,,0000,0000,0000,,{\i1\b1}{\an8}PRÉSENTATION
+Dialogue: 0,0:01:24.23,0:01:25.14,Default,,0000,0000,0000,,Oui !
+Dialogue: 0,0:01:27.14,0:01:30.69,Default,,0000,0000,0000,,Numéro 1, Akebi Komichi.
+Dialogue: 0,0:03:03.53,0:03:07.95,Sign,,0000,0000,0000,,{\i1\b1}{\an8}JE VEUX SAVOIR UN TAS DE CHOSES\NSUR LES AUTRES
+Dialogue: 0,0:03:08.54,0:03:09.96,Default,,0000,0000,0000,,C’est une coccinelle ?
+Dialogue: 0,0:03:10.12,0:03:13.67,Default,,0000,0000,0000,,Non, un apodère.\NOn le distingue par son long cou.
+Dialogue: 0,0:03:15.42,0:03:17.46,Default,,0000,0000,0000,,{\i1}Akebi Komichi.{\i0}
+Dialogue: 0,0:03:21.93,0:03:24.76,Default,,0000,0000,0000,,{\i1}L’autre jour,\Nelle regardait une grenouille.{\i0}
+Dialogue: 0,0:03:26.68,0:03:29.27,Default,,0000,0000,0000,,{\i1}Aujourd’hui,\Nelle a touché un apodère.{\i0}
+Dialogue: 0,0:03:33.56,0:03:35.52,TiretsDefault,,0263,0000,0000,,– Quoi ?\N– Au secours !
+Dialogue: 0,0:03:38.23,0:03:41.90,Default,,0000,0000,0000,,Comptez pas sur moi,\Nj’ai la phobie des serpents !
+Dialogue: 0,0:03:42.07,0:03:44.03,Default,,0000,0000,0000,,Je cours chercher une prof ?
+Dialogue: 0,0:03:44.37,0:03:45.66,Default,,0000,0000,0000,,C’est une couleuvre.
+Dialogue: 0,0:03:50.29,0:03:53.04,TiretsDefault,,0232,0000,0000,,– Elle m’a regardée !\N– Elle va te mordre.
+Dialogue: 0,0:03:53.33,0:03:55.42,Default,,0000,0000,0000,,{\i1}Elle ne fait pas peur, pourtant.{\i0}
+Dialogue: 0,0:03:56.13,0:03:57.50,Default,,0000,0000,0000,,Elle a dû se perdre.
+Dialogue: 0,0:03:58.55,0:03:59.55,Default,,0000,0000,0000,,Elle est mimi.
+Dialogue: 0,0:04:01.38,0:04:03.05,Default,,0000,0000,0000,,Pas vrai, Ôkuma Minoru ?
+Dialogue: 0,0:04:04.76,0:04:05.80,Default,,0000,0000,0000,,Oui.
+Dialogue: 0,0:04:07.30,0:04:09.60,Default,,0000,0000,0000,,{\i1}Elle a des yeux de gazelle.{\i0}
+Dialogue: 0,0:04:10.72,0:04:13.31,Default,,0000,0000,0000,,Emmenons-la dans un endroit calme.
+Dialogue: 0,0:04:14.06,0:04:16.61,Default,,0000,0000,0000,,D’accord… Je te suis.
+Dialogue: 0,0:04:26.57,0:04:28.66,Default,,0000,0000,0000,,On est assez loin, je pense.
+Dialogue: 0,0:04:32.20,0:04:37.08,Default,,0000,0000,0000,,C’est ta boîte à insectes, Ôkuma ?\NTu l’as apportée à l’école ?
+Dialogue: 0,0:04:37.25,0:04:40.71,Default,,0000,0000,0000,,Oui ! Je ne sais jamais\Nsur quoi je vais tomber.
+Dialogue: 0,0:04:43.34,0:04:45.30,Default,,0000,0000,0000,,Les couleuvres sont intéressantes,
+Dialogue: 0,0:04:45.43,0:04:48.30,Default,,0000,0000,0000,,vu que leur peau change\Nsuivant leur habitat.
+Dialogue: 0,0:04:48.43,0:04:51.10,Default,,0000,0000,0000,,Ah bon ? Tu m’apprends une chose !
+Dialogue: 0,0:04:51.68,0:04:55.02,Default,,0000,0000,0000,,J’en ai déjà vu une\Nnager dans la rivière.
+Dialogue: 0,0:04:55.19,0:04:56.69,Default,,0000,0000,0000,,C’est assez rare !
+Dialogue: 0,0:04:56.85,0:04:59.57,Default,,0000,0000,0000,,Et l’autre jour,\Nje marchais dans la forêt
+Dialogue: 0,0:04:59.73,0:05:02.44,Default,,0000,0000,0000,,quand je me suis cognée\Ncontre une branche.
+Dialogue: 0,0:05:03.28,0:05:05.28,Default,,0000,0000,0000,,Elle s’est mise à bouger…
+Dialogue: 0,0:05:05.90,0:05:06.74,Default,,0000,0000,0000,,Attends…
+Dialogue: 0,0:05:08.57,0:05:10.49,Default,,0000,0000,0000,,Oui, c’était une couleuvre !
+Dialogue: 0,0:05:10.66,0:05:11.91,Default,,0000,0000,0000,,Vraiment ?
+Dialogue: 0,0:05:14.96,0:05:16.58,Default,,0000,0000,0000,,Qu’est-ce que c’est ?
+Dialogue: 0,0:05:16.75,0:05:18.13,Default,,0000,0000,0000,,Mes notes de recherche.
+Dialogue: 0,0:05:18.29,0:05:20.38,Default,,0000,0000,0000,,J’écris tout ce que je découvre
+Dialogue: 0,0:05:20.59,0:05:23.71,Default,,0000,0000,0000,,sur les organismes\Net leurs particularités.
+Dialogue: 0,0:05:24.30,0:05:27.13,Default,,0000,0000,0000,,Ce que tu m’as dit\Nme sera sans doute utile.
+Dialogue: 0,0:05:27.72,0:05:28.93,Default,,0000,0000,0000,,On est pareilles !
+Dialogue: 0,0:05:30.76,0:05:34.77,Default,,0000,0000,0000,,Moi aussi, je note mes découvertes\Ndans un carnet.
+Dialogue: 0,0:05:35.48,0:05:38.56,Default,,0000,0000,0000,,Tu es aussi intéressée\Npar les êtres vivants ?
+Dialogue: 0,0:05:38.94,0:05:40.56,Sign,,0000,0000,0000,,{\i1\b1}{\an8}5E 3
+Dialogue: 0,0:05:39.06,0:05:39.81,Default,,0000,0000,0000,,Regarde !
+Dialogue: 0,0:05:40.98,0:05:42.86,Default,,0000,0000,0000,,« 5e 3 » ?
+Dialogue: 0,0:05:44.19,0:05:47.45,Default,,0000,0000,0000,,J’écris tout ce que j’apprends\Nsur nos camarades.
+Dialogue: 0,0:05:47.57,0:05:51.33,Default,,0000,0000,0000,,J’ai toujours été seule en classe,\Nalors je suis contente.
+Dialogue: 0,0:05:52.16,0:05:55.87,Default,,0000,0000,0000,,Je veux savoir un tas de choses\Nsur les autres, mais bon…
+Dialogue: 0,0:05:56.62,0:05:59.83,Default,,0000,0000,0000,,Je trouve jamais le bon moment\Npour leur parler.
+Dialogue: 0,0:06:00.00,0:06:02.67,Default,,0000,0000,0000,,C’est là que l’observation\Ndevient cruciale.
+Dialogue: 0,0:06:02.92,0:06:05.51,Default,,0000,0000,0000,,C’est plus facile\Nd’aborder une personne
+Dialogue: 0,0:06:05.67,0:06:10.14,Default,,0000,0000,0000,,en apprenant plus de choses sur elle,\Ncomme ce qu’elle aime.
+Dialogue: 0,0:06:11.30,0:06:12.89,Default,,0000,0000,0000,,Observons-les ensemble !
+Dialogue: 0,0:06:16.23,0:06:18.98,Sign,,0000,0000,0000,,{\i1\b1}{\an8}SOUPE SUCRÉE DE HARICOTS ROUGES
+Dialogue: 0,0:06:19.56,0:06:21.40,Default,,0000,0000,0000,,D’après mes recherches,
+Dialogue: 0,0:06:21.52,0:06:24.48,Default,,0000,0000,0000,,le sujet d’observation\Nvient ici chaque matin.
+Dialogue: 0,0:06:27.53,0:06:32.32,Default,,0000,0000,0000,,Hiraiwa Hotaru…\NJe lui ai rarement adressé la parole.
+Dialogue: 0,0:06:32.49,0:06:34.12,Default,,0000,0000,0000,,Elle va acheter quoi ?
+Dialogue: 0,0:06:45.59,0:06:46.63,Default,,0000,0000,0000,,Attends…
+Dialogue: 0,0:06:49.80,0:06:54.39,Default,,0000,0000,0000,,Eh bah, elle aime le challenge,\Npour viser la soupe sucrée du haut.
+Dialogue: 0,0:07:07.90,0:07:11.53,Default,,0000,0000,0000,,Est-ce qu’elle arrivera\Nà acheter cette canette ?
+Dialogue: 0,0:07:11.70,0:07:13.74,Default,,0000,0000,0000,,C’est vraiment intéressant.
+Dialogue: 0,0:07:15.62,0:07:16.83,Default,,0000,0000,0000,,Akebi ?
+Dialogue: 0,0:07:20.71,0:07:22.37,Default,,0000,0000,0000,,Tu as besoin d’aide ?
+Dialogue: 0,0:07:26.75,0:07:29.01,Default,,0000,0000,0000,,Tu peux atteindre le bouton, là ?
+Dialogue: 0,0:07:34.72,0:07:36.26,Default,,0000,0000,0000,,Bravo !
+Dialogue: 0,0:07:39.39,0:07:41.73,Default,,0000,0000,0000,,J’aide aussi ma petite sœur comme ça.
+Dialogue: 0,0:07:42.02,0:07:44.02,Default,,0000,0000,0000,,Merci beaucoup.
+Dialogue: 0,0:07:44.19,0:07:46.44,Default,,0000,0000,0000,,De rien ! N’hésite pas à demander.
+Dialogue: 0,0:07:51.90,0:07:53.82,Default,,0000,0000,0000,,Ce n’est pas bien, Akebi.
+Dialogue: 0,0:07:55.07,0:07:56.49,Default,,0000,0000,0000,,Dans l’observation,
+Dialogue: 0,0:07:56.66,0:08:00.25,Default,,0000,0000,0000,,il faut rédiger nos découvertes\Ntout en restant passif.
+Dialogue: 0,0:08:00.37,0:08:02.66,Default,,0000,0000,0000,,N’interagis pas avec le sujet.
+Dialogue: 0,0:08:02.79,0:08:05.29,Default,,0000,0000,0000,,Ah, je vois… Désolée.
+Dialogue: 0,0:08:09.59,0:08:10.88,Default,,0000,0000,0000,,Il brille…
+Dialogue: 0,0:08:11.63,0:08:15.55,Default,,0000,0000,0000,,{\i1}J’ai récupéré une info intéressante.\NAkebi Komichi est…{\i0}
+Dialogue: 0,0:08:15.55,0:08:20.31,TiretsDefault,,0162,0000,0000,,{\an8}– AKEBI EST DU GENRE À AGIR !\N– HIRAIWA HOTARU RESSEMBLE À KAO
+Dialogue: 0,0:08:21.27,0:08:22.81,Default,,0000,0000,0000,,Ah, Hotaru !
+Dialogue: 0,0:08:23.23,0:08:26.06,Default,,0000,0000,0000,,Tu as enfin réussi ton défi ?\NBien joué !
+Dialogue: 0,0:08:27.52,0:08:30.69,Default,,0000,0000,0000,,La prochaine fois,\Nj’essaierai d’y arriver seule.
+Dialogue: 0,0:08:33.03,0:08:34.91,Default,,0000,0000,0000,,Imagine que tu es une espionne.
+Dialogue: 0,0:08:35.07,0:08:39.12,Default,,0000,0000,0000,,Dissimule ta présence\Net observe secrètement le sujet.
+Dialogue: 0,0:08:39.28,0:08:41.50,Default,,0000,0000,0000,,Ne loupe pas le moindre changement…
+Dialogue: 0,0:08:41.62,0:08:44.41,Default,,0000,0000,0000,,Pourquoi tu m’as demandé\Nde venir ici ?
+Dialogue: 0,0:09:00.97,0:09:02.68,Default,,0000,0000,0000,,C’est Washio Hitomi !
+Dialogue: 0,0:09:03.56,0:09:05.77,Default,,0000,0000,0000,,Elle parle à une fille de la 5e 1.
+Dialogue: 0,0:09:05.94,0:09:07.40,Default,,0000,0000,0000,,Comment tu sais ça ?
+Dialogue: 0,0:09:07.52,0:09:09.98,Default,,0000,0000,0000,,Elle est dans mon dortoir.
+Dialogue: 0,0:09:14.90,0:09:18.99,Default,,0000,0000,0000,,Elles discutent de quelque chose,\Nmais on entend rien.
+Dialogue: 0,0:09:19.20,0:09:22.33,Default,,0000,0000,0000,,Ce n’est pas la seule façon\Nde découvrir des choses.
+Dialogue: 0,0:09:22.49,0:09:26.50,Default,,0000,0000,0000,,Observons la situation,\Nleurs gestes et leurs réactions.
+Dialogue: 0,0:09:37.09,0:09:38.89,Default,,0000,0000,0000,,De quoi elles parlent ?
+Dialogue: 0,0:09:39.43,0:09:41.97,TiretsDefault,,0263,0000,0000,,– Nawashiro ?\N– Chut.
+Dialogue: 0,0:09:43.14,0:09:46.64,Default,,0000,0000,0000,,On te repère de loin, Akebi.\NC’est pratique.
+Dialogue: 0,0:09:48.73,0:09:51.57,Default,,0000,0000,0000,,Hé ! On vous entend.
+Dialogue: 0,0:09:52.73,0:09:54.78,Default,,0000,0000,0000,,Coucou, Hitomi.
+Dialogue: 0,0:09:55.07,0:09:56.07,Default,,0000,0000,0000,,Et…
+Dialogue: 0,0:09:57.28,0:09:58.57,Default,,0000,0000,0000,,Euh…
+Dialogue: 0,0:10:00.45,0:10:02.28,Default,,0000,0000,0000,,Bonjour, Tanabe.
+Dialogue: 0,0:10:02.49,0:10:05.08,Default,,0000,0000,0000,,Désolée,\Nest-ce qu’on vous dérange ?
+Dialogue: 0,0:10:07.75,0:10:12.38,Default,,0000,0000,0000,,Au contraire, tu tombes bien.\NElle voudrait devenir ton amie.
+Dialogue: 0,0:10:12.92,0:10:13.92,Default,,0000,0000,0000,,Quoi ?
+Dialogue: 0,0:10:14.92,0:10:15.96,Default,,0000,0000,0000,,Et vous ?
+Dialogue: 0,0:10:16.30,0:10:18.47,Default,,0000,0000,0000,,Qu’est-ce que vous faites là ?
+Dialogue: 0,0:10:20.47,0:10:24.22,TiretsDefault,,0194,0000,0000,,{\an8}– AKEBI SE FAIT REMARQUER !\N– WASHIO EST SUPER GRANDE
+Dialogue: 0,0:10:28.81,0:10:30.19,Default,,0000,0000,0000,,Dis, Ôkuma…
+Dialogue: 0,0:10:30.35,0:10:33.23,Default,,0000,0000,0000,,C’est nécessaire\Nde se cacher là-dedans ?
+Dialogue: 0,0:10:33.40,0:10:35.78,Default,,0000,0000,0000,,Tu attires facilement l’attention,
+Dialogue: 0,0:10:35.94,0:10:39.91,Default,,0000,0000,0000,,alors mieux vaut se retirer\Ndu champ de vision du sujet.
+Dialogue: 0,0:10:40.32,0:10:41.99,Default,,0000,0000,0000,,Si tu le dis…
+Dialogue: 0,0:10:46.20,0:10:49.00,TiretsDefault,,0224,0000,0000,,– Quelqu’un est entré.\N– C’est Shijô Riona.
+Dialogue: 0,0:10:54.00,0:10:56.42,Default,,0000,0000,0000,,On ne voit pas bien,\Nà travers ça.
+Dialogue: 0,0:10:58.76,0:11:00.88,Default,,0000,0000,0000,,Elle cherche quelque chose ?
+Dialogue: 0,0:11:13.81,0:11:14.77,Default,,0000,0000,0000,,Tiens ?
+Dialogue: 0,0:11:16.78,0:11:19.86,Default,,0000,0000,0000,,Un sandwich ?\NIl a l’air délicieux !
+Dialogue: 0,0:11:21.66,0:11:23.41,Default,,0000,0000,0000,,Ah, en fait…
+Dialogue: 0,0:11:23.78,0:11:26.79,Default,,0000,0000,0000,,J’ai rien avalé\Nvu que je me suis levée tard,
+Dialogue: 0,0:11:26.95,0:11:28.95,Default,,0000,0000,0000,,alors ma mère me l’a préparé.
+Dialogue: 0,0:11:30.96,0:11:33.29,Default,,0000,0000,0000,,Euh… Ôkuma ?
+Dialogue: 0,0:11:37.09,0:11:38.80,Default,,0000,0000,0000,,Je suis désolée !
+Dialogue: 0,0:11:38.80,0:11:41.30,TiretsDefault,,0195,0000,0000,,{\an8}– AKEBI EST CHATOUILLEUSE !\N– SHIJÔ = SANDWICHS
+Dialogue: 0,0:11:46.97,0:11:49.56,Default,,0000,0000,0000,,On enchaîne les échecs…
+Dialogue: 0,0:11:49.85,0:11:53.65,Default,,0000,0000,0000,,Mais on a quand même rassemblé\Ndes infos croustillantes,
+Dialogue: 0,0:11:53.81,0:11:55.31,Default,,0000,0000,0000,,alors on s’en tire bien.
+Dialogue: 0,0:12:01.28,0:12:03.66,Default,,0000,0000,0000,,Tu es douée en dessin, Ôkuma !
+Dialogue: 0,0:12:04.66,0:12:07.95,Default,,0000,0000,0000,,Vu que je gribouille tout le temps\Ndans mon carnet,
+Dialogue: 0,0:12:08.12,0:12:10.20,Default,,0000,0000,0000,,j’ai fini par m’améliorer.
+Dialogue: 0,0:12:10.37,0:12:12.04,Default,,0000,0000,0000,,Tu m’impressionnes !
+Dialogue: 0,0:12:12.83,0:12:14.00,Default,,0000,0000,0000,,Et toi,
+Dialogue: 0,0:12:14.42,0:12:16.25,Default,,0000,0000,0000,,tu as fini ton dessin ?
+Dialogue: 0,0:12:19.76,0:12:22.47,Default,,0000,0000,0000,,Je vois…\NEn choisissant la simplicité,
+Dialogue: 0,0:12:22.63,0:12:26.55,Default,,0000,0000,0000,,tu mets en valeur les particularités\Ndu sujet d’observation.
+Dialogue: 0,0:12:27.39,0:12:28.72,Default,,0000,0000,0000,,C’est bien pensé.
+Dialogue: 0,0:12:39.15,0:12:40.94,Default,,0000,0000,0000,,Ça fait du bien.
+Dialogue: 0,0:12:41.19,0:12:43.65,Default,,0000,0000,0000,,Oui, le vent est agréable.
+Dialogue: 0,0:12:43.82,0:12:46.49,Default,,0000,0000,0000,,En classe,\Non est scotchées à nos chaises,
+Dialogue: 0,0:12:46.62,0:12:50.37,Default,,0000,0000,0000,,alors on a de la chance\Nd’observer les autres par ce temps.
+Dialogue: 0,0:12:50.95,0:12:52.12,Default,,0000,0000,0000,,Tu trouves ?
+Dialogue: 0,0:12:52.37,0:12:56.63,Default,,0000,0000,0000,,On peut voir leur véritable nature\Net ce qui les intéresse.
+Dialogue: 0,0:12:57.04,0:13:00.80,Default,,0000,0000,0000,,Par exemple, euh… Regarde là-bas.
+Dialogue: 0,0:13:03.97,0:13:05.38,Default,,0000,0000,0000,,Togano Mai.
+Dialogue: 0,0:13:08.68,0:13:12.10,Default,,0000,0000,0000,,Elle doit aimer les oiseaux\Npour si bien dessiner
+Dialogue: 0,0:13:12.22,0:13:14.43,Default,,0000,0000,0000,,toutes ces espèces différentes.
+Dialogue: 0,0:13:14.56,0:13:15.64,Default,,0000,0000,0000,,J’avoue.
+Dialogue: 0,0:13:16.23,0:13:18.81,Default,,0000,0000,0000,,J’aimerais bien\Nqu’on en parle un jour.
+Dialogue: 0,0:13:21.53,0:13:22.98,Default,,0000,0000,0000,,Minakami Riri.
+Dialogue: 0,0:13:23.32,0:13:25.20,Default,,0000,0000,0000,,Tu crois qu’elle a terminé ?
+Dialogue: 0,0:13:25.32,0:13:28.41,Default,,0000,0000,0000,,Je dirais plutôt\Nqu’elle cherche quoi dessiner.
+Dialogue: 0,0:13:28.57,0:13:33.58,Default,,0000,0000,0000,,Elle a l’air d’une panthère noire\Nà l’affût d’une proie.
+Dialogue: 0,0:13:36.04,0:13:37.25,Default,,0000,0000,0000,,Oui, c’est vrai.
+Dialogue: 0,0:13:37.62,0:13:41.96,Default,,0000,0000,0000,,Ou peut-être que comme moi,\Nelle n’aime pas la foule.
+Dialogue: 0,0:14:14.74,0:14:17.62,Default,,0000,0000,0000,,Tu observes attentivement\Ntout le monde.
+Dialogue: 0,0:14:19.37,0:14:23.88,Default,,0000,0000,0000,,Il y a une créature qui m’intéresse\Nplus que les autres…
+Dialogue: 0,0:14:24.75,0:14:25.88,Default,,0000,0000,0000,,C’est-à-dire ?
+Dialogue: 0,0:14:28.30,0:14:29.47,Default,,0000,0000,0000,,Euh…
+Dialogue: 0,0:14:34.89,0:14:37.18,Default,,0000,0000,0000,,On te cherchait, Akebi.
+Dialogue: 0,0:14:37.31,0:14:39.81,Default,,0000,0000,0000,,Oh, tu dessines bien, Ôkuma !
+Dialogue: 0,0:14:39.98,0:14:40.90,Default,,0000,0000,0000,,Pas vrai ?
+Dialogue: 0,0:14:41.02,0:14:43.86,Default,,0000,0000,0000,,Oui, elle fait ressortir\Nle plus important.
+Dialogue: 0,0:14:46.61,0:14:49.49,Default,,0000,0000,0000,,Ah, Ôkuma est rouge\Ncomme une tomate cerise.
+Dialogue: 0,0:14:50.57,0:14:53.20,TiretsDefault,,0228,0000,0000,,– Une tomate cerise ?\N– C’est mignon.
+Dialogue: 0,0:14:57.95,0:15:02.96,Sign,,0000,0000,0000,,{\i1\b1}{\an8}5E 3 / ÉCOLE RÔBAI (VOL. 5)
+Dialogue: 0,0:15:03.71,0:15:07.59,Default,,0000,0000,0000,,Tu n’as pas senti quelque chose\Ntout à l’heure ?
+Dialogue: 0,0:15:07.76,0:15:10.72,TiretsDefault,,0192,0000,0000,,– C’est-à-dire ?\N– Comme si on nous regardait.
+Dialogue: 0,0:15:14.01,0:15:15.51,Default,,0000,0000,0000,,Tant pis, alors…
+Dialogue: 0,0:15:16.39,0:15:19.98,Default,,0000,0000,0000,,Après ce qui s’est passé,\Nj’étais obligée de rire.
+Dialogue: 0,0:15:20.14,0:15:21.48,Default,,0000,0000,0000,,Oui, normal.
+Dialogue: 0,0:15:24.73,0:15:25.94,Default,,0000,0000,0000,,{\i1}J’avais vu juste.{\i0}
+Dialogue: 0,0:15:26.23,0:15:29.24,Default,,0000,0000,0000,,{\i1}C’était le regard de ma coloc,\NTôgeguchi.{\i0}
+Dialogue: 0,0:15:33.99,0:15:37.74,Default,,0000,0000,0000,,{\i1}J’avais pas remarqué qu’il y avait\Nquelqu’un comme moi.{\i0}
+Dialogue: 0,0:15:38.79,0:15:40.00,Default,,0000,0000,0000,,À demain.
+Dialogue: 0,0:15:40.37,0:15:41.50,Default,,0000,0000,0000,,Oui, à demain.
+Dialogue: 0,0:15:44.04,0:15:46.42,Default,,0000,0000,0000,,{\i1}Mais pourquoi elle l’observe ?{\i0}
+Dialogue: 0,0:15:49.51,0:15:52.51,Sign,,0000,0000,0000,,{\i1\b1}{\an8}AKEBI KOMICHI
+Dialogue: 0,0:15:57.76,0:16:01.98,Default,,0000,0000,0000,,J’ai pas pu lui r’filer…\NJ’en ai pas eu l’occase.
+Dialogue: 0,0:16:03.60,0:16:06.23,Default,,0000,0000,0000,,Puis bon,\Nc’t’une école d’élite en pampa,
+Dialogue: 0,0:16:06.40,0:16:08.98,Default,,0000,0000,0000,,y devrait pas y avoir\Nd’jolis minois.
+Dialogue: 0,0:16:09.19,0:16:14.41,Default,,0000,0000,0000,,Mais j’me retrouve au beau milieu\Nd’un tas d’belles plantes.
+Dialogue: 0,0:16:14.78,0:16:17.74,Default,,0000,0000,0000,,Et moi qui pensais\Nqu’t’étais comme moi !
+Dialogue: 0,0:16:17.95,0:16:19.91,Default,,0000,0000,0000,,Akebi Komichi…
+Dialogue: 0,0:16:21.41,0:16:26.29,Default,,0000,0000,0000,,T’es qu’une grosse traîtresse !
+Dialogue: 0,0:16:28.71,0:16:32.67,Default,,0000,0000,0000,,Ç’fait un bien fou\Nde hurler c’qu’on a sur l’cœur !
+Dialogue: 0,0:16:39.93,0:16:42.23,Default,,0000,0000,0000,,Akebi ? Et…
+Dialogue: 0,0:16:42.39,0:16:43.69,Default,,0000,0000,0000,,Ôkuma ?
+Dialogue: 0,0:16:43.89,0:16:45.60,Default,,0000,0000,0000,,Laissez-moi m’expliquer !
+Dialogue: 0,0:16:45.77,0:16:50.28,Default,,0000,0000,0000,,Je disais pas du mal de toi.\NAlors, en fait, comment dire…
+Dialogue: 0,0:16:51.48,0:16:52.36,Default,,0000,0000,0000,,Mon mouchoir !
+Dialogue: 0,0:17:00.87,0:17:02.12,Sign,,0000,0000,0000,,{\i1\b1}MAUX D’ESTOMAC
+Dialogue: 0,0:17:17.80,0:17:21.10,Default,,0000,0000,0000,,Pourquoi d’si jolis minois\Npassent c’t’exam ?
+Dialogue: 0,0:17:21.89,0:17:24.60,Default,,0000,0000,0000,,Adieu ma belle entrée au collège.
+Dialogue: 0,0:17:27.27,0:17:30.86,Default,,0000,0000,0000,,Comment j’vais passer l’exam\Nsi j’ai mal à la panse ?
+Dialogue: 0,0:17:34.03,0:17:36.40,Default,,0000,0000,0000,,{\i1}J’ai oublié mon mouchoir.{\i0}
+Dialogue: 0,0:17:36.82,0:17:38.03,Default,,0000,0000,0000,,{\i1}J’suis fichue…{\i0}
+Dialogue: 0,0:17:44.95,0:17:45.58,Default,,0000,0000,0000,,Tiens,
+Dialogue: 0,0:17:46.16,0:17:47.33,Default,,0000,0000,0000,,prends le mien.
+Dialogue: 0,0:17:53.51,0:17:55.30,Default,,0000,0000,0000,,Euh… Merci.
+Dialogue: 0,0:17:55.51,0:17:57.68,Default,,0000,0000,0000,,Tu fais quoi dans ces toilettes ?
+Dialogue: 0,0:17:58.64,0:18:00.35,Default,,0000,0000,0000,,Bah, et toi ?
+Dialogue: 0,0:18:00.55,0:18:04.10,Default,,0000,0000,0000,,Les foules du genre,\Nça a tendance à me stresser.
+Dialogue: 0,0:18:05.52,0:18:06.85,Default,,0000,0000,0000,,Une déesse…
+Dialogue: 0,0:18:07.77,0:18:09.02,Default,,0000,0000,0000,,Elle est gentille.
+Dialogue: 0,0:18:10.81,0:18:13.11,Default,,0000,0000,0000,,Akebi Komichi…
+Dialogue: 0,0:18:13.27,0:18:15.69,Default,,0000,0000,0000,,{\i1}L’examen va bientôt commencer.{\i0}
+Dialogue: 0,0:18:16.44,0:18:17.70,Default,,0000,0000,0000,,On doit y aller !
+Dialogue: 0,0:18:17.86,0:18:19.11,Default,,0000,0000,0000,,Hé, attends !
+Dialogue: 0,0:18:20.03,0:18:22.24,Default,,0000,0000,0000,,T’oublies ton mouchoir !
+Dialogue: 0,0:18:23.37,0:18:25.20,Default,,0000,0000,0000,,Rends-le-moi un autre jour !
+Dialogue: 0,0:18:28.62,0:18:31.42,Default,,0000,0000,0000,,Hein ? Un autre jour ?
+Dialogue: 0,0:18:31.71,0:18:33.04,Default,,0000,0000,0000,,Comment ça ?
+Dialogue: 0,0:18:33.63,0:18:37.76,Default,,0000,0000,0000,,On est à l’exam d’entrée d’Rôbai,\Nrien dit qu’on s’reverra…
+Dialogue: 0,0:18:39.09,0:18:41.09,Default,,0000,0000,0000,,Elle m’oblige à être acceptée ?
+Dialogue: 0,0:18:43.35,0:18:45.93,Default,,0000,0000,0000,,Je t’ai donné ce mouchoir\Navant l’exam !
+Dialogue: 0,0:18:48.10,0:18:51.94,Default,,0000,0000,0000,,Désolée !\NJe voulais te le rendre avant…
+Dialogue: 0,0:18:55.23,0:18:56.44,Default,,0000,0000,0000,,Je suis contente !
+Dialogue: 0,0:18:56.65,0:18:59.57,Default,,0000,0000,0000,,C’était toi,\Nla fille à qui je l’avais prêté.
+Dialogue: 0,0:18:59.74,0:19:02.03,Default,,0000,0000,0000,,Ça m’a toujours intriguée.
+Dialogue: 0,0:19:02.20,0:19:04.62,Default,,0000,0000,0000,,C’est génial qu’on ait été prises !
+Dialogue: 0,0:19:04.83,0:19:05.95,Default,,0000,0000,0000,,Merci.
+Dialogue: 0,0:19:08.08,0:19:12.83,Default,,0000,0000,0000,,Je t’avais pas reconnue,\Ntu es bien différente avec ton uniforme.
+Dialogue: 0,0:19:15.30,0:19:16.25,Default,,0000,0000,0000,,{\i1}Toi aussi.{\i0}
+Dialogue: 0,0:19:16.42,0:19:21.51,Default,,0000,0000,0000,,{\i1}J’pensais pas qu’la fille en pyj’\Ns’ramènerait à la rentrée en marinière.{\i0}
+Dialogue: 0,0:19:29.73,0:19:32.98,Default,,0000,0000,0000,,{\i1}Mais bon,\Nen parlant à Akebi c’jour-là,{\i0}
+Dialogue: 0,0:19:33.10,0:19:36.36,Default,,0000,0000,0000,,{\i1}j’ai vu\Nqu’une autre fille qu’moi stressait,{\i0}
+Dialogue: 0,0:19:36.52,0:19:38.44,Default,,0000,0000,0000,,{\i1}alors j’ai tenu l’coup à l’exam.{\i0}
+Dialogue: 0,0:19:39.44,0:19:42.82,Default,,0000,0000,0000,,On fait quoi, Ôkuma ?\NJ’ai trouvé un autre sujet.
+Dialogue: 0,0:19:43.28,0:19:45.95,Default,,0000,0000,0000,,À ce stade, tu dois avoir un don.
+Dialogue: 0,0:19:51.08,0:19:52.50,Default,,0000,0000,0000,,Bon, j’vous laisse.
+Dialogue: 0,0:19:52.62,0:19:53.25,Default,,0000,0000,0000,,OK.
+Dialogue: 0,0:19:56.59,0:19:58.59,Default,,0000,0000,0000,,Akebi Komichi…
+Dialogue: 0,0:20:00.76,0:20:01.80,Default,,0000,0000,0000,,Je…
+Dialogue: 0,0:20:03.59,0:20:05.64,Default,,0000,0000,0000,,J’espère qu’on s’entendra bien !
+Dialogue: 0,0:20:08.68,0:20:10.98,Default,,0000,0000,0000,,Oui, moi aussi !
+Dialogue: 0,0:20:23.66,0:20:28.49,Default,,0000,0000,0000,,Tôgeguchi attendait aussi\Nle bon moment pour te parler.
+Dialogue: 0,0:20:29.79,0:20:32.25,Default,,0000,0000,0000,,J’aurais préféré le savoir plus tôt.
+Dialogue: 0,0:20:39.75,0:20:42.05,Default,,0000,0000,0000,,On a rencontré quelques difficultés,
+Dialogue: 0,0:20:42.22,0:20:45.93,Default,,0000,0000,0000,,mais la mission d’observation du jour\Nest une réussite.
+Dialogue: 0,0:20:46.09,0:20:46.89,Default,,0000,0000,0000,,Oui !
+Dialogue: 0,0:20:47.05,0:20:51.14,Default,,0000,0000,0000,,Je suis contente d’avoir vu\Nles différentes facettes des autres.
+Dialogue: 0,0:20:51.89,0:20:53.02,Default,,0000,0000,0000,,Alors merci !
+Dialogue: 0,0:20:53.85,0:20:57.65,Default,,0000,0000,0000,,Je pensais pas pouvoir discuter\Ncomme ça avec toi.
+Dialogue: 0,0:20:57.81,0:21:01.57,Default,,0000,0000,0000,,Passer la journée à tes côtés\Nm’aura appris des choses.
+Dialogue: 0,0:21:02.53,0:21:03.53,Default,,0000,0000,0000,,Alors bon,
+Dialogue: 0,0:21:04.57,0:21:06.28,Default,,0000,0000,0000,,c’est moi qui te remercie.
+Dialogue: 0,0:21:08.12,0:21:09.41,Default,,0000,0000,0000,,Pour tout te dire,
+Dialogue: 0,0:21:10.16,0:21:15.00,Default,,0000,0000,0000,,ça fait un moment\Nque je voulais parler avec toi.
+Dialogue: 0,0:21:17.58,0:21:22.38,Default,,0000,0000,0000,,Je me demandais toujours pourquoi\Ntu m’espionnais sans cesse.
+Dialogue: 0,0:21:24.42,0:21:25.93,Default,,0000,0000,0000,,Tu m’avais repérée ?
+Dialogue: 0,0:21:26.34,0:21:30.97,Default,,0000,0000,0000,,Mais aujourd’hui,\Nj’ai découvert plein de choses sur toi.
+Dialogue: 0,0:21:31.14,0:21:34.43,Default,,0000,0000,0000,,Tu connais bien les animaux,\Ntu es douée en dessin…
+Dialogue: 0,0:21:37.06,0:21:39.44,Default,,0000,0000,0000,,Tu sais un tas de choses\Nque j’ignore,
+Dialogue: 0,0:21:39.61,0:21:42.19,Default,,0000,0000,0000,,alors j’espère\Nque tu m’en apprendras plus.
+Dialogue: 0,0:21:53.29,0:21:57.37,Default,,0000,0000,0000,,Ça te dirait d’aller observer\Nles insectes avec moi, un jour ?
+Dialogue: 0,0:22:00.79,0:22:02.17,Default,,0000,0000,0000,,Oui, bien sûr.
+Dialogue: 0,0:22:02.67,0:22:07.34,Default,,0000,0000,0000,,Super ! Merci, Ôkuma !
+Dialogue: 0,0:23:23.71,0:23:28.63,Default,,0000,0000,0000,,Supervision du projet : Nina Trommer\NRepérage : Stephanie Leborgne
+Dialogue: 0,0:23:29.01,0:23:33.93,Default,,0000,0000,0000,,Traduction : Benjamin Moro\NRelecture : Marion Sals
+Dialogue: 0,0:23:34.51,0:23:38.18,Default,,0000,0000,0000,,Publication : Jelizaveta Stolarova\NWAKANIM

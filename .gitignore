@@ -1,0 +1,23 @@
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Blu-ray Disc files #
+######################
+archive/**/BDMV/AUXDATA
+archive/**/BDMV/BACKUP
+archive/**/BDMV/BDJO
+archive/**/BDMV/CLIPINF
+archive/**/BDMV/JAR
+archive/**/BDMV/STREAM
+archive/**/CERTIFICATE
+
+# fonts #
+#########
+archive/**/fonts

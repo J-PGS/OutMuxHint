@@ -1,0 +1,405 @@
+﻿[Script Info]
+Title: English (US)
+Original Script: aniplex  [http://www.crunchyroll.com/user/aniplex]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,0010,0010,0010,1
+Style: main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: italicstop,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: flashback,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: flashback italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: flashbacktop,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,0,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0018,0
+Style: flashbackitalicstop,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: sign_3383_32_Akebi_s_Sailor_U,Georgia,40,&H00000000,&H000000FF,&H00E9E9E9,&H00E9E9E9,-1,0,0,0,100,100,0,0,1,0,3,1,0030,0030,0020,1
+Style: sign_3520_34_Episode_One__The,Georgia,11,&H32000000,&H000000FF,&HC8FFFFFF,&HC8FFFFFF,0,0,0,0,100,100,0,0,1,1,1,8,0030,0030,0020,1
+Style: sign_4364_45_Great_work__Cong,Arial,23,&H00A18470,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,1,0030,0030,0020,1
+Style: sign_8397_117_Fabrics_Store_Ni,Verdana,12,&H0077CA7F,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,2,0030,0030,0020,1
+Style: sign_8397_118_Car_Rental,Arial,15,&H00BCAAE9,&H000000FF,&H7D000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,1,1,0030,0030,0020,1
+Style: sign_8979_128_Chambray,Arial,9,&H00A0A2A2,&H000000FF,&H00F4F6F6,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,1,0030,0030,0020,1
+Style: sign_17263_208_Roubai_Academy_M,Times New Roman,10,&H00524B43,&H000000FF,&H00EAEDEC,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,7,0030,0030,0020,1
+Style: sign_20093_244_Middle_School_En,Times New Roman,15,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,7,0030,0030,0020,1
+Style: sign_24797_279_Roubai_Academy,Times New Roman,15,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,2,0030,0030,0020,1
+Style: sign_25474_283_New_First_Years_,Trebuchet MS,22,&H003B2F2D,&H000000FF,&H00BB9193,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,7,0030,0030,0020,1
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:16.37,0:00:17.75,main,Komichi,0000,0000,0000,,Hey!
+Dialogue: 0,0:00:17.75,0:00:20.74,main,Komichi,0000,0000,0000,,Good morning!
+Dialogue: 0,0:00:52.58,0:00:54.69,italics,Komichi,0000,0000,0000,,If I can be like the idol, Miki-chan,
+Dialogue: 0,0:00:56.23,0:00:58.50,italics,Komichi,0000,0000,0000,,and be just as cool and successful
+Dialogue: 0,0:00:59.71,0:01:00.85,italics,Komichi,0000,0000,0000,,when I
+Dialogue: 0,0:01:01.58,0:01:03.40,italics,Komichi,0000,0000,0000,,start at my new school...
+Dialogue: 0,0:01:07.69,0:01:09.50,italics,Komichi,0000,0000,0000,,I can make lots...
+Dialogue: 0,0:01:09.50,0:01:10.58,italics,Komichi,0000,0000,0000,,and lots...
+Dialogue: 0,0:01:10.75,0:01:12.44,italics,Komichi,0000,0000,0000,,and lots...
+Dialogue: 0,0:01:17.06,0:01:18.27,italics,Komichi,0000,0000,0000,,of friends!
+Dialogue: 0,0:01:20.26,0:01:21.58,italics,Komichi,0000,0000,0000,,Yes!
+Dialogue: 0,0:01:21.58,0:01:22.73,italics,Komichi,0000,0000,0000,,I did it!
+Dialogue: 0,0:01:27.37,0:01:30.26,main,Komichi,0000,0000,0000,,Wow, this water's cold.
+Dialogue: 0,0:01:30.26,0:01:32.63,main,Taira,0000,0000,0000,,I wondered who I just saw fall down there.
+Dialogue: 0,0:01:34.24,0:01:35.81,main,Komichi,0000,0000,0000,,Hi, Taira-san!
+Dialogue: 0,0:01:35.81,0:01:37.08,main,Taira,0000,0000,0000,,Should've known it was you, Komichi.
+Dialogue: 0,0:01:37.38,0:01:39.61,main,Komichi,0000,0000,0000,,Oh, I was just, uh...
+Dialogue: 0,0:01:39.61,0:01:42.21,main,Komichi,0000,0000,0000,,practicing swimming while fully clothed.
+Dialogue: 0,0:01:43.32,0:01:46.15,main,Taira,0000,0000,0000,,I'll give you a lift home. Hop in the back.
+Dialogue: 0,0:01:48.74,0:01:51.61,main,Taira,0000,0000,0000,,I hear you got into the middle \Nschool you tested for.
+Dialogue: 0,0:01:51.61,0:01:53.55,main,Komichi,0000,0000,0000,,Yeah, Roubai Academy.
+Dialogue: 0,0:01:53.55,0:01:55.60,main,Akebi,0000,0000,0000,,It's a private school!
+Dialogue: 0,0:01:55.60,0:01:59.36,main,Taira,0000,0000,0000,,I heard it's a tough school. \NDidn't your mother go there?
+Dialogue: 0,0:01:59.36,0:02:03.08,main,Komichi,0000,0000,0000,,Yeah. That's why I'm so happy I got in!
+Dialogue: 0,0:02:03.08,0:02:04.82,main,Taira,0000,0000,0000,,Are you, now?
+Dialogue: 0,0:02:04.82,0:02:08.28,main,Komichi,0000,0000,0000,,They say each class has more \Nthan ten students in it!
+Dialogue: 0,0:02:08.28,0:02:10.42,main,Komichi,0000,0000,0000,,I can't even imagine it!
+Dialogue: 0,0:02:10.82,0:02:12.70,main,Taira,0000,0000,0000,,Well, you were always the \Nonly kid in your class
+Dialogue: 0,0:02:12.70,0:02:14.90,main,Taira,0000,0000,0000,,back at Futaba Elementary.
+Dialogue: 0,0:02:15.57,0:02:16.94,main,Taira,0000,0000,0000,,Good for you!
+Dialogue: 0,0:02:18.88,0:02:19.74,main,Komichi,0000,0000,0000,,Yeah!
+Dialogue: 0,0:02:21.07,0:02:26.00,sign_3383_32_Akebi_s_Sailor_U,Title,0000,0000,0000,,{\move(70,100,73,100)\fad(2156,1)\fsp.5\t(1,2156,\fsp0)}Akebi's Sailor Uniform
+Dialogue: 0,0:02:26.42,0:02:28.38,main,Komichi,0000,0000,0000,,Thank you!
+Dialogue: 0,0:02:26.79,0:02:30.58,sign_3520_34_Episode_One__The,Title,0000,0000,0000,,{\pos(510,75)\fad(482,430)}Episode One \NThe Sailor Uniform I Always Wanted
+Dialogue: 0,0:02:37.54,0:02:39.33,main,Komichi,0000,0000,0000,,I-I'm home.
+Dialogue: 0,0:02:39.71,0:02:42.13,main,Kao,0000,0000,0000,,Mom, Onee-chan's home!
+Dialogue: 0,0:02:43.82,0:02:44.97,main,Yuwa,0000,0000,0000,,Hmm...
+Dialogue: 0,0:02:45.57,0:02:48.23,main,Yuwa,0000,0000,0000,,Her footsteps sound a bit fishy, don't they?
+Dialogue: 0,0:02:48.23,0:02:49.96,main,Kao,0000,0000,0000,,I'll go look!
+Dialogue: 0,0:02:52.31,0:02:54.56,main,Yuwa,0000,0000,0000,,You're such a tomboy!
+Dialogue: 0,0:02:54.98,0:02:56.51,main,Yuwa,0000,0000,0000,,Who did you take after, anyway?
+Dialogue: 0,0:02:57.37,0:02:58.28,main,Yuwa,0000,0000,0000,,Oh, right.
+Dialogue: 0,0:02:58.63,0:03:01.16,main,Yuwa,0000,0000,0000,,Your dad sent a message to congratulate you.
+Dialogue: 0,0:03:01.16,0:03:01.99,main,Komichi,0000,0000,0000,,Really?
+Dialogue: 0,0:03:01.99,0:03:04.03,sign_4364_45_Great_work__Cong,Text,0000,0000,0000,,{\frz14.96\pos(190,145)}Great {\c&HA68A71&}wor{\c&H997F61&}k!\NCong{\c&HA8896E&}ratul{\c&H997F61&}ations{\c&H957A59&}!
+Dialogue: 0,0:03:04.03,0:03:04.07,sign_4364_45_Great_work__Cong,Text,0000,0000,0000,,{\frz14.96\pos(165,60)}Great {\c&HA68A71&}wor{\c&H997F61&}k!\NCong{\c&HA8896E&}ratul{\c&H997F61&}ations{\c&H957A59&}!
+Dialogue: 0,0:03:04.07,0:03:04.12,sign_4364_45_Great_work__Cong,Text,0000,0000,0000,,{\frz14.96\pos(210,255)\c&H957E6D&}But if {\c&HA07F5F&}you fa{\c&H92806E&}ll asle{\c&H9A7C5F&}ep at {\c&H8A6C61&}your {\c&H756359&}desk,\N{\c&H957E6D&}you'll {\c&HA07F5F&}catch {\c&H92806E&}a cold{\c&H9A7C5F&}.
+Dialogue: 0,0:03:04.12,0:03:04.16,sign_4364_45_Great_work__Cong,Text,0000,0000,0000,,{\frz14.96\pos(187,190)\c&H957E6D&}But if {\c&HA07F5F&}you fa{\c&H92806E&}ll asle{\c&H9A7C5F&}ep at {\c&H8A6C61&}your {\c&H756359&}desk,\N{\c&H957E6D&}you'll {\c&HA07F5F&}catch {\c&H92806E&}a cold{\c&H9A7C5F&}.
+Dialogue: 0,0:03:04.16,0:03:04.20,sign_4364_45_Great_work__Cong,Text,0000,0000,0000,,{\frz14.96\pos(183,163)\c&H957E6D&}But if {\c&HA07F5F&}you fa{\c&H92806E&}ll asle{\c&H9A7C5F&}ep at {\c&H8A6C61&}your {\c&H756359&}desk,\N{\c&H957E6D&}you'll {\c&HA07F5F&}catch {\c&H92806E&}a cold{\c&H9A7C5F&}.
+Dialogue: 0,0:03:04.20,0:03:06.49,sign_4364_45_Great_work__Cong,Text,0000,0000,0000,,{\frz14.96\pos(183,155)\c&H957E6D&}But if {\c&HA07F5F&}you fa{\c&H92806E&}ll asle{\c&H9A7C5F&}ep at {\c&H8A6C61&}your {\c&H756359&}desk,\N{\c&H957E6D&}you'll {\c&HA07F5F&}catch {\c&H92806E&}a cold{\c&H9A7C5F&}.
+Dialogue: 0,0:03:05.71,0:03:06.49,main,Komichi,0000,0000,0000,,Huh?
+Dialogue: 0,0:03:06.67,0:03:09.74,main,Komichi,0000,0000,0000,,How does Dad know about that? He didn't see me.
+Dialogue: 0,0:03:10.72,0:03:13.14,main,Yuwa,0000,0000,0000,,Try scrolling up.
+Dialogue: 0,0:03:13.38,0:03:13.42,sign_4364_45_Great_work__Cong,Text,0000,0000,0000,,{\an7\pos(90,145)\fs13\c&H4E4C43&}\hSaved them all\NNice!
+Dialogue: 0,0:03:13.38,0:03:13.42,sign_4364_45_Great_work__Cong,Text,0000,0000,0000,,{\pos(265,305)\c&H5A3944&}Read
+Dialogue: 0,0:03:13.42,0:03:13.46,sign_4364_45_Great_work__Cong,Text,0000,0000,0000,,{\an7\pos(90,195)\fs13\c&H4E4C43&}\hSaved them all \NNice!
+Dialogue: 0,0:03:13.42,0:03:13.46,sign_4364_45_Great_work__Cong,Text,0000,0000,0000,,{\pos(265,355)\c&H5A3944&}Read
+Dialogue: 0,0:03:13.46,0:03:13.54,sign_4364_45_Great_work__Cong,Text,0000,0000,0000,,{\an7\pos(90,275)\fs13\c&H4E4C43&}\hSaved them all \NNice!
+Dialogue: 0,0:03:14.22,0:03:14.94,main,Komichi,0000,0000,0000,,Huh?
+Dialogue: 0,0:03:16.02,0:03:16.82,main,Komichi,0000,0000,0000,,Huh?!
+Dialogue: 0,0:03:17.57,0:03:18.62,main,Komichi,0000,0000,0000,,Huh?!
+Dialogue: 0,0:03:19.34,0:03:21.38,sign_4364_45_Great_work__Cong,Text,0000,0000,0000,,{\an7\pos(90,145)\fs13\c&H4E4C43&\fad(526,1)}\hSaved them all\NNice!
+Dialogue: 0,0:03:19.48,0:03:21.38,top,Komichi,0000,0000,0000,,What?!
+Dialogue: 0,0:03:19.59,0:03:21.38,sign_4364_45_Great_work__Cong,Text,0000,0000,0000,,{\pos(265,305)\c&H5A3944&\fad(276,1)}Read
+Dialogue: 0,0:03:21.38,0:03:24.19,main,Komichi,0000,0000,0000,,My parents are taking sneak \Nshots of their daughter!
+Dialogue: 0,0:03:24.19,0:03:25.25,main,Yuwa/Kao,0000,0000,0000,,Yay!
+Dialogue: 0,0:03:26.08,0:03:28.84,main,Komichi,0000,0000,0000,,I can't trust anyone anymore...
+Dialogue: 0,0:03:32.84,0:03:34.59,main,Komichi,0000,0000,0000,,Hi, Dad?
+Dialogue: 0,0:03:35.14,0:03:37.55,main,Komichi,0000,0000,0000,,Yeah. How was work?
+Dialogue: 0,0:03:39.23,0:03:40.46,main,Komichi,0000,0000,0000,,Uh-huh...
+Dialogue: 0,0:03:41.31,0:03:44.23,main,Komichi,0000,0000,0000,,Maybe so, but I wasn't \Nsleeping the {\i1}whole{\i0} time!
+Dialogue: 0,0:03:44.23,0:03:44.94,main,Yuwa,0000,0000,0000,,That's your complaint?
+Dialogue: 0,0:03:45.20,0:03:47.26,main,Komichi,0000,0000,0000,,I was studying!
+Dialogue: 0,0:03:47.85,0:03:51.75,main,Komichi,0000,0000,0000,,You'd better save some cuter \Npictures of me next time.
+Dialogue: 0,0:03:54.35,0:03:54.96,main,Komichi,0000,0000,0000,,Oh...
+Dialogue: 0,0:03:55.38,0:03:57.21,main,Komichi,0000,0000,0000,,I just thought of something...
+Dialogue: 0,0:03:57.21,0:03:58.97,main,Komichi,0000,0000,0000,,but it's a secret for now.
+Dialogue: 0,0:03:59.32,0:04:00.04,main,Komichi,0000,0000,0000,,Uh-huh.
+Dialogue: 0,0:04:00.63,0:04:02.64,main,Komichi,0000,0000,0000,,Okay. Got it.
+Dialogue: 0,0:04:02.64,0:04:03.91,main,Komichi,0000,0000,0000,,Talk to you later, then.
+Dialogue: 0,0:04:05.04,0:04:06.44,main,Kao,0000,0000,0000,,What'd he say?
+Dialogue: 0,0:04:06.44,0:04:09.78,main,Komichi,0000,0000,0000,,That he'll do his best at work, \Nso he can be home by next month.
+Dialogue: 0,0:04:10.11,0:04:12.02,main,Kao,0000,0000,0000,,Yay!
+Dialogue: 0,0:04:13.40,0:04:16.96,main,Yuwa,0000,0000,0000,,Well, then, ready for the thing \Nyou've been waiting for?
+Dialogue: 0,0:04:15.64,0:04:17.57,top,Kao,0000,0000,0000,,Yay! Yay!
+Dialogue: 0,0:04:17.57,0:04:18.36,main,Komichi,0000,0000,0000,,Yeah.
+Dialogue: 0,0:04:19.95,0:04:25.40,flashback,Komichi,0000,0000,0000,,I chose Roubai Academy because I've \Nalways wanted to wear a sailor uniform!
+Dialogue: 0,0:04:27.39,0:04:30.74,italics,Komichi,0000,0000,0000,,I was really nervous at \Nmy exam and interview,
+Dialogue: 0,0:04:32.47,0:04:35.16,italics,Komichi,0000,0000,0000,,but now I finally get to wear one!
+Dialogue: 0,0:04:37.43,0:04:41.05,italics,Komichi,0000,0000,0000,,I wonder if even someone like \Nme can look good in one.
+Dialogue: 0,0:04:43.80,0:04:46.17,main,Kao,0000,0000,0000,,Stand up straight! She can't measure you!
+Dialogue: 0,0:04:46.52,0:04:48.32,main,Komichi,0000,0000,0000,,Wh-What do you think?
+Dialogue: 0,0:04:48.32,0:04:49.42,main,Yuwa,0000,0000,0000,,Hmm...
+Dialogue: 0,0:04:50.04,0:04:51.42,main,Yuwa,0000,0000,0000,,You've gained weight.
+Dialogue: 0,0:04:51.42,0:04:52.50,main,Komichi,0000,0000,0000,,What?!
+Dialogue: 0,0:04:52.77,0:04:55.35,main,Yuwa,0000,0000,0000,,You did spend a lot of time \Nsitting down to study.
+Dialogue: 0,0:04:55.35,0:04:57.68,main,Komichi,0000,0000,0000,,No! No way! I'll drop the weight! I swear!
+Dialogue: 0,0:04:57.68,0:05:00.01,main,Yuwa,0000,0000,0000,,Get changed. It's time to go.
+Dialogue: 0,0:05:00.01,0:05:01.09,main,Kao,0000,0000,0000,,Time to go!
+Dialogue: 0,0:05:01.09,0:05:03.82,main,Komichi,0000,0000,0000,,Measure me again later!
+Dialogue: 0,0:05:05.86,0:05:09.17,main,Komichi,0000,0000,0000,,I mean, you're going to all the \Ntrouble of making it for me.
+Dialogue: 0,0:05:09.17,0:05:11.16,main,Komichi,0000,0000,0000,,I can't let it go to waste.
+Dialogue: 0,0:05:11.16,0:05:14.85,main,Kao,0000,0000,0000,,Even in her sleep, all she's been \Ntalking about is sailor uniforms.
+Dialogue: 0,0:05:14.85,0:05:15.61,main,Komichi,0000,0000,0000,,Kao!
+Dialogue: 0,0:05:15.61,0:05:17.56,main,Kao,0000,0000,0000,,She was yapping so much, I couldn't sleep.
+Dialogue: 0,0:05:19.23,0:05:22.22,main,Yuwa,0000,0000,0000,,Well, wearing a sailor uniform \Nhas always been your dream.
+Dialogue: 0,0:05:23.38,0:05:24.42,main,Komichi,0000,0000,0000,,Yeah!
+Dialogue: 0,0:05:24.42,0:05:27.17,main,Yuwa,0000,0000,0000,,So I really have to do a good job on it.
+Dialogue: 0,0:05:27.60,0:05:31.65,main,Komichi,0000,0000,0000,,What were the kids at Roubai \NAcademy like when you were there?
+Dialogue: 0,0:05:31.65,0:05:33.74,main,Yuwa,0000,0000,0000,,A lot of them were really interesting.
+Dialogue: 0,0:05:33.74,0:05:37.32,main,Yuwa,0000,0000,0000,,There were a lot of rich, classy kids, too.
+Dialogue: 0,0:05:37.32,0:05:39.23,main,Komichi,0000,0000,0000,,The total opposite of me!
+Dialogue: 0,0:05:39.23,0:05:41.20,main,Komichi,0000,0000,0000,,Will I even be able to talk to them?
+Dialogue: 0,0:05:41.20,0:05:43.20,main,Yuwa,0000,0000,0000,,I went in every day thinking, \N"Time to flip the hierarchy!"
+Dialogue: 0,0:05:43.20,0:05:45.30,main,Yuwa,0000,0000,0000,,Like I was preparing for war.
+Dialogue: 0,0:05:49.16,0:05:52.66,main,Komichi,0000,0000,0000,,But I'm not as strong as you are, Mom.
+Dialogue: 0,0:05:50.20,0:05:55.20,sign_8397_117_Fabrics_Store_Ni,Text,0000,0000,0000,,{\pos(182,55)}Fabrics Store Nihori
+Dialogue: 0,0:05:50.20,0:05:55.20,sign_8397_118_Car_Rental,Text,0000,0000,0000,,{\clip(511,58,613,64)\pos(515,75)\fsp3\c&HBCAAE9&}Car Rental
+Dialogue: 0,0:05:50.20,0:05:55.20,sign_8397_118_Car_Rental,Text,0000,0000,0000,,{\clip(511,64,613,70)\pos(515,75)\fsp3\c&HAB98E2&}Car Rental
+Dialogue: 0,0:05:50.20,0:05:55.20,sign_8397_118_Car_Rental,Text,0000,0000,0000,,{\clip(511,70,613,76)\pos(515,75)\fsp3\c&H9B85DB&}Car Rental
+Dialogue: 0,0:05:50.20,0:05:55.20,sign_8397_118_Car_Rental,Text,0000,0000,0000,,{\clip(511,76,613,82)\pos(515,75)\fsp3\c&H8A73D4&}Car Rental
+Dialogue: 0,0:05:53.36,0:05:55.20,main,Yuwa,0000,0000,0000,,Just be who you are, Komichi.
+Dialogue: 0,0:05:55.20,0:05:58.13,main,Yuwa,0000,0000,0000,,All you need is confidence and a smile.
+Dialogue: 0,0:05:59.81,0:06:02.65,main,Yuwa,0000,0000,0000,,Okay, let's look for some fabric.
+Dialogue: 0,0:06:03.94,0:06:06.46,main,Komichi,0000,0000,0000,,There are so many bolts of fabric!
+Dialogue: 0,0:06:11.25,0:06:13.09,main,Komichi,0000,0000,0000,,One of these is going to be my...
+Dialogue: 0,0:06:13.09,0:06:13.91,main,Yuwa,0000,0000,0000,,Here it is!
+Dialogue: 0,0:06:14.47,0:06:17.48,sign_8979_128_Chambray,Text,0000,0000,0000,,{\frz5.19\fax-0.05\pos(105,35)}Chambray
+Dialogue: 0,0:06:14.47,0:06:17.48,sign_8979_128_Chambray,Text,0000,0000,0000,,{\frz5.62\fax-0.14\pos(275,25)\fsp2}Denim {middle}
+Dialogue: 0,0:06:14.47,0:06:17.48,sign_8979_128_Chambray,Text,0000,0000,0000,,{\frz4.61\fax-0.08\fsp2\pos(529,24)}Serge/\N\hGabardine {right}
+Dialogue: 0,0:06:14.64,0:06:15.66,main,Komichi,0000,0000,0000,,That was quick!
+Dialogue: 0,0:06:15.66,0:06:17.49,main,Yuwa,0000,0000,0000,,This is a type of fabric called "serge."
+Dialogue: 0,0:06:17.72,0:06:21.22,main,Yuwa,0000,0000,0000,,We'll make the sailor collar, \Nskirt, and cuffs from this.
+Dialogue: 0,0:06:22.33,0:06:24.92,main,Komichi,0000,0000,0000,,This is gonna become my sailor suit!
+Dialogue: 0,0:06:27.23,0:06:29.24,main,Yuwa,0000,0000,0000,,And this one is called "gabardine."
+Dialogue: 0,0:06:29.24,0:06:31.45,main,Yuwa,0000,0000,0000,,We'll use it for the body and sleeves.
+Dialogue: 0,0:06:31.45,0:06:33.87,main,Yuwa,0000,0000,0000,,There are a few different shades of white.
+Dialogue: 0,0:06:34.11,0:06:35.78,main,Yuwa,0000,0000,0000,,That's just a matter of preference.
+Dialogue: 0,0:06:35.78,0:06:38.62,main,Komichi,0000,0000,0000,,I like the bolder one on the left!
+Dialogue: 0,0:06:40.34,0:06:42.83,main,Komichi,0000,0000,0000,,It's so shimmery and smooth!
+Dialogue: 0,0:06:42.83,0:06:45.52,main,Komichi,0000,0000,0000,,Isn't fabric shopping fun, Mom?
+Dialogue: 0,0:06:45.52,0:06:46.66,main,Komichi,0000,0000,0000,,Whoa...
+Dialogue: 0,0:06:46.66,0:06:49.26,main,Yuwa,0000,0000,0000,,I think the ribbon should \Nbe on the larger side.
+Dialogue: 0,0:06:49.26,0:06:50.13,main,Yuwa,0000,0000,0000,,It'll look cute.
+Dialogue: 0,0:06:50.13,0:06:51.02,main,Komichi,0000,0000,0000,,Uh-huh!
+Dialogue: 0,0:06:51.02,0:06:52.76,main,Kao,0000,0000,0000,,Onee-chan, do you need help?
+Dialogue: 0,0:06:52.76,0:06:54.81,main,Komichi,0000,0000,0000,,Nah, I'm totally fine.
+Dialogue: 0,0:06:54.81,0:06:56.99,main,Yuwa,0000,0000,0000,,It's the stripes that make a sailor uniform.
+Dialogue: 0,0:06:56.99,0:06:58.54,main,Komichi,0000,0000,0000,,Wait, wait!
+Dialogue: 0,0:07:00.05,0:07:02.04,main,Komichi,0000,0000,0000,,Mom! I like this one!
+Dialogue: 0,0:07:06.05,0:07:07.65,main,Kao,0000,0000,0000,,You've been humming all day.
+Dialogue: 0,0:07:07.88,0:07:08.55,main,Komichi,0000,0000,0000,,Huh?
+Dialogue: 0,0:07:08.55,0:07:12.08,main,Kao,0000,0000,0000,,It's nice that you're happy, \Nbut think about how I feel.
+Dialogue: 0,0:07:12.54,0:07:14.31,main,Komichi,0000,0000,0000,,Y-You're right.
+Dialogue: 0,0:07:15.32,0:07:17.84,main,Komichi,0000,0000,0000,,You had to be patient and wait \Nthe whole time I was studying.
+Dialogue: 0,0:07:17.84,0:07:18.82,main,Komichi,0000,0000,0000,,I'll be more careful.
+Dialogue: 0,0:07:20.54,0:07:23.98,main,Kao,0000,0000,0000,,You won't be able to go to \Nschool with me anymore.
+Dialogue: 0,0:07:23.98,0:07:25.43,main,Kao,0000,0000,0000,,Doesn't that make you sad?
+Dialogue: 0,0:07:32.63,0:07:35.33,main,Komichi,0000,0000,0000,,Didn't you say you were \Nexcited to go by yourself?
+Dialogue: 0,0:07:35.62,0:07:36.82,main,Kao,0000,0000,0000,,No.
+Dialogue: 0,0:07:36.82,0:07:38.29,main,Komichi,0000,0000,0000,,You did, though...
+Dialogue: 0,0:07:40.78,0:07:43.74,main,Kao,0000,0000,0000,,Well, it makes me kinda sad.
+Dialogue: 0,0:07:48.01,0:07:51.16,main,Komichi,0000,0000,0000,,You'll be in third grade, huh?
+Dialogue: 0,0:07:51.16,0:07:54.20,main,Kao,0000,0000,0000,,And you'll be in your first year again!
+Dialogue: 0,0:07:54.20,0:07:55.95,main,Komichi,0000,0000,0000,,Yep, that's right.
+Dialogue: 0,0:07:56.82,0:08:00.69,main,Komichi,0000,0000,0000,,You know what? I'm just \Nas nervous as I am happy.
+Dialogue: 0,0:08:01.10,0:08:03.42,main,Komichi,0000,0000,0000,,I don't know if I'll be \Nable to make friends.
+Dialogue: 0,0:08:04.23,0:08:06.46,main,Komichi,0000,0000,0000,,A lot of kids from Tokyo go there.
+Dialogue: 0,0:08:06.46,0:08:10.20,main,Komichi,0000,0000,0000,,I can't help wondering if \NI'll be able to keep up.
+Dialogue: 0,0:08:10.20,0:08:12.22,main,Kao,0000,0000,0000,,You don't have to worry about that.
+Dialogue: 0,0:08:13.70,0:08:16.23,main,Kao,0000,0000,0000,,'Cause you're really cool!
+Dialogue: 0,0:08:17.20,0:08:18.30,main,Komichi,0000,0000,0000,,Thanks.
+Dialogue: 0,0:08:18.30,0:08:21.26,main,Kao,0000,0000,0000,,Hey! You don't even believe me, do you?
+Dialogue: 0,0:08:21.83,0:08:23.27,main,Kao,0000,0000,0000,,Believe it!
+Dialogue: 0,0:08:26.22,0:08:28.18,main,Komichi,0000,0000,0000,,Okay. I will.
+Dialogue: 0,0:08:29.83,0:08:32.33,main,Komichi,0000,0000,0000,,We'll both be on our own. Let's do our best.
+Dialogue: 0,0:08:32.33,0:08:33.27,main,Kao,0000,0000,0000,,'Kay!
+Dialogue: 0,0:08:37.21,0:08:38.35,main,Yuwa,0000,0000,0000,,Komichi...
+Dialogue: 0,0:08:39.53,0:08:40.55,main,Yuwa,0000,0000,0000,,Got a minute?
+Dialogue: 0,0:08:41.63,0:08:43.29,main,Komichi,0000,0000,0000,,It's done already?
+Dialogue: 0,0:08:43.29,0:08:44.55,main,Yuwa,0000,0000,0000,,Not yet.
+Dialogue: 0,0:08:44.55,0:08:46.28,main,Yuwa,0000,0000,0000,,This is known as "tacking."
+Dialogue: 0,0:08:46.28,0:08:49.50,main,Yuwa,0000,0000,0000,,We use a different fabric to get all the \Ndetails set before making the real one.
+Dialogue: 0,0:08:50.21,0:08:52.74,main,Komichi,0000,0000,0000,,I didn't know making a \Nuniform was so much work.
+Dialogue: 0,0:09:02.06,0:09:03.30,main,Komichi,0000,0000,0000,,Mom!
+Dialogue: 0,0:09:03.85,0:09:05.60,main,Komichi,0000,0000,0000,,The laundry's done!
+Dialogue: 0,0:09:05.60,0:09:07.80,main,Komichi,0000,0000,0000,,I'll do the cleaning, too!
+Dialogue: 0,0:09:09.13,0:09:11.13,main,Yuwa,0000,0000,0000,,Uh, thanks...
+Dialogue: 0,0:09:12.12,0:09:14.35,main,Komichi,0000,0000,0000,,Mom, I'll do the dishes!
+Dialogue: 0,0:09:14.54,0:09:16.35,main,Komichi,0000,0000,0000,,Mom, I'm almost done!
+Dialogue: 0,0:09:16.65,0:09:18.36,main,Komichi,0000,0000,0000,,Mom!
+Dialogue: 0,0:09:21.21,0:09:23.80,main,Kao,0000,0000,0000,,Onee-chan, you're wasting water!
+Dialogue: 0,0:09:35.79,0:09:36.94,main,Yuwa,0000,0000,0000,,Komichi...
+Dialogue: 0,0:09:37.50,0:09:38.81,main,Yuwa,0000,0000,0000,,Come on over here.
+Dialogue: 0,0:09:50.76,0:09:52.51,main,Yuwa,0000,0000,0000,,And now...
+Dialogue: 0,0:09:53.45,0:09:54.38,main,Yuwa,0000,0000,0000,,It's done.
+Dialogue: 0,0:09:56.31,0:09:57.88,main,Yuwa,0000,0000,0000,,Here, try it on.
+Dialogue: 0,0:10:00.83,0:10:03.55,main,Komichi,0000,0000,0000,,O-Okay.
+Dialogue: 0,0:10:06.54,0:10:07.96,main,Yuwa,0000,0000,0000,,I'll be waiting downstairs.
+Dialogue: 0,0:11:21.52,0:11:24.33,main,Kao,0000,0000,0000,,Hey, I like this one.
+Dialogue: 0,0:11:24.33,0:11:26.00,main,Yuwa,0000,0000,0000,,Don't you think you're a little too young for that?
+Dialogue: 0,0:11:26.00,0:11:27.54,main,Kao,0000,0000,0000,,It's fine!
+Dialogue: 0,0:11:34.25,0:11:36.66,main,Kao,0000,0000,0000,,Onee-chan, you look so cool!
+Dialogue: 0,0:11:40.52,0:11:42.47,main,Yuwa,0000,0000,0000,,Komichi, does it fit okay?
+Dialogue: 0,0:11:43.82,0:11:44.65,main,Komichi,0000,0000,0000,,Yeah...
+Dialogue: 0,0:11:48.63,0:11:49.46,main,Komichi,0000,0000,0000,,Yeah.
+Dialogue: 0,0:11:52.54,0:11:53.85,main,Komichi,0000,0000,0000,,Thank you.
+Dialogue: 0,0:11:59.99,0:12:01.99,sign_17263_208_Roubai_Academy_M,Text,0000,0000,0000,,{\pos(125,20)}Roubai Academy Middle School \N{\fs15}Entrance Ceremony
+Dialogue: 0,0:12:02.63,0:12:05.70,main,Yuwa,0000,0000,0000,,A few things have changed, \Nbut it really brings back memories.
+Dialogue: 0,0:12:06.89,0:12:09.25,main,Komichi,0000,0000,0000,,I'm so nervous.
+Dialogue: 0,0:12:10.37,0:12:12.93,main,Komichi,0000,0000,0000,,I wonder if she's a new student... Wait...
+Dialogue: 0,0:12:14.46,0:12:15.07,main,Komichi,0000,0000,0000,,Huh?
+Dialogue: 0,0:12:16.27,0:12:17.59,main,Komichi,0000,0000,0000,,Blazers?
+Dialogue: 0,0:12:18.34,0:12:19.08,main,Yuwa,0000,0000,0000,,Komichi...
+Dialogue: 0,0:12:19.50,0:12:22.32,main,Yuwa,0000,0000,0000,,Is there some other event going on today?
+Dialogue: 0,0:12:22.32,0:12:24.18,main,Komichi,0000,0000,0000,,N-No...
+Dialogue: 0,0:12:25.95,0:12:29.34,main,Principal,0000,0000,0000,,Allow me to congratulate you all on \Nyour acceptance into this school.
+Dialogue: 0,0:12:29.66,0:12:33.64,main,Principal,0000,0000,0000,,As of today, you are all \Nstudents of Roubai Academy.
+Dialogue: 0,0:12:33.64,0:12:35.35,italics,Yuwa,0000,0000,0000,,Komichi!
+Dialogue: 0,0:12:34.09,0:12:38.35,top,Principal,0000,0000,0000,,For many years, this school has prepared \Nmany excellent students for...
+Dialogue: 0,0:12:35.35,0:12:38.16,italics,Komichi,0000,0000,0000,,Mom!
+Dialogue: 0,0:12:42.57,0:12:43.92,main,Yuwa,0000,0000,0000,,We're back.
+Dialogue: 0,0:12:44.64,0:12:45.82,main,Kao,0000,0000,0000,,Welcome home!
+Dialogue: 0,0:12:46.18,0:12:48.71,main,Kao,0000,0000,0000,,Onee-chan, how'd it go?
+Dialogue: 0,0:12:48.71,0:12:50.30,main,Komichi,0000,0000,0000,,Sorry, not now.
+Dialogue: 0,0:12:51.88,0:12:53.32,main,Kao,0000,0000,0000,,What's wrong with her?
+Dialogue: 0,0:12:53.72,0:12:57.14,flashback,Yuwa,0000,0000,0000,,I'm so sorry I didn't confirm \Nwhat the uniform was first!
+Dialogue: 0,0:12:57.14,0:13:00.30,flashback,Principal,0000,0000,0000,,Well, the students did wear sailor \Nuniforms when you attended here.
+Dialogue: 0,0:13:00.30,0:13:01.64,flashback,Principal,0000,0000,0000,,It's quite understandable.
+Dialogue: 0,0:13:01.64,0:13:08.40,flashback,Principal,0000,0000,0000,,Besides, we've known since the interview that \NKomichi-san dreamed of wearing a sailor uniform.
+Dialogue: 0,0:13:08.40,0:13:12.81,flashback,Principal,0000,0000,0000,,It's our fault for not \Ninforming her at that time.
+Dialogue: 0,0:13:14.92,0:13:17.87,flashback,Principal,0000,0000,0000,,I understand Yuwa-san made it for you?
+Dialogue: 0,0:13:18.08,0:13:21.85,flashback,Komichi,0000,0000,0000,,Yes! We picked out the \Nfabrics together, and...
+Dialogue: 0,0:13:22.71,0:13:23.86,flashback,Principal,0000,0000,0000,,I see.
+Dialogue: 0,0:13:24.33,0:13:27.31,flashback,Principal,0000,0000,0000,,My mother made my school uniform, too.
+Dialogue: 0,0:13:27.31,0:13:29.83,flashback,Principal,0000,0000,0000,,It made me so very happy.
+Dialogue: 0,0:13:31.78,0:13:33.45,flashback,Principal,0000,0000,0000,,Considering the circumstances,
+Dialogue: 0,0:13:33.45,0:13:37.90,flashback,Principal,0000,0000,0000,,the school will permit Komichi-san \Nto wear her sailor uniform.
+Dialogue: 0,0:13:37.90,0:13:39.24,flashback,Tamura,0000,0000,0000,,Principal?!
+Dialogue: 0,0:13:39.24,0:13:42.95,flashback,Principal,0000,0000,0000,,It is an accepted uniform of this school,\N albeit one from the past.
+Dialogue: 0,0:13:42.95,0:13:45.10,flashback,Principal,0000,0000,0000,,We have no reason to forbid it.
+Dialogue: 0,0:13:45.48,0:13:51.02,flashback,Principal,0000,0000,0000,,But I will leave the final decision \Nto Komichi-san and her family.
+Dialogue: 0,0:13:53.39,0:13:56.86,italics,Komichi,0000,0000,0000,,It'll only be me. That's just...
+Dialogue: 0,0:13:58.02,0:14:00.27,sign_20093_244_Middle_School_En,Text,0000,0000,0000,,{\c&H0F3A5F&\3c&H407EA8&}Middle School Entrance Exams 76:  {\3c&H16217D&\c&H001032&}Roubai Academy Middle School\N{\b0\fnVerdana\c&H0E3155&\3c&H356B98&} Science: {\c&H0C2B3E&}Memorization Check\N{\fnTrebuchet MS\c&H0A2441&\3c&H3277A0&} Getting Along Well With Other People\N{\b1\c&H132C71&\3c&H4D6B7F&}Sewing {\c&H0B2A3D&}for Beginners\N {\fnArial\c&H4D748F&\3c&H253400&}Marine Field Guide: Creatures of the Sea\N{\fnVerdana\b0\c&H001A41&\3c&H073B7F&} Reptiles and Amphibians of Japan
+Dialogue: 0,0:14:07.47,0:14:09.76,main,Kao,0000,0000,0000,,Your congratulatory dinner is ready.
+Dialogue: 0,0:14:10.83,0:14:12.60,main,Kao,0000,0000,0000,,You get two egg yolks.
+Dialogue: 0,0:14:13.31,0:14:15.25,main,Komichi,0000,0000,0000,,Kao, did you hear what happened?
+Dialogue: 0,0:14:15.25,0:14:16.10,main,Kao,0000,0000,0000,,Yep.
+Dialogue: 0,0:14:16.70,0:14:19.06,main,Komichi,0000,0000,0000,,Blazers are cute too, aren't they?
+Dialogue: 0,0:14:24.12,0:14:25.06,main,Komichi,0000,0000,0000,,Ow!
+Dialogue: 0,0:14:25.06,0:14:26.85,main,Komichi,0000,0000,0000,,Wh-What was that for?!
+Dialogue: 0,0:14:28.52,0:14:31.21,main,Kao,0000,0000,0000,,So now you hate the sailor \Nuniform Mom made for you?!
+Dialogue: 0,0:14:31.21,0:14:33.41,main,Komichi,0000,0000,0000,,I never said that!
+Dialogue: 0,0:14:34.25,0:14:36.32,main,Kao,0000,0000,0000,,You're not cool anymore!
+Dialogue: 0,0:14:36.32,0:14:37.93,main,Kao,0000,0000,0000,,Stupid sister!
+Dialogue: 0,0:14:42.96,0:14:46.73,main,Komichi,0000,0000,0000,,I swear, it's not like that!
+Dialogue: 0,0:14:49.99,0:14:52.53,main,Komichi,0000,0000,0000,,I don't hate it. I love it.
+Dialogue: 0,0:14:53.17,0:14:56.07,main,Komichi,0000,0000,0000,,But I don't want everyone \Nto think I'm weird.
+Dialogue: 0,0:14:56.55,0:14:59.07,flashback,Kao,0000,0000,0000,,'Cause you're really cool!
+Dialogue: 0,0:15:02.24,0:15:04.09,italics,Komichi,0000,0000,0000,,I want to be seen as cool.
+Dialogue: 0,0:15:04.53,0:15:08.52,italics,Komichi,0000,0000,0000,,And I want to make lots of friends.
+Dialogue: 0,0:15:09.82,0:15:13.59,italics,Komichi,0000,0000,0000,,If I'm the only one in a sailor uniform,\N I know I'll stand out.
+Dialogue: 0,0:15:13.91,0:15:16.07,italics,Komichi,0000,0000,0000,,Maybe that'll be my chance?
+Dialogue: 0,0:15:36.11,0:15:37.78,main,Kao,0000,0000,0000,,Onee-chan?
+Dialogue: 0,0:15:37.78,0:15:39.61,main,Kao,0000,0000,0000,,You're leaving already?
+Dialogue: 0,0:15:51.06,0:15:52.28,main,Komichi,0000,0000,0000,,Thanks.
+Dialogue: 0,0:15:53.59,0:15:55.80,main,Yuwa,0000,0000,0000,,Komichi... Are you sure?
+Dialogue: 0,0:15:56.79,0:15:59.66,main,Komichi,0000,0000,0000,,Confidence and a smile, right?
+Dialogue: 0,0:16:01.47,0:16:02.88,main,Yuwa,0000,0000,0000,,Go get 'em!
+Dialogue: 0,0:16:04.79,0:16:06.07,main,Komichi,0000,0000,0000,,Off I go!
+Dialogue: 0,0:16:18.65,0:16:20.66,main,Komichi,0000,0000,0000,,Hup!
+Dialogue: 0,0:16:20.66,0:16:23.65,main,Komichi,0000,0000,0000,,Whoa... I cut it kinda close.
+Dialogue: 0,0:16:37.14,0:16:39.96,main,Komichi,0000,0000,0000,,Hmm... I'm not sure...
+Dialogue: 0,0:16:39.96,0:16:40.67,main,Komichi,0000,0000,0000,,But...
+Dialogue: 0,0:16:41.00,0:16:43.36,main,Komichi,0000,0000,0000,,I think I've sobered up a little.
+Dialogue: 0,0:16:44.68,0:16:46.59,main,Komichi,0000,0000,0000,,Okay!
+Dialogue: 0,0:16:46.59,0:16:48.18,main,Komichi,0000,0000,0000,,Here I go!
+Dialogue: 0,0:16:54.35,0:16:55.85,main,Komichi,0000,0000,0000,,Cherry blossoms!
+Dialogue: 0,0:17:14.22,0:17:17.76,sign_24797_279_Roubai_Academy,Text,0000,0000,0000,,{\fay.2\move(475,275,475,-18)}Roubai\N\hAcademy
+Dialogue: 0,0:17:19.40,0:17:23.98,main,Komichi,0000,0000,0000,,I think... I got... a little too fired up.
+Dialogue: 0,0:17:26.87,0:17:30.59,main,Komichi,0000,0000,0000,,It's so big! It looks like a castle!
+Dialogue: 0,0:17:40.95,0:17:42.46,main,Komichi,0000,0000,0000,,Am I the first one here?
+Dialogue: 0,0:17:42.45,0:17:45.46,sign_25474_283_New_First_Years_,Text,0000,0000,0000,,{\pos(145,85)}New First-Years     {\fsp4}Class List
+Dialogue: 0,0:17:42.45,0:17:45.46,sign_25474_283_New_First_Years_,Text,0000,0000,0000,,{\clip(254,143,354,149)\pos(305,175)\an2\c&H373230&\fs30\fsp1\3c&HA18A8F&}Class 3
+Dialogue: 0,0:17:42.45,0:17:45.46,sign_25474_283_New_First_Years_,Text,0000,0000,0000,,{\clip(254,149,354,155)\pos(305,175)\an2\c&H373230&\fs30\fsp1\3c&HA58C91&}Class 3
+Dialogue: 0,0:17:42.45,0:17:45.46,sign_25474_283_New_First_Years_,Text,0000,0000,0000,,{\clip(254,155,354,161)\pos(305,175)\an2\c&H373230&\fs30\fsp1\3c&HAA8F93&}Class 3
+Dialogue: 0,0:17:42.45,0:17:45.46,sign_25474_283_New_First_Years_,Text,0000,0000,0000,,{\clip(254,161,354,167)\pos(305,175)\an2\c&H373230&\fs30\fsp1\3c&HAE9196&}Class 3
+Dialogue: 0,0:17:42.45,0:17:45.46,sign_25474_283_New_First_Years_,Text,0000,0000,0000,,{\clip(254,167,354,173)\pos(305,175)\an2\c&H373230&\fs30\fsp1\3c&HB39498&}Class 3
+Dialogue: 0,0:17:42.45,0:17:45.46,sign_25474_283_New_First_Years_,Text,0000,0000,0000,,{\clip(254,173,354,179)\pos(305,175)\an2\c&H373230&\fs30\fsp1\3c&HB7969A&}Class 3
+Dialogue: 0,0:17:42.45,0:17:45.46,sign_25474_283_New_First_Years_,Text,0000,0000,0000,,{\an1\fs8\pos(220,250)\3c&HC0959F&\fscx90}Seat Number
+Dialogue: 0,0:17:42.45,0:17:45.46,sign_25474_283_New_First_Years_,Text,0000,0000,0000,,{\an1\pos(321,250)\fs8\fsp5\3c&HC8A5A2&}Name
+Dialogue: 0,0:17:42.45,0:17:45.46,sign_25474_283_New_First_Years_,Text,0000,0000,0000,,{\an1\fs8\pos(380,295)\3c&HCDABAA&}Akebi  Komichi
+Dialogue: 0,0:17:42.45,0:17:45.46,sign_25474_283_New_First_Years_,Text,0000,0000,0000,,{\an1\fs8\pos(380,313)\3c&HCDABAA&}Usagihara Touko
+Dialogue: 0,0:17:42.45,0:17:45.46,sign_25474_283_New_First_Years_,Text,0000,0000,0000,,{\an1\fs8\pos(380,330)\3c&HCDABAA&}Ohkuma Minoru
+Dialogue: 0,0:17:42.45,0:17:45.46,sign_25474_283_New_First_Years_,Text,0000,0000,0000,,{\an1\fs8\pos(380,350)\3c&HCDABAA&}Kamimoku Neko
+Dialogue: 0,0:17:44.53,0:17:47.71,top,Komichi,0000,0000,0000,,I've got seat number 1.
+Dialogue: 0,0:17:48.15,0:17:49.29,main,Komichi,0000,0000,0000,,Class 3...
+Dialogue: 0,0:17:56.85,0:17:57.99,main,Komichi,0000,0000,0000,,Here it is.
+Dialogue: 0,0:18:00.55,0:18:02.42,italics,Komichi,0000,0000,0000,,Someone's already here?!
+Dialogue: 0,0:18:02.42,0:18:05.84,italics,Komichi,0000,0000,0000,,What if she's really scary?!
+Dialogue: 0,0:18:06.18,0:18:08.35,main,Komichi,0000,0000,0000,,Wow, what a weird outfit!
+Dialogue: 0,0:18:08.35,0:18:10.84,main,Komichi,0000,0000,0000,,I-It's not weird!
+Dialogue: 0,0:18:11.53,0:18:13.74,main,Komichi,0000,0000,0000,,We should try to get along!
+Dialogue: 0,0:18:13.74,0:18:14.49,main,Komichi,0000,0000,0000,,Osu!
+Dialogue: 0,0:18:15.40,0:18:18.53,italics,Komichi,0000,0000,0000,,Why am I trying to fight them?!
+Dialogue: 0,0:18:45.87,0:18:46.77,main,Komichi,0000,0000,0000,,Um...
+Dialogue: 0,0:18:47.27,0:18:49.05,main,Komichi,0000,0000,0000,,Good morning.
+Dialogue: 0,0:18:49.47,0:18:52.54,main,Erika,0000,0000,0000,,Good... morning...
+Dialogue: 0,0:18:56.31,0:18:58.33,main,Erika,0000,0000,0000,,Please forget you ever saw that!
+Dialogue: 0,0:18:58.57,0:18:59.32,main,Komichi,0000,0000,0000,,Huh?
+Dialogue: 0,0:19:00.92,0:19:03.02,main,Erika,0000,0000,0000,,I mean... you saw me, didn't you?
+Dialogue: 0,0:19:03.02,0:19:06.03,main,Erika,0000,0000,0000,,When I was smelling my own \Nfeet on the nail clippers.
+Dialogue: 0,0:19:06.32,0:19:08.40,italics,Komichi,0000,0000,0000,,That's what she was doing?
+Dialogue: 0,0:19:08.76,0:19:10.83,main,Komichi,0000,0000,0000,,Sure. I won't tell anyone.
+Dialogue: 0,0:19:11.28,0:19:13.81,main,Komichi,0000,0000,0000,,But... do your feet smell that much?
+Dialogue: 0,0:19:13.81,0:19:15.33,main,Erika,0000,0000,0000,,D-Don't question me about it!
+Dialogue: 0,0:19:15.33,0:19:17.07,main,Erika,0000,0000,0000,,I'm embarrassed enough!
+Dialogue: 0,0:19:17.07,0:19:18.83,main,Komichi,0000,0000,0000,,I think I'm curious now, too.
+Dialogue: 0,0:19:20.81,0:19:21.84,main,Erika,0000,0000,0000,,Hey!
+Dialogue: 0,0:19:22.79,0:19:25.85,main,Komichi,0000,0000,0000,,I ran here, so I think they \Nmight smell a little sweaty.
+Dialogue: 0,0:19:26.58,0:19:28.81,main,Komichi,0000,0000,0000,,I can see how you'd get into it, though!
+Dialogue: 0,0:19:31.36,0:19:33.52,main,Erika,0000,0000,0000,,You're kind of interesting.
+Dialogue: 0,0:19:33.93,0:19:35.89,italics,Komichi,0000,0000,0000,,No way! I did it, Kao!
+Dialogue: 0,0:19:35.89,0:19:38.57,italics,Komichi,0000,0000,0000,,She called your sister "interesting"!
+Dialogue: 0,0:19:39.31,0:19:42.86,main,Erika,0000,0000,0000,,Hey... Would you mind talking \Nwith me a little more?
+Dialogue: 0,0:19:45.63,0:19:50.69,main,Erika,0000,0000,0000,,Oh... So you're going to wear \Nthe sailor uniform from now on?
+Dialogue: 0,0:19:50.69,0:19:52.21,main,Erika,0000,0000,0000,,That's pretty gutsy.
+Dialogue: 0,0:19:53.51,0:19:57.12,main,Komichi,0000,0000,0000,,You're Kizaki Erika-san, \Nand you're from T-Tokyo.
+Dialogue: 0,0:19:57.12,0:19:58.48,main,Komichi,0000,0000,0000,,Th-That's amazing!
+Dialogue: 0,0:19:58.48,0:20:00.14,main,Erika,0000,0000,0000,,You're taking notes?
+Dialogue: 0,0:20:00.38,0:20:02.12,main,Erika,0000,0000,0000,,You're very diligent, Akebi-san.
+Dialogue: 0,0:20:06.17,0:20:08.90,main,Komichi,0000,0000,0000,,Y-Your nail clippers are really cute.
+Dialogue: 0,0:20:08.90,0:20:10.65,main,Komichi,0000,0000,0000,,Do you carry them around all the time?
+Dialogue: 0,0:20:10.65,0:20:12.64,main,Erika,0000,0000,0000,,No, this is the first time.
+Dialogue: 0,0:20:12.64,0:20:16.14,main,Erika,0000,0000,0000,,In my room at home, \Nwhen I get anxious or nervous,
+Dialogue: 0,0:20:16.38,0:20:18.65,main,Erika,0000,0000,0000,,I end up clipping my nails.
+Dialogue: 0,0:20:20.25,0:20:23.15,main,Erika,0000,0000,0000,,This clicking sound just...
+Dialogue: 0,0:20:23.15,0:20:25.15,main,Erika,0000,0000,0000,,relaxes me somehow.
+Dialogue: 0,0:20:29.03,0:20:31.29,main,Komichi,0000,0000,0000,,Were you anxious just now?
+Dialogue: 0,0:20:31.29,0:20:31.97,main,Erika,0000,0000,0000,,Huh?
+Dialogue: 0,0:20:34.40,0:20:37.92,main,Erika,0000,0000,0000,,Well... with all the firsts \NI'm experiencing today,
+Dialogue: 0,0:20:38.21,0:20:39.65,main,Erika,0000,0000,0000,,I couldn't sleep last night.
+Dialogue: 0,0:20:40.16,0:20:43.74,main,Erika,0000,0000,0000,,I came to school early because \NI couldn't just sit around any longer,
+Dialogue: 0,0:20:43.74,0:20:45.52,main,Erika,0000,0000,0000,,but I just kept getting more nervous.
+Dialogue: 0,0:20:51.69,0:20:53.19,main,Erika,0000,0000,0000,,Is it that funny?
+Dialogue: 0,0:20:53.42,0:20:55.75,main,Komichi,0000,0000,0000,,No, it's not that.
+Dialogue: 0,0:20:55.75,0:20:59.85,main,Komichi,0000,0000,0000,,I was just surprised someone as pretty \Nas you would stress like that.
+Dialogue: 0,0:20:59.85,0:21:01.64,main,Erika,0000,0000,0000,,O-Of course I do!
+Dialogue: 0,0:21:01.64,0:21:03.69,main,Erika,0000,0000,0000,,And my looks have nothing to do with it!
+Dialogue: 0,0:21:03.69,0:21:05.69,main,Komichi,0000,0000,0000,,Y-Yeah, you're right.
+Dialogue: 0,0:21:06.02,0:21:08.34,main,Komichi,0000,0000,0000,,I was kinda scared, though.
+Dialogue: 0,0:21:08.34,0:21:11.47,main,Komichi,0000,0000,0000,,I've never really talked to \Nsomeone my own age before.
+Dialogue: 0,0:21:12.19,0:21:16.19,main,Komichi,0000,0000,0000,,I didn't know what I'd do if I didn't \Nthink the way everyone else does.
+Dialogue: 0,0:21:16.46,0:21:18.28,main,Komichi,0000,0000,0000,,So I'm happy!
+Dialogue: 0,0:21:18.28,0:21:19.70,main,Komichi,0000,0000,0000,,I felt the same way!
+Dialogue: 0,0:21:22.81,0:21:25.67,main,Komichi,0000,0000,0000,,Oh, I guess everyone else \Nwill be coming in soon.
+Dialogue: 0,0:21:25.67,0:21:28.52,main,Erika,0000,0000,0000,,I was just sitting at a random desk.
+Dialogue: 0,0:21:30.21,0:21:31.43,main,Komichi,0000,0000,0000,,Number 1...
+Dialogue: 0,0:21:32.22,0:21:33.39,main,Komichi,0000,0000,0000,,This one's mine.
+Dialogue: 0,0:21:34.80,0:21:37.57,main,Komichi,0000,0000,0000,,The closest spot to greet \Neveryone coming in...
+Dialogue: 0,0:21:37.57,0:21:39.07,main,Erika,0000,0000,0000,,I'm number 5.
+Dialogue: 0,0:21:48.78,0:21:51.78,italics,Komichi,0000,0000,0000,,I think I've calmed down a little.
+Dialogue: 0,0:21:54.78,0:21:56.86,italics,Komichi,0000,0000,0000,,I'll be okay now.
+Dialogue: 0,0:22:01.99,0:22:04.04,italics,Komichi,0000,0000,0000,,Maybe I can do this, too.
+Dialogue: 0,0:22:06.87,0:22:08.09,main,Komichi,0000,0000,0000,,Good morning!

@@ -1,0 +1,349 @@
+﻿[Script Info]
+Title: Português (Brasil)
+Original Script: cr_pt  [http://www.crunchyroll.com/user/cr_pt]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: main,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,2,0040,0040,0015,0
+Style: top,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,8,0040,0040,0015,0
+Style: italics,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,2,1,2,0040,0040,0015,0
+Style: flashback,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,-1,0,0,0,100,100,0,0,1,2,1,2,0040,0040,0015,1
+Style: sign_3520_34_Episode_One__The,Georgia,11,&H32000000,&H000000FF,&HC8FFFFFF,&HC8FFFFFF,0,0,0,0,100,100,0,0,1,1,1,8,0030,0030,0020,1
+Style: sign_5097_20_End,Times New Roman,23,&H00434843,&H000000FF,&H00E7E9E9,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,2,0030,0030,0020,1
+Style: sign_8285_70_Veggie_Fest,Arial Black,12,&H00A5A4A9,&H000000FF,&H00FFFAFA,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,0030,0030,0020,1
+Style: sign_8333_74_Oranges,Arial,13,&H00434F54,&H000000FF,&H00D5E1E5,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,2,0030,0030,0020,1
+Style: sign_8386_77_Champon_Ken,Arial Black,19,&H00FFFFFF,&H000000FF,&H0055646B,&H0055646B,-1,0,0,0,100,100,0,0,1,1,2,1,0030,0030,0020,1
+Style: sign_8487_80_Play_Room,Verdana,23,&H00AD9BED,&H000000FF,&H00E7E9E9,&H008EA2AD,-1,0,0,0,100,100,0,0,1,1,2,7,0030,0030,0020,1
+Style: sign_11593_120_Dragonfly_Books,Verdana,12,&H00D6D9D5,&H000000FF,&H00424549,&H00000000,0,0,0,0,100,100,0,0,1,2,0,1,0030,0030,0020,1
+Style: sign_13314_139_When_the_Fleaban,Times New Roman,8,&H00050503,&H000000FF,&H008FCAB0,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,8,0030,0030,0020,1
+Style: sign_15294_163_Literary_Masters,Times New Roman,10,&H002E4354,&H000000FF,&H00568DAE,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,1,0030,0030,0020,1
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:03.37,0:00:06.16,main,Yuwa,0000,0000,0000,,Compras pro festival de atletismo, é?
+Dialogue: 0,0:00:06.52,0:00:07.98,main,Yuwa,0000,0000,0000,,Que nostálgico...
+Dialogue: 0,0:00:10.41,0:00:13.23,main,Komichi,0000,0000,0000,,Será que vou conseguir\Nguiar o pessoal direito?
+Dialogue: 0,0:00:13.23,0:00:17.25,main,Yuwa,0000,0000,0000,,Pois é... O shopping é bem grande.
+Dialogue: 0,0:00:19.96,0:00:21.99,main,Komichi,0000,0000,0000,,Mas tô animada.
+Dialogue: 0,0:00:22.60,0:00:24.59,main,Yuwa,0000,0000,0000,,Já sabe os horários do ônibus?
+Dialogue: 0,0:00:24.59,0:00:25.24,main,Komichi,0000,0000,0000,,Sei.
+Dialogue: 0,0:00:25.75,0:00:27.84,main,Yuwa,0000,0000,0000,,Conferiu os horários\Ndo fim de semana?
+Dialogue: 0,0:00:27.84,0:00:29.58,main,Komichi,0000,0000,0000,,Vou olhar de novo!
+Dialogue: 0,0:00:29.58,0:00:30.95,main,Yuwa,0000,0000,0000,,Calma aí, não se mexe.
+Dialogue: 0,0:00:30.95,0:00:32.36,main,Komichi,0000,0000,0000,,Tá...
+Dialogue: 0,0:00:32.36,0:00:34.77,main,Kao,0000,0000,0000,,Vou olhar os horários!
+Dialogue: 0,0:00:35.05,0:00:37.26,main,Komichi,0000,0000,0000,,Tá na estante da sala!
+Dialogue: 0,0:00:40.35,0:00:41.95,main,Yuwa,0000,0000,0000,,Prontinho, acabei.
+Dialogue: 0,0:00:47.30,0:00:48.56,main,Komichi,0000,0000,0000,,Obrigada!
+Dialogue: 0,0:02:24.46,0:02:25.90,italics,Bus Announcement,0000,0000,0000,,Próxima parada...
+Dialogue: 0,0:02:26.66,0:02:31.00,italics,Bus Announcement,0000,0000,0000,,Amatsumiko-mae. Amatsumiko-mae.
+Dialogue: 0,0:02:33.29,0:02:38.80,sign_3520_34_Episode_One__The,Title,0000,0000,0000,,{\fad(482,517)\pos(502,78)\bord2}Episódio 9\NUm, dois e...!
+Dialogue: 0,0:03:32.56,0:03:33.19,sign_5097_20_End,Text,0000,0000,0000,,{\pos(373,145)\frx18}Fim
+Dialogue: 0,0:03:33.19,0:03:33.31,sign_5097_20_End,Text,0000,0000,0000,,{\pos(373,145)\frx18\clip(m 362 145 l 370 123 412 122 413 145)}Fim
+Dialogue: 0,0:03:33.31,0:03:33.44,sign_5097_20_End,Text,0000,0000,0000,,{\pos(373,145)\frx18\clip(m 378 144 l 385 125 412 123 414 144)}Fim
+Dialogue: 0,0:03:33.69,0:03:33.81,sign_5097_20_End,Text,0000,0000,0000,,{\pos(373,145)\frx18\clip(m 357 145 l 363 122 412 122 414 145)}Fim
+Dialogue: 0,0:03:33.81,0:03:35.06,sign_5097_20_End,Text,0000,0000,0000,,{\pos(373,145)\frx18}Fim
+Dialogue: 0,0:03:38.77,0:03:40.07,italics,Bus Announcement,0000,0000,0000,,Próxima parada...
+Dialogue: 0,0:03:40.07,0:03:45.06,italics,Bus Announcement,0000,0000,0000,,Shopping Sennosawa.\NShopping Sennosawa.
+Dialogue: 0,0:03:48.07,0:03:50.50,main,Komichi,0000,0000,0000,,Bom dia, Kojou-san. Chegamos.
+Dialogue: 0,0:03:53.18,0:03:54.38,main,Tomono,0000,0000,0000,,Desculpa.
+Dialogue: 0,0:03:54.38,0:03:57.45,main,Tomono,0000,0000,0000,,Isso sempre acontece quando\Nfico absorta num livro.
+Dialogue: 0,0:03:57.45,0:03:59.34,main,Komichi,0000,0000,0000,,Você tem um foco e tanto!
+Dialogue: 0,0:04:00.20,0:04:03.01,main,Tomono,0000,0000,0000,,Que bom que você estava no\Nmesmo ônibus que eu, Akebi-san.
+Dialogue: 0,0:04:03.01,0:04:05.57,main,Tomono,0000,0000,0000,,Eu sempre passo do meu ponto.
+Dialogue: 0,0:04:05.57,0:04:07.10,main,Touko,0000,0000,0000,,Oi!
+Dialogue: 0,0:04:07.10,0:04:09.32,main,Touko,0000,0000,0000,,Aqui!
+Dialogue: 0,0:04:09.32,0:04:11.20,main,Komichi,0000,0000,0000,,Oi!
+Dialogue: 0,0:04:11.81,0:04:14.81,main,Komichi,0000,0000,0000,,Bom dia, Erika-chan, Usagihara-san!
+Dialogue: 0,0:04:14.81,0:04:15.78,main,Erika; Touko,0000,0000,0000,,Bom dia.
+Dialogue: 0,0:04:15.78,0:04:16.84,main,Tomono,0000,0000,0000,,Bom dia.
+Dialogue: 0,0:04:17.05,0:04:19.77,main,Touko,0000,0000,0000,,Uau, vocês viram outras pessoas\Ncom roupas casuais.
+Dialogue: 0,0:04:19.77,0:04:20.87,main,Erika,0000,0000,0000,,Verdade.
+Dialogue: 0,0:04:21.35,0:04:22.39,main,Tomono,0000,0000,0000,,Sim...
+Dialogue: 0,0:04:25.43,0:04:27.48,main,Komichi,0000,0000,0000,,Fiquei um pouco envergonhada.
+Dialogue: 0,0:04:27.96,0:04:30.30,main,Touko,0000,0000,0000,,Mas você tá bonita.\NEssa roupa combina com você.
+Dialogue: 0,0:04:30.30,0:04:32.02,main,Komichi,0000,0000,0000,,Você também, Usagihara-san!
+Dialogue: 0,0:04:33.01,0:04:35.16,main,Komichi,0000,0000,0000,,Essa trança está muito estilosa.
+Dialogue: 0,0:04:37.57,0:04:39.57,main,Touko,0000,0000,0000,,Posso dizer que me esforcei um pouco.
+Dialogue: 0,0:04:39.57,0:04:41.49,main,Komichi,0000,0000,0000,,Suas unhas também estão lindas!
+Dialogue: 0,0:04:41.49,0:04:42.67,main,Touko,0000,0000,0000,,Né?
+Dialogue: 0,0:04:42.67,0:04:44.91,main,Touko,0000,0000,0000,,Mas são só por hoje.
+Dialogue: 0,0:04:45.20,0:04:47.06,main,Erika,0000,0000,0000,,Você também, Komichi-san.
+Dialogue: 0,0:04:47.06,0:04:47.77,main,Komichi,0000,0000,0000,,Hã?
+Dialogue: 0,0:04:47.77,0:04:48.75,main,Erika,0000,0000,0000,,Seu cabelo.
+Dialogue: 0,0:04:50.36,0:04:51.60,main,Komichi,0000,0000,0000,,Você percebeu?!
+Dialogue: 0,0:04:51.60,0:04:54.37,main,Tomono,0000,0000,0000,,Sim. Está um pouco mais curto.
+Dialogue: 0,0:04:57.78,0:05:00.55,main,Touko,0000,0000,0000,,Bom, prontas para as compras?
+Dialogue: 0,0:05:02.40,0:05:04.91,main,Tomono,0000,0000,0000,,O que precisamos para\No festival de atletismo é...
+Dialogue: 0,0:05:04.91,0:05:07.06,main,Tomono,0000,0000,0000,,Fitas de plástico para\Nas líderes de torcida,
+Dialogue: 0,0:05:07.06,0:05:08.91,main,Tomono,0000,0000,0000,,tecido para as bandeiras das turmas
+Dialogue: 0,0:05:08.91,0:05:11.61,main,Tomono,0000,0000,0000,,e mais outras coisinhas.
+Dialogue: 0,0:05:11.61,0:05:13.81,main,Touko,0000,0000,0000,,Tem um guia de lojas ali.
+Dialogue: 0,0:05:13.81,0:05:15.06,main,Komichi,0000,0000,0000,,Deixem isso comigo!
+Dialogue: 0,0:05:15.93,0:05:19.07,main,Komichi,0000,0000,0000,,Hoje, eu serei a guia de\Nvocês pelo shopping!
+Dialogue: 0,0:05:24.76,0:05:28.26,main,Erika,0000,0000,0000,,Demais... Parece até que estamos\Nnum parque de diversões.
+Dialogue: 0,0:05:28.66,0:05:32.40,main,Erika,0000,0000,0000,,Nunca fiz compras num lugar como este,\Nentão estou bem animada.
+Dialogue: 0,0:05:32.40,0:05:34.26,main,Komichi,0000,0000,0000,,Tem um cinema aqui também.
+Dialogue: 0,0:05:34.26,0:05:35.26,main,Erika,0000,0000,0000,,Mesmo?
+Dialogue: 0,0:05:35.26,0:05:39.48,main,Touko,0000,0000,0000,,Eu também nunca vim\Nneste shopping antes.
+Dialogue: 0,0:05:39.48,0:05:42.52,main,Tomono,0000,0000,0000,,Akebi-san, a quais lojas você costuma ir?
+Dialogue: 0,0:05:43.87,0:05:45.54,main,Komichi,0000,0000,0000,,Eu vou...
+Dialogue: 0,0:05:45.53,0:05:47.53,sign_8285_70_Veggie_Fest,Text,0000,0000,0000,,{\frz-3.12\fax0.09\pos(175,150)\frx348}Verduras
+Dialogue: 0,0:05:45.79,0:05:47.09,main,Komichi,0000,0000,0000,,...ao supermercado!
+Dialogue: 0,0:05:47.53,0:05:48.80,main,Erika,0000,0000,0000,,Que lugar grande.
+Dialogue: 0,0:05:47.53,0:05:49.74,sign_8285_70_Veggie_Fest,Text,0000,0000,0000,,{\an2\fax-0.04\pos(48,28)\frz5.478\fs9\c&H80DEF0&\bord1}Frutas da
+Dialogue: 0,0:05:47.53,0:05:49.74,sign_8285_70_Veggie_Fest,Text,0000,0000,0000,,{\fax-0.04\frz5.478\fs9\c&H729DD5&\bord1\pos(47,70)}Estação
+Dialogue: 0,0:05:47.53,0:05:49.74,sign_8333_74_Oranges,Text,0000,0000,0000,,{\frz1.08\pos(180,165)\fs10}Laranja
+Dialogue: 0,0:05:47.53,0:05:49.74,sign_8333_74_Oranges,Text,0000,0000,0000,,{\frz-0.51\pos(560,150)\3c&HE5E7E9&\fs20}Dekopon
+Dialogue: 0,0:05:49.74,0:05:51.74,sign_8386_77_Champon_Ken,Text,0000,0000,0000,,{\frz-18.25\fax0.32\pos(140,71)}Champon Ken
+Dialogue: 0,0:05:50.13,0:05:51.48,main,Komichi,0000,0000,0000,,À praça de alimentação!
+Dialogue: 0,0:05:51.76,0:05:53.24,main,Tomono,0000,0000,0000,,Tudo parece tão bom!
+Dialogue: 0,0:05:53.95,0:05:55.95,sign_8487_80_Play_Room,Text,0000,0000,0000,,Sa{\c&H9FDF90&}la{\c&HAD9BED&} de {\c&H9FDF90&}Brin{\c&HAD9BED&}que{\c&H9FDF90&}dos
+Dialogue: 0,0:05:54.62,0:05:55.96,main,Komichi,0000,0000,0000,,Na sala de brinquedos!
+Dialogue: 0,0:05:56.26,0:05:59.95,main,Komichi,0000,0000,0000,,Estes tapetinhos são tão macios.\NÉ bem divertido aqui!
+Dialogue: 0,0:05:59.95,0:06:00.96,main,Komichi,0000,0000,0000,,Pronto.
+Dialogue: 0,0:06:00.96,0:06:02.86,main,Touko,0000,0000,0000,,C-Calma aí, Akebi-chan!
+Dialogue: 0,0:06:03.44,0:06:06.22,main,Touko,0000,0000,0000,,Eu me arrumei toda, sabe...
+Dialogue: 0,0:06:06.22,0:06:08.76,main,Komichi,0000,0000,0000,,Ah, é mesmo! Não dá\Npra brincar assim, né?
+Dialogue: 0,0:06:08.76,0:06:09.72,main,Komichi,0000,0000,0000,,Me empolguei demais...
+Dialogue: 0,0:06:10.94,0:06:13.28,main,Touko,0000,0000,0000,,Mas eu te entendo.
+Dialogue: 0,0:06:13.28,0:06:15.05,main,Touko,0000,0000,0000,,Eu tenho um irmãozinho,
+Dialogue: 0,0:06:15.05,0:06:18.04,main,Touko,0000,0000,0000,,então costumava brincar com ele\Nnesses lugares direto.
+Dialogue: 0,0:06:18.43,0:06:19.93,main,Komichi,0000,0000,0000,,Verdade?!
+Dialogue: 0,0:06:21.23,0:06:26.97,main,Komichi,0000,0000,0000,,A Kao e eu brincávamos aqui enquanto\Nesperávamos nossa mãe fazer compras.
+Dialogue: 0,0:06:28.29,0:06:32.75,main,Komichi,0000,0000,0000,,Depois, ela comprava sorvete\Nou taiyaki, ou algo do tipo,
+Dialogue: 0,0:06:32.75,0:06:34.08,main,Komichi,0000,0000,0000,,e comíamos juntas!
+Dialogue: 0,0:06:34.08,0:06:37.24,main,Erika,0000,0000,0000,,Parece que você tem\Nmuitas lembranças aqui.
+Dialogue: 0,0:06:37.24,0:06:37.85,main,Komichi,0000,0000,0000,,Sim!
+Dialogue: 0,0:06:38.19,0:06:40.15,main,Komichi,0000,0000,0000,,Quando meu pai tá de folga do trabalho,
+Dialogue: 0,0:06:40.15,0:06:43.16,main,Komichi,0000,0000,0000,,a gente vai brincar no rio\Ndepois de fazer as compras!
+Dialogue: 0,0:06:43.16,0:06:44.10,main,Tomono,0000,0000,0000,,Que legal!
+Dialogue: 0,0:06:44.10,0:06:44.87,main,Touko,0000,0000,0000,,Ah!
+Dialogue: 0,0:06:45.57,0:06:47.99,main,Touko,0000,0000,0000,,Não sabia que aqui\Ntambém tinha essa loja!
+Dialogue: 0,0:06:48.21,0:06:50.47,main,Komichi,0000,0000,0000,,Eu nunca entrei nela...
+Dialogue: 0,0:06:50.47,0:06:52.87,main,Touko,0000,0000,0000,,Eles têm vários acessórios lindos.
+Dialogue: 0,0:06:52.87,0:06:54.40,main,Touko,0000,0000,0000,,Vamos dar uma olhada!
+Dialogue: 0,0:06:56.06,0:06:58.97,italics,Komichi,0000,0000,0000,,A Usagihara-san conhece\Nmais coisas do que eu!
+Dialogue: 0,0:06:58.97,0:07:00.63,main,Touko,0000,0000,0000,,Ei, Akebi-chan!
+Dialogue: 0,0:07:00.63,0:07:03.74,main,Touko,0000,0000,0000,,Essa é a marca de que a\NFukumoto Miki faz propaganda!
+Dialogue: 0,0:07:03.95,0:07:05.11,main,Komichi,0000,0000,0000,,A Miki-chan?!
+Dialogue: 0,0:07:06.39,0:07:09.63,main,Komichi,0000,0000,0000,,Uau! E vendem eles aqui?
+Dialogue: 0,0:07:09.63,0:07:13.00,main,Touko,0000,0000,0000,,E nem é tão caro. Aposto\Nque ficará ótimo em você.
+Dialogue: 0,0:07:14.99,0:07:16.46,main,Touko,0000,0000,0000,,É, combina mesmo!
+Dialogue: 0,0:07:20.98,0:07:22.76,italics,Komichi,0000,0000,0000,,Usagihara-san, você é demais!
+Dialogue: 0,0:07:22.76,0:07:24.63,top,Erika,0000,0000,0000,,Ah, que bonito.
+Dialogue: 0,0:07:23.23,0:07:24.88,main,Touko,0000,0000,0000,,Gostei.
+Dialogue: 0,0:07:24.88,0:07:27.46,main,Touko,0000,0000,0000,,Também tem coisa\Ndaquela marca aqui!
+Dialogue: 0,0:07:53.28,0:07:55.73,main,Touko,0000,0000,0000,,Ah, também tem essa loja aqui.
+Dialogue: 0,0:07:55.73,0:07:56.99,main,Komichi,0000,0000,0000,,Uau!
+Dialogue: 0,0:07:56.99,0:07:59.43,main,Touko,0000,0000,0000,,Ah, essa também!
+Dialogue: 0,0:07:59.43,0:08:01.82,italics,Tomono,0000,0000,0000,,Não era para estarmos\Nfazendo as compras?
+Dialogue: 0,0:08:03.50,0:08:05.00,sign_11593_120_Dragonfly_Books,Text,0000,0000,0000,,{\pos(274,103)}Li{\3c&H44474A&}vr{\3c&H46494B&}a{\3c&H474B4C&}ri{\3c&H494D4E&}a{\3c&H4B4F4F&} {\3c&H4D5150&}L{\3c&H4E5451&}i{\3c&H505652&}b{\3c&H545A54&}é{\3c&H565C56&}l{\3c&H575E57&}u{\3c&H596058&}l{\3c&H5B6259&}a
+Dialogue: 0,0:08:07.38,0:08:10.67,main,Komichi,0000,0000,0000,,Ah, eu vou àquela livraria\Nde vez em quando.
+Dialogue: 0,0:08:11.59,0:08:13.42,main,Tomono,0000,0000,0000,,É mesmo?
+Dialogue: 0,0:08:15.71,0:08:17.77,main,Erika,0000,0000,0000,,Também quero passar lá.
+Dialogue: 0,0:08:33.27,0:08:34.75,main,Tomono,0000,0000,0000,,Esse livro...
+Dialogue: 0,0:08:35.52,0:08:37.13,main,Tomono,0000,0000,0000,,Que coincidência!
+Dialogue: 0,0:08:37.58,0:08:42.33,main,Tomono,0000,0000,0000,,Eu terminei de lê-lo\Nno caminho para cá.
+Dialogue: 0,0:08:42.33,0:08:45.54,main,Erika,0000,0000,0000,,Faz tempo que estou interessada\Nnas obras deste autor.
+Dialogue: 0,0:08:45.54,0:08:47.28,main,Tomono,0000,0000,0000,,Quer que eu te empreste?
+Dialogue: 0,0:08:48.57,0:08:49.72,main,Erika,0000,0000,0000,,Mesmo?
+Dialogue: 0,0:08:49.72,0:08:50.61,main,Tomono,0000,0000,0000,,É claro!
+Dialogue: 0,0:08:52.12,0:08:55.64,main,Tomono,0000,0000,0000,,Adoraria ouvir a sua opinião\Nquando terminar de ler!
+Dialogue: 0,0:08:55.64,0:08:56.42,main,Erika,0000,0000,0000,,Certo.
+Dialogue: 0,0:08:57.54,0:09:00.05,main,Touko,0000,0000,0000,,Kojou-san, você também escreve?
+Dialogue: 0,0:09:00.33,0:09:03.03,main,Touko,0000,0000,0000,,É que o clube de literatura\Ndeixa essa impressão.
+Dialogue: 0,0:09:03.68,0:09:04.79,main,Erika,0000,0000,0000,,Verdade.
+Dialogue: 0,0:09:04.79,0:09:08.88,main,Erika,0000,0000,0000,,Havia umas crianças no primário que gostavam\Nde ler, e que também escreviam histórias.
+Dialogue: 0,0:09:08.88,0:09:10.06,main,Touko,0000,0000,0000,,Pois é, né?
+Dialogue: 0,0:09:11.15,0:09:15.27,main,Tomono,0000,0000,0000,,Na verdade... Eu achava que\Ngostaria de escrever.
+Dialogue: 0,0:09:15.28,0:09:21.04,sign_13314_139_When_the_Fleaban,Text,0000,0000,0000,,{\fs20\an9\frz60.46\fay.5\pos(276,147)}Quando\NFlorescer a\N{\c&HFFFFFF&}\N{\fs25}Erigeron
+Dialogue: 0,0:09:15.28,0:09:21.04,sign_13314_139_When_the_Fleaban,Text,0000,0000,0000,,{\an1\fay.5\frz68.12\pos(365,340)\c&HFFFFFF&\fs9}IGAWA TATSUHIKO
+Dialogue: 1,0:09:16.65,0:09:21.03,main,Tomono,0000,0000,0000,,Eu gosto bastante do estilo e\Nescolha de palavras desse autor.
+Dialogue: 0,0:09:21.25,0:09:25.51,main,Tomono,0000,0000,0000,,Me faz sentir vontade\Nde me expressar igual.
+Dialogue: 0,0:09:26.15,0:09:28.92,main,Tomono,0000,0000,0000,,Mas, sempre que tento\Nescrever alguma coisa,
+Dialogue: 0,0:09:28.92,0:09:31.19,main,Tomono,0000,0000,0000,,não consigo decidir um tema\Npara escrever.
+Dialogue: 0,0:09:31.56,0:09:33.13,main,Touko,0000,0000,0000,,Um tema, é?
+Dialogue: 0,0:09:33.13,0:09:35.79,main,Touko,0000,0000,0000,,Isso parece ser bem complicado.
+Dialogue: 0,0:09:35.79,0:09:38.56,main,Erika,0000,0000,0000,,E que tipo de coisa você gosta de ler?
+Dialogue: 0,0:09:38.99,0:09:43.86,main,Tomono,0000,0000,0000,,Bom... Gosto de ensaios,\Nfantasia, mistérios...
+Dialogue: 0,0:09:44.43,0:09:47.08,main,Tomono,0000,0000,0000,,Eu leio gêneros bem variados.
+Dialogue: 0,0:09:47.08,0:09:48.80,main,Touko,0000,0000,0000,,Mas de qual você gosta?
+Dialogue: 0,0:09:48.80,0:09:51.69,main,Tomono,0000,0000,0000,,Eu gosto de ler...
+Dialogue: 0,0:09:53.16,0:09:54.95,main,Tomono,0000,0000,0000,,Ah, d-desculpa!
+Dialogue: 0,0:09:54.95,0:09:57.81,main,Tomono,0000,0000,0000,,Vocês não deveriam pensar\Nnisso por mim.
+Dialogue: 0,0:09:58.32,0:10:02.20,main,Tomono,0000,0000,0000,,Ler livros e escrever livros são coisas\Ncompletamente diferentes.
+Dialogue: 0,0:10:02.77,0:10:05.59,main,Tomono,0000,0000,0000,,Talvez eu seja boa em ler.
+Dialogue: 0,0:10:13.55,0:10:14.91,main,Komichi,0000,0000,0000,,Que lindo...
+Dialogue: 0,0:10:15.57,0:10:17.41,main,Erika,0000,0000,0000,,Ah, os raios crepusculares.
+Dialogue: 0,0:10:18.08,0:10:22.85,main,Erika,0000,0000,0000,,Se lembro bem, o fenômeno também é\Nconhecido como "órgão de tubos de luz".
+Dialogue: 0,0:10:25.11,0:10:27.78,top,Komichi,0000,0000,0000,,Que jeito bonito de descrever.
+Dialogue: 0,0:10:27.78,0:10:30.44,top,Tomono,0000,0000,0000,,É um verso de um poema do Miyazawa Kenji.
+Dialogue: 0,0:10:30.44,0:10:31.68,top,Komichi,0000,0000,0000,,Ah...
+Dialogue: 0,0:10:34.50,0:10:37.35,main,Komichi,0000,0000,0000,,Não sabia que havia\Ntantos tipos de livros.
+Dialogue: 0,0:10:37.86,0:10:40.57,sign_15294_163_Literary_Masters,Text,0000,0000,0000,,{\pos(40,105)\frz270.9\fax0.22}Mestres da Literatura Mundial 1
+Dialogue: 0,0:10:37.86,0:10:40.57,sign_15294_163_Literary_Masters,Text,0000,0000,0000,,{\fax0.13\pos(84,101)\frz269.9}Mestres da Literatura Mundial 2
+Dialogue: 0,0:10:37.86,0:10:40.57,sign_15294_163_Literary_Masters,Text,0000,0000,0000,,{\fax0.13\frz269.9\pos(145,95)}Mestres da Literatura Mundial 3
+Dialogue: 0,0:10:37.86,0:10:40.57,sign_15294_163_Literary_Masters,Text,0000,0000,0000,,{\fax0.13\pos(205,85)\frz270.9\fs11}Mestres da Literatura Mundial 4
+Dialogue: 0,0:10:37.86,0:10:40.57,sign_15294_163_Literary_Masters,Text,0000,0000,0000,,{\fax0.13\frz270.9\fs11\pos(283,86)}Mestres da Literatura Mundial 5
+Dialogue: 0,0:10:37.86,0:10:40.57,sign_15294_163_Literary_Masters,Text,0000,0000,0000,,{\fax0.13\frz270.9\fs12\pos(370,80)}Mestres da Literatura Mundial 6
+Dialogue: 0,0:10:37.86,0:10:40.57,sign_15294_163_Literary_Masters,Text,0000,0000,0000,,{\fax0.13\frz270.9\fs12\pos(475,65)}Mestres da Literatura Mundial 7
+Dialogue: 0,0:10:37.86,0:10:40.57,sign_15294_163_Literary_Masters,Text,0000,0000,0000,,{\fax0.17\fs13\pos(569,56)\frz269.9}Mestres da Literatura Mundial 8
+Dialogue: 0,0:10:38.03,0:10:40.57,main,Komichi,0000,0000,0000,,Alguns vêm numas caixas lindas...
+Dialogue: 0,0:10:41.02,0:10:43.53,main,Komichi,0000,0000,0000,,E outros são tão pequenos\Nque cabem na minha mão.
+Dialogue: 0,0:10:44.26,0:10:48.30,main,Tomono,0000,0000,0000,,Verdade. Uma das coisas mais divertidas\Ndos livros é a variedade de encadernações.
+Dialogue: 0,0:10:50.29,0:10:51.55,main,Komichi,0000,0000,0000,,Que fofos!
+Dialogue: 0,0:10:51.55,0:10:52.99,main,Tomono,0000,0000,0000,,Ai, são mesmo!
+Dialogue: 0,0:10:54.84,0:10:58.18,main,Komichi,0000,0000,0000,,Aliás, aquele seu marcador\Nfoi feito à mão?
+Dialogue: 0,0:10:58.18,0:11:00.15,main,Tomono,0000,0000,0000,,Hã? Ah, sim.
+Dialogue: 0,0:11:00.15,0:11:02.45,main,Komichi,0000,0000,0000,,Flores prensadas ficam bem bonitas!
+Dialogue: 0,0:11:04.08,0:11:05.61,main,Tomono,0000,0000,0000,,Obrigada!
+Dialogue: 0,0:11:05.61,0:11:07.67,main,Tomono,0000,0000,0000,,Minha mãe fez para mim.
+Dialogue: 0,0:11:07.67,0:11:08.89,main,Komichi,0000,0000,0000,,Legal!
+Dialogue: 0,0:11:08.89,0:11:11.45,main,Tomono,0000,0000,0000,,Eu o uso desde que era criancinha.
+Dialogue: 0,0:11:11.45,0:11:14.54,main,Tomono,0000,0000,0000,,Para mim, é como se fosse um amuleto.
+Dialogue: 0,0:11:18.13,0:11:20.41,main,Touko,0000,0000,0000,,Ufa, tô cansada.
+Dialogue: 0,0:11:21.91,0:11:23.95,main,Touko,0000,0000,0000,,Tô toda quebrada.
+Dialogue: 0,0:11:23.95,0:11:25.95,main,Tomono,0000,0000,0000,,Acabamos passando em vários lugares.
+Dialogue: 0,0:11:26.46,0:11:31.00,main,Touko,0000,0000,0000,,Sim, fazia um bom tempo que não vinha\Nao shopping, e foi tão divertido...
+Dialogue: 0,0:11:29.40,0:11:30.74,top,Komichi,0000,0000,0000,,Obrigada pela comida.
+Dialogue: 0,0:11:35.18,0:11:37.55,main,Erika,0000,0000,0000,,Isso é... um hambúrguer?
+Dialogue: 0,0:11:38.06,0:11:40.52,main,Komichi,0000,0000,0000,,Erika-chan, é a primeira vez\Nque come um?
+Dialogue: 0,0:11:40.52,0:11:43.44,main,Erika,0000,0000,0000,,Sim. Sempre quis experimentar!
+Dialogue: 0,0:11:47.42,0:11:49.67,main,Komichi,0000,0000,0000,,Pode segurar com o papel pra comer.
+Dialogue: 0,0:11:53.80,0:11:55.34,main,Touko,0000,0000,0000,,Ah, já ia esquecendo.
+Dialogue: 0,0:11:57.14,0:11:58.71,main,Touko,0000,0000,0000,,Tchan!
+Dialogue: 0,0:12:01.13,0:12:02.49,main,Komichi,0000,0000,0000,,O que é isso aí?
+Dialogue: 0,0:12:02.49,0:12:04.18,main,Touko,0000,0000,0000,,Miçangas de amizade.
+Dialogue: 0,0:12:04.52,0:12:05.73,main,Komichi,0000,0000,0000,,"Miçangas"?
+Dialogue: 0,0:12:05.73,0:12:09.24,main,Tomono,0000,0000,0000,,São fios trançados e usados como pulseira.\NÉ como se fosse um amuleto.
+Dialogue: 0,0:12:09.24,0:12:10.45,main,Komichi,0000,0000,0000,,Então é um amuleto?
+Dialogue: 0,0:12:10.45,0:12:13.96,main,Touko,0000,0000,0000,,Sim. Você amarra elas quando quer\Nque um desejo se torne realidade.
+Dialogue: 0,0:12:13.96,0:12:18.85,main,Touko,0000,0000,0000,,Dizem que, quando desgastar e cair\Nsozinha, o desejo se tornará realidade.
+Dialogue: 0,0:12:18.85,0:12:21.89,main,Touko,0000,0000,0000,,A Kizaki-san e eu\Nestávamos conversando
+Dialogue: 0,0:12:21.89,0:12:26.73,main,Touko,0000,0000,0000,,de fazer miçangas para todas da turma\Nusarem durante o festival de atletismo.
+Dialogue: 0,0:12:41.20,0:12:42.52,main,Erika,0000,0000,0000,,É gostoso.
+Dialogue: 0,0:12:45.98,0:12:48.47,main,Komichi,0000,0000,0000,,Erika-chan, você é muito fofa!
+Dialogue: 0,0:12:48.96,0:12:51.84,main,Erika,0000,0000,0000,,Puxa, não me zoem.
+Dialogue: 0,0:12:53.21,0:12:55.50,main,Touko,0000,0000,0000,,Enfim, esse é o plano.
+Dialogue: 0,0:12:55.50,0:12:59.26,main,Touko,0000,0000,0000,,Por que não vamos ao Dormitório Mangetsu\Ne fazemos miçangas juntas?
+Dialogue: 0,0:12:59.26,0:13:00.30,main,Komichi,0000,0000,0000,,Vamos!
+Dialogue: 0,0:13:00.59,0:13:03.25,main,Tomono,0000,0000,0000,,Eu nunca fui ao dormitório antes!
+Dialogue: 0,0:13:03.25,0:13:07.56,main,Touko,0000,0000,0000,,Beleza! Se está decidido,\Nvamos ver o horário do ônibus.
+Dialogue: 0,0:13:07.56,0:13:09.41,main,Tomono,0000,0000,0000,,Ah, Kizaki-san...
+Dialogue: 0,0:13:09.41,0:13:12.30,main,Tomono,0000,0000,0000,,Deixa eu te dar o livro,\Nantes que eu me esqueça.
+Dialogue: 0,0:13:12.30,0:13:13.76,main,Erika,0000,0000,0000,,Obrigada.
+Dialogue: 0,0:13:14.14,0:13:16.77,sign_5097_20_End,Text,0000,0000,0000,,{\an8\bord2}Fim
+Dialogue: 0,0:13:15.38,0:13:16.18,main,Tomono,0000,0000,0000,,Ué?
+Dialogue: 0,0:13:22.19,0:13:23.42,main,Erika,0000,0000,0000,,Kojou-san?
+Dialogue: 0,0:13:24.26,0:13:25.52,main,Touko,0000,0000,0000,,Qual é o problema?
+Dialogue: 0,0:13:26.59,0:13:27.62,main,Tomono,0000,0000,0000,,Sumiu...
+Dialogue: 0,0:13:28.74,0:13:30.60,main,Tomono,0000,0000,0000,,Meu marcador sumiu!
+Dialogue: 0,0:14:20.60,0:14:21.96,main,Touko,0000,0000,0000,,Encontrou?
+Dialogue: 0,0:14:21.96,0:14:23.74,main,Erika,0000,0000,0000,,Não o vi em lugar nenhum.
+Dialogue: 0,0:14:24.09,0:14:25.39,main,Touko,0000,0000,0000,,Entendi...
+Dialogue: 0,0:14:25.39,0:14:26.38,main,Tomono,0000,0000,0000,,Sim.
+Dialogue: 0,0:14:27.04,0:14:28.05,main,Tomono,0000,0000,0000,,Certo.
+Dialogue: 0,0:14:28.87,0:14:30.32,main,Tomono,0000,0000,0000,,Ah, é?
+Dialogue: 0,0:14:30.68,0:14:32.19,main,Tomono,0000,0000,0000,,Muito obrigada.
+Dialogue: 0,0:14:32.61,0:14:33.69,main,Komichi,0000,0000,0000,,O que disseram?
+Dialogue: 0,0:14:34.58,0:14:37.46,main,Tomono,0000,0000,0000,,Parece que ninguém levou\Nao achados e perdidos.
+Dialogue: 0,0:14:37.46,0:14:41.10,main,Tomono,0000,0000,0000,,E o ônibus voltou pra garagem,\Nmas não acharam nada nele.
+Dialogue: 0,0:14:42.69,0:14:44.91,main,Touko,0000,0000,0000,,Então deve estar em\Nalgum lugar do shopping.
+Dialogue: 0,0:14:45.37,0:14:47.54,main,Touko,0000,0000,0000,,Eu vou dar mais uma olhada.
+Dialogue: 0,0:14:47.54,0:14:49.39,main,Tomono,0000,0000,0000,,Ah, não se preocupem com isso.
+Dialogue: 0,0:14:51.44,0:14:53.63,main,Tomono,0000,0000,0000,,Já usei aquele marcador por um tempão.
+Dialogue: 0,0:14:53.63,0:14:55.55,main,Tomono,0000,0000,0000,,Talvez seja hora de um novo.
+Dialogue: 0,0:14:56.30,0:14:58.37,main,Tomono,0000,0000,0000,,Desculpa por ter\Narrastado vocês nisso.
+Dialogue: 0,0:14:58.37,0:15:01.74,main,Tomono,0000,0000,0000,,Enfim, já deve estar dando a hora\Ndo ônibus para o dormitório.
+Dialogue: 0,0:15:01.74,0:15:04.74,main,Touko,0000,0000,0000,,Ah... Deve, mas...
+Dialogue: 0,0:15:05.16,0:15:06.60,main,Tomono,0000,0000,0000,,Então, vamos.
+Dialogue: 0,0:15:17.25,0:15:18.33,main,Komichi,0000,0000,0000,,O marcador!
+Dialogue: 0,0:15:21.92,0:15:23.24,main,Komichi,0000,0000,0000,,Encontramos!
+Dialogue: 0,0:15:25.05,0:15:27.17,main,Erika,0000,0000,0000,,É onde ficamos conversando de manhã.
+Dialogue: 0,0:15:30.01,0:15:34.64,main,Komichi,0000,0000,0000,,Alguém amarrou um balão\Npra ficar mais fácil de ver.
+Dialogue: 0,0:15:34.64,0:15:37.07,main,Touko,0000,0000,0000,,Ufa, que alívio!
+Dialogue: 0,0:15:37.33,0:15:41.83,main,Tomono,0000,0000,0000,,Desculpa por isso. Devo ter deixado cair\Nquando peguei o caderninho.
+Dialogue: 0,0:15:59.10,0:16:02.98,flashback,Principal,0000,0000,0000,,A medalha de ouro do 34º Concurso\Nde Redação do Ensino Fundamental
+Dialogue: 0,0:16:02.98,0:16:05.82,flashback,Principal,0000,0000,0000,,vai para a Srta. Kojou Tomono.
+Dialogue: 0,0:16:21.68,0:16:26.40,flashback,Tomono,0000,0000,0000,,Mãe! Quando crescer, quero\Nser escritora de livros!
+Dialogue: 0,0:16:35.16,0:16:37.77,main,Touko,0000,0000,0000,,A árvore salvou por pouco!
+Dialogue: 0,0:16:37.77,0:16:38.98,main,Erika,0000,0000,0000,,Sim, mas...
+Dialogue: 0,0:16:55.81,0:16:57.42,main,Komichi,0000,0000,0000,,Kojou-san, sobe aqui!
+Dialogue: 0,0:16:57.42,0:16:58.13,main,Tomono,0000,0000,0000,,Hã?
+Dialogue: 0,0:16:58.98,0:17:01.55,main,Tomono,0000,0000,0000,,Subir... nas suas costas?
+Dialogue: 0,0:17:01.55,0:17:02.67,main,Komichi,0000,0000,0000,,Nos meus ombros!
+Dialogue: 0,0:17:02.67,0:17:07.14,main,Tomono,0000,0000,0000,,Quê?! N-Nem pensar!\NEu sou pesada demais!
+Dialogue: 0,0:17:07.14,0:17:08.17,main,Touko,0000,0000,0000,,Ah, já sei!
+Dialogue: 0,0:17:14.35,0:17:17.13,main,Tomono,0000,0000,0000,,T-Têm certeza disso?
+Dialogue: 0,0:17:17.39,0:17:18.07,main,Komichi,0000,0000,0000,,Sim!
+Dialogue: 0,0:17:18.07,0:17:19.44,main,Touko,0000,0000,0000,,Relaxa aí.
+Dialogue: 0,0:17:19.86,0:17:21.14,main,Tomono,0000,0000,0000,,C-Certo...
+Dialogue: 0,0:17:23.72,0:17:25.64,main,Tomono,0000,0000,0000,,Desculpa pelo peso.
+Dialogue: 0,0:17:25.64,0:17:27.01,main,Komichi,0000,0000,0000,,Vamos nessa!
+Dialogue: 0,0:17:27.01,0:17:27.93,main,Erika,0000,0000,0000,,Vamos.
+Dialogue: 0,0:17:27.01,0:17:27.93,top,Touko,0000,0000,0000,,Beleza!
+Dialogue: 0,0:17:29.38,0:17:31.58,main,Komichi,0000,0000,0000,,Um, dois e...!
+Dialogue: 0,0:17:41.72,0:17:43.67,main,Tomono,0000,0000,0000,,M-Mais um pouco para frente!
+Dialogue: 0,0:17:43.92,0:17:44.86,main,Komichi; Touko; Erika,0000,0000,0000,,Tá!
+Dialogue: 0,0:17:46.50,0:17:47.67,main,Tomono,0000,0000,0000,,Aqui!
+Dialogue: 0,0:17:54.18,0:17:56.59,main,Komichi,0000,0000,0000,,Kojou-san! Tá quase lá!
+Dialogue: 0,0:17:59.58,0:18:02.93,main,Tomono,0000,0000,0000,,Não dá. A altura não é suficiente.
+Dialogue: 0,0:18:02.93,0:18:05.41,main,Touko,0000,0000,0000,,Estávamos tão perto...
+Dialogue: 0,0:18:07.86,0:18:09.83,main,Komichi,0000,0000,0000,,Um pouco mais alto...
+Dialogue: 0,0:18:11.65,0:18:13.43,main,Komichi,0000,0000,0000,,Kojou-san, vamos tentar mais uma vez!
+Dialogue: 0,0:18:13.43,0:18:14.36,main,Tomono,0000,0000,0000,,Hã?
+Dialogue: 0,0:18:18.16,0:18:20.30,main,Tomono,0000,0000,0000,,Akebi-san, mas isso...
+Dialogue: 0,0:18:20.71,0:18:23.20,main,Komichi,0000,0000,0000,,Não se preocupe, prometo\Nque vamos te pegar!
+Dialogue: 0,0:18:23.20,0:18:24.70,main,Tomono,0000,0000,0000,,T-Tá...
+Dialogue: 0,0:18:29.38,0:18:30.69,main,Komichi,0000,0000,0000,,Usagihara-san!
+Dialogue: 0,0:18:30.69,0:18:31.72,main,Touko,0000,0000,0000,,Tudo pronto!
+Dialogue: 0,0:18:31.72,0:18:32.85,main,Komichi,0000,0000,0000,,Erika-chan!
+Dialogue: 0,0:18:32.85,0:18:33.72,main,Erika,0000,0000,0000,,Sim!
+Dialogue: 0,0:18:34.61,0:18:35.47,main,Komichi,0000,0000,0000,,Então, vamos.
+Dialogue: 0,0:18:35.71,0:18:37.78,main,Komichi; Touko; Erika,0000,0000,0000,,Um, dois e...!
+Dialogue: 0,0:18:48.42,0:18:49.67,main,Tomono,0000,0000,0000,,Peguei!
+Dialogue: 0,0:19:04.66,0:19:05.99,main,Tomono,0000,0000,0000,,Obrigada!
+Dialogue: 0,0:19:07.50,0:19:09.95,main,Touko,0000,0000,0000,,Ufa, foi por pouco, hein?
+Dialogue: 0,0:19:09.95,0:19:13.13,main,Erika,0000,0000,0000,,Aquela sugestão de fazer igual a uma\Nbriga de galo me pegou de surpresa.
+Dialogue: 0,0:19:13.13,0:19:17.75,top,Touko,0000,0000,0000,,Bom, a ideia da Akebi-chan\Nfoi muito mais doida.
+Dialogue: 0,0:19:15.30,0:19:18.53,main,Komichi,0000,0000,0000,,É mesmo um lindo marcador.
+Dialogue: 0,0:19:17.75,0:19:20.56,top,Erika,0000,0000,0000,,Verdade. Quem pensaria\Nnuma coisa dessas?
+Dialogue: 0,0:19:23.46,0:19:27.31,main,Komichi,0000,0000,0000,,Sabe, quando te vi olhando\Npra esse balão,
+Dialogue: 0,0:19:27.31,0:19:30.72,main,Komichi,0000,0000,0000,,senti que os seus sentimentos\Nestavam voando junto com ele.
+Dialogue: 0,0:19:32.32,0:19:34.00,main,Komichi,0000,0000,0000,,Que bom que o recuperamos!
+Dialogue: 0,0:19:34.33,0:19:37.29,main,Tomono,0000,0000,0000,,Sim... Obrigada!
+Dialogue: 0,0:19:42.32,0:19:43.50,main,Touko,0000,0000,0000,,Epa!
+Dialogue: 0,0:19:46.57,0:19:49.65,main,Touko,0000,0000,0000,,Ai, eu nem trouxe guarda-chuva.
+Dialogue: 0,0:19:49.65,0:19:50.68,main,Erika,0000,0000,0000,,Nem eu.
+Dialogue: 0,0:19:50.68,0:19:52.30,main,Tomono,0000,0000,0000,,Eu trouxe o meu, mas...
+Dialogue: 0,0:19:53.92,0:19:58.02,main,Erika,0000,0000,0000,,É uma boa caminhada até\No ponto de ônibus, né?
+Dialogue: 0,0:19:58.55,0:20:02.31,main,Touko,0000,0000,0000,,Hmm... Talvez seja melhor\Nesperarmos pelo próximo.
+Dialogue: 0,0:20:02.62,0:20:04.02,main,Erika,0000,0000,0000,,Acho que sim.
+Dialogue: 0,0:20:04.48,0:20:06.79,main,Tomono,0000,0000,0000,,Ué, cadê a Akebi-san?
+Dialogue: 0,0:20:16.12,0:20:19.44,main,Komichi,0000,0000,0000,,Olha só, pessoal! O balão\Nflutua até na chuva!
+Dialogue: 0,0:20:23.03,0:20:24.83,main,Touko,0000,0000,0000,,A Akebi-chan tem muita energia.
+Dialogue: 0,0:20:26.64,0:20:32.21,main,Tomono,0000,0000,0000,,Sempre que vejo a Akebi-san, meio que sinto\Nvontade de escrever uma personagem como ela.
+Dialogue: 0,0:20:35.96,0:20:38.07,main,Tomono,0000,0000,0000,,Acho ela uma pessoa incrível.
+Dialogue: 0,0:20:38.72,0:20:40.46,main,Touko,0000,0000,0000,,Certo!
+Dialogue: 0,0:20:42.30,0:20:43.62,main,Erika,0000,0000,0000,,Eu também vou!
+Dialogue: 0,0:20:43.62,0:20:44.71,main,Tomono,0000,0000,0000,,Hã?!
+Dialogue: 0,0:20:49.92,0:20:50.73,main,Tomono,0000,0000,0000,,Tá!
+Dialogue: 0,0:20:52.14,0:20:54.22,main,Komichi,0000,0000,0000,,Vamos correr até o ponto de ônibus!
+Dialogue: 0,0:21:02.14,0:21:03.40,main,Touko,0000,0000,0000,,Que gostoso!
+Dialogue: 0,0:21:39.44,0:21:42.18,main,Erika,0000,0000,0000,,Parece que... a chuva passou.
+Dialogue: 0,0:21:42.87,0:21:44.99,main,Touko,0000,0000,0000,,Choveu e passou.
+Dialogue: 0,0:21:51.05,0:21:52.84,main,Komichi,0000,0000,0000,,Ah, olhem o céu!
+Dialogue: 0,0:21:59.01,0:22:01.07,main,Komichi; Touko; Erika; Tomono,0000,0000,0000,,É o órgão de tubos!

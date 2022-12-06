@@ -1,0 +1,295 @@
+﻿[Script Info]
+Title: Français (France)
+Original Script: cr_fr  [http://www.crunchyroll.com/user/cr_fr]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,1,2,0002,0002,0025,1
+Style: TiretsDefault,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,1,1,0020,0002,0025,1
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:00.68,0:00:02.02,Default,,0000,0000,0000,,À vos marques,
+Dialogue: 0,0:00:02.31,0:00:03.48,Default,,0000,0000,0000,,prêts…
+Dialogue: 0,0:00:05.27,0:00:07.48,Default,,0000,0000,0000,,Tu as déjà fait ton choix, Kizaki ?
+Dialogue: 0,0:00:07.65,0:00:09.48,Default,,0000,0000,0000,,Non, mais j’ai ma petite idée.
+Dialogue: 0,0:00:09.73,0:00:12.49,Default,,0000,0000,0000,,Il va bientôt falloir\Nqu’on se décide.
+Dialogue: 0,0:00:17.28,0:00:21.25,Default,,0000,0000,0000,,Ah bon ? Tu faisais du basket\Nen primaire, Togano ?
+Dialogue: 0,0:00:21.83,0:00:23.83,Default,,0000,0000,0000,,Oui, et toi, Tôgeguchi ?
+Dialogue: 0,0:00:24.00,0:00:26.13,Default,,0000,0000,0000,,Je continue le tennis de table.
+Dialogue: 0,0:00:26.83,0:00:29.13,Default,,0000,0000,0000,,Je me suis aussi inscrite au volley.
+Dialogue: 0,0:00:29.30,0:00:30.50,Default,,0000,0000,0000,,Je vois.
+Dialogue: 0,0:00:32.97,0:00:34.51,Default,,0000,0000,0000,,À vos marques,
+Dialogue: 0,0:00:35.22,0:00:36.51,Default,,0000,0000,0000,,prêts…
+Dialogue: 0,0:00:47.27,0:00:48.27,Default,,0000,0000,0000,,Ensuite…
+Dialogue: 0,0:00:49.32,0:00:50.40,Default,,0000,0000,0000,,Akebi ?
+Dialogue: 0,0:00:51.61,0:00:53.36,TiretsDefault,,0283,0000,0000,,– Akebi ?\N– Oui ?
+Dialogue: 0,0:00:53.53,0:00:55.57,Default,,0000,0000,0000,,C’est à ton tour de courir.
+Dialogue: 0,0:00:55.74,0:00:57.11,Default,,0000,0000,0000,,Ah oui, c’est vrai.
+Dialogue: 0,0:01:00.58,0:01:02.91,Default,,0000,0000,0000,,Akebi Komichi ! Je me lance !
+Dialogue: 0,0:01:05.79,0:01:07.37,Default,,0000,0000,0000,,À vos marques,
+Dialogue: 0,0:01:08.33,0:01:10.04,Default,,0000,0000,0000,,prêts…
+Dialogue: 0,0:01:18.26,0:01:19.68,Default,,0000,0000,0000,,Elle est pieds nus ?
+Dialogue: 0,0:02:51.77,0:02:57.19,Default,,0000,0000,0000,,{\an8}AS–TU DÉJÀ CHOISI UN CLUB ?
+Dialogue: 0,0:02:51.81,0:02:54.44,Default,,0000,0000,0000,,Tu m’as bien surprise,\Nsur ce coup.
+Dialogue: 0,0:02:55.40,0:02:58.82,Default,,0000,0000,0000,,La prof m’a grondée\Nen disant que c’était dangereux.
+Dialogue: 0,0:02:58.94,0:03:01.07,Default,,0000,0000,0000,,Tu as dû ramasser des cailloux.
+Dialogue: 0,0:03:02.03,0:03:05.74,Default,,0000,0000,0000,,Mais tu étais\Nla plus rapide de la classe, Akebi.
+Dialogue: 0,0:03:05.91,0:03:08.37,Default,,0000,0000,0000,,Tu dois courir plus vite\Nqu’un garçon.
+Dialogue: 0,0:03:08.54,0:03:09.16,Default,,0000,0000,0000,,Vraiment ?
+Dialogue: 0,0:03:11.71,0:03:14.67,Default,,0000,0000,0000,,À vrai dire,\Nje cours plus vite pieds nus !
+Dialogue: 0,0:03:38.98,0:03:41.70,Default,,0000,0000,0000,,Hé ! Akebi Komichi\Nest dans cette classe ?
+Dialogue: 0,0:03:41.86,0:03:43.78,Default,,0000,0000,0000,,Ah… Euh…
+Dialogue: 0,0:03:43.95,0:03:45.66,TiretsDefault,,0269,0000,0000,,– En fait…\N– C’est qui ?
+Dialogue: 0,0:03:46.20,0:03:47.70,Default,,0000,0000,0000,,Des élèves plus âgées.
+Dialogue: 0,0:03:47.87,0:03:51.25,Default,,0000,0000,0000,,Il paraît que c’est la seule\Nqui porte une marinière.
+Dialogue: 0,0:03:51.62,0:03:54.00,Default,,0000,0000,0000,,Akebi, vite ! Cache–toi !
+Dialogue: 0,0:03:55.42,0:03:58.17,TiretsDefault,,0215,0000,0000,,– C’est elle !\N– La fille à la marinière !
+Dialogue: 0,0:04:02.22,0:04:06.14,Default,,0000,0000,0000,,On t’a vue courir tout à l’heure,\Npendant le cours d’EPS.
+Dialogue: 0,0:04:06.68,0:04:09.10,TiretsDefault,,0224,0000,0000,,– Fais de l’athlétisme !\N– Du basket !
+Dialogue: 0,0:04:09.22,0:04:10.89,Default,,0000,0000,0000,,Non, du foot !
+Dialogue: 0,0:04:12.77,0:04:14.90,Default,,0000,0000,0000,,Ah, euh…
+Dialogue: 0,0:04:15.10,0:04:17.36,Default,,0000,0000,0000,,Eh bah, elle a la cote.
+Dialogue: 0,0:04:17.48,0:04:20.48,TiretsDefault,,0210,0000,0000,,– Je m’attendais au pire…\N– Moi aussi.
+Dialogue: 0,0:04:20.86,0:04:23.82,Default,,0000,0000,0000,,Est–ce que tu as déjà\Nchoisi un club ?
+Dialogue: 0,0:04:23.99,0:04:26.62,Default,,0000,0000,0000,,Non, pas encore, mais bon…
+Dialogue: 0,0:04:27.70,0:04:29.45,TiretsDefault,,0257,0000,0000,,– Euh…\N– Excusez–moi.
+Dialogue: 0,0:04:34.79,0:04:38.79,Default,,0000,0000,0000,,Je suis désolée,\Nmais les cours vont bientôt reprendre.
+Dialogue: 0,0:04:38.96,0:04:42.05,Default,,0000,0000,0000,,Est–ce que vous pouvez repasser\Nune autre fois ?
+Dialogue: 0,0:04:50.64,0:04:52.43,Default,,0000,0000,0000,,Oui, c’est vrai.
+Dialogue: 0,0:04:52.60,0:04:54.52,Default,,0000,0000,0000,,Pardon de t’avoir sauté dessus.
+Dialogue: 0,0:04:54.69,0:04:58.48,Default,,0000,0000,0000,,Bref, si ça t’intéresse,\Nviens jeter un œil à nos clubs.
+Dialogue: 0,0:04:58.65,0:04:59.57,Default,,0000,0000,0000,,D’accord !
+Dialogue: 0,0:05:04.15,0:05:06.24,Default,,0000,0000,0000,,Ne courez pas dans les couloirs !
+Dialogue: 0,0:05:13.25,0:05:15.25,Default,,0000,0000,0000,,{\an8}FICHE D’INSCRIPTION À UN CLUB
+Dialogue: 0,0:05:13.25,0:05:16.04,Default,,0000,0000,0000,,Il y a vraiment des chevaux\Nau club équestre.
+Dialogue: 0,0:05:16.21,0:05:18.42,TiretsDefault,,0247,0000,0000,,– Ils sont grands ?\N– Carrément !
+Dialogue: 0,0:05:20.75,0:05:22.96,Default,,0000,0000,0000,,Euh… Akebi ?
+Dialogue: 0,0:05:23.13,0:05:25.34,Default,,0000,0000,0000,,Tu as de jolies jambes, Tanigawa.
+Dialogue: 0,0:05:25.55,0:05:28.01,Default,,0000,0000,0000,,Elles sont blanches\Net ont l’air douces.
+Dialogue: 0,0:05:29.89,0:05:32.43,Default,,0000,0000,0000,,J’ai flashé dessus, en EPS !
+Dialogue: 0,0:05:32.60,0:05:33.89,Default,,0000,0000,0000,,Hein ? Quoi ?
+Dialogue: 0,0:05:37.85,0:05:40.06,Default,,0000,0000,0000,,Tu peux relever ta jupe ?
+Dialogue: 0,0:05:40.77,0:05:41.82,Default,,0000,0000,0000,,Pardon ?
+Dialogue: 0,0:05:44.15,0:05:46.90,Default,,0000,0000,0000,,Toi, alors…\NPourquoi tu me demandes ça ?
+Dialogue: 0,0:05:48.91,0:05:52.74,Default,,0000,0000,0000,,Usagihara organise le concours\Ndes plus belles jambes.
+Dialogue: 0,0:05:52.95,0:05:55.20,Default,,0000,0000,0000,,Ça te dirait de participer ?
+Dialogue: 0,0:05:56.00,0:05:58.12,Default,,0000,0000,0000,,Non, on va se faire gronder,
+Dialogue: 0,0:05:58.29,0:06:01.09,Default,,0000,0000,0000,,et on risque de salir notre uniforme.
+Dialogue: 0,0:06:01.42,0:06:04.92,Default,,0000,0000,0000,,Mis à part ça, Akebi,\Ntu as choisi un club ?
+Dialogue: 0,0:06:05.09,0:06:08.88,Default,,0000,0000,0000,,\NNon, j’hésite encore,\Ncomme ils ont tous l’air sympas.
+Dialogue: 0,0:06:09.05,0:06:10.97,Default,,0000,0000,0000,,Alors merci pour tout à l’heure.
+Dialogue: 0,0:06:11.14,0:06:15.18,Default,,0000,0000,0000,,Ce n’est rien.\NTu n’as pas besoin de me remercier.
+Dialogue: 0,0:06:17.23,0:06:21.44,Default,,0000,0000,0000,,En tout cas, remets bien ta fiche\Navant la fin de la semaine.
+Dialogue: 0,0:06:21.56,0:06:22.48,Default,,0000,0000,0000,,Oui !
+Dialogue: 0,0:06:24.65,0:06:27.61,Default,,0000,0000,0000,,Tanigawa, la déléguée,\Nest vraiment studieuse.
+Dialogue: 0,0:06:27.74,0:06:30.41,Default,,0000,0000,0000,,Elle a ce petit côté sérieux,\Nmais adorable.
+Dialogue: 0,0:06:30.53,0:06:34.62,Default,,0000,0000,0000,,Elle avait la classe,\Nen intervenant pour aider Komichi.
+Dialogue: 0,0:06:35.66,0:06:38.62,Default,,0000,0000,0000,,Mais il faudrait\Nqu’elle se lâche un peu plus.
+Dialogue: 0,0:06:39.04,0:06:42.75,Default,,0000,0000,0000,,Comment dire…\NElle est trop à cheval sur les règles.
+Dialogue: 0,0:06:44.42,0:06:46.13,Default,,0000,0000,0000,,{\i1}Je vous entends, hein.{\i0}
+Dialogue: 0,0:06:51.93,0:06:53.22,Default,,0000,0000,0000,,Voilà les copies.
+Dialogue: 0,0:06:53.39,0:06:57.39,Default,,0000,0000,0000,,{\i1}Ce n’est pas comme si\Nje voulais faire l’élève sérieuse.{\i0}
+Dialogue: 0,0:06:58.06,0:06:58.93,Default,,0000,0000,0000,,{\i1}Mais bon…{\i0}
+Dialogue: 0,0:07:00.35,0:07:04.90,Default,,0000,0000,0000,,{\i1}Je ne prendrais pas le risque\Nde me faire gronder par la prof.{\i0}
+Dialogue: 0,0:07:05.86,0:07:08.65,Default,,0000,0000,0000,,Tu as bien préparé la leçon,\NTanigawa.
+Dialogue: 0,0:07:14.99,0:07:17.66,Default,,0000,0000,0000,,Bien, qui a la réponse\Nà cette question ?
+Dialogue: 0,0:07:20.66,0:07:22.54,TiretsDefault,,0264,0000,0000,,– Allez, ciao !\N– Bye bye !
+Dialogue: 0,0:07:22.75,0:07:23.67,Default,,0000,0000,0000,,À demain.
+Dialogue: 0,0:07:24.08,0:07:25.67,Default,,0000,0000,0000,,Réveille–toi, Kamimoku !
+Dialogue: 0,0:07:26.04,0:07:27.21,Default,,0000,0000,0000,,Je rentre !
+Dialogue: 0,0:07:27.63,0:07:31.68,Default,,0000,0000,0000,,À demain, Tanigawa.\NLes cours sont finis, Kamimoku !
+Dialogue: 0,0:07:37.18,0:07:40.77,Default,,0000,0000,0000,,T’as l’air d’une star, Komichi !
+Dialogue: 0,0:07:48.15,0:07:51.57,Default,,0000,0000,0000,,{\i1}Akebi est déjà appréciée\Npar toute la classe.{\i0}
+Dialogue: 0,0:07:52.11,0:07:53.95,Default,,0000,0000,0000,,{\i1}Elle est aimable, mignonne,{\i0}
+Dialogue: 0,0:07:54.32,0:07:55.32,Default,,0000,0000,0000,,{\i1}et puis…{\i0}
+Dialogue: 0,0:07:55.74,0:07:58.45,TiretsDefault,,0226,0000,0000,,– À demain, les filles !\N– Bye bye.
+Dialogue: 0,0:07:59.12,0:08:01.00,Default,,0000,0000,0000,,Ah, Tanigawa !
+Dialogue: 0,0:08:02.16,0:08:05.42,Default,,0000,0000,0000,,{\i1}… elle m’adresse souvent la parole.{\i0}
+Dialogue: 0,0:08:06.46,0:08:08.80,TiretsDefault,,0226,0000,0000,,– Tu rentres chez toi ?\N– Euh, oui.
+Dialogue: 0,0:08:09.00,0:08:11.34,Default,,0000,0000,0000,,Je t’ai vue danser, à l’instant.
+Dialogue: 0,0:08:11.51,0:08:14.47,Default,,0000,0000,0000,,Oui !\NC’est le premier single solo de Miki !
+Dialogue: 0,0:08:14.64,0:08:16.76,Default,,0000,0000,0000,,Le morceau est génial !
+Dialogue: 0,0:08:27.98,0:08:29.48,Default,,0000,0000,0000,,Alors, tu aimes ?
+Dialogue: 0,0:08:30.82,0:08:31.86,Default,,0000,0000,0000,,Oui.
+Dialogue: 0,0:08:36.91,0:08:37.99,Default,,0000,0000,0000,,{\i1}Elle est si proche{\i0}
+Dialogue: 0,0:08:38.58,0:08:40.83,Default,,0000,0000,0000,,{\i1}que j’ai du mal\Nà écouter la musique.{\i0}
+Dialogue: 0,0:08:45.83,0:08:48.59,Default,,0000,0000,0000,,Tu dois être douée\Npour danser là–dessus.
+Dialogue: 0,0:08:48.96,0:08:50.67,TiretsDefault,,0274,0000,0000,,– Tu crois ?\N– Oui.
+Dialogue: 0,0:08:51.05,0:08:54.38,Default,,0000,0000,0000,,Pour m’entraîner,\Nj’ai regardé mille fois son clip
+Dialogue: 0,0:08:54.55,0:08:56.51,Default,,0000,0000,0000,,et ses apparitions à la télé.
+Dialogue: 0,0:08:56.68,0:09:01.47,Default,,0000,0000,0000,,Je me demande toujours\Nà quoi elle pense quand je l’observe.
+Dialogue: 0,0:09:03.35,0:09:05.27,Default,,0000,0000,0000,,Tu l’étudies minutieusement.
+Dialogue: 0,0:09:08.27,0:09:10.27,TiretsDefault,,0279,0000,0000,,– Merci.\N– De rien.
+Dialogue: 0,0:09:10.77,0:09:13.53,Default,,0000,0000,0000,,Et toi ?\NQu’est–ce qui te passionne ?
+Dialogue: 0,0:09:13.65,0:09:15.20,TiretsDefault,,0292,0000,0000,,– Moi ?\N– Oui.
+Dialogue: 0,0:09:15.36,0:09:17.61,Default,,0000,0000,0000,,Je veux en apprendre plus sur toi.
+Dialogue: 0,0:09:18.03,0:09:20.95,Default,,0000,0000,0000,,Il n’y a rien que j’aime\Nen particulier…
+Dialogue: 0,0:09:23.20,0:09:25.75,Default,,0000,0000,0000,,Ah, tu as décidé\Nquel club rejoindre ?
+Dialogue: 0,0:09:27.50,0:09:30.00,Default,,0000,0000,0000,,Non, pas encore.
+Dialogue: 0,0:09:30.17,0:09:31.34,Default,,0000,0000,0000,,Je te comprends.
+Dialogue: 0,0:09:31.50,0:09:35.72,Default,,0000,0000,0000,,Difficile de choisir,\Nentre tous ces clubs qui donnent envie.
+Dialogue: 0,0:09:36.88,0:09:40.26,Default,,0000,0000,0000,,Il n’y en a pas tant\Nqui m’intéressent vraiment…
+Dialogue: 0,0:09:40.43,0:09:43.43,Default,,0000,0000,0000,,Tu as vraiment de jolies jambes,\NTanigawa.
+Dialogue: 0,0:09:44.06,0:09:45.68,Default,,0000,0000,0000,,Tu remets ça ?
+Dialogue: 0,0:09:46.14,0:09:48.85,Default,,0000,0000,0000,,S’il te plaît ! Montre–les–moi !
+Dialogue: 0,0:09:49.02,0:09:50.06,Default,,0000,0000,0000,,Pas question.
+Dialogue: 0,0:09:50.23,0:09:51.86,Default,,0000,0000,0000,,Pourquoi ?
+Dialogue: 0,0:09:52.02,0:09:53.53,Default,,0000,0000,0000,,C’est trop embarrassant.
+Dialogue: 0,0:09:54.86,0:09:58.99,Default,,0000,0000,0000,,Ah, et si tu prenais une photo chez toi\Net que tu me l’envoyais ?
+Dialogue: 0,0:09:59.16,0:10:02.49,Default,,0000,0000,0000,,C’est encore plus gênant,\Net ça laisse des traces.
+Dialogue: 0,0:10:02.66,0:10:04.20,Default,,0000,0000,0000,,Dommage…
+Dialogue: 0,0:10:05.12,0:10:08.58,Default,,0000,0000,0000,,Bon, je te file quand même\Nmon numéro.
+Dialogue: 0,0:10:09.12,0:10:10.58,Default,,0000,0000,0000,,Moi aussi, alors.
+Dialogue: 0,0:10:11.29,0:10:12.96,Default,,0000,0000,0000,,Super !
+Dialogue: 0,0:10:14.21,0:10:16.17,Default,,0000,0000,0000,,Envoie–moi un tas de messages !
+Dialogue: 0,0:10:18.59,0:10:22.72,Default,,0000,0000,0000,,{\i1}Elle demande si facilement\Nce qui me paraît impossible…{\i0}
+Dialogue: 0,0:10:30.10,0:10:31.19,Default,,0000,0000,0000,,{\i1}Je suis contente.{\i0}
+Dialogue: 0,0:10:38.11,0:10:39.15,Default,,0000,0000,0000,,Je suis rentrée.
+Dialogue: 0,0:10:40.07,0:10:41.45,Default,,0000,0000,0000,,Maman ?
+Dialogue: 0,0:10:45.16,0:10:46.91,Default,,0000,0000,0000,,Elle fait les courses ?
+Dialogue: 0,0:10:46.91,0:10:50.42,Default,,0000,0000,0000,,{\an8}MANUELS SCOLAIRES
+Dialogue: 0,0:10:47.91,0:10:50.00,Default,,0000,0000,0000,,Je suis toute seule, alors.
+Dialogue: 0,0:11:07.93,0:11:09.48,Default,,0000,0000,0000,,{\i1}Tu as de jolies jambes.{\i0}
+Dialogue: 0,0:11:32.58,0:11:34.13,Default,,0000,0000,0000,,{\i1}Je les ai prises en photo.{\i0}
+Dialogue: 0,0:11:35.21,0:11:36.46,Default,,0000,0000,0000,,{\i1}C’est vraiment osé !{\i0}
+Dialogue: 0,0:11:36.67,0:11:39.51,Default,,0000,0000,0000,,{\i1}Mais ça n’a rien de scandaleux, non ?{\i0}
+Dialogue: 0,0:11:39.72,0:11:43.64,Default,,0000,0000,0000,,{\i1}Je n’ai pas à avoir honte\Nde prendre une photo de moi !{\i0}
+Dialogue: 0,0:11:44.59,0:11:47.10,Default,,0000,0000,0000,,{\i1}Et pourtant,\Nmon cœur bat la chamade.{\i0}
+Dialogue: 0,0:11:47.26,0:11:50.14,Default,,0000,0000,0000,,{\i1}On dirait presque quelqu’un d’autre.{\i0}
+Dialogue: 0,0:11:51.23,0:11:54.15,Default,,0000,0000,0000,,{\i1}C’est un peu plus amusant\Nque je pensais.{\i0}
+Dialogue: 0,0:11:54.90,0:11:56.40,Default,,0000,0000,0000,,{\i1}Alors tant qu’à faire…{\i0}
+Dialogue: 0,0:11:57.48,0:11:58.65,Default,,0000,0000,0000,,Je suis rentrée.
+Dialogue: 0,0:11:59.32,0:12:00.53,Default,,0000,0000,0000,,Tu es où, Kei ?
+Dialogue: 0,0:12:01.49,0:12:02.65,Default,,0000,0000,0000,,Dans ta chambre ?
+Dialogue: 0,0:12:02.65,0:12:06.66,Default,,0000,0000,0000,,{\an8}DICTIONNAIRES DE JAPONAIS\NET ENCYCLOPÉDIES
+Dialogue: 0,0:12:07.41,0:12:10.75,Default,,0000,0000,0000,,{\i1}Je crois bien\Nque je suis une perverse.{\i0}
+Dialogue: 0,0:12:11.33,0:12:14.71,Default,,0000,0000,0000,,{\i1}Je ne peux pas envoyer\Nune seule de ces photos.{\i0}
+Dialogue: 0,0:12:15.33,0:12:17.67,Default,,0000,0000,0000,,{\i1}Et surtout pas ces deux–là.{\i0}
+Dialogue: 0,0:12:22.17,0:12:24.68,Default,,0000,0000,0000,,{\an8}VOULEZ–VOUS ENVOYER CETTE PHOTO ?\NNON / OUI
+Dialogue: 0,0:12:26.68,0:12:27.64,Default,,0000,0000,0000,,Kei ?
+Dialogue: 0,0:12:31.64,0:12:34.44,Default,,0000,0000,0000,,Pourquoi tu es\Nà moitié déshabillée ?
+Dialogue: 0,0:12:34.69,0:12:36.44,Default,,0000,0000,0000,,Hein ? Mais pourquoi ?
+Dialogue: 0,0:12:36.61,0:12:38.19,Default,,0000,0000,0000,,Non, ne l’envoie pas !
+Dialogue: 0,0:12:44.65,0:12:45.70,Default,,0000,0000,0000,,Bah alors ?
+Dialogue: 0,0:12:46.11,0:12:47.82,Default,,0000,0000,0000,,Pourquoi tu pleures ?
+Dialogue: 0,0:12:49.12,0:12:50.70,Default,,0000,0000,0000,,Maman…
+Dialogue: 0,0:12:51.20,0:12:55.12,Default,,0000,0000,0000,,Il fallait que ce soit\Nla plus gênante de toutes…
+Dialogue: 0,0:13:08.97,0:13:11.60,Default,,0000,0000,0000,,{\an8}PITIÉ, NE LA MONTRE À PERSONNE
+Dialogue: 0,0:13:11.72,0:13:15.69,Default,,0000,0000,0000,,{\an8}LA PHOTO EST JOLIE, COMME TOI !\NAPPRENDS–MOI À PRENDRE DE BELLES PHOTOS !
+Dialogue: 0,0:13:14.43,0:13:15.69,Default,,0000,0000,0000,,De belles photos ?
+Dialogue: 0,0:13:17.15,0:13:20.57,Default,,0000,0000,0000,,Kei, prends ta douche\Navant qu’on ne passe à table.
+Dialogue: 0,0:13:20.73,0:13:22.23,Default,,0000,0000,0000,,D’accord.
+Dialogue: 0,0:13:36.92,0:13:39.79,Default,,0000,0000,0000,,{\i1}J’ai vraiment trop honte…{\i0}
+Dialogue: 0,0:13:52.60,0:13:54.93,Default,,0000,0000,0000,,Ce livre est très émouvant, hein ?
+Dialogue: 0,0:13:55.10,0:13:55.93,Default,,0000,0000,0000,,Oui.
+Dialogue: 0,0:13:56.23,0:13:59.65,Default,,0000,0000,0000,,Tu es plutôt du genre à lire\Nou à écrire, Tomono ?
+Dialogue: 0,0:13:59.90,0:14:02.77,Default,,0000,0000,0000,,Euh… J’ai déjà pensé à rédiger.
+Dialogue: 0,0:14:02.94,0:14:05.69,Default,,0000,0000,0000,,Oh ! Enfin une\Nqui n’a pas froid aux yeux !
+Dialogue: 0,0:14:06.24,0:14:08.24,Default,,0000,0000,0000,,Tu t’es décidée, Tanigawa ?
+Dialogue: 0,0:14:08.41,0:14:11.74,Default,,0000,0000,0000,,Moi, j’avais prévu d’entrer\Nau club de littérature.
+Dialogue: 0,0:14:11.91,0:14:12.91,Default,,0000,0000,0000,,Hmm…
+Dialogue: 0,0:14:13.08,0:14:15.20,Default,,0000,0000,0000,,Je vais y réfléchir encore un peu.
+Dialogue: 0,0:14:15.20,0:14:19.71,Default,,0000,0000,0000,,{\an8}CLUB DE THÉÂTRE, DE KARATÉ,\NDE NATATION, DE BASKET…
+Dialogue: 0,0:14:20.79,0:14:22.00,Default,,0000,0000,0000,,Akebi ?
+Dialogue: 0,0:14:23.25,0:14:26.21,Default,,0000,0000,0000,,Quoi ?\NTu as déjà choisi un club, Kojô ?
+Dialogue: 0,0:14:27.42,0:14:31.55,Default,,0000,0000,0000,,Je t’envie…\NPerso, j’arrive pas à me décider.
+Dialogue: 0,0:14:31.72,0:14:34.14,Default,,0000,0000,0000,,Et si je rejoignais ton club ?
+Dialogue: 0,0:14:34.31,0:14:36.47,Default,,0000,0000,0000,,Ne choisis pas sans réfléchir !
+Dialogue: 0,0:14:36.85,0:14:41.61,Default,,0000,0000,0000,,Si tout te donne envie,\Nopte pour ce qui te plaît le plus.
+Dialogue: 0,0:14:41.81,0:14:42.98,Default,,0000,0000,0000,,Kojô…
+Dialogue: 0,0:14:43.65,0:14:47.24,Default,,0000,0000,0000,,Jetons un œil à tous les clubs.\NJe viendrai avec toi.
+Dialogue: 0,0:14:49.07,0:14:50.24,Default,,0000,0000,0000,,Merci !
+Dialogue: 0,0:15:13.72,0:15:16.93,Default,,0000,0000,0000,,Franchement,\Nje ne pensais pas qu’il existait
+Dialogue: 0,0:15:17.22,0:15:19.60,Default,,0000,0000,0000,,tant de clubs que ça.
+Dialogue: 0,0:15:20.94,0:15:25.02,Default,,0000,0000,0000,,Maintenant, j’ai encore plus\Nl’embarras du choix !
+Dialogue: 0,0:15:30.36,0:15:32.57,Default,,0000,0000,0000,,Désolée, je n’ai pas pu t’aider.
+Dialogue: 0,0:15:33.20,0:15:35.95,Default,,0000,0000,0000,,Dis pas ça,\Nje me suis bien amusée.
+Dialogue: 0,0:15:39.20,0:15:42.46,Default,,0000,0000,0000,,J’y réfléchirai tranquillement\Nchez moi.
+Dialogue: 0,0:15:42.62,0:15:44.79,Default,,0000,0000,0000,,Merci d’être venue avec moi.
+Dialogue: 0,0:15:48.84,0:15:50.05,Default,,0000,0000,0000,,De rien.
+Dialogue: 0,0:15:50.76,0:15:53.89,Default,,0000,0000,0000,,J’espère que tu trouveras\Nle club idéal.
+Dialogue: 0,0:16:12.36,0:16:13.86,Default,,0000,0000,0000,,Ça flotte pas mal.
+Dialogue: 0,0:16:14.99,0:16:17.12,Default,,0000,0000,0000,,Tu es toute trempée, Kojô.
+Dialogue: 0,0:16:17.66,0:16:20.37,Default,,0000,0000,0000,,Désolée,\Nsi tu ne m’avais pas accompagnée…
+Dialogue: 0,0:16:20.54,0:16:21.71,Default,,0000,0000,0000,,Ne t’excuse pas.
+Dialogue: 0,0:16:21.83,0:16:24.92,Default,,0000,0000,0000,,Mis à part ça,\Ntu dois avoir froid, sans veste.
+Dialogue: 0,0:16:25.13,0:16:26.63,Default,,0000,0000,0000,,T’en fais pas pour m…
+Dialogue: 0,0:16:27.38,0:16:30.42,Default,,0000,0000,0000,,Et voilà… Déshabille–toi,\Ntu vas tomber malade.
+Dialogue: 0,0:16:32.88,0:16:33.93,Default,,0000,0000,0000,,D’accord.
+Dialogue: 0,0:16:51.11,0:16:53.65,Default,,0000,0000,0000,,C’est un peu gênant.
+Dialogue: 0,0:17:13.67,0:17:16.93,Default,,0000,0000,0000,,Ça me tient chaud… Merci !
+Dialogue: 0,0:17:19.68,0:17:22.18,Default,,0000,0000,0000,,Tu as l’air plus mature, comme ça.
+Dialogue: 0,0:17:26.06,0:17:27.69,Default,,0000,0000,0000,,Ah, c’est mon livre.
+Dialogue: 0,0:17:27.69,0:17:29.69,Default,,0000,0000,0000,,{\an8}AU–DELÀ DU CIEL BLEU, IMAI TSUTOMU
+Dialogue: 0,0:17:29.36,0:17:32.61,Default,,0000,0000,0000,,Je vais le lire\Nà la séance de lecture du club.
+Dialogue: 0,0:17:32.78,0:17:35.57,Default,,0000,0000,0000,,Une séance de lecture ?\NÇa a l’air fun !
+Dialogue: 0,0:17:36.20,0:17:37.24,Default,,0000,0000,0000,,Pas vraiment…
+Dialogue: 0,0:17:37.49,0:17:41.20,Default,,0000,0000,0000,,Ce sera une première.\NC’est dur de lire devant tout le monde.
+Dialogue: 0,0:17:41.87,0:17:43.45,Default,,0000,0000,0000,,Tout se passera bien.
+Dialogue: 0,0:17:44.20,0:17:46.29,Default,,0000,0000,0000,,Tu as déjà lu devant des gens ?
+Dialogue: 0,0:17:46.46,0:17:49.92,Default,,0000,0000,0000,,Oui ! Enfin, juste ma petite sœur.
+Dialogue: 0,0:17:51.29,0:17:55.76,Default,,0000,0000,0000,,J’adore voir Kao fixer le livre\Nque je suis en train de lui lire.
+Dialogue: 0,0:17:59.97,0:18:01.93,Default,,0000,0000,0000,,J’aimerais bien t’écouter lire,
+Dialogue: 0,0:18:02.89,0:18:04.22,Default,,0000,0000,0000,,comme ta petite sœur.
+Dialogue: 0,0:18:07.35,0:18:08.52,Default,,0000,0000,0000,,Si tu veux…
+Dialogue: 0,0:18:19.20,0:18:21.74,Default,,0000,0000,0000,,Explique–moi les mots compliqués.
+Dialogue: 0,0:18:28.33,0:18:31.46,Default,,0000,0000,0000,,{\i1}Au–delà du ciel bleu{\i0}, Imai Tsutomu.
+Dialogue: 0,0:18:32.54,0:18:34.55,Default,,0000,0000,0000,,« Cinq minutes avant la sonnerie,
+Dialogue: 0,0:18:34.96,0:18:38.26,Default,,0000,0000,0000,,je me dépêchai de ranger\Nmes affaires.
+Dialogue: 0,0:18:39.18,0:18:40.84,Default,,0000,0000,0000,,Six mois après l’accident,
+Dialogue: 0,0:18:41.59,0:18:44.97,Default,,0000,0000,0000,,je marchais encore difficilement\Navec mes béquilles,
+Dialogue: 0,0:18:45.35,0:18:47.77,Default,,0000,0000,0000,,lorsqu’un gros nuage m’offus…
+Dialogue: 0,0:18:52.65,0:18:54.02,Default,,0000,0000,0000,,Lorsqu’un gros nuage
+Dialogue: 0,0:18:54.40,0:18:56.99,Default,,0000,0000,0000,,m’offusqua la vue en me dépassant.
+Dialogue: 0,0:18:57.94,0:18:59.45,Default,,0000,0000,0000,,Je levai alors les yeux…
+Dialogue: 0,0:19:06.29,0:19:10.04,Default,,0000,0000,0000,,’Les nuages ont de la chance\Nd’être si libres.
+Dialogue: 0,0:19:12.21,0:19:15.21,Default,,0000,0000,0000,,Demain, c’est la finale du tournoi.
+Dialogue: 0,0:19:16.34,0:19:18.38,Default,,0000,0000,0000,,J’aurais dû y participer…’
+Dialogue: 0,0:19:19.26,0:19:20.76,Default,,0000,0000,0000,,’Hé !’
+Dialogue: 0,0:19:21.30,0:19:26.31,Default,,0000,0000,0000,,Difficile d’imaginer que cette voix grave\Nvenait d’un autre collégien…
+Dialogue: 0,0:19:27.52,0:19:29.31,Default,,0000,0000,0000,,’Hé !’
+Dialogue: 0,0:19:40.65,0:19:44.95,Default,,0000,0000,0000,,De faibles bruits de pas\Nse rapprochèrent lentement de moi.
+Dialogue: 0,0:19:46.16,0:19:48.37,Default,,0000,0000,0000,,Puis, quelqu’un apparut devant moi…
+Dialogue: 0,0:19:49.70,0:19:52.33,Default,,0000,0000,0000,,’J’ai exactement le club\Nqu’il te faut.’ »
+Dialogue: 0,0:20:23.86,0:20:24.61,Default,,0000,0000,0000,,Hein ?
+Dialogue: 0,0:20:28.45,0:20:30.04,Default,,0000,0000,0000,,Maman ?
+Dialogue: 0,0:20:35.54,0:20:37.63,Default,,0000,0000,0000,,Pardon, je voulais les essayer.
+Dialogue: 0,0:20:41.38,0:20:43.80,Default,,0000,0000,0000,,La pluie s’est arrêtée.
+Dialogue: 0,0:20:48.89,0:20:52.18,Default,,0000,0000,0000,,Désolée, vraiment !\NJe devais être lourde.
+Dialogue: 0,0:20:52.31,0:20:54.69,Default,,0000,0000,0000,,Non ! Au contraire, j’étais contente.
+Dialogue: 0,0:20:54.85,0:20:58.90,Default,,0000,0000,0000,,Ma sœur dit que les cuisses de ma mère\Nsont plus mœlleuses.
+Dialogue: 0,0:20:59.07,0:21:00.90,Default,,0000,0000,0000,,Alors ça me vexe un peu.
+Dialogue: 0,0:21:01.23,0:21:03.99,Default,,0000,0000,0000,,Bref, comment étaient les miennes ?
+Dialogue: 0,0:21:05.61,0:21:07.41,Default,,0000,0000,0000,,Elles étaient confortables.
+Dialogue: 0,0:21:08.16,0:21:11.04,Default,,0000,0000,0000,,Et puis, j’ai bien aimé la lecture.
+Dialogue: 0,0:21:12.12,0:21:15.42,Default,,0000,0000,0000,,Akebi,\Nest–ce que ça te dirait de visiter
+Dialogue: 0,0:21:15.79,0:21:17.00,Default,,0000,0000,0000,,un dernier club ?
+Dialogue: 0,0:21:20.55,0:21:22.88,TiretsDefault,,0275,0000,0000,,– Bonjour !\N– Salut.
+Dialogue: 0,0:21:23.01,0:21:25.17,TiretsDefault,,0290,0000,0000,,– Yop !\N– Salut.
+Dialogue: 0,0:21:26.09,0:21:31.01,Default,,0000,0000,0000,,Akebi, viens jouer au softball avec moi,\Net visons le titre national !
+Dialogue: 0,0:21:31.64,0:21:35.44,Default,,0000,0000,0000,,Rôbai autorise les multiples clubs.\NÇa te dit, une rando ?
+Dialogue: 0,0:21:35.60,0:21:40.19,Default,,0000,0000,0000,,Les deux ont l’air intéressants,\Nmais j’ai déjà fait mon choix.
+Dialogue: 0,0:21:40.36,0:21:42.69,TiretsDefault,,0217,0000,0000,,– Dommage…\N– Ah bon ? C’est–à–dire ?
+Dialogue: 0,0:21:43.57,0:21:44.44,Default,,0000,0000,0000,,Bonjour.
+Dialogue: 0,0:21:44.74,0:21:47.11,TiretsDefault,,0244,0000,0000,,– Salut, Tanigawa.\N– Bonjour !
+Dialogue: 0,0:21:47.28,0:21:49.32,Default,,0000,0000,0000,,J’ai enfin choisi un club.
+Dialogue: 0,0:21:51.24,0:21:52.33,Default,,0000,0000,0000,,Celui de photo.
+Dialogue: 0,0:21:54.41,0:21:55.91,Default,,0000,0000,0000,,Ça colle à ton image.
+Dialogue: 0,0:21:56.08,0:22:01.09,Default,,0000,0000,0000,,Et toi, Akebi ? Tu as rejoint lequel ?\NAllez, dis–moi tout !
+Dialogue: 0,0:22:07.30,0:22:08.55,Default,,0000,0000,0000,,Le club de théâtre.
+Dialogue: 0,0:23:25.63,0:23:30.55,Default,,0000,0000,0000,,Supervision du projet : Sarah Leclère\NRepérage : Stephanie Leborgne
+Dialogue: 0,0:23:30.93,0:23:35.85,Default,,0000,0000,0000,,Traduction : Benjamin Moro\NRelecture : Marion Sals
+Dialogue: 0,0:23:36.43,0:23:40.10,Default,,0000,0000,0000,,Publication : Jelizaveta Stolarova\NWAKANIM

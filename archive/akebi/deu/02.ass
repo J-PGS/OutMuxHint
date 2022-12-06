@@ -1,0 +1,320 @@
+﻿[Script Info]
+Title: Deutsch
+Original Script: cr_de  [http://www.crunchyroll.com/user/cr_de]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,23,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,0000,0000,0020,1
+Style: Internal,Arial,23,&H00FFFFFF,&H000000FF,&H001E0200,&H00000000,-1,-1,0,0,100,100,0,0,1,2,0,2,0000,0000,0020,1
+Style: Internal Top,Arial,23,&H00FFFFFF,&H000000FF,&H001E0200,&H00000000,-1,-1,0,0,100,100,0,0,1,2,0,8,0000,0000,0020,1
+Style: Flashback,Arial,23,&H00F7ECEB,&H000000FF,&H004D0701,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,0000,0000,0020,1
+Style: Flashback Internal,Arial,23,&H00F7ECEB,&H000000FF,&H004D0701,&H00000000,-1,-1,0,0,100,100,0,0,1,2,0,2,0000,0000,0020,1
+Style: Flashback Top,Arial,23,&H00F7ECEB,&H000000FF,&H004D0701,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0000,0000,0020,1
+Style: Overlap,Arial,23,&H00F3EDE3,&H000000FF,&H00362B17,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,0000,0000,0020,1
+Style: Top,Arial,23,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0000,0000,0020,1
+Style: Narrator,Arial,23,&H00F2F2F9,&H000000FF,&H00000050,&H00000050,-1,-1,0,0,100,100,0,0,1,2,0,2,0000,0000,0020,1
+Style: TypePlaceholder,Arial,19,&H00000000,&H000000FF,&H00FFFFFF,&H00FFFFFF,0,0,0,0,100,100,0,0,1,0,0,8,0010,0010,0020,1
+Style: Eptitel,Georgia,16,&H00000000,&H000000FF,&H00FFFFFF,&H00FFFFFF,0,-1,0,0,100,100,0,0,1,1,0,8,0010,0010,0020,1
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:01.10,0:00:04.48,Top,,0000,0000,0000,,In einer Welt ohne Träume
+Dialogue: 0,0:00:04.48,0:00:08.20,Top,,0000,0000,0000,,hört man den Klang des wehenden Windes.
+Dialogue: 0,0:00:08.20,0:00:10.82,Top,,0000,0000,0000,,Ich verfiel dem Eindruck,
+Dialogue: 0,0:00:10.82,0:00:15.02,Top,,0000,0000,0000,,dass die herumflatternden\NRockzipfel wirklich schön sind.
+Dialogue: 0,0:00:15.02,0:00:17.57,Top,,0000,0000,0000,,Durch den Schmerz in meiner Brust
+Dialogue: 0,0:00:17.57,0:00:23.00,Top,,0000,0000,0000,,verstand ich die Bedeutung von Leid.
+Dialogue: 0,0:00:19.54,0:00:20.58,Default,,0000,0000,0000,,Zeit für eine Erfrischung!
+Dialogue: 0,0:00:23.73,0:00:28.25,Internal,,0000,0000,0000,,Meine Begeisterung nahm mit dem Spot\Ndes Idols Fukumoto Miki ihren Anfang.
+Dialogue: 0,0:00:28.60,0:00:33.13,Internal,,0000,0000,0000,,Es war Liebe auf den ersten Blick,\Nals ich sie in dieser Kleidung sah.
+Dialogue: 0,0:00:33.13,0:00:35.59,Flashback,,0000,0000,0000,,Wie nied…
+Dialogue: 0,0:00:35.59,0:00:38.55,Flashback,,0000,0000,0000,,Voll niedlich! Voll niedlich!\NVoll niedlich! Voll niedlich!
+Dialogue: 0,0:00:39.24,0:00:42.68,Internal,,0000,0000,0000,,Daraufhin fand ich ein Foto\Nmeiner Mutter aus ihrer Schulzeit
+Dialogue: 0,0:00:42.68,0:00:44.53,Internal,,0000,0000,0000,,und hielt es für mein Schicksal.
+Dialogue: 0,0:00:45.91,0:00:49.82,Flashback,,0000,0000,0000,,Ich hab nichts dagegen, wenn du dorthin\Nwillst, aber das wird kein Spaziergang.
+Dialogue: 0,0:00:49.82,0:00:51.32,Flashback,,0000,0000,0000,,Ich streng mich an!
+Dialogue: 0,0:00:51.68,0:00:55.91,Flashback,,0000,0000,0000,,Da wäre noch was. Falls ich\Nes auf die Robai-Akademie schaffe …
+Dialogue: 0,0:01:00.28,0:01:03.66,Default,,0000,0000,0000,,… möchte ich, dass du mir eine\NUniform nähst, Mama.
+Dialogue: 0,0:01:06.02,0:01:09.57,Internal,,0000,0000,0000,,Ich habe meine Mutter schon\Nimmer bei ihrer Arbeit bewundert.
+Dialogue: 0,0:01:11.44,0:01:14.88,Internal,,0000,0000,0000,,Ich war völlig vernarrt\Nin die Matrosenuniform.
+Dialogue: 0,0:01:21.40,0:01:25.40,Internal,,0000,0000,0000,,Ich verdanke es der Matrosenuniform,\Ndass ich die Prüfung bestanden habe.
+Dialogue: 0,0:01:28.48,0:01:33.20,Internal,,0000,0000,0000,,Die Direktorin überließ mir die Wahl,\Nwelche Schuluniform ich tragen will.
+Dialogue: 0,0:01:37.42,0:01:38.99,Default,,0000,0000,0000,,Ich entschied mich
+Dialogue: 0,0:01:39.37,0:01:41.26,Default,,0000,0000,0000,,für die Matrosenuniform!
+Dialogue: 0,0:03:14.62,0:03:17.68,Eptitel,,0000,0000,0000,,{\fax0.2\fs10\fad(1200,0)\bord0\pos(98.642,69.5)}Zweite Folge\N{\fs15}Bis morgen
+Dialogue: 0,0:03:18.48,0:03:21.13,Internal,,0000,0000,0000,,Ich hab viel zu lange geredet!
+Dialogue: 0,0:03:21.13,0:03:25.01,Internal,,0000,0000,0000,,Sicher langweilen sie sich unheimlich!
+Dialogue: 0,0:03:25.44,0:03:28.71,Default,,0000,0000,0000,,Wäre das dann alles, Akebi?
+Dialogue: 0,0:03:28.71,0:03:32.97,Default,,0000,0000,0000,,Oh! Außerdem bin ich\Nauch noch ziemlich gelenkig!
+Dialogue: 0,0:03:32.97,0:03:35.52,Default,,0000,0000,0000,,Ich hab eine Technik, die meine\NSchwester zum Lachen bringt.
+Dialogue: 0,0:03:35.52,0:03:38.22,Default,,0000,0000,0000,,Die würde ich euch gerne\Nzum Schluss zeigen.
+Dialogue: 0,0:03:43.30,0:03:44.12,Default,,0000,0000,0000,,Jetzt geht’s los!
+Dialogue: 0,0:04:02.22,0:04:05.93,Default,,0000,0000,0000,,Deine obercoole Schwester wurde …
+Dialogue: 0,0:04:06.33,0:04:09.19,Default,,0000,0000,0000,,… zu einem Gespenst!\NDamit krieg ich sie immer …
+Dialogue: 0,0:04:11.48,0:04:12.23,Default,,0000,0000,0000,,Nanu?
+Dialogue: 0,0:04:14.36,0:04:17.32,Default,,0000,0000,0000,,Ähm, Entschuldigung. Das wäre dann alles.
+Dialogue: 0,0:04:17.32,0:04:19.49,Default,,0000,0000,0000,,Okay. Danke dir.
+Dialogue: 0,0:04:24.79,0:04:28.31,Default,,0000,0000,0000,,Ich konnte mir ein gutes\NBild von dir machen, Akebi.
+Dialogue: 0,0:04:28.31,0:04:31.08,Default,,0000,0000,0000,,Ich fand deine Einlage\Nzum Schluss echt witzig.
+Dialogue: 0,0:04:32.17,0:04:33.54,Default,,0000,0000,0000,,Kizaki …
+Dialogue: 0,0:04:33.54,0:04:36.20,Default,,0000,0000,0000,,Allerdings war es weniger die Pointe, …
+Dialogue: 0,0:04:37.80,0:04:38.79,Default,,0000,0000,0000,,sondern eher …
+Dialogue: 0,0:04:39.21,0:04:41.75,Default,,0000,0000,0000,,… dein Rock, der sich\Nselbstständig gemacht hat …
+Dialogue: 0,0:04:48.17,0:04:52.19,Default,,0000,0000,0000,,Ich bin Washio Hitomi. Ich will dem\NVolleyballklub beitreten. Das wäre alles.
+Dialogue: 0,0:04:55.57,0:04:59.44,Default,,0000,0000,0000,,Tischnummer 16, Washio Hitomi …
+Dialogue: 0,0:05:00.07,0:05:03.82,Default,,0000,0000,0000,,Volleyballklub. Unglaublich groß …
+Dialogue: 0,0:05:04.45,0:05:05.95,TypePlaceholder,,0000,0000,0000,,{\c&H353737&\fnComic Sans MS\fs50\pos(318.286,68)\frx0\fry4\frz358.4}Washio Hitomi
+Dialogue: 0,0:05:10.21,0:05:11.25,Internal,,0000,0000,0000,,Geschafft!
+Dialogue: 0,0:05:26.31,0:05:28.64,Flashback,,0000,0000,0000,,Na schön. Dann lass uns mal Mittag essen.
+Dialogue: 0,0:05:28.97,0:05:29.77,Flashback,,0000,0000,0000,,Ja!
+Dialogue: 0,0:05:31.10,0:05:36.19,Default,,0000,0000,0000,,Gut, wir bilden jetzt Gruppen und rücken\Ndie Tische so wie auf der Tafel zusammen.
+Dialogue: 0,0:05:36.19,0:05:37.94,Default,,0000,0000,0000,,Und? Wie sehe ich aus?
+Dialogue: 0,0:05:42.15,0:05:43.19,Default,,0000,0000,0000,,Schick.
+Dialogue: 0,0:05:43.19,0:05:44.82,Default,,0000,0000,0000,,Das steht dir echt gut.
+Dialogue: 0,0:05:47.53,0:05:48.58,Default,,0000,0000,0000,,Dir ebenfalls, Kizaki.
+Dialogue: 0,0:05:52.12,0:05:53.38,Default,,0000,0000,0000,,Hier, bitte schön!
+Dialogue: 0,0:05:53.38,0:05:54.42,Default,,0000,0000,0000,,Danke.
+Dialogue: 0,0:05:55.42,0:05:57.83,Internal,,0000,0000,0000,,Sie hat sich im Kansai-Dialekt\Nbei mir bedankt!
+Dialogue: 0,0:05:58.24,0:06:01.63,Internal,,0000,0000,0000,,Tischnummer 13, Minakami Riri.
+Dialogue: 0,0:06:03.63,0:06:06.01,Default,,0000,0000,0000,,Hier, bitte schön …
+Dialogue: 0,0:06:07.80,0:06:11.55,Internal,,0000,0000,0000,,Tischnummer 14, Hiraiwa Hotaru.
+Dialogue: 0,0:06:11.55,0:06:13.68,Internal,,0000,0000,0000,,Sie ist voll niedlich!
+Dialogue: 0,0:06:18.57,0:06:20.57,Default,,0000,0000,0000,,Pass auf, dass du nichts verschüttest.
+Dialogue: 0,0:06:20.57,0:06:21.90,Default,,0000,0000,0000,,Danke.
+Dialogue: 0,0:06:24.61,0:06:29.74,Internal,,0000,0000,0000,,Akebi gibt jedem so viel.
+Dialogue: 0,0:06:25.77,0:06:29.74,Overlap,,0000,0000,0000,,Vorsichtig! Bitte schön!
+Dialogue: 0,0:06:32.75,0:06:34.33,Internal,,0000,0000,0000,,Wer hätt’s gedacht.
+Dialogue: 0,0:06:37.33,0:06:40.92,Internal,,0000,0000,0000,,Mit den zusammengerückten\NTischen fühle ich mich beinahe
+Dialogue: 0,0:06:40.92,0:06:42.42,Internal,,0000,0000,0000,,wie in einer Familie!
+Dialogue: 0,0:06:43.30,0:06:45.43,Default,,0000,0000,0000,,Na schön. Lasst uns mal essen!
+Dialogue: 0,0:06:45.43,0:06:47.51,Default,,0000,0000,0000,,Guten Appetit!
+Dialogue: 0,0:07:10.40,0:07:11.95,Internal,,0000,0000,0000,,Sie hat wohl Schwierigkeiten.
+Dialogue: 0,0:07:14.00,0:07:16.58,Default,,0000,0000,0000,,Ähm, wenn du willst,\Nkannst du das hier benutzen.
+Dialogue: 0,0:07:17.67,0:07:19.67,Default,,0000,0000,0000,,Oh, danke schön.
+Dialogue: 0,0:07:21.50,0:07:25.34,Default,,0000,0000,0000,,Ich hab vergessen,\Nmein Brillenetui einzupacken.
+Dialogue: 0,0:07:25.34,0:07:26.64,Default,,0000,0000,0000,,Das kommt wie gerufen.
+Dialogue: 0,0:07:27.66,0:07:28.97,Default,,0000,0000,0000,,Da bin ich aber froh!
+Dialogue: 0,0:07:32.01,0:07:33.09,Internal,,0000,0000,0000,,Nanu?
+Dialogue: 0,0:07:33.30,0:07:35.77,Internal,,0000,0000,0000,,Hab ich mir mit dem Taschentuch\Nnicht den Schweiß abgewischt?
+Dialogue: 0,0:07:39.44,0:07:40.65,Default,,0000,0000,0000,,Akebi?
+Dialogue: 0,0:07:41.86,0:07:44.66,Default,,0000,0000,0000,,Ähm, das Taschentuch könnte …
+Dialogue: 0,0:07:44.66,0:07:47.57,Default,,0000,0000,0000,,Keine Sorge. Ich benutz die\Ntrockene Seite zum Abwischen.
+Dialogue: 0,0:07:51.99,0:07:54.11,Internal,,0000,0000,0000,,Nur vom Zuschauen find\Nich sie schon witzig.
+Dialogue: 0,0:07:54.11,0:07:56.25,Default,,0000,0000,0000,,Danke für dein Taschentuch.
+Dialogue: 0,0:07:57.16,0:07:58.54,Default,,0000,0000,0000,,Ähm …
+Dialogue: 0,0:07:59.46,0:08:03.55,Default,,0000,0000,0000,,Ich bin Akebi Komichi.\NWar mir eine Freude, Kojo Tomono.
+Dialogue: 0,0:08:04.55,0:08:07.92,Default,,0000,0000,0000,,Vielen Dank. Du hast dir sogar\Nmeinen Namen gemerkt.
+Dialogue: 0,0:08:08.63,0:08:09.68,Default,,0000,0000,0000,,Das freut mich total.
+Dialogue: 0,0:08:09.68,0:08:13.60,Internal,,0000,0000,0000,,Tischnummer 6, Kojo Tomono.
+Dialogue: 0,0:08:13.60,0:08:15.39,Internal,,0000,0000,0000,,Sie ist ein nettes Mädchen.
+Dialogue: 0,0:08:22.02,0:08:24.50,Default,,0000,0000,0000,,Die Leute müssen verrückt\Nnach dir sein, Akebi.
+Dialogue: 0,0:08:24.50,0:08:28.23,Internal,,0000,0000,0000,,Tischnummer 2, Usagihara Toko.
+Dialogue: 0,0:08:28.23,0:08:30.94,Default,,0000,0000,0000,,Ich bin noch nie beliebt gewesen!
+Dialogue: 0,0:08:30.94,0:08:34.87,Default,,0000,0000,0000,,Mich kannst du nicht täuschen!\NBei deiner schneeweißen Schuluniform
+Dialogue: 0,0:08:34.87,0:08:37.73,Default,,0000,0000,0000,,hast du sicher ’nen\Ngeschmackvollen Modestil.
+Dialogue: 0,0:08:37.73,0:08:39.29,Default,,0000,0000,0000,,Fast schon wie ein Idol.
+Dialogue: 0,0:08:40.46,0:08:41.38,Default,,0000,0000,0000,,Ein Ido…
+Dialogue: 0,0:08:42.28,0:08:46.39,Default,,0000,0000,0000,,Jetzt hör doch auf.\NDas wird niemals passieren.
+Dialogue: 0,0:08:46.39,0:08:49.29,Internal,,0000,0000,0000,,Kao, sie hat gesagt,\Ndass ich wie ein Idol aussehe!
+Dialogue: 0,0:08:49.29,0:08:52.72,Default,,0000,0000,0000,,Doch, ist mein voller Ernst.\NDein Gesicht ist nach meinem Geschmack.
+Dialogue: 0,0:08:52.72,0:08:55.39,Default,,0000,0000,0000,,Das hat mir bisher noch nie jemand gesagt!
+Dialogue: 0,0:08:57.60,0:09:02.03,Default,,0000,0000,0000,,Allerdings sind Blazer auch ganz hübsch.\NIch wollte schon immer einen tragen.
+Dialogue: 0,0:09:02.03,0:09:06.65,Default,,0000,0000,0000,,Ja! Sie haben so einen erwachsenen Touch.\NIrgendwann ziehe ich mal einen an.
+Dialogue: 0,0:09:07.00,0:09:10.61,Default,,0000,0000,0000,,Na, wenn das so ist.\NWillst du meinen mal anprobieren?
+Dialogue: 0,0:09:13.28,0:09:14.55,Default,,0000,0000,0000,,Und hepp.
+Dialogue: 0,0:09:16.33,0:09:16.95,Default,,0000,0000,0000,,Okay!
+Dialogue: 0,0:09:18.70,0:09:20.00,Default,,0000,0000,0000,,Leih du mir deine Uniform.
+Dialogue: 0,0:09:21.46,0:09:22.25,Default,,0000,0000,0000,,Wirklich?
+Dialogue: 0,0:09:28.84,0:09:32.51,Default,,0000,0000,0000,,Hey, fahr mal ’nen Gang runter!\NSie nimmt dich nur auf den Arm!
+Dialogue: 0,0:09:34.55,0:09:38.84,Default,,0000,0000,0000,,Wenn du dein Oberteil ausziehst,\Nsieht jeder deine Unterwäsche.
+Dialogue: 0,0:09:38.84,0:09:40.11,Default,,0000,0000,0000,,Ach, ganz vergessen!
+Dialogue: 0,0:09:40.11,0:09:42.94,Default,,0000,0000,0000,,Mensch, du bist wirklich\Nein braves Mädchen.
+Dialogue: 0,0:09:42.94,0:09:46.48,Default,,0000,0000,0000,,Ich hab mich hinreißen lassen,\Nda du mir so gut zugeredet hast.
+Dialogue: 0,0:09:46.48,0:09:50.26,Internal,,0000,0000,0000,,Herrje, auf Akebi muss\Nman echt ein Auge haben.
+Dialogue: 0,0:09:50.26,0:09:52.95,Internal,,0000,0000,0000,,Sonst heftet sich ein komischer\NKrabbelkäfer an sie dran.
+Dialogue: 0,0:09:57.83,0:10:00.71,Default,,0000,0000,0000,,Hä? Du warst auf keiner Paukschule, Akebi?
+Dialogue: 0,0:10:00.71,0:10:02.12,Default,,0000,0000,0000,,Das kommt nicht oft vor!
+Dialogue: 0,0:10:02.75,0:10:03.92,Default,,0000,0000,0000,,Ist das etwa komisch?
+Dialogue: 0,0:10:03.92,0:10:08.51,Default,,0000,0000,0000,,Nein. Allerdings waren die meisten\Nauf einer, um auf die Robai zu kommen.
+Dialogue: 0,0:10:08.51,0:10:11.46,Default,,0000,0000,0000,,Zum Beispiel das Mädchen dort drüben!
+Dialogue: 0,0:10:11.80,0:10:15.14,Default,,0000,0000,0000,,Das ist Tanigawa Kei. Bei den\NProbeprüfungen war sie immer die Beste.
+Dialogue: 0,0:10:15.14,0:10:17.30,Default,,0000,0000,0000,,Mit ihr als Freundin\Nmacht man nichts falsch.
+Dialogue: 0,0:10:18.60,0:10:20.40,Default,,0000,0000,0000,,Das dort ist Tatsumori Ai.
+Dialogue: 0,0:10:20.40,0:10:23.95,Default,,0000,0000,0000,,Wir gingen auf die gleiche Paukschule.\NSie ist reizbar und flippt schnell aus.
+Dialogue: 0,0:10:23.95,0:10:27.56,Default,,0000,0000,0000,,Sie hat uns immer ermahnt,\Nwenn wir beim Lernen gequatscht haben.
+Dialogue: 0,0:10:27.56,0:10:30.44,Default,,0000,0000,0000,,Das war doch voll und ganz\Ndeine Schuld, Usagihara.
+Dialogue: 0,0:10:32.94,0:10:37.46,Internal,,0000,0000,0000,,Stimmt, ihr drei kommt doch aus Tokyo.
+Dialogue: 0,0:10:34.04,0:10:37.46,Overlap,,0000,0000,0000,,Hallo! Ich bin Mika vom Rundfunkklub!
+Dialogue: 0,0:10:37.46,0:10:38.41,Default,,0000,0000,0000,,Genau.
+Dialogue: 0,0:10:38.41,0:10:41.80,Default,,0000,0000,0000,,Du bist auch aus Tokyo, Kizaki.\NUnd Kojo kommt aus Nagano.
+Dialogue: 0,0:10:41.80,0:10:43.66,Default,,0000,0000,0000,,Wie kommt ihr jeden Tag zum Unterricht?
+Dialogue: 0,0:10:44.02,0:10:44.66,Default,,0000,0000,0000,,Nun …
+Dialogue: 0,0:10:44.66,0:10:46.92,Default,,0000,0000,0000,,Manche sind umgezogen,\Nandere leben im Wohnheim.
+Dialogue: 0,0:10:49.55,0:10:51.25,Default,,0000,0000,0000,,Ich wohne bei meiner Großmutter …
+Dialogue: 0,0:10:51.25,0:10:54.51,Default,,0000,0000,0000,,Ich lebe im Wohnheim.\NÜbrigens ist Kizaki meine Nachbarin.
+Dialogue: 0,0:10:55.84,0:10:56.76,Default,,0000,0000,0000,,Nanu?
+Dialogue: 0,0:10:56.76,0:10:58.97,Default,,0000,0000,0000,,Ach so. Darauf freu ich mich schon total.
+Dialogue: 0,0:10:58.97,0:11:00.51,Default,,0000,0000,0000,,Nanu?
+Dialogue: 0,0:11:00.51,0:11:05.51,Default,,0000,0000,0000,,Im Wohnheim? Da seid ihr zu beneiden.\NDarf ich irgendwann mal zu Besuch kommen?
+Dialogue: 0,0:11:05.91,0:11:06.91,Default,,0000,0000,0000,,Klar! Gerne schon sofort!
+Dialogue: 0,0:11:06.91,0:11:08.77,Default,,0000,0000,0000,,Was zum Teufel …
+Dialogue: 0,0:11:08.77,0:11:11.02,Default,,0000,0000,0000,,Hört euch den hier gut an.
+Dialogue: 0,0:11:11.02,0:11:14.03,Default,,0000,0000,0000,,Das ist der Song „Delusion“\Nvon Fukumoto Miki.
+Dialogue: 0,0:11:14.95,0:11:18.65,Default,,0000,0000,0000,,Du hast doch gesagt, dass du\Ndiese Sängerin magst. Oder, Akebi?
+Dialogue: 0,0:11:18.65,0:11:22.81,Default,,0000,0000,0000,,Ja! Miki ist in dem Video\Ndazu so niedlich!
+Dialogue: 0,0:11:22.81,0:11:24.50,Default,,0000,0000,0000,,Echt? Und wieso?
+Dialogue: 0,0:11:24.50,0:11:26.04,Default,,0000,0000,0000,,Ähm …
+Dialogue: 0,0:11:27.46,0:11:29.62,Default,,0000,0000,0000,,Ihre Gestik ist zum Verlieben!
+Dialogue: 0,0:11:29.95,0:11:32.43,Default,,0000,0000,0000,,Ach, etwa die Szene mit dem Lippenstift?
+Dialogue: 0,0:11:32.43,0:11:34.17,Default,,0000,0000,0000,,Genau! Du kennst das Video also!
+Dialogue: 0,0:11:34.51,0:11:37.38,Default,,0000,0000,0000,,Ich hab’s nicht gesehen.\NWas genau macht sie denn?
+Dialogue: 0,0:11:38.89,0:11:41.14,Default,,0000,0000,0000,,Mach’s doch mal nach\Nund zeig es ihr, Akebi.
+Dialogue: 0,0:11:41.89,0:11:44.52,Default,,0000,0000,0000,,Aber ich würde das nie gut rüberbringen.
+Dialogue: 0,0:11:44.52,0:11:48.44,Default,,0000,0000,0000,,Unsinn. Und ob du das kannst! Ich hab\Nsogar zufällig einen Lippenstift dabei.
+Dialogue: 0,0:11:51.73,0:11:53.19,Default,,0000,0000,0000,,Akebi …
+Dialogue: 0,0:11:54.48,0:11:57.40,Default,,0000,0000,0000,,Willst du dich wirklich\Nals Fan bezeichnen,
+Dialogue: 0,0:11:57.81,0:12:00.49,Default,,0000,0000,0000,,wenn du nicht mal ihren Charme\Nzum Ausdruck bringen kannst?
+Dialogue: 0,0:12:09.82,0:12:11.66,Default,,0000,0000,0000,,Ich krieg das hin!
+Dialogue: 0,0:12:12.02,0:12:13.54,Default,,0000,0000,0000,,Ach, wirklich?
+Dialogue: 0,0:12:13.93,0:12:17.29,Internal,,0000,0000,0000,,Aber wenn ich sie schon nachmache,\Ndann muss ich es richtig machen.
+Dialogue: 0,0:12:17.29,0:12:19.51,Internal,,0000,0000,0000,,Das wäre sonst Miki gegenüber unhöflich.
+Dialogue: 0,0:12:20.29,0:12:22.47,Default,,0000,0000,0000,,Du kriegst ihn sauber zurück!
+Dialogue: 0,0:12:22.47,0:12:23.80,Default,,0000,0000,0000,,Okay, okay.
+Dialogue: 0,0:12:23.80,0:12:27.92,Default,,0000,0000,0000,,Erst streicht sie den Lippenstift\Nüber zwei ihrer Finger
+Dialogue: 0,0:12:27.92,0:12:29.93,Default,,0000,0000,0000,,und führt sie dann in Richtung Mund …
+Dialogue: 0,0:12:56.54,0:13:00.54,Default,,0000,0000,0000,,Akebi, schau noch\Nmal so nach oben wie eben.
+Dialogue: 0,0:13:00.54,0:13:01.92,Default,,0000,0000,0000,,Was? Okay.
+Dialogue: 0,0:13:02.84,0:13:03.71,Default,,0000,0000,0000,,So in etwa?
+Dialogue: 0,0:13:07.38,0:13:09.31,Default,,0000,0000,0000,,Noch einmal, Akebi!
+Dialogue: 0,0:13:09.31,0:13:10.05,Default,,0000,0000,0000,,Ist gut!
+Dialogue: 0,0:13:10.59,0:13:13.94,Default,,0000,0000,0000,,Du hast mir genug gezeigt,\Nworin ihr Charme liegt.
+Dialogue: 0,0:13:13.94,0:13:15.06,Default,,0000,0000,0000,,Wirklich?
+Dialogue: 0,0:13:15.47,0:13:18.61,Default,,0000,0000,0000,,Wieso musste sie das wiederholen?\NDu bringst Akebi in Verlegenheit!
+Dialogue: 0,0:13:18.61,0:13:21.44,Default,,0000,0000,0000,,Oh, sorry. Isch nix verstehen Japanisch.
+Dialogue: 0,0:13:21.44,0:13:22.40,Default,,0000,0000,0000,,Blödsinn!
+Dialogue: 0,0:13:22.40,0:13:24.11,Default,,0000,0000,0000,,Und ob du mich verstehst!
+Dialogue: 0,0:13:22.86,0:13:27.53,Internal,,0000,0000,0000,,Irgendwie fühle ich mich so zufrieden.
+Dialogue: 0,0:13:29.32,0:13:30.99,Default,,0000,0000,0000,,Das war vielleicht lecker!
+Dialogue: 0,0:13:34.16,0:13:34.91,Default,,0000,0000,0000,,Hepp!
+Dialogue: 0,0:13:51.26,0:13:52.26,Default,,0000,0000,0000,,Akebi!
+Dialogue: 0,0:13:54.27,0:13:56.01,Default,,0000,0000,0000,,Lass uns was zusammen machen!
+Dialogue: 0,0:14:03.48,0:14:05.23,Flashback,,0000,0000,0000,,Das hast du sehr gut gemacht.
+Dialogue: 0,0:14:07.69,0:14:11.02,Flashback,,0000,0000,0000,,Was wollen wir heute machen, Komichi?
+Dialogue: 0,0:14:11.02,0:14:13.91,Flashback,,0000,0000,0000,,Keine Sorge. Ich beschäftige mich alleine.
+Dialogue: 0,0:14:15.58,0:14:17.79,Flashback,,0000,0000,0000,,Sieh mir zu, während du arbeitest!
+Dialogue: 0,0:14:19.37,0:14:22.42,Flashback,,0000,0000,0000,,Ich kann mich endlich an\Nden Kletterstangen festhalten!
+Dialogue: 0,0:14:27.55,0:14:28.67,Default,,0000,0000,0000,,Ähm …
+Dialogue: 0,0:14:36.20,0:14:40.20,Default,,0000,0000,0000,,Jetzt fehlt nur noch der\NAbschlussappell. Und, Frau Tamura?
+Dialogue: 0,0:14:40.20,0:14:42.61,Default,,0000,0000,0000,,Wie war Ihr erster\NTag als Klassenlehrerin?
+Dialogue: 0,0:14:42.61,0:14:46.80,Default,,0000,0000,0000,,Nun ja, in der Klasse gibt es viele\NMädchen mit einzigartigen Talenten.
+Dialogue: 0,0:14:46.80,0:14:48.90,Default,,0000,0000,0000,,Um ehrlich zu sein,\Nbin ich etwas unsicher.
+Dialogue: 0,0:14:48.90,0:14:49.45,TypePlaceholder,,0000,0000,0000,,{\c&H3D7D7E&\3c&H64A5A0&\bord1\fnGeorgia\b1\fs25\pos(377.714,47.429)\fax-0.3\frz334.6\fad(0,150)}Klassenliste
+Dialogue: 1,0:14:50.94,0:14:54.53,Default,,0000,0000,0000,,Allerdings wird mir diese\NKlasse viel Freude bereiten.
+Dialogue: 0,0:14:53.78,0:14:56.78,TypePlaceholder,,0000,0000,0000,,{\c&H333832&\3c&HDCE1DE&\bord4\fs35\frz330.3\move(232,325,200,354)}Akebi Komichi
+Dialogue: 0,0:15:07.21,0:15:08.42,Default,,0000,0000,0000,,Akebi!
+Dialogue: 0,0:15:10.34,0:15:11.51,Default,,0000,0000,0000,,Bis morgen!
+Dialogue: 0,0:15:11.51,0:15:12.67,Default,,0000,0000,0000,,Mach’s gut!
+Dialogue: 0,0:15:13.30,0:15:15.72,Default,,0000,0000,0000,,Ja, bis morgen!
+Dialogue: 0,0:15:40.91,0:15:42.75,Default,,0000,0000,0000,,Wir sehen uns morgen wieder!
+Dialogue: 0,0:15:48.67,0:15:50.71,Default,,0000,0000,0000,,Ich war ein wenig nervös.
+Dialogue: 0,0:15:51.92,0:15:54.02,Default,,0000,0000,0000,,Morgen muss ich selbstsicherer sein.
+Dialogue: 0,0:15:57.47,0:15:59.56,Default,,0000,0000,0000,,Usagihara Toko.
+Dialogue: 0,0:15:59.84,0:16:03.75,Default,,0000,0000,0000,,Okuma Minoru. Kamimoku Neko.
+Dialogue: 0,0:16:18.32,0:16:20.17,Default,,0000,0000,0000,,Kizaki Erika!
+Dialogue: 0,0:16:22.91,0:16:26.33,Default,,0000,0000,0000,,Kojo Tomono. Shijo Riona.
+Dialogue: 0,0:16:27.29,0:16:30.84,Default,,0000,0000,0000,,Tatsumori Ai. Tanigawa Kei.
+Dialogue: 0,0:16:32.05,0:16:35.43,Default,,0000,0000,0000,,Togeguchi Ayumi. Togano Mai.
+Dialogue: 0,0:16:35.43,0:16:39.26,Default,,0000,0000,0000,,Nawashiro Yasuko. Minakami Riri.
+Dialogue: 0,0:16:40.60,0:16:42.56,Default,,0000,0000,0000,,Hiraiwa Hotaru.
+Dialogue: 0,0:16:43.97,0:16:48.02,Default,,0000,0000,0000,,Hebimori Oshizu. Washio Hitomi.
+Dialogue: 0,0:16:52.82,0:16:54.45,Default,,0000,0000,0000,,Leute!
+Dialogue: 0,0:16:54.45,0:16:59.11,Default,,0000,0000,0000,,Bis morgen!
+Dialogue: 0,0:17:13.09,0:17:14.46,Default,,0000,0000,0000,,Bin wieder da.
+Dialogue: 0,0:17:16.21,0:17:19.05,Default,,0000,0000,0000,,Willkommen zurück. Dein Vater\Nist übrigens heimgekommen.
+Dialogue: 0,0:17:26.39,0:17:28.88,Default,,0000,0000,0000,,Morgen früh muss er wieder auf Arbeit.
+Dialogue: 0,0:17:29.73,0:17:31.02,Default,,0000,0000,0000,,Verstehe.
+Dialogue: 0,0:17:31.73,0:17:34.18,Default,,0000,0000,0000,,Er hat nach dir gefragt, Komichi.
+Dialogue: 0,0:17:34.18,0:17:36.28,Default,,0000,0000,0000,,Er wollte dich in deiner\NSchuluniform sehen.
+Dialogue: 0,0:17:37.24,0:17:39.24,Default,,0000,0000,0000,,Sollte ich lieber noch etwas warten?
+Dialogue: 0,0:17:39.24,0:17:42.16,Default,,0000,0000,0000,,Ach, ist schon gut. Seine Schuld,\Ndass er eingeschlafen ist.
+Dialogue: 0,0:17:42.16,0:17:45.57,Default,,0000,0000,0000,,Außerdem bist du bestimmt\Ngerannt und nun total verschwitzt.
+Dialogue: 0,0:17:45.57,0:17:47.95,Default,,0000,0000,0000,,Häng deine Schuluniform\Nein wenig zum Trocken auf.
+Dialogue: 0,0:17:47.95,0:17:49.71,Default,,0000,0000,0000,,Wird gemacht!
+Dialogue: 0,0:17:49.71,0:17:51.46,TypePlaceholder,,0000,0000,0000,,{\c&H57A3D7&\4c&H1E5C9E&\fnGeorgia\i1\fax0.2\yshad-1\xshad1\b1\pos(321.6,132)}Komichi
+Dialogue: 0,0:17:49.71,0:17:51.46,TypePlaceholder,,0000,0000,0000,,{\c&H24498E&\4c&H022F6F&\fnGeorgia\i1\fax0.2\yshad-1\xshad1\b1\pos(321.067,255.2)}Kao
+Dialogue: 0,0:18:26.79,0:18:29.87,Default,,0000,0000,0000,,Papa, so ganz ohne Decke\Nerkältest du dich noch!
+Dialogue: 0,0:18:30.37,0:18:32.88,Default,,0000,0000,0000,,Bei mir hat er auch kein Stück reagiert.
+Dialogue: 0,0:18:33.71,0:18:35.80,Default,,0000,0000,0000,,Hey! Das gilt auch für dich, Kao.
+Dialogue: 0,0:18:39.38,0:18:41.63,Default,,0000,0000,0000,,Schwesterherz …
+Dialogue: 0,0:18:41.63,0:18:43.97,Default,,0000,0000,0000,,Papa ist heimgekommen.
+Dialogue: 0,0:18:43.97,0:18:44.60,Default,,0000,0000,0000,,Ja.
+Dialogue: 0,0:18:47.26,0:18:50.39,Default,,0000,0000,0000,,Mädchen, ich hab Badewasser eingelassen.\NSpringt ihr als Erstes rein.
+Dialogue: 0,0:18:51.14,0:18:52.56,Default,,0000,0000,0000,,Okay!
+Dialogue: 0,0:18:53.90,0:18:58.15,Default,,0000,0000,0000,,Baden, baden, baden, baden, baden, baden!
+Dialogue: 0,0:19:00.65,0:19:02.01,Default,,0000,0000,0000,,Komm von der Couch hoch!
+Dialogue: 0,0:19:02.01,0:19:03.75,Default,,0000,0000,0000,,Du kennst mich einfach zu gut.
+Dialogue: 0,0:19:04.70,0:19:06.84,Default,,0000,0000,0000,,Klar, sonst schnarchst du immer.
+Dialogue: 0,0:19:06.84,0:19:10.33,Default,,0000,0000,0000,,Nun, irgendwie bin ich nach\Nall der Zeit nervös geworden.
+Dialogue: 0,0:19:10.33,0:19:13.46,Default,,0000,0000,0000,,Schon wieder gelogen.\NDas kannst du dir sparen.
+Dialogue: 0,0:19:13.46,0:19:16.17,Default,,0000,0000,0000,,Komichi wollte dir ihre\NSchuluniform voller Stolz zeigen.
+Dialogue: 0,0:19:17.17,0:19:22.28,Default,,0000,0000,0000,,Mir fielen keine passenden Worte ein,\Ndie sie hätten fröhlich machen können.
+Dialogue: 0,0:19:23.26,0:19:26.18,Default,,0000,0000,0000,,Komichi ist etwas reifer geworden.
+Dialogue: 0,0:19:26.68,0:19:31.13,Default,,0000,0000,0000,,Kao, eine Klassenkameradin meinte,\Ndass ich ’ne Ulknudel bin.
+Dialogue: 0,0:19:32.94,0:19:36.22,Default,,0000,0000,0000,,Und ’ne andere sagte,\Ndass ich wie ein Idol wäre.
+Dialogue: 0,0:19:36.22,0:19:38.15,Default,,0000,0000,0000,,Du hast da ’ne Menge Spaß, Schwesterherz.
+Dialogue: 0,0:19:38.15,0:19:39.69,Default,,0000,0000,0000,,Hä? Kann schon sein.
+Dialogue: 0,0:19:39.95,0:19:42.36,Default,,0000,0000,0000,,Ich würde gerne mit dir\Nauf die gleiche Schule gehen.
+Dialogue: 0,0:19:43.20,0:19:44.08,Default,,0000,0000,0000,,Das wäre schön.
+Dialogue: 0,0:19:44.08,0:19:47.08,Default,,0000,0000,0000,,Dann könnte ich die gleichen\NSachen tragen wie du!
+Dialogue: 0,0:19:47.08,0:19:49.70,Default,,0000,0000,0000,,Ähm, das wäre mir echt peinlich.
+Dialogue: 0,0:19:49.70,0:19:52.13,Default,,0000,0000,0000,,Ich würde mächtig damit angeben!
+Dialogue: 0,0:19:52.13,0:19:54.37,Default,,0000,0000,0000,,Du hast viel Mumm in den Knochen, Kao.
+Dialogue: 0,0:19:55.46,0:19:57.29,Default,,0000,0000,0000,,Damit angeben?
+Dialogue: 0,0:20:00.09,0:20:01.97,Default,,0000,0000,0000,,Das würde Kizaki gegen den Strich gehen.
+Dialogue: 0,0:20:02.31,0:20:04.34,Default,,0000,0000,0000,,Wer ist denn Kizaki?
+Dialogue: 0,0:20:04.93,0:20:09.35,Default,,0000,0000,0000,,Eine Klassenkameradin. Sie hat gemeint,\Ndass ich eine Ulknudel sei.
+Dialogue: 0,0:20:09.35,0:20:10.39,Default,,0000,0000,0000,,Die will ich treffen!
+Dialogue: 0,0:20:12.14,0:20:15.07,Default,,0000,0000,0000,,Soll das heißen,\Ndass ich sie zu uns einladen soll?
+Dialogue: 0,0:20:15.07,0:20:15.98,Default,,0000,0000,0000,,Ja, tu das!
+Dialogue: 0,0:20:15.98,0:20:18.20,Default,,0000,0000,0000,,Herrje, das könnte ich nie und nimmer tun.
+Dialogue: 0,0:20:18.20,0:20:19.08,Default,,0000,0000,0000,,Wieso nicht?
+Dialogue: 0,0:20:20.11,0:20:22.15,Default,,0000,0000,0000,,Meinst du sie würde kommen?
+Dialogue: 0,0:20:22.15,0:20:25.66,Default,,0000,0000,0000,,Klar! Musst ihr nur sagen,\Ndass deine kleine Schwester sie treffen will.
+Dialogue: 0,0:20:29.08,0:20:34.54,Default,,0000,0000,0000,,Menno! Du bist wirklich\Neine tolle kleine Schwester, Kao!
+Dialogue: 0,0:20:35.00,0:20:37.15,Default,,0000,0000,0000,,Na gut, Fragen kostet ja nichts.
+Dialogue: 0,0:20:37.15,0:20:37.75,Default,,0000,0000,0000,,Jep!
+Dialogue: 0,0:20:40.34,0:20:41.05,Default,,0000,0000,0000,,Nanu?
+Dialogue: 0,0:20:41.40,0:20:42.46,Default,,0000,0000,0000,,Wo ist Papa?
+Dialogue: 0,0:20:50.55,0:20:53.35,Default,,0000,0000,0000,,Papa, willkommen zurück!
+Dialogue: 0,0:20:53.98,0:20:56.48,Default,,0000,0000,0000,,Oh, dir ebenfalls willkommen zurück, Komichi.
+Dialogue: 0,0:20:57.20,0:20:57.80,Default,,0000,0000,0000,,Danke.
+Dialogue: 0,0:20:58.77,0:21:01.24,Default,,0000,0000,0000,,Wie war es in der Schule?
+Dialogue: 0,0:21:01.24,0:21:04.53,Default,,0000,0000,0000,,Ich war echt nervös,\Naber es hat Spaß gemacht.
+Dialogue: 0,0:21:04.53,0:21:05.53,Default,,0000,0000,0000,,Verstehe.
+Dialogue: 0,0:21:05.53,0:21:06.22,Default,,0000,0000,0000,,Ja.
+Dialogue: 0,0:21:06.82,0:21:11.24,Default,,0000,0000,0000,,Hör mal, Papa. Es gibt so viele Dinge,\Ndie ich dir erzählen will.
+Dialogue: 0,0:21:31.64,0:21:32.55,Default,,0000,0000,0000,,Komichi.
+Dialogue: 0,0:21:35.23,0:21:38.94,Default,,0000,0000,0000,,Um wie viel Uhr verlässt\Ndu morgen früh das Haus?
+Dialogue: 0,0:21:40.31,0:21:41.73,Default,,0000,0000,0000,,Wann musst du denn los?
+Dialogue: 0,0:21:43.27,0:21:46.55,Default,,0000,0000,0000,,Nun ja, ich muss um sechs Uhr raus.
+Dialogue: 0,0:21:48.61,0:21:50.61,Default,,0000,0000,0000,,Dann zieh ich mich davor schon um.
+Dialogue: 0,0:21:54.16,0:21:55.62,Default,,0000,0000,0000,,Darauf freu ich mich.
+Dialogue: 0,0:21:56.26,0:21:57.00,Default,,0000,0000,0000,,Okay.
+Dialogue: 0,0:22:03.92,0:22:05.51,Default,,0000,0000,0000,,Papa!
+Dialogue: 0,0:22:07.13,0:22:08.59,Default,,0000,0000,0000,,Bis morgen!
+Dialogue: 0,0:23:26.13,0:23:28.84,TypePlaceholder,,0000,0000,0000,,{\bord2.5\c&HFFFFFF&\3c&H000000&\fs23\b1}Projektleitung: Sarah Leclère\NSpotting: Stephanie Leborgne
+Dialogue: 0,0:23:28.84,0:23:32.68,TypePlaceholder,,0000,0000,0000,,{\bord2.5\c&HFFFFFF&\3c&H000000&\fs23\b1}Übersetzung & Adaption: Patrice Schindler\NRevision: Isabelle Mach
+Dialogue: 0,0:23:32.68,0:23:36.43,TypePlaceholder,,0000,0000,0000,,{\bord2.5\c&HFFFFFF&\3c&H000000&\fs23\b1}Veröffentlichung: Jelizaveta Stolarova\NWAKANIM
+Dialogue: 0,0:23:36.43,0:23:40.42,TypePlaceholder,,0000,0000,0000,,{\bord2.5\c&HFFFFFF&\3c&H000000&\fs23\b1}Michael Gohl für Crunchyroll

@@ -1,0 +1,407 @@
+﻿[Script Info]
+Title: English (US)
+Original Script: aniplex  [http://www.crunchyroll.com/user/aniplex]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,0010,0010,0010,1
+Style: main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: italicstop,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: flashback,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: flashback italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: flashbacktop,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,0,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0018,0
+Style: flashbackitalicstop,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: sign_3520_34_Episode_One__The,Georgia,11,&H32000000,&H000000FF,&HC8FFFFFF,&HC8FFFFFF,0,0,0,0,100,100,0,0,1,1,1,8,0030,0030,0020,1
+Style: sign_12822_113_Mangetsu_Dormito,Times New Roman,9,&H00787878,&H000000FF,&H00F2F6F7,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,2,0030,0030,0020,1
+Style: sign_3619_15_Roubai_Academy_P,Times New Roman,8,&H005F5F5F,&H000000FF,&H00E8EAEA,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0030,0030,0020,1
+Style: sign_3835_18_Drama_Club_This_,Georgia,26,&H003B4455,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,8,0030,0030,0020,1
+Style: sign_9593_66_Close_up_,Arial,8,&H00CAE1C2,&H000000FF,&H002C6C1C,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,7,0030,0030,0020,1
+Style: sign_13489_125_Name,Arial,11,&H006B6F6F,&H000000FF,&H006D66AB,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,8,0030,0030,0020,1
+Style: sign_13489_126_Inoue_Hitomi,Trebuchet MS,15,&H00131817,&H000000FF,&H00E6E8E8,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,7,0030,0030,0020,1
+Style: sign_15636_161_Math_I,Times New Roman,15,&H00636665,&H000000FF,&H006D66AB,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,8,0030,0030,0020,1
+Style: sign_28581_336_Bathwater,Arial,15,&H001B3F59,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,2,0030,0030,0020,1
+Style: sign_28581_344_TIME_REMAINING,Arial,9,&H0056C1F2,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,7,0030,0030,0020,1
+Style: sign_31685_380_Friends__Tanigaw,Times New Roman,18,&H00393732,&H000000FF,&H00DAD7D3,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,8,0030,0030,0020,1
+Style: sign_2013_19_Self_introductio,Trebuchet MS,40,&H00DDD9CE,&H000000FF,&H00E8EAEA,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,2,0030,0030,0020,1
+Style: sign_8133_69_Class_1_3,Comic Sans MS,11,&H00042B45,&H000000FF,&H0084B6D3,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,2,0030,0030,0020,1
+Style: sign_9021_82_Green_Tea,Times New Roman,8,&H00726A6F,&H000000FF,&H00F0ECEF,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,0030,0030,0020,1
+Style: sign_9021_87_Warm,Trebuchet MS,18,&H00EAE8F6,&H000000FF,&H00A997CD,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,2,0030,0030,0020,1
+Style: sign_10882_110_Red_Bean_Soup,Times New Roman,15,&H000B0C22,&H000000FF,&H00C9DBD6,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,8,0030,0030,0020,1
+Style: sign_11882_142_Akebi_Komichi_is,Comic Sans MS,15,&H006B6F6F,&H000000FF,&H006D66AB,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,3,0030,0030,0020,1
+Style: sign_22766_273_Akebi_Komichi,Trebuchet MS,15,&H00ABCB8C,&H000000FF,&H00CEDDDF,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,8,0030,0030,0020,1
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:00.00,0:00:03.73,sign_12822_113_Mangetsu_Dormito,Text,0000,0000,0000,,{\an8\pos(557,277)\c&H343B3A&\3c&HECF3F2&\bord2}Mangetsu\N Dormitory
+Dialogue: 0,0:00:03.73,0:00:04.65,sign_12822_113_Mangetsu_Dormito,Text,0000,0000,0000,,{\an8\c&H736559&\fs40\bord3\3c&HF5F6F9&}Man
+Dialogue: 0,0:00:04.73,0:00:05.65,sign_12822_113_Mangetsu_Dormito,Text,0000,0000,0000,,{\an8\c&H736559&\fs40\bord3\3c&HF5F6F9&}getsu
+Dialogue: 0,0:00:05.73,0:00:06.65,sign_12822_113_Mangetsu_Dormito,Text,0000,0000,0000,,{\an8\c&H736559&\fs40\bord3\3c&HF5F6F9&}Dormitory
+Dialogue: 0,0:00:06.73,0:00:09.23,sign_12822_113_Mangetsu_Dormito,Text,0000,0000,0000,,{\c&H515352&\bord2\pos(320,125)}Mangetsu\NDormitory
+Dialogue: 0,0:00:11.10,0:00:13.85,main,Supervisor,0000,0000,0000,,Oh, you must be Ohkuma Minoru-san.
+Dialogue: 0,0:00:17.35,0:00:21.43,main,Supervisor,0000,0000,0000,,Most of the other students will start \Nmoving into the dorm tomorrow.
+Dialogue: 0,0:00:21.43,0:00:24.28,main,Supervisor,0000,0000,0000,,I'll give you a quick tour of \Nthe facilities today, though.
+Dialogue: 0,0:00:24.28,0:00:28.76,main,Supervisor,0000,0000,0000,,Get some rest for now. \NYou must be awfully tired.
+Dialogue: 0,0:00:28.76,0:00:29.58,main,Minoru,0000,0000,0000,,Yes, ma'am.
+Dialogue: 0,0:00:45.46,0:00:46.55,main,Minoru,0000,0000,0000,,Oh, wow!
+Dialogue: 0,0:00:49.52,0:00:52.52,main,Minoru,0000,0000,0000,,A tiger beetle. It's even \Nprettier than the picture!
+Dialogue: 0,0:00:54.73,0:00:56.52,main,Minoru,0000,0000,0000,,A peacock butterfly, too?
+Dialogue: 0,0:00:56.52,0:00:57.93,main,Minoru,0000,0000,0000,,I've never seen one before!
+Dialogue: 0,0:01:05.50,0:01:06.56,main,Minoru,0000,0000,0000,,Wait!
+Dialogue: 0,0:01:23.92,0:01:25.19,main,Komichi,0000,0000,0000,,Y-Yes, ma'am!
+Dialogue: 0,0:01:23.93,0:01:25.18,sign_2013_19_Self_introductio,Text,0000,0000,0000,,{\pos(315,90)\fsp6}Self-introductions
+Dialogue: 0,0:01:27.12,0:01:30.69,main,Komichi,0000,0000,0000,,I'm Akebi Komichi, seat number 1.
+Dialogue: 0,0:03:03.41,0:03:07.95,sign_3520_34_Episode_One__The,Title,0000,0000,0000,,{\fad(482,1)\fs14\pos(525,75)}Episode Five \NI Want to Learn Lots
+Dialogue: 0,0:03:08.52,0:03:09.95,main,Erika,0000,0000,0000,,A ladybug?
+Dialogue: 0,0:03:09.95,0:03:11.49,main,Komichi,0000,0000,0000,,It's a weevil.
+Dialogue: 0,0:03:11.49,0:03:13.71,main,Komichi,0000,0000,0000,,Their long necks make them unique.
+Dialogue: 0,0:03:13.71,0:03:15.29,main,Erika,0000,0000,0000,,Huh.
+Dialogue: 0,0:03:15.29,0:03:17.47,italics,Minoru,0000,0000,0000,,Akebi Komichi...
+Dialogue: 0,0:03:21.81,0:03:24.47,italics,Minoru,0000,0000,0000,,Last time, she had a Schlegel's \Ngreen tree frog.
+Dialogue: 0,0:03:26.72,0:03:29.26,italics,Minoru,0000,0000,0000,,And today, she's playing with a weevil.
+Dialogue: 0,0:03:33.48,0:03:34.36,main,Student,0000,0000,0000,,What?!
+Dialogue: 0,0:03:34.36,0:03:35.53,main,Student,0000,0000,0000,,Oh, no!
+Dialogue: 0,0:03:38.03,0:03:41.91,main,Girl1,0000,0000,0000,,No way, no way! I can't \Nstand this sort of thing!
+Dialogue: 0,0:03:41.91,0:03:44.03,main,Girl2,0000,0000,0000,,Should I go get a teacher ASAP?
+Dialogue: 0,0:03:44.37,0:03:45.71,main,Minoru,0000,0000,0000,,A Japanese rat snake.
+Dialogue: 0,0:03:50.17,0:03:51.41,main,Girl3,0000,0000,0000,,It looked this way!
+Dialogue: 0,0:03:51.41,0:03:53.03,main,Girl4,0000,0000,0000,,It's gonna bite you!
+Dialogue: 0,0:03:53.33,0:03:55.09,italics,Minoru,0000,0000,0000,,It's not even scary.
+Dialogue: 0,0:03:56.15,0:03:57.42,main,Minoru,0000,0000,0000,,Are you lost?
+Dialogue: 0,0:03:58.63,0:03:59.55,main,Komichi,0000,0000,0000,,Isn't it cute?
+Dialogue: 0,0:04:01.37,0:04:03.05,main,Komichi,0000,0000,0000,,Ohkuma Minoru-san?
+Dialogue: 0,0:04:03.88,0:04:05.79,main,Minoru,0000,0000,0000,,Uh, yeah...
+Dialogue: 0,0:04:07.25,0:04:09.62,italics,Minoru,0000,0000,0000,,She has eyes like a seal's.
+Dialogue: 0,0:04:10.62,0:04:13.30,main,Komichi,0000,0000,0000,,Let's take it somewhere quiet.
+Dialogue: 0,0:04:13.80,0:04:16.59,main,Minoru,0000,0000,0000,,Yeah... Let's.
+Dialogue: 0,0:04:26.47,0:04:28.60,main,Minoru,0000,0000,0000,,This area should be safe.
+Dialogue: 0,0:04:32.19,0:04:34.93,main,Komichi,0000,0000,0000,,Ohkuma-san, is that your own cage?
+Dialogue: 0,0:04:34.93,0:04:37.21,main,Komichi,0000,0000,0000,,You actually bring it to school?
+Dialogue: 0,0:04:37.21,0:04:40.72,main,Minoru,0000,0000,0000,,Yes! Because you never know \Nwhat you'll find, or where!
+Dialogue: 0,0:04:43.34,0:04:47.23,main,Minoru,0000,0000,0000,,Japanese rat snakes are interesting \Nbecause their colors and patterns vary
+Dialogue: 0,0:04:47.23,0:04:48.48,main,Minoru,0000,0000,0000,,depending on the region.
+Dialogue: 0,0:04:48.48,0:04:51.09,main,Komichi,0000,0000,0000,,Wow, really?! I never knew that!
+Dialogue: 0,0:04:51.59,0:04:55.10,main,Komichi,0000,0000,0000,,I've seen them swimming like \Npros in the river before!
+Dialogue: 0,0:04:55.10,0:04:56.79,main,Minoru,0000,0000,0000,,That's a priceless sighting!
+Dialogue: 0,0:04:56.79,0:04:59.65,main,Komichi,0000,0000,0000,,And not long ago, \Nwhen I was walking in the woods,
+Dialogue: 0,0:04:59.65,0:05:02.42,main,Komichi,0000,0000,0000,,I bumped into a vine \Nwrapped around a branch.
+Dialogue: 0,0:05:03.10,0:05:05.14,main,Komichi,0000,0000,0000,,And that vine was...
+Dialogue: 0,0:05:05.14,0:05:06.73,main,Minoru,0000,0000,0000,,Wait, you mean...
+Dialogue: 0,0:05:08.55,0:05:10.49,main,Komichi,0000,0000,0000,,A Japanese rat snake!
+Dialogue: 0,0:05:10.49,0:05:11.91,main,Minoru,0000,0000,0000,,Incredible!
+Dialogue: 0,0:05:14.88,0:05:16.67,main,Komichi,0000,0000,0000,,What's that, Ohkuma-san?
+Dialogue: 0,0:05:16.67,0:05:18.25,main,Minoru,0000,0000,0000,,My research notebook.
+Dialogue: 0,0:05:18.25,0:05:20.57,main,Minoru,0000,0000,0000,,I write down unique characteristics \Nof living things I see,
+Dialogue: 0,0:05:20.57,0:05:23.68,main,Minoru,0000,0000,0000,,and the details of how \NI found them, every day.
+Dialogue: 0,0:05:24.17,0:05:27.08,main,Minoru,0000,0000,0000,,Your stories gave me valuable information.
+Dialogue: 0,0:05:27.55,0:05:28.91,main,Komichi,0000,0000,0000,,I do that, too!
+Dialogue: 0,0:05:30.77,0:05:34.72,main,Komichi,0000,0000,0000,,I always write down things \NI notice in a notebook.
+Dialogue: 0,0:05:35.40,0:05:38.56,main,Minoru,0000,0000,0000,,So you're also interested in the \Nobservation of living things?
+Dialogue: 0,0:05:38.98,0:05:39.06,sign_8133_69_Class_1_3,Text,0000,0000,0000,,{\frz-15.66\pos(581,228)}Class 1-3
+Dialogue: 0,0:05:39.03,0:05:39.85,main,Komichi,0000,0000,0000,,See?
+Dialogue: 0,0:05:39.06,0:05:39.19,sign_8133_69_Class_1_3,Text,0000,0000,0000,,{\pos(495,143)}Class 1-3
+Dialogue: 0,0:05:39.19,0:05:40.56,sign_8133_69_Class_1_3,Text,0000,0000,0000,,{\frz-11.95\pos(510,165)}Class 1-3
+Dialogue: 0,0:05:40.96,0:05:43.03,main,Minoru,0000,0000,0000,,Class 1-3?
+Dialogue: 0,0:05:44.06,0:05:47.59,main,Komichi,0000,0000,0000,,I write notes about everyone in our class.
+Dialogue: 0,0:05:47.59,0:05:51.27,main,Komichi,0000,0000,0000,,I was just so happy to have classmates, \Nsince I've never had them before.
+Dialogue: 0,0:05:51.83,0:05:59.83,sign_8133_69_Class_1_3,Text,0000,0000,0000,,{\an9\bord4\fs21}Class 1-3
+Dialogue: 0,0:05:52.09,0:05:55.86,main,Komichi,0000,0000,0000,,I want to learn lots \Nabout everyone... but...
+Dialogue: 0,0:05:56.53,0:05:59.84,main,Komichi,0000,0000,0000,,I can't always find the right \Ntiming to talk to them, so...
+Dialogue: 0,0:05:59.84,0:06:02.68,main,Minoru,0000,0000,0000,,That's where observation comes in handy.
+Dialogue: 0,0:06:02.97,0:06:07.38,main,Minoru,0000,0000,0000,,Learning more about someone, \Nsuch as what they like and dislike,
+Dialogue: 0,0:06:07.38,0:06:10.13,main,Minoru,0000,0000,0000,,could help you out in future conversations.
+Dialogue: 0,0:06:11.25,0:06:12.88,main,Komichi,0000,0000,0000,,Then let's do that together!
+Dialogue: 0,0:06:14.48,0:06:15.46,main,Minoru,0000,0000,0000,,Huh?
+Dialogue: 0,0:06:16.23,0:06:18.98,sign_9021_82_Green_Tea,Text,0000,0000,0000,,{\pos(100,55)}Green Tea
+Dialogue: 0,0:06:16.23,0:06:18.98,sign_9021_82_Green_Tea,Text,0000,0000,0000,,{\pos(215,55)}Green Tea
+Dialogue: 0,0:06:16.23,0:06:18.98,sign_9021_82_Green_Tea,Text,0000,0000,0000,,{\pos(325,48)\c&H1A171F&\3c&HC6C3CF&}Red Bean Soup
+Dialogue: 0,0:06:16.23,0:06:18.98,sign_9021_82_Green_Tea,Text,0000,0000,0000,,{\c&H7B8CB1&\3c&H0C2338&\pos(435,50)}Rich Corn Potage
+Dialogue: 0,0:06:16.23,0:06:18.98,sign_9021_82_Green_Tea,Text,0000,0000,0000,,{\c&H7B8CB1&\3c&H0C2338&\pos(540,50)}Rich Corn Potage
+Dialogue: 0,0:06:16.23,0:06:18.98,sign_9021_87_Warm,Text,0000,0000,0000,,{\pos(95,210)\fsp6}Wa{\3c&HD8CDE9&}rm
+Dialogue: 0,0:06:16.23,0:06:18.98,sign_9021_87_Warm,Text,0000,0000,0000,,{\pos(210,210)\fsp6\3c&H836DBC&}Warm
+Dialogue: 0,0:06:16.23,0:06:18.98,sign_9021_87_Warm,Text,0000,0000,0000,,{\pos(325,210)\fsp6\3c&H554D9B&\c&HBAC4D3&}Warm
+Dialogue: 0,0:06:16.23,0:06:18.98,sign_9021_87_Warm,Text,0000,0000,0000,,{\pos(440,210)\fsp6\3c&H554D9B&\c&HBAC4D3&}Warm
+Dialogue: 0,0:06:16.23,0:06:18.98,sign_9021_87_Warm,Text,0000,0000,0000,,{\pos(553,210)\fsp6\3c&H554D9B&\c&HBAC4D3&}W{\3c&HAEA9CA&}ar{\3c&H898CBA&}m
+Dialogue: 0,0:06:19.52,0:06:21.47,main,Minoru,0000,0000,0000,,According to my observations,
+Dialogue: 0,0:06:21.47,0:06:24.48,main,Minoru,0000,0000,0000,,our subject appears right \Nhere every morning.
+Dialogue: 0,0:06:27.39,0:06:29.34,main,Komichi,0000,0000,0000,,Hiraiwa Hotaru-san...
+Dialogue: 0,0:06:29.34,0:06:32.44,main,Komichi,0000,0000,0000,,I haven't really talked \Nto her very much yet.
+Dialogue: 0,0:06:32.44,0:06:34.13,main,Komichi,0000,0000,0000,,What's she going to get?
+Dialogue: 0,0:06:44.88,0:06:46.63,main,Minoru,0000,0000,0000,,C-Could it be...
+Dialogue: 0,0:06:49.83,0:06:52.93,main,Minoru,0000,0000,0000,,Hmm... I'm surprised she's going for \Nthe red bean soup on the top shelf.
+Dialogue: 0,0:06:52.93,0:06:54.38,main,Minoru,0000,0000,0000,,She's quite a challenger.
+Dialogue: 0,0:07:07.91,0:07:11.70,main,Minoru,0000,0000,0000,,Will she be able to purchase \Nan item that's up so high?
+Dialogue: 0,0:07:11.70,0:07:13.79,main,Minoru,0000,0000,0000,,This is truly intriguing.
+Dialogue: 0,0:07:15.64,0:07:16.82,main,Minoru,0000,0000,0000,,Akebi-san?
+Dialogue: 0,0:07:20.62,0:07:22.37,main,Komichi,0000,0000,0000,,Mind if I help?
+Dialogue: 0,0:07:25.30,0:07:26.80,main,Hotaru,0000,0000,0000,,H-Huh?
+Dialogue: 0,0:07:26.80,0:07:29.01,main,Komichi,0000,0000,0000,,Now you can reach the button, right?
+Dialogue: 0,0:07:33.34,0:07:33.51,sign_10882_110_Red_Bean_Soup,Text,0000,0000,0000,,{\pos(99,207)\frz99.2}R\NE\ND\N \NB\NE\NA\NN\N \NS\NO\NU\NP
+Dialogue: 0,0:07:33.34,0:07:33.51,sign_10882_110_Red_Bean_Soup,Text,0000,0000,0000,,{\an7\c&H53444C&\fs8\fay.3\pos(103,101)\frz99.98}Made\Nwith\NBeans\Nfrom\NHokkaido
+Dialogue: 0,0:07:33.34,0:07:33.51,sign_10882_110_Red_Bean_Soup,Text,0000,0000,0000,,{\fs10\c&HADB1BB&\3c&H2B0425&\frz96.97\pos(338,159)}C\NH\NU\NN\NK\NY
+Dialogue: 0,0:07:33.34,0:07:33.51,sign_10882_110_Red_Bean_Soup,Text,0000,0000,0000,,{\an1\fs8\c&H8683AF&\3c&H1B1D94&\frz95.73\pos(451,163)}Actual product may differ from image.
+Dialogue: 0,0:07:33.51,0:07:33.64,sign_10882_110_Red_Bean_Soup,Text,0000,0000,0000,,{\frz86.49\pos(117,223)}R\NE\ND\N \NB\NE\NA\NN\N \NS\NO\NU\NP
+Dialogue: 0,0:07:33.51,0:07:33.64,sign_10882_110_Red_Bean_Soup,Text,0000,0000,0000,,{\an7\c&H53444C&\fs8\fay.4\frz89.42\pos(143,113)}Made\Nwith\NBeans\Nfrom\NHokkaido
+Dialogue: 0,0:07:33.51,0:07:33.64,sign_10882_110_Red_Bean_Soup,Text,0000,0000,0000,,{\fs10\c&HADB1BB&\3c&H2B0425&\pos(363,222)\frz82.92}C\NH\NU\NN\NK\NY
+Dialogue: 0,0:07:33.51,0:07:33.64,sign_10882_110_Red_Bean_Soup,Text,0000,0000,0000,,{\an1\fs8\c&H8683AF&\3c&H1B1D94&\frz84.24\pos(480,245)}Actual product may differ from image.
+Dialogue: 0,0:07:33.64,0:07:33.76,sign_10882_110_Red_Bean_Soup,Text,0000,0000,0000,,{\frz83.24\pos(123,223)}R\NE\ND\N \NB\NE\NA\NN\N \NS\NO\NU\NP
+Dialogue: 0,0:07:33.64,0:07:33.76,sign_10882_110_Red_Bean_Soup,Text,0000,0000,0000,,{\an7\c&H53444C&\frz82.42\fs8\fay.4\pos(157,115)}Made\Nwith\NBeans\Nfrom\NHokkaido
+Dialogue: 0,0:07:33.64,0:07:33.76,sign_10882_110_Red_Bean_Soup,Text,0000,0000,0000,,{\fs10\c&HADB1BB&\3c&H2B0425&\pos(363,245)\frz79.66}C\NH\NU\NN\NK\NY
+Dialogue: 0,0:07:33.64,0:07:33.76,sign_10882_110_Red_Bean_Soup,Text,0000,0000,0000,,{\an1\fs8\c&H8683AF&\3c&H1B1D94&\frz84.24\fay.09\pos(478,281)}Actual product may differ from image.
+Dialogue: 0,0:07:33.76,0:07:33.84,sign_10882_110_Red_Bean_Soup,Text,0000,0000,0000,,{\frz83.24\pos(113,242)}R\NE\ND\N \NB\NE\NA\NN\N \NS\NO\NU\NP
+Dialogue: 0,0:07:33.76,0:07:33.84,sign_10882_110_Red_Bean_Soup,Text,0000,0000,0000,,{\an7\c&H53444C&\frz82.42\fs8\fay.2\pos(143,132)}Made\Nwith\NBeans\Nfrom\NHokkaido
+Dialogue: 0,0:07:33.76,0:07:33.84,sign_10882_110_Red_Bean_Soup,Text,0000,0000,0000,,{\fs10\c&HADB1BB&\3c&H2B0425&\pos(358,263)\frz80.76}C\NH\NU\NN\NK\NY
+Dialogue: 0,0:07:33.76,0:07:33.84,sign_10882_110_Red_Bean_Soup,Text,0000,0000,0000,,{\an1\fs8\c&H8683AF&\3c&H1B1D94&\frz84.24\pos(470,296)\fay.05}Actual product may differ from image.
+Dialogue: 0,0:07:33.84,0:07:34.01,sign_10882_110_Red_Bean_Soup,Text,0000,0000,0000,,{\pos(96,266)\frz83.24}R\NE\ND\N \NB\NE\NA\NN\N \NS\NO\NU\NP
+Dialogue: 0,0:07:33.84,0:07:34.01,sign_10882_110_Red_Bean_Soup,Text,0000,0000,0000,,{\an7\c&H53444C&\frz82.42\fs8\pos(122,150)\fay.2}Made\Nwith\NBeans\Nfrom\NHokkaido
+Dialogue: 0,0:07:33.84,0:07:34.01,sign_10882_110_Red_Bean_Soup,Text,0000,0000,0000,,{\fs10\c&HADB1BB&\3c&H2B0425&\frz77.88\pos(341,286)}C\NH\NU\NN\NK\NY
+Dialogue: 0,0:07:33.84,0:07:34.01,sign_10882_110_Red_Bean_Soup,Text,0000,0000,0000,,{\an1\fs8\c&H8683AF&\3c&H1B1D94&\pos(455,318)\frz84.24}Actual product may differ from image.
+Dialogue: 0,0:07:34.01,0:07:34.51,sign_10882_110_Red_Bean_Soup,Text,0000,0000,0000,,{\frz83.24\pos(80,289)\fay-.2}R\NE\ND\N \NB\NE\NA\NN\N \NS\NO\NU\NP
+Dialogue: 0,0:07:34.01,0:07:34.51,sign_10882_110_Red_Bean_Soup,Text,0000,0000,0000,,{\an7\c&H53444C&\frz82.42\fs8\fay.2\pos(102,177)}Made\Nwith\NBeans\Nfrom\NHokkaido
+Dialogue: 0,0:07:34.01,0:07:34.51,sign_10882_110_Red_Bean_Soup,Text,0000,0000,0000,,{\fs10\c&HADB1BB&\3c&H2B0425&\pos(326,309)\frz81.39}C\NH\NU\NN\NK\NY
+Dialogue: 0,0:07:34.01,0:07:34.51,sign_10882_110_Red_Bean_Soup,Text,0000,0000,0000,,{\an1\fs8\c&H8683AF&\3c&H1B1D94&\frz84.24\pos(437,346)}Actual product may differ from image.
+Dialogue: 0,0:07:34.67,0:07:36.26,main,Komichi,0000,0000,0000,,Yay!
+Dialogue: 0,0:07:39.36,0:07:41.56,main,Komichi,0000,0000,0000,,I do that for my little sister a lot, too.
+Dialogue: 0,0:07:41.92,0:07:44.14,main,Hotaru,0000,0000,0000,,Thank you very much.
+Dialogue: 0,0:07:44.14,0:07:46.40,main,Komichi,0000,0000,0000,,Oh, you're very welcome!
+Dialogue: 0,0:07:51.91,0:07:53.81,main,Minoru,0000,0000,0000,,You can't do that, Akebi-san.
+Dialogue: 0,0:07:53.81,0:07:54.65,main,Komichi,0000,0000,0000,,Huh?
+Dialogue: 0,0:07:55.07,0:07:56.59,main,Minoru,0000,0000,0000,,Observing living things means
+Dialogue: 0,0:07:56.59,0:08:00.33,main,Minoru,0000,0000,0000,,watching them from an objective \Nviewpoint and recording what you see.
+Dialogue: 0,0:08:00.33,0:08:02.76,main,Minoru,0000,0000,0000,,You're not supposed to interfere \Nin what you observe.
+Dialogue: 0,0:08:02.76,0:08:05.28,main,Komichi,0000,0000,0000,,Oh, yeah. Sorry.
+Dialogue: 0,0:08:09.48,0:08:10.87,main,Komichi,0000,0000,0000,,It's so shiny...
+Dialogue: 0,0:08:11.57,0:08:15.55,italics,Minoru,0000,0000,0000,,I got some interesting data.\N Akebi Komichi is...
+Dialogue: 0,0:08:15.55,0:08:20.31,sign_11882_142_Akebi_Komichi_is,Text,0000,0000,0000,,{\pos(280,105)\frz-14.19\fax-0.07}• Akebi Komichi is the {\u1}active type{\u0}!!
+Dialogue: 0,0:08:15.55,0:08:20.31,sign_11882_142_Akebi_Komichi_is,Text,0000,0000,0000,,{\an7\fax-0.07\fs8\frz347.2\pos(27,126)}Plays with her little sister often? \NLifted Hiraiwa Hotaru-san like she weighed nothing \NHas quite a bit of muscle
+Dialogue: 0,0:08:15.55,0:08:20.31,sign_11882_142_Akebi_Komichi_is,Text,0000,0000,0000,,{\pos(553,78)\frz21.99\fax-0.03}Hiraiwa Hotaru-chan
+Dialogue: 0,0:08:15.55,0:08:20.31,sign_11882_142_Akebi_Komichi_is,Text,0000,0000,0000,,{\pos(625,158)\frz9.942\fax-0.03}Looks a bit like Kao
+Dialogue: 0,0:08:15.55,0:08:20.31,sign_11882_142_Akebi_Komichi_is,Text,0000,0000,0000,,{\pos(592,225)\frz20.74\fs11\fax-0.03}Onee-chan!
+Dialogue: 0,0:08:15.55,0:08:20.31,sign_11882_142_Akebi_Komichi_is,Text,0000,0000,0000,,{\pos(574,270)\frz16.45\fax-0.03}Cute
+Dialogue: 0,0:08:15.55,0:08:20.31,sign_11882_142_Akebi_Komichi_is,Text,0000,0000,0000,,{\an9\pos(615,304)\frz19.88\fax-0.03}Has soft, pretty hair.\NSmells nice.
+Dialogue: 0,0:08:21.19,0:08:22.82,main,Touko,0000,0000,0000,,Oh, Hotaru-chan.
+Dialogue: 0,0:08:23.12,0:08:26.08,main,Touko,0000,0000,0000,,You finally succeeded in \Nyour challenge? Way to go!
+Dialogue: 0,0:08:27.44,0:08:30.65,main,Hotaru,0000,0000,0000,,I'll work hard so I can buy \Nit on my own next time.
+Dialogue: 0,0:08:33.07,0:08:34.89,main,Minoru,0000,0000,0000,,You could call it spying.
+Dialogue: 0,0:08:34.89,0:08:39.22,main,Minoru,0000,0000,0000,,You erase your own presence in order \Nto secretly observe your subject.
+Dialogue: 0,0:08:39.22,0:08:41.54,main,Minoru,0000,0000,0000,,To ensure you don't miss \Neven a moment's change...
+Dialogue: 0,0:08:41.54,0:08:44.41,main,Hitomi,0000,0000,0000,,What did you call me out here for?
+Dialogue: 0,0:09:00.76,0:09:02.66,main,Komichi,0000,0000,0000,,Washio Hitomi-san!
+Dialogue: 0,0:09:03.50,0:09:05.76,main,Minoru,0000,0000,0000,,She's talking to a girl from Class 1.
+Dialogue: 0,0:09:05.76,0:09:07.50,main,Komichi,0000,0000,0000,,How do you know that?
+Dialogue: 0,0:09:07.50,0:09:09.93,main,Minoru,0000,0000,0000,,I live in the Mangetsu Dorm.
+Dialogue: 0,0:09:14.78,0:09:17.31,main,Komichi,0000,0000,0000,,It looks like they're \Ntalking about something,
+Dialogue: 0,0:09:17.31,0:09:19.17,main,Komichi,0000,0000,0000,,but I can't hear them from here.
+Dialogue: 0,0:09:19.17,0:09:22.53,main,Minoru,0000,0000,0000,,It's not just their conversation \Nthat can tell us what's going on.
+Dialogue: 0,0:09:22.53,0:09:26.50,main,Minoru,0000,0000,0000,,Let's carefully observe their body language, \Nexpressions, and the situation.
+Dialogue: 0,0:09:26.72,0:09:28.70,main,Komichi,0000,0000,0000,,Stare...
+Dialogue: 0,0:09:28.99,0:09:30.93,main,Minoru,0000,0000,0000,,Stare...
+Dialogue: 0,0:09:36.97,0:09:38.90,main,Yasuko,0000,0000,0000,,What could they be talking about?
+Dialogue: 0,0:09:39.38,0:09:40.86,main,Komichi,0000,0000,0000,,N-Nawashiro-san?!
+Dialogue: 0,0:09:40.86,0:09:42.18,main,Minoru,0000,0000,0000,,Shh!
+Dialogue: 0,0:09:43.04,0:09:46.70,main,Yasuko,0000,0000,0000,,It's always so easy to \Ntell where Akebi-chan is.
+Dialogue: 0,0:09:48.77,0:09:51.56,main,Hitomi,0000,0000,0000,,Hey. I can hear you.
+Dialogue: 0,0:09:52.66,0:09:55.83,main,Yasuko,0000,0000,0000,,Heya, Hitomi-chan... and...
+Dialogue: 0,0:09:56.08,0:09:58.58,main,Mihoshi,0000,0000,0000,,Uh... I...
+Dialogue: 0,0:10:00.40,0:10:02.46,main,Yasuko,0000,0000,0000,,Hi, Tanabe-san.
+Dialogue: 0,0:10:02.46,0:10:05.08,main,Yasuko,0000,0000,0000,,I'm sorry, was I interrupting?
+Dialogue: 0,0:10:07.58,0:10:09.79,main,Hitomi,0000,0000,0000,,No, actually, this is perfect.
+Dialogue: 0,0:10:09.79,0:10:12.36,main,Hitomi,0000,0000,0000,,She says she wants to \Nbe your friend, Yasuko.
+Dialogue: 0,0:10:12.70,0:10:13.76,main,Yasuko,0000,0000,0000,,Oh!
+Dialogue: 0,0:10:14.82,0:10:15.62,main,Hitomi,0000,0000,0000,,And...
+Dialogue: 0,0:10:16.24,0:10:18.47,main,Hitomi,0000,0000,0000,,Just what were you two doing?
+Dialogue: 0,0:10:20.47,0:10:24.22,sign_11882_142_Akebi_Komichi_is,Text,0000,0000,0000,,{\pos(280,105)\frz-14.19\fax-0.07}• Akebi Komichi is the {\u1}active type{\u0}!!
+Dialogue: 0,0:10:20.47,0:10:24.22,sign_11882_142_Akebi_Komichi_is,Text,0000,0000,0000,,{\an7\fs8\frz-14.19\fax-0.07\pos(178,119)}Plays with her little sister often? \N\NLifted Hiraiwa Hotaru-san\N like she weighed nothing \N\NHas quite a bit of muscle
+Dialogue: 0,0:10:20.47,0:10:24.22,sign_11882_142_Akebi_Komichi_is,Text,0000,0000,0000,,{\frz-14.19\fax-0.07\fs13\pos(224,218)}Akebi Komichi is {\u1}conspicuous{\u0}!!
+Dialogue: 0,0:10:20.47,0:10:24.22,sign_11882_142_Akebi_Komichi_is,Text,0000,0000,0000,,{\an7\fs8\frz-14.19\fax-0.07\pos(16,217)}Dirt on her shoes.\NGets sidetracked easily?
+Dialogue: 0,0:10:20.47,0:10:24.22,sign_11882_142_Akebi_Komichi_is,Text,0000,0000,0000,,{\an1\frz29.63\pos(372,151)\fax-0.14\fs10}Nawashiro-san
+Dialogue: 0,0:10:20.47,0:10:24.22,sign_11882_142_Akebi_Komichi_is,Text,0000,0000,0000,,{\an1\frz29.63\fax-0.14\fs10\pos(431,111)}Washio-san
+Dialogue: 0,0:10:20.47,0:10:24.22,sign_11882_142_Akebi_Komichi_is,Text,0000,0000,0000,,{\pos(593,97)\fax-0.14}Washio-san and\N Nawashiro-san\N are good friends!
+Dialogue: 0,0:10:20.47,0:10:24.22,sign_11882_142_Akebi_Komichi_is,Text,0000,0000,0000,,{\pos(625,193)\frz11.18\fs10\fax-0.14}Washio-san is very tall
+Dialogue: 0,0:10:20.47,0:10:24.22,sign_11882_142_Akebi_Komichi_is,Text,0000,0000,0000,,{\an1\pos(605,244)}So cool!
+Dialogue: 0,0:10:20.47,0:10:24.22,sign_11882_142_Akebi_Komichi_is,Text,0000,0000,0000,,{\an7\pos(552,329)\frz14.42\fax-0.14\fs8}Lives in the dorm.\N Maybe I can visit someday?
+Dialogue: 0,0:10:28.70,0:10:33.24,main,Komichi,0000,0000,0000,,Uh, Ohkuma-san, did we really need \Nto hide ourselves {\i1}this{\i0} well?
+Dialogue: 0,0:10:33.24,0:10:35.93,main,Minoru,0000,0000,0000,,You stand out no matter where you are,
+Dialogue: 0,0:10:35.93,0:10:39.90,main,Minoru,0000,0000,0000,,so we might as well conceal ourselves \Nfrom our subject completely.
+Dialogue: 0,0:10:40.30,0:10:42.00,main,Komichi,0000,0000,0000,,O-Okay...
+Dialogue: 0,0:10:45.76,0:10:47.40,main,Minoru,0000,0000,0000,,Oh, here comes someone.
+Dialogue: 0,0:10:47.40,0:10:48.99,main,Komichi,0000,0000,0000,,It's Shijou Riona-san.
+Dialogue: 0,0:10:53.99,0:10:56.40,main,Minoru,0000,0000,0000,,I can't see very well from in here.
+Dialogue: 0,0:10:58.75,0:11:00.89,main,Minoru,0000,0000,0000,,Is she searching for something?
+Dialogue: 0,0:11:13.72,0:11:14.76,main,Komichi,0000,0000,0000,,Huh?
+Dialogue: 0,0:11:16.78,0:11:20.04,main,Komichi,0000,0000,0000,,A sandwich?! That looks so good!
+Dialogue: 0,0:11:21.51,0:11:23.73,main,Riona,0000,0000,0000,,I-It's just, uh...
+Dialogue: 0,0:11:23.73,0:11:26.91,main,Riona,0000,0000,0000,,I missed breakfast today \Nbecause I overslept,
+Dialogue: 0,0:11:26.91,0:11:29.07,main,Riona,0000,0000,0000,,so my mom wrapped this up for me...
+Dialogue: 0,0:11:30.91,0:11:33.29,main,Riona,0000,0000,0000,,Um... Ohkuma-san?
+Dialogue: 0,0:11:36.38,0:11:38.60,main,Minoru,0000,0000,0000,,I-I'm so sorry!
+Dialogue: 0,0:11:38.80,0:11:41.30,sign_11882_142_Akebi_Komichi_is,Text,0000,0000,0000,,{\pos(280,105)\frz-14.19\fax-0.07}• Akebi Komichi is the {\u1}active type{\u0}!!
+Dialogue: 0,0:11:38.80,0:11:41.30,sign_11882_142_Akebi_Komichi_is,Text,0000,0000,0000,,{\an7\fs8\frz-14.19\fax-0.07\pos(178,119)}Plays with her little sister often? \N\NLifted Hiraiwa Hotaru-san\N like she weighed nothing \N\NHas quite a bit of muscle
+Dialogue: 0,0:11:38.80,0:11:41.30,sign_11882_142_Akebi_Komichi_is,Text,0000,0000,0000,,{\frz-14.19\fax-0.07\fs13\pos(224,218)}Akebi Komichi is {\u1}conspicuous{\u0}!!
+Dialogue: 0,0:11:38.80,0:11:41.30,sign_11882_142_Akebi_Komichi_is,Text,0000,0000,0000,,{\an7\fs8\frz-14.19\fax-0.07\pos(97,203)}Dirt on her shoes.\NGets sidetracked easily?
+Dialogue: 0,0:11:38.80,0:11:41.30,sign_11882_142_Akebi_Komichi_is,Text,0000,0000,0000,,{\pos(216,287)\frz342.8\fs8}Akebi Komichi is extremely {\u1}ticklish{\u0}!!
+Dialogue: 0,0:11:38.80,0:11:41.30,sign_11882_142_Akebi_Komichi_is,Text,0000,0000,0000,,{\an7\fs8\frz340\pos(62,316)}Shijou-san's chest is soft\N and warm like the bunnies\N in the pen
+Dialogue: 0,0:11:38.80,0:11:41.30,sign_11882_142_Akebi_Komichi_is,Text,0000,0000,0000,,{\frz13.45\pos(562,76)\fax0.13}Shijou-san \NPrefers bread with breakfast!!
+Dialogue: 0,0:11:38.80,0:11:41.30,sign_11882_142_Akebi_Komichi_is,Text,0000,0000,0000,,{\an7\pos(547,298)\fs8\frz17.17}That sandwich looked\N really good... \N\NI always get hungry around\N this time of day, too
+Dialogue: 0,0:11:46.97,0:11:49.55,main,Komichi,0000,0000,0000,,This isn't going very well, is it?
+Dialogue: 0,0:11:49.82,0:11:53.93,main,Minoru,0000,0000,0000,,But I've still been able to gather \Nsome very interesting data,
+Dialogue: 0,0:11:53.93,0:11:55.32,main,Minoru,0000,0000,0000,,so it all worked out.
+Dialogue: 0,0:12:00.31,0:12:03.60,main,Komichi,0000,0000,0000,,Wow, you're really good \Nat drawing, Ohkuma-san!
+Dialogue: 0,0:12:04.63,0:12:08.01,main,Minoru,0000,0000,0000,,S-Since I keep a research \Nnotebook every day,
+Dialogue: 0,0:12:08.01,0:12:10.32,main,Minoru,0000,0000,0000,,I naturally picked up the ability.
+Dialogue: 0,0:12:10.32,0:12:12.07,main,Komichi,0000,0000,0000,,That's so impressive!
+Dialogue: 0,0:12:12.71,0:12:13.99,main,Minoru,0000,0000,0000,,What about you?
+Dialogue: 0,0:12:14.34,0:12:16.33,main,Minoru,0000,0000,0000,,Are you finished drawing it?
+Dialogue: 0,0:12:19.76,0:12:21.06,main,Minoru,0000,0000,0000,,I get it.
+Dialogue: 0,0:12:21.06,0:12:22.66,main,Minoru,0000,0000,0000,,Drawing it in a simplified manner
+Dialogue: 0,0:12:22.66,0:12:26.56,main,Minoru,0000,0000,0000,,can actually enhance the subject's \Nunique characteristics.
+Dialogue: 0,0:12:27.35,0:12:28.71,main,Minoru,0000,0000,0000,,Another good call.
+Dialogue: 0,0:12:38.99,0:12:41.11,main,Komichi,0000,0000,0000,,That feels nice.
+Dialogue: 0,0:12:41.11,0:12:43.82,main,Minoru,0000,0000,0000,,Yes, it's a very nice breeze.
+Dialogue: 0,0:12:43.82,0:12:46.61,main,Minoru,0000,0000,0000,,Since we're always stuck at \Nour desks during class time,
+Dialogue: 0,0:12:46.61,0:12:50.37,main,Minoru,0000,0000,0000,,we're lucky to have a chance to \Nobserve in this kind of setting.
+Dialogue: 0,0:12:50.86,0:12:52.12,main,Komichi,0000,0000,0000,,Really?
+Dialogue: 0,0:12:52.40,0:12:56.63,main,Minoru,0000,0000,0000,,You get a better look at people's hobbies, \Npreferences, and natural behaviors.
+Dialogue: 0,0:12:57.04,0:12:59.60,main,Minoru,0000,0000,0000,,For example... let me see...
+Dialogue: 0,0:12:59.98,0:13:01.00,main,Minoru,0000,0000,0000,,Look there.
+Dialogue: 0,0:13:03.88,0:13:05.36,main,Minoru,0000,0000,0000,,Togano Mai-san.
+Dialogue: 0,0:13:08.61,0:13:12.20,main,Minoru,0000,0000,0000,,The fact that she can draw so many \Ndifferent species of birds so distinctly
+Dialogue: 0,0:13:12.20,0:13:14.56,main,Minoru,0000,0000,0000,,tells me that she's very fond of birds.
+Dialogue: 0,0:13:14.56,0:13:15.64,main,Komichi,0000,0000,0000,,Wow, you're right.
+Dialogue: 0,0:13:16.16,0:13:18.86,main,Minoru,0000,0000,0000,,I hope I can have a good \Nchat with her sometime.
+Dialogue: 0,0:13:21.49,0:13:22.99,main,Minoru,0000,0000,0000,,Minakami Riri-san.
+Dialogue: 0,0:13:23.31,0:13:25.29,main,Komichi,0000,0000,0000,,Is she done drawing, too?
+Dialogue: 0,0:13:25.29,0:13:28.62,main,Minoru,0000,0000,0000,,I think it's more likely that she's \Nlooking for something to draw.
+Dialogue: 0,0:13:28.62,0:13:31.11,main,Minoru,0000,0000,0000,,The way she patiently searches for prey
+Dialogue: 0,0:13:31.11,0:13:33.76,main,Minoru,0000,0000,0000,,reminds me of a black leopard, \Na master of hunting.
+Dialogue: 0,0:13:36.02,0:13:37.38,main,Komichi,0000,0000,0000,,You're right!
+Dialogue: 0,0:13:37.65,0:13:42.12,main,Minoru,0000,0000,0000,,Or... maybe she just doesn't like \Nbig crowds of people, like me.
+Dialogue: 0,0:14:14.70,0:14:17.61,main,Komichi,0000,0000,0000,,You've spent a lot of time watching \Neveryone, huh, Ohkuma-san?
+Dialogue: 0,0:14:17.61,0:14:18.62,main,Minoru,0000,0000,0000,,Huh?
+Dialogue: 0,0:14:18.86,0:14:21.36,main,Minoru,0000,0000,0000,,I-I wouldn't say "everyone"...
+Dialogue: 0,0:14:21.36,0:14:23.87,main,Minoru,0000,0000,0000,,The living thing that currently \Ninterests me the most is...
+Dialogue: 0,0:14:24.62,0:14:25.87,main,Komichi,0000,0000,0000,,Is?
+Dialogue: 0,0:14:28.22,0:14:29.57,main,Minoru,0000,0000,0000,,Um...
+Dialogue: 0,0:14:34.88,0:14:37.35,main,Erika,0000,0000,0000,,Akebi-san, there you are.
+Dialogue: 0,0:14:37.35,0:14:39.91,main,Touko,0000,0000,0000,,Hey, Ohkuma-san, you're really\N good at drawing!
+Dialogue: 0,0:14:39.91,0:14:41.24,main,Komichi,0000,0000,0000,,She really is!
+Dialogue: 0,0:14:41.64,0:14:43.86,main,Erika,0000,0000,0000,,Yeah, you captured its unique \Ncharacteristics really well.
+Dialogue: 0,0:14:46.60,0:14:49.51,main,Touko,0000,0000,0000,,Wow, Ohkuma-san, you're red as an apple.
+Dialogue: 0,0:14:50.53,0:14:52.03,main,Komichi,0000,0000,0000,,An apple!
+Dialogue: 0,0:14:51.13,0:14:52.36,main,Erika,0000,0000,0000,,You're right!
+Dialogue: 0,0:14:52.36,0:14:53.73,main,Komichi; Touko; Erika,0000,0000,0000,,How cute!
+Dialogue: 0,0:14:57.96,0:15:02.96,sign_8133_69_Class_1_3,Text,0000,0000,0000,,{\frz347.4\pos(127,176)\c&H2E426A&\fs20}Class 1-3
+Dialogue: 0,0:14:57.96,0:15:02.96,sign_8133_69_Class_1_3,Text,0000,0000,0000,,{\frz24.47\pos(514,149)\c&H71706B&\fs20}Roubai Academy 5
+Dialogue: 0,0:15:03.60,0:15:07.73,main,Minoru,0000,0000,0000,,Akebi-san, didn't something feel \Nstrange to you a moment ago?
+Dialogue: 0,0:15:07.73,0:15:08.87,main,Komichi,0000,0000,0000,,Strange how?
+Dialogue: 0,0:15:08.87,0:15:10.71,main,Minoru,0000,0000,0000,,Like someone was watching us...
+Dialogue: 0,0:15:13.96,0:15:15.38,main,Minoru,0000,0000,0000,,I see.
+Dialogue: 0,0:15:16.31,0:15:20.16,main,Touko,0000,0000,0000,,So yeah, that happened. \NI laughed my butt off.
+Dialogue: 0,0:15:20.16,0:15:21.61,main,Komichi,0000,0000,0000,,Really?
+Dialogue: 0,0:15:24.73,0:15:29.25,italics,Minoru,0000,0000,0000,,I knew it. The one watching was \Nmy roommate, Tougeguchi-san.
+Dialogue: 0,0:15:33.95,0:15:37.99,italics,Minoru,0000,0000,0000,,I had no idea there was \Nsomeone else like me.
+Dialogue: 0,0:15:38.81,0:15:39.99,main,Komichi,0000,0000,0000,,See you tomorrow.
+Dialogue: 0,0:15:40.35,0:15:41.54,main,Kei,0000,0000,0000,,See you tomorrow.
+Dialogue: 0,0:15:43.97,0:15:46.49,italics,Minoru,0000,0000,0000,,But why would...
+Dialogue: 0,0:15:49.51,0:15:50.63,sign_22766_273_Akebi_Komichi,Text,0000,0000,0000,,{\bord1\pos(357,271)\frz355.8}Akebi Komichi
+Dialogue: 0,0:15:50.63,0:15:50.76,sign_22766_273_Akebi_Komichi,Text,0000,0000,0000,,{\bord1\pos(357,275)\frz355.8}Akebi Komichi
+Dialogue: 0,0:15:50.76,0:15:52.51,sign_22766_273_Akebi_Komichi,Text,0000,0000,0000,,{\bord1\pos(357,280)\frz355.8}Akebi Komichi
+Dialogue: 0,0:15:57.52,0:15:59.67,main,Ayumi,0000,0000,0000,,Today was another bust.
+Dialogue: 0,0:16:00.14,0:16:01.96,main,Ayumi,0000,0000,0000,,I just never get the chance.
+Dialogue: 0,0:16:03.65,0:16:06.44,main,Ayumi,0000,0000,0000,,I mean, an elite all-girls \Nschool in the country
+Dialogue: 0,0:16:06.44,0:16:09.21,main,Ayumi,0000,0000,0000,,should be full o' girls \Nwho ain't that popular.
+Dialogue: 0,0:16:09.21,0:16:14.41,main,Ayumi,0000,0000,0000,,But they're all so pretty, and they're \Nalways with their brilliant buddies...
+Dialogue: 0,0:16:14.74,0:16:17.88,main,Ayumi,0000,0000,0000,,I thought I was the only one on her side!
+Dialogue: 0,0:16:17.88,0:16:19.90,main,Ayumi,0000,0000,0000,,Akebi Komichi, you...
+Dialogue: 0,0:16:21.41,0:16:26.37,main,Ayumi,0000,0000,0000,,traitor!
+Dialogue: 0,0:16:28.64,0:16:32.67,main,Ayumi,0000,0000,0000,,Man, nothin' makes me feel \Nbetter than a good scream!
+Dialogue: 0,0:16:39.85,0:16:41.65,main,Ayumi,0000,0000,0000,,Akebi...san?
+Dialogue: 0,0:16:41.65,0:16:43.94,main,Ayumi,0000,0000,0000,,And... Ohkuma-san?
+Dialogue: 0,0:16:43.94,0:16:45.73,main,Ayumi,0000,0000,0000,,Wait, th-this ain't what it looks like!
+Dialogue: 0,0:16:45.73,0:16:50.29,main,Ayumi,0000,0000,0000,,I wasn't sayin' anything about you, \NAkebi-san... um... I mean, uh...
+Dialogue: 0,0:16:51.47,0:16:52.35,main,Komichi,0000,0000,0000,,This...
+Dialogue: 0,0:17:17.72,0:17:21.12,flashback,Ayumi,0000,0000,0000,,Why's a pretty girl like her hafta \Ntake the test for this school?
+Dialogue: 0,0:17:21.76,0:17:24.54,flashback,Ayumi,0000,0000,0000,,It's gonna kill my middle school debut.
+Dialogue: 0,0:17:24.89,0:17:26.14,flashback,Ayumi,0000,0000,0000,,Ow...
+Dialogue: 0,0:17:27.20,0:17:30.87,flashback,Ayumi,0000,0000,0000,,What am I gonna do if this doesn't \Nget better before the exam?
+Dialogue: 0,0:17:33.86,0:17:36.40,flashback italics,Ayumi,0000,0000,0000,,I forgot my handkerchief...
+Dialogue: 0,0:17:36.76,0:17:38.07,flashback italics,Ayumi,0000,0000,0000,,I'm hopeless.
+Dialogue: 0,0:17:44.87,0:17:45.57,flashback,Komichi,0000,0000,0000,,Here.
+Dialogue: 0,0:17:46.15,0:17:47.34,flashback,Komichi,0000,0000,0000,,Use this.
+Dialogue: 0,0:17:53.44,0:17:55.50,flashback,Ayumi,0000,0000,0000,,Th-Thanks...
+Dialogue: 0,0:17:55.50,0:17:57.82,flashback,Komichi,0000,0000,0000,,Why are you using a restroom \Nso far from everything?
+Dialogue: 0,0:17:57.82,0:18:00.34,flashback,Ayumi,0000,0000,0000,,Huh? Er... What about you?
+Dialogue: 0,0:18:00.56,0:18:04.10,flashback,Komichi,0000,0000,0000,,I just feel kinda uneasy in crowded places.
+Dialogue: 0,0:18:05.45,0:18:06.86,flashback,Ayumi,0000,0000,0000,,There is a god...
+Dialogue: 0,0:18:07.68,0:18:09.04,flashback,Ayumi,0000,0000,0000,,A kind one...
+Dialogue: 0,0:18:10.36,0:18:13.10,sign_22766_273_Akebi_Komichi,Text,0000,0000,0000,,{\c&H96B477&\bord1\fs40\pos(330,240)\frz2.226}Akebi Komichi
+Dialogue: 0,0:18:10.74,0:18:13.10,flashback,Ayumi,0000,0000,0000,,"Akebi Komichi."
+Dialogue: 0,0:18:13.10,0:18:15.83,flashback italics,Announcement,0000,0000,0000,,The exam will begin shortly.
+Dialogue: 0,0:18:16.39,0:18:17.82,flashback,Komichi,0000,0000,0000,,I gotta run!
+Dialogue: 0,0:18:16.42,0:18:19.11,flashbackitalicstop,Announcement,0000,0000,0000,,Please report to your designated classroom.
+Dialogue: 0,0:18:17.82,0:18:19.11,flashback,Ayumi,0000,0000,0000,,Hey, hang on!
+Dialogue: 0,0:18:19.93,0:18:22.37,flashback,Ayumi,0000,0000,0000,,What d'ya want me to do with this?!
+Dialogue: 0,0:18:23.29,0:18:25.21,flashback,Komichi,0000,0000,0000,,Keep it until the next time I see you!
+Dialogue: 0,0:18:28.58,0:18:33.09,flashback,Ayumi,0000,0000,0000,,Next time? What does she mean by that?
+Dialogue: 0,0:18:33.43,0:18:35.95,flashback,Ayumi,0000,0000,0000,,This is just the entrance exam venue.
+Dialogue: 0,0:18:35.95,0:18:37.77,flashback,Ayumi,0000,0000,0000,,There's no guarantee we'll...
+Dialogue: 0,0:18:39.00,0:18:41.08,flashback,Ayumi,0000,0000,0000,,Was she tellin' me I have to pass?!
+Dialogue: 0,0:18:43.31,0:18:45.93,main,Komichi,0000,0000,0000,,This is the handkerchief \NI lent to you before the exam!
+Dialogue: 0,0:18:47.99,0:18:49.40,main,Ayumi,0000,0000,0000,,I-I'm sorry!
+Dialogue: 0,0:18:49.40,0:18:51.94,main,Ayumi,0000,0000,0000,,I wanted to return it all this time...
+Dialogue: 0,0:18:55.21,0:18:56.43,main,Komichi,0000,0000,0000,,I'm so happy!
+Dialogue: 0,0:18:56.74,0:18:59.62,main,Komichi,0000,0000,0000,,So that girl was you, Tougeguchi-san!
+Dialogue: 0,0:18:59.62,0:19:02.09,main,Komichi,0000,0000,0000,,All this time, I wondered who it was!
+Dialogue: 0,0:19:02.09,0:19:04.79,main,Komichi,0000,0000,0000,,I'm so happy we got into \Nthis school together!
+Dialogue: 0,0:19:04.79,0:19:05.97,main,Komichi,0000,0000,0000,,Thanks!
+Dialogue: 0,0:19:08.08,0:19:12.84,main,Komichi,0000,0000,0000,,I just didn't recognize you in the uniform.\N It makes you look so different.
+Dialogue: 0,0:19:15.40,0:19:18.22,italics,Ayumi,0000,0000,0000,,I never thought the girl in the silly PJs
+Dialogue: 0,0:19:18.22,0:19:21.49,italics,Ayumi,0000,0000,0000,,would show up in a sailor uniform \Non the first day, either.
+Dialogue: 0,0:19:29.66,0:19:30.68,italics,Ayumi,0000,0000,0000,,Still...
+Dialogue: 0,0:19:31.04,0:19:36.55,italics,Ayumi,0000,0000,0000,,It's because I met Akebi-san and realized \Nsomeone else was as nervous as me
+Dialogue: 0,0:19:36.55,0:19:38.47,italics,Ayumi,0000,0000,0000,,that I was able to stick with the exam.
+Dialogue: 0,0:19:39.43,0:19:42.82,main,Komichi,0000,0000,0000,,What do we do now, Ohkuma-san? \NThe subject caught us again!
+Dialogue: 0,0:19:43.24,0:19:45.90,main,Minoru,0000,0000,0000,,At this point, you might \Nas well call it a talent.
+Dialogue: 0,0:19:50.84,0:19:52.54,main,Ayumi,0000,0000,0000,,Well, I'm gonna go now.
+Dialogue: 0,0:19:52.54,0:19:53.36,main,Komichi,0000,0000,0000,,Okay.
+Dialogue: 0,0:19:56.53,0:19:58.60,main,Ayumi,0000,0000,0000,,Akebi Komichi...san!
+Dialogue: 0,0:19:59.53,0:20:01.94,main,Ayumi,0000,0000,0000,,I-I'm...
+Dialogue: 0,0:20:03.60,0:20:05.45,main,Ayumi,0000,0000,0000,,I'm glad to know ya!
+Dialogue: 0,0:20:08.65,0:20:10.97,main,Komichi,0000,0000,0000,,Same to you!
+Dialogue: 0,0:20:23.57,0:20:28.48,main,Minoru,0000,0000,0000,,I guess Tougeguchi-san was looking for the \Nright moment to talk to you all along, too.
+Dialogue: 0,0:20:29.75,0:20:32.25,main,Komichi,0000,0000,0000,,She should have said something to me sooner!
+Dialogue: 0,0:20:39.63,0:20:42.21,main,Minoru,0000,0000,0000,,There were some blunders and \Naccidents along the way,
+Dialogue: 0,0:20:42.21,0:20:46.04,main,Minoru,0000,0000,0000,,but I guess we can say our observation \Nmission was an overall success.
+Dialogue: 0,0:20:46.04,0:20:47.12,main,Komichi,0000,0000,0000,,Yeah!
+Dialogue: 0,0:20:47.12,0:20:51.13,main,Komichi,0000,0000,0000,,I was really happy to learn some \Nnew things about our classmates!
+Dialogue: 0,0:20:51.81,0:20:53.00,main,Komichi,0000,0000,0000,,Thanks!
+Dialogue: 0,0:20:53.77,0:20:57.76,main,Minoru,0000,0000,0000,,I never thought I'd have a chance \Nto talk to you this way,
+Dialogue: 0,0:20:57.76,0:21:01.54,main,Minoru,0000,0000,0000,,so observing with you has been \Na great experience for me.
+Dialogue: 0,0:21:02.42,0:21:03.52,main,Minoru,0000,0000,0000,,So I...
+Dialogue: 0,0:21:04.45,0:21:06.27,main,Minoru,0000,0000,0000,,want to thank you, too.
+Dialogue: 0,0:21:08.01,0:21:09.41,main,Komichi,0000,0000,0000,,You know...
+Dialogue: 0,0:21:10.10,0:21:14.95,main,Komichi,0000,0000,0000,,I always wanted a chance to \Ntalk to you, too, Ohkuma-san.
+Dialogue: 0,0:21:15.53,0:21:16.28,main,Minoru,0000,0000,0000,,Huh?
+Dialogue: 0,0:21:17.52,0:21:22.33,main,Komichi,0000,0000,0000,,I wondered why you were always \Nsecretly watching me.
+Dialogue: 0,0:21:23.15,0:21:25.93,main,Minoru,0000,0000,0000,,What?! Y-You knew about that?
+Dialogue: 0,0:21:26.31,0:21:31.14,main,Komichi,0000,0000,0000,,But I got to learn lots of things \NI didn't know about you today.
+Dialogue: 0,0:21:31.14,0:21:34.44,main,Komichi,0000,0000,0000,,You know a lot about living things, \Nand you're good at drawing.
+Dialogue: 0,0:21:37.02,0:21:39.67,main,Komichi,0000,0000,0000,,There's still a lot I don't know,
+Dialogue: 0,0:21:39.67,0:21:42.20,main,Komichi,0000,0000,0000,,so I hope you'll teach me \Nlots more from now on.
+Dialogue: 0,0:21:53.27,0:21:57.24,main,Minoru,0000,0000,0000,,Would you like to observe \Ninsects together next time?
+Dialogue: 0,0:22:00.65,0:22:02.13,main,Komichi,0000,0000,0000,,Yes! Yes!
+Dialogue: 0,0:22:02.49,0:22:07.21,main,Komichi,0000,0000,0000,,Yay! Thank you!
+Dialogue: 0,0:22:05.22,0:22:07.90,top,Minoru,0000,0000,0000,,Akebi-san, not so tight...

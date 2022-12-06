@@ -1,0 +1,327 @@
+﻿[Script Info]
+Title: Português (Brasil)
+Original Script: cr_pt  [http://www.crunchyroll.com/user/cr_pt]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: main,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,2,0040,0040,0015,0
+Style: top,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,8,0040,0040,0015,0
+Style: italics,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,2,1,2,0040,0040,0015,0
+Style: sign_3520_34_Episode_One__The,Georgia,11,&H32000000,&H000000FF,&HC8FFFFFF,&HC8FFFFFF,0,0,0,0,100,100,0,0,1,1,1,8,0030,0030,0020,1
+Style: sign_1111_11_Roubai_Academy_A,Times New Roman,12,&H00312E36,&H000000FF,&H00E5E7E7,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,7,0030,0030,0020,1
+Style: sign_12983_107_Washio_Hitomi,Times New Roman,14,&H005A5E64,&H000000FF,&H00E8EAF0,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,8,0030,0030,0020,1
+Style: sign_17877_164_Request_for_Perm,Times New Roman,8,&H004B504F,&H000000FF,&H00F3F3F3,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,2,0030,0030,0020,1
+Style: sign_22339_222_To_a_Shining_Fut,Times New Roman,23,&H00586C7C,&H000000FF,&H00ADC1D0,&H00000000,-1,0,0,0,100,100,0,2,1,4,0,8,0040,0000,0210,1
+Style: sign_28342_284_Fukumoto_Miki__M,Arial,8,&H00A78D82,&H000000FF,&H00F9FDF2,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,7,0030,0030,0020,1
+Style: sign_31537_298_Roubai_Academy_A,Times New Roman,9,&H00A8B6B6,&H000000FF,&H00F5FDFE,&H00000000,0,0,0,0,100,100,0,0,1,4,0,8,0030,0030,0020,1
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:06.47,0:00:09.73,main,Riri,0000,0000,0000,,Oh, então aquela loja\Ntambém tem em Tokyo?
+Dialogue: 0,0:00:12.50,0:00:16.02,main,Touko,0000,0000,0000,,Sempre tem fila nela. Tem que\Nesperar uma hora só pra entrar.
+Dialogue: 0,0:00:24.90,0:00:26.52,main,Riri,0000,0000,0000,,Komichi, na horinha!
+Dialogue: 0,0:00:27.71,0:00:29.74,main,Komichi,0000,0000,0000,,B-Bom dia...
+Dialogue: 0,0:00:29.74,0:00:33.29,main,Touko,0000,0000,0000,,Que esquisito, Akebi-chan,\Nvocê chegar em cima da hora.
+Dialogue: 0,0:00:34.03,0:00:37.26,main,Erika,0000,0000,0000,,Disseram que a Tamura-sensei\Nvai se atrasar um pouco.
+Dialogue: 0,0:00:37.76,0:00:39.76,main,Komichi,0000,0000,0000,,Que bom, então!
+Dialogue: 0,0:00:39.76,0:00:41.38,main,Tomono,0000,0000,0000,,Akebi-san, Akebi-san!
+Dialogue: 0,0:00:41.38,0:00:42.87,main,Komichi,0000,0000,0000,,O-Oi!
+Dialogue: 0,0:00:43.44,0:00:46.31,main,Tomono,0000,0000,0000,,É verdade que você vai\Ndançar no pós-evento?
+Dialogue: 0,0:00:46.31,0:00:49.19,sign_1111_11_Roubai_Academy_A,Text,0000,0000,0000,,Festival de Atletismo da Academia Roubai\N\N{\fs16}Pós-evento\N\N{\fs12}Programa \N\N{\fs8}• Discurso de Abertura •\NVice-presidente do Comitê de Planejamento do Pós-evento\N(Turma 3-4, Takayama Haru)\N\N• No Palco •\N1. Competição de Quiz:\N "O Quanto Você Sabe?! Segredos da Academia Roubai"\N(Comitê de Planejamento do Pós-evento)\N2. Guitarra Acústica e Canto (Turma 2-3 Soumi Ruri)\NCurta-metragem "Conforme Aceleramos" (Clube de Pesquisa Cinematográfica)\N4. Apresentação de Banda (Radical☆Pops)\N5. Dança (Clube de Teatro: Akebi Komichi)
+Dialogue: 0,0:00:46.31,0:00:49.19,main,Komichi,0000,0000,0000,,Ah... Sim, pelo clube de teatro.
+Dialogue: 0,0:00:49.19,0:00:51.53,main,Tomono,0000,0000,0000,,Eu pensei em participar\Ntambém, mas não fui...
+Dialogue: 0,0:00:51.53,0:00:53.12,main,Tomono,0000,0000,0000,,Mas estarei lá para assistir!
+Dialogue: 0,0:00:53.12,0:00:54.53,main,Tomono,0000,0000,0000,,Mal posso esperar para te ver!
+Dialogue: 0,0:00:54.53,0:00:56.06,main,Touko,0000,0000,0000,,Conta comigo lá!
+Dialogue: 0,0:00:56.06,0:00:57.67,main,Komichi,0000,0000,0000,,Obrigada!
+Dialogue: 0,0:00:57.67,0:00:59.69,main,Riri,0000,0000,0000,,Que legal, Komichi!
+Dialogue: 0,0:00:59.69,0:01:01.91,main,Riri,0000,0000,0000,,Vai dançar o quê? Hein?
+Dialogue: 0,0:01:02.53,0:01:05.02,main,Komichi,0000,0000,0000,,Na verdade, já comecei a ensaiar...
+Dialogue: 0,0:01:02.54,0:01:08.00,sign_1111_11_Roubai_Academy_A,Text,0000,0000,0000,,{\fs8}2. Guitarra Acústica e Canto (Turma 2-3 Soumi Ruri) \NCurta-metragem "Conforme Aceleramos" (Clube de Pesquisa Cinematográfica)\N4. Apresentação de Banda (Radical☆Pops)\N5. Dança (Clube de Teatro: Akebi Komichi)\N6. Segura o Ritmo! Medley de Músicas Populares (Clube de Instrumentos de Sopro)\NDiscurso do Pós-evento\NPresidente do Comitê de Planejamento do Pós-evento (Turma 3-2, Hanasato Yuka)\N\N{\fs12}Horário: Após a Cerimônia de Encerramento do Festival de Atletismo\NLocal: Auditório Roubai
+Dialogue: 0,0:01:05.02,0:01:07.40,main,Komichi,0000,0000,0000,,Antes de vir pra cá, estava praticando.
+Dialogue: 0,0:01:07.40,0:01:10.45,main,Touko,0000,0000,0000,,Ah, então foi por isso que\Nvocê chegou em cima da hora.
+Dialogue: 0,0:01:33.14,0:01:35.12,main,Erika,0000,0000,0000,,Ah... Aqui está.
+Dialogue: 0,0:02:23.95,0:02:26.11,italics,Erika,0000,0000,0000,,É melhor não me intrometer.
+Dialogue: 0,0:02:30.38,0:02:32.63,main,Touko,0000,0000,0000,,Ei, Kizaki-san...
+Dialogue: 0,0:02:33.17,0:02:35.35,main,Touko,0000,0000,0000,,Você sabe tocar piano, né?
+Dialogue: 0,0:02:36.64,0:02:37.36,main,Erika,0000,0000,0000,,Hã?
+Dialogue: 0,0:02:38.87,0:02:43.54,main,Touko,0000,0000,0000,,Eu estava limpando a sala de música\Noutro dia e te ouvi tocando.
+Dialogue: 0,0:02:43.54,0:02:46.85,main,Touko,0000,0000,0000,,Além disso, tem um piano\Nno seu quarto, né?
+Dialogue: 0,0:02:48.03,0:02:52.07,main,Touko,0000,0000,0000,,No pós-evento, se você tocasse\Nenquanto a Akebi-chan dança,
+Dialogue: 0,0:02:52.07,0:02:54.05,main,Touko,0000,0000,0000,,aposto que todo mundo ia adorar!
+Dialogue: 0,0:02:54.81,0:02:55.44,main,Erika,0000,0000,0000,,Hã?
+Dialogue: 0,0:02:55.79,0:03:00.35,main,Touko,0000,0000,0000,,Sabe, eu tenho um CD com a música da\NMiki-chan que a Akebi-chan vai dançar.
+Dialogue: 0,0:03:00.35,0:03:00.88,main,Erika,0000,0000,0000,,Quê?!
+Dialogue: 0,0:03:00.88,0:03:04.41,main,Touko,0000,0000,0000,,É uma muito boa com\Nacompanhamento de um piano!
+Dialogue: 0,0:03:04.41,0:03:05.06,main,Erika,0000,0000,0000,,O quê?!
+Dialogue: 0,0:03:05.94,0:03:07.34,main,Touko,0000,0000,0000,,Então, por isso...
+Dialogue: 0,0:03:09.46,0:03:12.93,main,Touko,0000,0000,0000,,B-Bom, tô só pensando alto!\NNão precisa ficar brava.
+Dialogue: 0,0:03:12.93,0:03:14.26,main,Touko,0000,0000,0000,,Esquece tudo que eu falei!
+Dialogue: 0,0:03:14.26,0:03:17.37,main,Touko,0000,0000,0000,,Ah, é mesmo! Quando vi\Na Ai na entrada hoje—
+Dialogue: 0,0:03:17.37,0:03:19.12,main,Erika,0000,0000,0000,,Não estou brava!
+Dialogue: 0,0:03:22.63,0:03:25.39,main,Erika,0000,0000,0000,,Só fiquei um pouco surpresa.
+Dialogue: 0,0:03:25.39,0:03:28.88,main,Touko,0000,0000,0000,,Mesmo? Que alívio!
+Dialogue: 0,0:03:29.89,0:03:32.85,main,Touko,0000,0000,0000,,Ah, eu fiz uns biscoitos.
+Dialogue: 0,0:03:34.85,0:03:35.90,main,Touko,0000,0000,0000,,Quer?
+Dialogue: 0,0:03:38.60,0:03:40.08,main,Erika,0000,0000,0000,,Só um.
+Dialogue: 0,0:03:56.46,0:03:57.47,main,Erika,0000,0000,0000,,Está gostoso.
+Dialogue: 0,0:04:03.26,0:04:06.18,main,Erika,0000,0000,0000,,Não sei se todos vão gostar,
+Dialogue: 0,0:04:06.53,0:04:09.48,main,Erika,0000,0000,0000,,mas posso tocar... o piano.
+Dialogue: 0,0:04:10.26,0:04:11.64,main,Erika,0000,0000,0000,,Um pouco.
+Dialogue: 0,0:05:42.19,0:05:45.99,sign_3520_34_Episode_One__The,Title,0000,0000,0000,,{\pos(150,70)\fad(482,1)\bord2}Episódio 11\NCompartilhando este momento... com todas...
+Dialogue: 0,0:05:58.36,0:05:59.25,main,Touko,0000,0000,0000,,Opa...
+Dialogue: 0,0:06:02.01,0:06:03.09,main,Hitomi,0000,0000,0000,,Recepção!
+Dialogue: 0,0:06:08.68,0:06:09.95,main,Touko; Komichi,0000,0000,0000,,É minha!
+Dialogue: 0,0:06:11.58,0:06:12.63,main,Touko; Komichi,0000,0000,0000,,— Ai!\N— Ai...
+Dialogue: 0,0:06:13.67,0:06:15.45,main,Riona,0000,0000,0000,,V-Vocês estão bem?!
+Dialogue: 0,0:06:15.45,0:06:17.95,main,Riri,0000,0000,0000,,Vocês se dão bem mesmo, hein?
+Dialogue: 0,0:06:18.92,0:06:22.14,main,Hitomi,0000,0000,0000,,Se não conseguem manter a bola\Nno ar, nada disso importa.
+Dialogue: 0,0:06:26.02,0:06:28.89,main,Touko; Komichi,0000,0000,0000,,Isso não tá dando certo!
+Dialogue: 0,0:06:29.53,0:06:32.11,main,Komichi,0000,0000,0000,,Os eventos de equipe são importantes...
+Dialogue: 0,0:06:32.11,0:06:36.68,main,Touko,0000,0000,0000,,Eles valem bastante pontos, e a rodada\Nfinal é o último evento do festival.
+Dialogue: 0,0:06:36.68,0:06:38.92,main,Touko,0000,0000,0000,,Vai ter muita gente lá...
+Dialogue: 0,0:06:38.92,0:06:40.44,main,Komichi,0000,0000,0000,,O que faremos?
+Dialogue: 0,0:06:41.27,0:06:45.40,main,Touko,0000,0000,0000,,Seria ótimo se pudéssemos juntar\Nnós seis pra um dia de treinamento.
+Dialogue: 0,0:06:46.04,0:06:48.00,main,Komichi,0000,0000,0000,,Um dia de treinamento com todas nós?
+Dialogue: 0,0:06:48.00,0:06:49.37,main,Touko,0000,0000,0000,,Sim, times fazem isso.
+Dialogue: 0,0:06:49.57,0:06:51.08,main,Touko,0000,0000,0000,,Mas as seis precisam ir.
+Dialogue: 0,0:06:51.85,0:06:52.81,main,Komichi,0000,0000,0000,,Eu...
+Dialogue: 0,0:06:52.81,0:06:55.90,main,Komichi,0000,0000,0000,,só pensei em como\Npoderia treinar sozinha.
+Dialogue: 0,0:06:58.49,0:07:00.79,main,Touko,0000,0000,0000,,Não temos nenhum lugar\Nem que possamos treinar.
+Dialogue: 0,0:07:00.79,0:07:02.02,main,Komichi,0000,0000,0000,,Um lugar...
+Dialogue: 0,0:07:02.02,0:07:05.87,main,Touko,0000,0000,0000,,Se tivéssemos um ginásio pra\Nusar em um dia sem aulas...
+Dialogue: 0,0:07:07.94,0:07:08.64,main,Komichi,0000,0000,0000,,Ah!
+Dialogue: 0,0:07:10.40,0:07:12.19,italics,Mako,0000,0000,0000,,Alô, residência dos Komori.
+Dialogue: 0,0:07:12.19,0:07:15.42,main,Komichi,0000,0000,0000,,Boa noite, Mako-sensei.\NAkebi Komichi falando.
+Dialogue: 0,0:07:15.93,0:07:18.42,main,Mako,0000,0000,0000,,Ora! Komichi-san, há quanto tempo!
+Dialogue: 0,0:07:18.42,0:07:20.02,main,Komichi,0000,0000,0000,,Há quanto tempo.
+Dialogue: 0,0:07:20.02,0:07:22.17,main,Komichi,0000,0000,0000,,Está ocupada no momento?
+Dialogue: 0,0:07:22.17,0:07:26.05,italics,Mako,0000,0000,0000,,Ai, não precisa ser\Ntão formal comigo!
+Dialogue: 0,0:07:26.51,0:07:28.81,italics,Mako,0000,0000,0000,,E como está a Academia Roubai?
+Dialogue: 0,0:07:28.81,0:07:30.79,main,Komichi,0000,0000,0000,,É muito divertida!
+Dialogue: 0,0:07:31.14,0:07:34.13,italics,Komichi,0000,0000,0000,,Logo teremos o Festival de Atletismo.
+Dialogue: 0,0:07:34.49,0:07:37.22,main,Mako,0000,0000,0000,,Ora, parece ser divertido!
+Dialogue: 0,0:07:38.79,0:07:41.22,main,Komichi,0000,0000,0000,,Só que... temos um problema...
+Dialogue: 0,0:07:43.25,0:07:47.97,main,Mako,0000,0000,0000,,Você quer levar as suas colegas para o\Nginásio da Escolinha Futaba para treinar?
+Dialogue: 0,0:07:48.31,0:07:51.32,italics,Mako,0000,0000,0000,,Claro! Podem usar o ginásio, sim!
+Dialogue: 0,0:07:52.07,0:07:53.25,main,Komichi,0000,0000,0000,,Obriga—
+Dialogue: 0,0:07:53.64,0:07:54.93,italics,Mako,0000,0000,0000,,Estou tão feliz...
+Dialogue: 0,0:07:55.24,0:07:55.99,main,Komichi,0000,0000,0000,,Hã?
+Dialogue: 0,0:07:57.46,0:08:01.77,main,Mako,0000,0000,0000,,Komichi-chan, você sempre me dizia\No quanto queria fazer amigos, lembra?
+Dialogue: 0,0:08:03.32,0:08:08.11,main,Mako,0000,0000,0000,,Por seis anos, você foi a única\Nmenininha da sua turma.
+Dialogue: 0,0:08:08.86,0:08:13.51,main,Mako,0000,0000,0000,,Eu sempre dizia que tinha certeza de que,\Nalgum dia, você faria muitos amigos,
+Dialogue: 0,0:08:14.04,0:08:16.37,main,Mako,0000,0000,0000,,mas eu não podia fazer nada para ajudar,
+Dialogue: 0,0:08:17.26,0:08:20.89,main,Mako,0000,0000,0000,,e isso me partia o coração.
+Dialogue: 0,0:08:23.17,0:08:25.25,italics,Mako,0000,0000,0000,,Mas fico tão feliz agora...
+Dialogue: 0,0:08:26.07,0:08:28.49,italics,Mako,0000,0000,0000,,Você fez amigos.
+Dialogue: 0,0:08:29.66,0:08:30.97,italics,Mako,0000,0000,0000,,Só de ouvir isso...
+Dialogue: 0,0:08:31.87,0:08:35.18,main,Mako,0000,0000,0000,,meu coração se enche de alegria.
+Dialogue: 0,0:08:38.19,0:08:39.20,main,Komichi,0000,0000,0000,,É...
+Dialogue: 0,0:08:42.05,0:08:44.06,main,Komichi,0000,0000,0000,,Muito obrigada.
+Dialogue: 0,0:08:50.63,0:08:51.97,main,Yuwa,0000,0000,0000,,E então?
+Dialogue: 0,0:08:52.77,0:08:54.33,main,Komichi,0000,0000,0000,,A Mako-sensei...
+Dialogue: 0,0:08:54.78,0:08:56.60,main,Komichi,0000,0000,0000,,deixou usar o ginásio.
+Dialogue: 0,0:09:01.47,0:09:04.48,sign_12983_107_Washio_Hitomi,Text,0000,0000,0000,,{\pos(213,70)}Washio\NHitomi
+Dialogue: 0,0:09:01.47,0:09:04.48,sign_12983_107_Washio_Hitomi,Text,0000,0000,0000,,{\pos(294,70)}Nawashiro\NYasuko
+Dialogue: 0,0:09:02.69,0:09:04.10,main,Touko,0000,0000,0000,,Entendi...
+Dialogue: 0,0:09:04.47,0:09:06.49,main,Touko,0000,0000,0000,,Se é pelo seu clube,\Nentão não tem jeito.
+Dialogue: 0,0:09:06.49,0:09:08.58,main,Yasuko,0000,0000,0000,,Sim. Desculpa.
+Dialogue: 0,0:09:13.58,0:09:15.19,main,Yasuko,0000,0000,0000,,Poxa vida.
+Dialogue: 0,0:09:15.47,0:09:19.12,main,Yasuko,0000,0000,0000,,Por que o nosso clube precisa\Nse reunir justo no domingo?
+Dialogue: 0,0:09:19.98,0:09:21.71,main,Yasuko,0000,0000,0000,,Né, Hitomi-chan?
+Dialogue: 0,0:09:21.95,0:09:26.27,main,Hitomi,0000,0000,0000,,O Clube de Vôlei da Roubai é o mais\Nbem sucedido de todos os clubes.
+Dialogue: 0,0:09:27.22,0:09:28.76,main,Yasuko,0000,0000,0000,,O que você tá escrevendo?
+Dialogue: 0,0:09:30.00,0:09:31.35,main,Hitomi,0000,0000,0000,,Um requerimento.
+Dialogue: 0,0:09:33.64,0:09:36.97,main,Yasuko,0000,0000,0000,,Mas preciso dizer, a Akebi-chan e\Nas meninas estão bem animadas.
+Dialogue: 0,0:09:36.97,0:09:38.83,main,Hitomi,0000,0000,0000,,É só um Festival de Atletismo idiota.
+Dialogue: 0,0:09:39.35,0:09:41.97,main,Yasuko,0000,0000,0000,,Ai, não chama de idiota.
+Dialogue: 0,0:09:41.97,0:09:46.19,main,Yasuko,0000,0000,0000,,Estarei na torcida junto\Nda Akebi-chan, sabia?
+Dialogue: 0,0:09:49.02,0:09:49.74,main,Yasuko,0000,0000,0000,,Hã?
+Dialogue: 0,0:09:51.97,0:09:54.30,main,Touko,0000,0000,0000,,Então aquelas duas não vão poder...
+Dialogue: 0,0:09:58.10,0:09:59.00,main,Touko,0000,0000,0000,,Beleza!
+Dialogue: 0,0:09:58.99,0:10:02.49,sign_12983_107_Washio_Hitomi,Text,0000,0000,0000,,{\fs12\fay-.06\frz2.928\bord3\pos(135,29)}Kizaki\NErika
+Dialogue: 0,0:10:17.04,0:10:17.90,main,Riri,0000,0000,0000,,Oh...
+Dialogue: 0,0:10:19.01,0:10:20.02,main,Riri,0000,0000,0000,,Ahã.
+Dialogue: 0,0:10:20.68,0:10:22.97,main,Riri,0000,0000,0000,,Na antiga escolinha da\NKomichi, no domingo?
+Dialogue: 0,0:10:24.10,0:10:25.44,main,Riri,0000,0000,0000,,Parece uma boa.
+Dialogue: 0,0:10:25.83,0:10:28.01,main,Riona,0000,0000,0000,,Sim, tudo bem.
+Dialogue: 0,0:10:28.34,0:10:29.84,italics,Komichi,0000,0000,0000,,Obrigada!
+Dialogue: 0,0:10:30.16,0:10:32.12,main,Komichi,0000,0000,0000,,Quê? Tangerinas da sua família?!
+Dialogue: 0,0:10:33.26,0:10:35.11,main,Komichi,0000,0000,0000,,Ai, muito obrigada!
+Dialogue: 0,0:10:36.19,0:10:38.61,main,Komichi,0000,0000,0000,,Tá, te vejo amanhã!
+Dialogue: 0,0:10:44.68,0:10:46.94,main,Komichi,0000,0000,0000,,Espera! Não tenho tempo\Npra ficar comemorando!
+Dialogue: 0,0:10:47.53,0:10:49.95,main,Komichi,0000,0000,0000,,Ficarei fera no vôlei!
+Dialogue: 0,0:10:50.66,0:10:52.95,main,Kao,0000,0000,0000,,Também quero ir...
+Dialogue: 0,0:10:54.33,0:10:56.99,main,Komichi,0000,0000,0000,,A onee-chan vai treinar vôlei.
+Dialogue: 0,0:10:56.99,0:10:59.00,main,Komichi,0000,0000,0000,,Não tô indo pra brincar!
+Dialogue: 0,0:11:00.24,0:11:02.59,main,Kao,0000,0000,0000,,Eu também vou treinar!
+Dialogue: 0,0:11:02.59,0:11:06.34,main,Kao,0000,0000,0000,,É chato brincar sozinha\Nno ginásio toda vez.
+Dialogue: 0,0:11:08.53,0:11:10.19,main,Kao,0000,0000,0000,,Ih, falei "brincar"...
+Dialogue: 0,0:11:26.99,0:11:29.88,main,Riona,0000,0000,0000,,Ela é tão macia...
+Dialogue: 0,0:11:30.20,0:11:32.41,main,Riri,0000,0000,0000,,Não sabia que você tinha\Numa irmãzinha.
+Dialogue: 0,0:11:32.19,0:11:33.77,top,Riona,0000,0000,0000,,É tão macia...
+Dialogue: 0,0:11:32.84,0:11:33.82,main,Komichi,0000,0000,0000,,Sim.
+Dialogue: 0,0:11:33.82,0:11:35.52,main,Touko,0000,0000,0000,,Pessoal!
+Dialogue: 0,0:11:34.16,0:11:35.83,top,Riona,0000,0000,0000,,Tão macia...
+Dialogue: 0,0:11:35.83,0:11:37.06,main,Komichi,0000,0000,0000,,Usagihara-san!
+Dialogue: 0,0:11:37.06,0:11:38.34,main,Touko,0000,0000,0000,,Bom dia!
+Dialogue: 0,0:11:38.91,0:11:40.03,main,Komichi,0000,0000,0000,,Bom dia.
+Dialogue: 0,0:11:40.03,0:11:43.23,main,Touko,0000,0000,0000,,A Nawashiro-san e a Washio-san\Ntêm reunião do clube delas.
+Dialogue: 0,0:11:43.23,0:11:44.59,main,Touko,0000,0000,0000,,Mas elas virão à tarde.
+Dialogue: 0,0:11:47.26,0:11:51.13,main,Yasuko,0000,0000,0000,,Ufa, chegamos a tempo.
+Dialogue: 0,0:11:53.39,0:11:54.91,main,Touko,0000,0000,0000,,Hã? Mas hein?!
+Dialogue: 0,0:11:59.97,0:12:01.23,main,Kao,0000,0000,0000,,Que grandona!
+Dialogue: 0,0:12:06.40,0:12:07.58,main,Hitomi,0000,0000,0000,,O que é isto?
+Dialogue: 0,0:12:08.55,0:12:10.65,main,Hitomi,0000,0000,0000,,Que coisinha pequenininha é esta?
+Dialogue: 0,0:12:11.03,0:12:12.08,main,Touko,0000,0000,0000,,Ai, caramba!
+Dialogue: 0,0:12:12.08,0:12:13.57,main,Touko,0000,0000,0000,,O ônibus já vai chegar!
+Dialogue: 0,0:12:16.94,0:12:19.35,main,Touko,0000,0000,0000,,Mas e aí, o que aconteceu?
+Dialogue: 0,0:12:19.88,0:12:23.11,main,Yasuko,0000,0000,0000,,Bom, depois que você\Nvoltou pro seu quarto...
+Dialogue: 0,0:12:25.59,0:12:29.60,sign_17877_164_Request_for_Perm,Text,0000,0000,0000,,{\frz14.04\move(300,60,300,150)}Requerimento de Saída do Dormitório
+Dialogue: 0,0:12:25.59,0:12:29.60,sign_17877_164_Request_for_Perm,Text,0000,0000,0000,,{\an1\move(185,155,185,240)\frz14.04}Para a Diretora de Assuntos Estudantis da Academia Roubai
+Dialogue: 0,0:12:25.59,0:12:29.60,sign_17877_164_Request_for_Perm,Text,0000,0000,0000,,{\an1\move(330,150,330,235)\frz14.04}Nomes:    {\fnTrebuchet MS}Turma 1-3, Washio Hitomi
+Dialogue: 0,0:12:25.59,0:12:29.60,sign_17877_164_Request_for_Perm,Text,0000,0000,0000,,{\move(365,175,365,260)\frz14.04\an1\fnTrebuchet MS}Turma 1-3, Nawashiro Yasuko
+Dialogue: 0,0:12:25.59,0:12:29.60,sign_17877_164_Request_for_Perm,Text,0000,0000,0000,,{\move(253,238,253,323)\frz14.04}[Motivo do Requerimento]
+Dialogue: 0,0:12:25.59,0:12:29.60,sign_17877_164_Request_for_Perm,Text,0000,0000,0000,,{\move(240,285,240,375)\fnTrebuchet MS\b1\frz14.04\an1}Treinar vôlei para o evento de Festival de Atletismo
+Dialogue: 1,0:12:27.56,0:12:29.59,main,Touko,0000,0000,0000,,Eita, vocês fizeram tudo isso?
+Dialogue: 0,0:12:29.99,0:12:32.29,main,Riri,0000,0000,0000,,Só estão cabulando a reunião, né?
+Dialogue: 0,0:12:32.90,0:12:35.69,main,Yasuko,0000,0000,0000,,Ela disse que era pra treinar vôlei,\Né como se fosse pro clube.
+Dialogue: 0,0:12:35.69,0:12:38.70,main,Hitomi,0000,0000,0000,,Eu não menti, e a capitã aprovou.
+Dialogue: 0,0:12:40.22,0:12:42.14,main,Komichi,0000,0000,0000,,Não estamos dando trabalho a vocês?
+Dialogue: 0,0:12:42.14,0:12:44.66,main,Hitomi,0000,0000,0000,,Que cara é essa?
+Dialogue: 0,0:12:44.66,0:12:48.04,main,Hitomi,0000,0000,0000,,Deveria estar feliz por nós seis\Npodermos treinar juntas.
+Dialogue: 0,0:12:49.74,0:12:51.10,main,Hitomi,0000,0000,0000,,Quer vencer, não quer?
+Dialogue: 0,0:12:53.00,0:12:53.88,main,Komichi,0000,0000,0000,,Sim.
+Dialogue: 0,0:12:55.30,0:12:57.14,main,Hitomi,0000,0000,0000,,E você não disse que vamos vencer?
+Dialogue: 0,0:12:57.14,0:12:58.42,main,Riri,0000,0000,0000,,Eu disse isso?
+Dialogue: 0,0:12:58.42,0:13:00.13,main,Komichi,0000,0000,0000,,Quê?! Riri-san?!
+Dialogue: 0,0:13:00.13,0:13:03.37,main,Riri,0000,0000,0000,,É, eu disse. Você acredita\Ntão fácil nas coisas, Komichi.
+Dialogue: 0,0:13:03.37,0:13:05.74,main,Komichi,0000,0000,0000,,Ai, que maldade!
+Dialogue: 0,0:13:05.13,0:13:06.93,top,Yasuko,0000,0000,0000,,Foi engraçado!
+Dialogue: 0,0:13:12.87,0:13:15.16,main,Riona,0000,0000,0000,,Parece ser um lugar bem antigo.
+Dialogue: 0,0:13:15.16,0:13:17.33,main,Touko,0000,0000,0000,,Coisa que você só vê em filme!
+Dialogue: 0,0:13:17.33,0:13:20.31,main,Komichi,0000,0000,0000,,Eu vou pegar a chave com a professora.
+Dialogue: 0,0:13:20.75,0:13:23.05,main,Komichi,0000,0000,0000,,Kao, leve elas lá.
+Dialogue: 0,0:13:23.05,0:13:24.40,main,Kao,0000,0000,0000,,É por aqui!
+Dialogue: 0,0:13:28.77,0:13:30.10,main,Komichi,0000,0000,0000,,Mako-sensei.
+Dialogue: 0,0:13:30.46,0:13:31.82,main,Mako,0000,0000,0000,,Komichi-chan!
+Dialogue: 0,0:13:35.82,0:13:37.13,main,Mako,0000,0000,0000,,Aqui está.
+Dialogue: 0,0:13:37.55,0:13:38.74,main,Komichi,0000,0000,0000,,Obrigada.
+Dialogue: 0,0:13:39.22,0:13:42.37,main,Mako,0000,0000,0000,,A rede e as bolas estão\Nna sala dos equipamentos.
+Dialogue: 0,0:13:42.37,0:13:43.93,main,Mako,0000,0000,0000,,Consegue encontrá-las sozinha?
+Dialogue: 0,0:13:43.93,0:13:46.71,main,Komichi,0000,0000,0000,,Pode deixar comigo e com\Nas meninas do clube de vôlei.
+Dialogue: 0,0:13:46.71,0:13:49.93,main,Mako,0000,0000,0000,,Entendi. Quantas amigas você trouxe?
+Dialogue: 0,0:13:49.93,0:13:52.43,main,Komichi,0000,0000,0000,,Cinco. E a Kao, também.
+Dialogue: 0,0:13:54.78,0:13:56.28,main,Mako,0000,0000,0000,,Bom treino pra vocês.
+Dialogue: 0,0:13:56.60,0:13:59.64,main,Mako,0000,0000,0000,,Mais tarde eu passo lá\Npara dar uma espiadinha.
+Dialogue: 0,0:14:01.69,0:14:02.53,main,Komichi,0000,0000,0000,,Tá!
+Dialogue: 0,0:14:04.69,0:14:06.69,main,Hitomi,0000,0000,0000,,Certo, vamos começar.
+Dialogue: 0,0:14:31.95,0:14:33.35,main,Touko; Komichi,0000,0000,0000,,Boa!
+Dialogue: 0,0:14:39.89,0:14:41.11,main,Komichi,0000,0000,0000,,Mais uma vez!
+Dialogue: 0,0:14:43.38,0:14:45.79,main,Riri,0000,0000,0000,,A Komichi melhorou bastante.
+Dialogue: 0,0:14:45.79,0:14:48.56,main,Yasuko,0000,0000,0000,,Verdade! Ela já está melhor que eu.
+Dialogue: 0,0:14:48.56,0:14:49.62,main,Touko,0000,0000,0000,,E você é do clube de vôlei!
+Dialogue: 0,0:14:51.62,0:14:54.08,main,Komichi,0000,0000,0000,,Mais uma vez, por favor!
+Dialogue: 0,0:14:54.43,0:14:56.08,main,Hitomi,0000,0000,0000,,Tá se divertindo tanto assim?
+Dialogue: 0,0:14:57.36,0:14:58.25,main,Komichi,0000,0000,0000,,Sim.
+Dialogue: 0,0:14:59.10,0:15:02.35,main,Komichi,0000,0000,0000,,Acho que... estou bem feliz.
+Dialogue: 0,0:15:03.11,0:15:06.25,main,Komichi,0000,0000,0000,,Costumava ser só eu e a Kao\Nneste ginásio,
+Dialogue: 0,0:15:06.86,0:15:09.12,main,Komichi,0000,0000,0000,,mas agora tem várias\Ncolegas de turma comigo,
+Dialogue: 0,0:15:10.12,0:15:12.85,main,Komichi,0000,0000,0000,,e podemos treinar juntas.
+Dialogue: 0,0:15:16.23,0:15:18.26,main,Hitomi,0000,0000,0000,,Não adianta se você só for boa aqui.
+Dialogue: 0,0:15:18.59,0:15:20.35,main,Riri,0000,0000,0000,,O evento ainda está por vir.
+Dialogue: 0,0:15:21.13,0:15:24.48,main,Riona,0000,0000,0000,,Mas devo dizer que estou\Ncomeçando a me divertir também.
+Dialogue: 0,0:15:24.48,0:15:27.45,main,Touko,0000,0000,0000,,Sim! Eu já nem deixo\Na bola cair tanto assim!
+Dialogue: 0,0:15:27.92,0:15:30.25,main,Hitomi,0000,0000,0000,,Vamos mais uma vez\Nantes de dar uma pausa!
+Dialogue: 0,0:15:30.25,0:15:31.01,main,All,0000,0000,0000,,Tá!
+Dialogue: 0,0:15:31.01,0:15:31.70,main,Kao,0000,0000,0000,,Tá!
+Dialogue: 0,0:15:31.70,0:15:31.95,sign_22339_222_To_a_Shining_Fut,Text,0000,0000,0000,,Rumo a um\NFuturo Radiante
+Dialogue: 0,0:15:32.03,0:15:32.32,sign_22339_222_To_a_Shining_Fut,Text,0000,0000,0000,,Rumo a um\NFuturo Radiante
+Dialogue: 0,0:15:34.56,0:15:36.07,main,Touko,0000,0000,0000,,Akebi-chan! Corta!
+Dialogue: 0,0:15:40.87,0:15:42.82,main,Touko,0000,0000,0000,,Intervalo!
+Dialogue: 0,0:15:44.81,0:15:47.63,main,Riri,0000,0000,0000,,Que calor!
+Dialogue: 0,0:15:47.63,0:15:49.42,main,Riona,0000,0000,0000,,M-Minakami-san!
+Dialogue: 0,0:15:49.42,0:15:52.15,main,Riona,0000,0000,0000,,Aqui não é lugar pra tirar a roupa!
+Dialogue: 0,0:15:56.75,0:15:58.70,main,Riri,0000,0000,0000,,Ai, qual é?
+Dialogue: 0,0:15:58.70,0:16:00.40,main,Riona,0000,0000,0000,,Não! Não faz isso!
+Dialogue: 0,0:16:00.40,0:16:04.43,main,Riri,0000,0000,0000,,Você também tá toda suada.\NMostra pra mim, vai.
+Dialogue: 0,0:16:04.43,0:16:06.87,main,Riona,0000,0000,0000,,Eu vou me trocar no vestiário!
+Dialogue: 0,0:16:06.87,0:16:10.02,main,Touko,0000,0000,0000,,Kao-chan, temos uma nudista\Nentre nós! Pega ela!
+Dialogue: 0,0:16:10.02,0:16:11.30,main,Kao,0000,0000,0000,,Pode deixar!
+Dialogue: 0,0:16:11.91,0:16:12.60,main,Riri,0000,0000,0000,,Ei!
+Dialogue: 0,0:16:12.60,0:16:14.52,main,Kao,0000,0000,0000,,Vou tirar o short dela!
+Dialogue: 0,0:16:14.52,0:16:15.49,main,Riri,0000,0000,0000,,Hã?!
+Dialogue: 0,0:16:14.52,0:16:16.74,top,Touko,0000,0000,0000,,Não se mexe!
+Dialogue: 0,0:16:15.70,0:16:17.81,main,Riri,0000,0000,0000,,Sério, não faz isso!
+Dialogue: 0,0:16:17.81,0:16:18.98,top,Kao,0000,0000,0000,,Segura aí!
+Dialogue: 0,0:16:18.24,0:16:20.01,main,Riona,0000,0000,0000,,Fui salva...
+Dialogue: 0,0:16:22.57,0:16:24.83,main,Riri,0000,0000,0000,,Não!
+Dialogue: 0,0:16:23.54,0:16:24.37,top,Riona,0000,0000,0000,,Quê?!
+Dialogue: 0,0:16:25.50,0:16:27.17,main,Riona,0000,0000,0000,,Akebi-san, você também?!
+Dialogue: 0,0:16:40.35,0:16:42.53,main,Yasuko,0000,0000,0000,,Prontas pra recomeçar?
+Dialogue: 0,0:16:44.13,0:16:45.73,main,Komichi,0000,0000,0000,,Muito bem...
+Dialogue: 0,0:16:46.35,0:16:48.01,main,Touko,0000,0000,0000,,Akebi-chan...
+Dialogue: 0,0:16:49.12,0:16:51.27,main,Touko,0000,0000,0000,,Onde fica o banheiro?
+Dialogue: 0,0:16:51.62,0:16:53.87,main,Komichi,0000,0000,0000,,O banheiro do ginásio está desativado.
+Dialogue: 0,0:16:53.87,0:16:55.92,main,Komichi,0000,0000,0000,,Também vou ao banheiro. Vamos juntas.
+Dialogue: 0,0:17:04.34,0:17:06.83,main,Touko,0000,0000,0000,,Esta escola é bem antiga.
+Dialogue: 0,0:17:06.83,0:17:10.52,main,Komichi,0000,0000,0000,,Sim. E quando a Kao se formar,\Nserá fechada.
+Dialogue: 0,0:17:10.52,0:17:11.37,main,Touko,0000,0000,0000,,Hã?
+Dialogue: 0,0:17:11.88,0:17:13.70,main,Komichi,0000,0000,0000,,É por isso que estou feliz.
+Dialogue: 0,0:17:15.85,0:17:18.95,main,Komichi,0000,0000,0000,,Agora, vocês estarão nas minhas\Nlembranças da escolinha.
+Dialogue: 0,0:17:23.20,0:17:27.16,main,Komichi,0000,0000,0000,,Até o terceiro ano, eu tinha medo\Nde usar o banheiro.
+Dialogue: 0,0:17:27.16,0:17:30.96,main,Komichi,0000,0000,0000,,Sempre pedia pra professora\Nesperar na frente da porta.
+Dialogue: 0,0:17:31.64,0:17:35.01,main,Komichi,0000,0000,0000,,Então, queria poder dizer pra\Nminha versão mais nova
+Dialogue: 0,0:17:35.73,0:17:36.74,main,Komichi,0000,0000,0000,,que hoje...
+Dialogue: 0,0:17:38.16,0:17:40.53,main,Komichi,0000,0000,0000,,...estou lavando as mãos\Ncom uma amiga.
+Dialogue: 0,0:17:41.70,0:17:43.23,main,Touko,0000,0000,0000,,Akebi-chan...
+Dialogue: 0,0:17:53.10,0:17:56.25,main,Mako,0000,0000,0000,,Bom, acho que vou lá dar uma olhada.
+Dialogue: 0,0:18:03.44,0:18:05.31,main,Yasuko,0000,0000,0000,,Não esqueça de se alongar.
+Dialogue: 0,0:18:04.62,0:18:06.52,top,Riri,0000,0000,0000,,Como vamos fazer rodízio de times?
+Dialogue: 0,0:18:06.52,0:18:08.69,main,Riona,0000,0000,0000,,Por ora, vamos tirar no jankenpô.
+Dialogue: 0,0:18:08.89,0:18:10.58,main,Komichi,0000,0000,0000,,Ah, Mako-sensei!
+Dialogue: 0,0:18:12.19,0:18:13.68,main,Mako,0000,0000,0000,,Komichi-chan...
+Dialogue: 0,0:18:15.46,0:18:16.90,main,Mako,0000,0000,0000,,Quanta gente...
+Dialogue: 0,0:18:18.51,0:18:22.05,main,Ai,0000,0000,0000,,Ei, Kamimoku-san!\NVocê não pode dormir aqui!
+Dialogue: 0,0:18:22.46,0:18:24.48,main,Touko,0000,0000,0000,,Ah, elas chegaram!
+Dialogue: 0,0:18:26.70,0:18:29.95,main,Touko,0000,0000,0000,,Quando soube que a Nawashiro-san\Ne a Washio-san não poderiam vir,
+Dialogue: 0,0:18:29.95,0:18:33.09,main,Touko,0000,0000,0000,,chamei todas da nossa turma.
+Dialogue: 0,0:18:53.70,0:18:56.60,main,Kao,0000,0000,0000,,Onee-chan, tá cheio de gente!
+Dialogue: 0,0:19:03.31,0:19:04.62,main,Komichi,0000,0000,0000,,Usagihara-san!
+Dialogue: 0,0:19:05.17,0:19:06.52,main,Touko,0000,0000,0000,,Opa!
+Dialogue: 0,0:19:09.70,0:19:11.35,main,Touko,0000,0000,0000,,Para, tá calor.
+Dialogue: 0,0:19:12.42,0:19:13.22,main,Komichi,0000,0000,0000,,Sim!
+Dialogue: 0,0:19:18.43,0:19:22.77,main,Komichi,0000,0000,0000,,Eu vou mesmo treinar com todo mundo...
+Dialogue: 0,0:19:24.92,0:19:29.90,main,Touko,0000,0000,0000,,Foi mal. Faltou a Kizaki-san, ela não pôde vir\Nporque precisa treinar outra coisa.
+Dialogue: 0,0:19:29.90,0:19:30.54,main,Komichi,0000,0000,0000,,Hã?
+Dialogue: 0,0:19:31.83,0:19:35.76,main,Touko,0000,0000,0000,,Mas é pro Festival de Atletismo,\Nentão pega leve com ela.
+Dialogue: 0,0:19:39.05,0:19:40.48,italics,Erika,0000,0000,0000,,Errei de novo.
+Dialogue: 0,0:19:42.07,0:19:45.58,sign_28342_284_Fukumoto_Miki__M,Text,0000,0000,0000,,{\pos(265,84)}Fukumoto Miki\N{\fscx90}Dentro da Nota Musical
+Dialogue: 0,0:19:42.45,0:19:44.78,italics,Erika,0000,0000,0000,,O tempo é muito rápido,\Né difícil de tocar.
+Dialogue: 0,0:19:49.32,0:19:50.62,main,Komichi,0000,0000,0000,,Entendi.
+Dialogue: 0,0:19:52.06,0:19:56.45,main,Komichi,0000,0000,0000,,Bom, há várias outras coisas que você\Nprecisa estar sozinha pra praticar.
+Dialogue: 0,0:19:56.84,0:20:01.84,sign_28342_284_Fukumoto_Miki__M,Text,0000,0000,0000,,{\move(320,140,303,140)\bord0\c&H705E5B&\fs11\frx14\fry306\frz356.1}Fukumoto Miki\N\NDentro da Nota Musical
+Dialogue: 0,0:20:03.45,0:20:06.42,italics,Erika,0000,0000,0000,,Desde que seja ao lado da Komichi-san...
+Dialogue: 0,0:21:24.87,0:21:26.17,main,Komichi,0000,0000,0000,,Compartilhei este momento...
+Dialogue: 0,0:21:27.21,0:21:28.30,main,Komichi,0000,0000,0000,,com todas...
+Dialogue: 0,0:21:29.31,0:21:30.33,main,Komichi,0000,0000,0000,,Lá vai!
+Dialogue: 0,0:21:39.76,0:21:42.81,main,Kao,0000,0000,0000,,Onee-chan, hoje foi legal, né?
+Dialogue: 0,0:21:43.21,0:21:44.44,main,Komichi,0000,0000,0000,,Foi, sim.
+Dialogue: 0,0:21:45.00,0:21:48.52,main,Kao,0000,0000,0000,,Acha que vocês vão vencer\No Festival de Atletismo?
+Dialogue: 0,0:21:49.75,0:21:50.62,main,Komichi,0000,0000,0000,,Sim.
+Dialogue: 0,0:21:51.82,0:21:53.27,main,Komichi,0000,0000,0000,,Se estivermos juntas...
+Dialogue: 0,0:21:55.33,0:21:58.33,sign_31537_298_Roubai_Academy_A,Text,0000,0000,0000,,{\pos(369,215)\fay-0.\frz3.138\fry344}Academia Roubai {\fnTrebuchet MS\b1\c&H8982DA&}Festival de Atletismo
+Dialogue: 0,0:21:55.89,0:21:57.28,main,Komichi,0000,0000,0000,,Vamos vencer!
+Dialogue: 0,0:21:58.33,0:22:01.84,sign_31537_298_Roubai_Academy_A,Text,0000,0000,0000,,{\fs30}Academia Roubai {\c&H6250DE&\fnTrebuchet MS\b1}Festival de Atletismo

@@ -1,0 +1,407 @@
+﻿[Script Info]
+Title: Italiano
+Original Script: cr_it  [http://www.crunchyroll.com/user/cr_it]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,0010,0010,0010,1
+Style: main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0015,0
+Style: top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0015,0
+Style: italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0015,0
+Style: italicstop,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0015,0
+Style: flashback,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H0067482E,&H0067482E,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0015,1
+Style: flashback italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H0067482E,&H0067482E,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0015,1
+Style: flashbacktop,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H0067482E,&H0067482E,0,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0015,0
+Style: flashbackitalicstop,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H0067482E,&H0067482E,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0015,0
+Style: sign_3520_34_Episode_One__The,Georgia,11,&H32000000,&H000000FF,&HC8FFFFFF,&HC8FFFFFF,0,0,0,0,100,100,0,0,1,1,1,8,0030,0030,0020,1
+Style: sign_12822_113_Mangetsu_Dormito,Times New Roman,9,&H00787878,&H000000FF,&H00F2F6F7,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,2,0030,0030,0020,1
+Style: sign_3619_15_Roubai_Academy_P,Times New Roman,8,&H005F5F5F,&H000000FF,&H00E8EAEA,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0030,0030,0020,1
+Style: sign_3835_18_Drama_Club_This_,Georgia,26,&H003B4455,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,8,0030,0030,0020,1
+Style: sign_9593_66_Close_up_,Arial,8,&H00CAE1C2,&H000000FF,&H002C6C1C,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,7,0030,0030,0020,1
+Style: sign_13489_125_Name,Arial,11,&H006B6F6F,&H000000FF,&H006D66AB,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,8,0030,0030,0020,1
+Style: sign_13489_126_Inoue_Hitomi,Trebuchet MS,15,&H00131817,&H000000FF,&H00E6E8E8,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,7,0030,0030,0020,1
+Style: sign_15636_161_Math_I,Times New Roman,15,&H00636665,&H000000FF,&H006D66AB,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,8,0030,0030,0020,1
+Style: sign_28581_336_Bathwater,Arial,15,&H001B3F59,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,2,0030,0030,0020,1
+Style: sign_28581_344_TIME_REMAINING,Arial,9,&H0056C1F2,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,7,0030,0030,0020,1
+Style: sign_31685_380_Friends__Tanigaw,Times New Roman,18,&H00393732,&H000000FF,&H00DAD7D3,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,8,0030,0030,0020,1
+Style: sign_2013_19_Self_introductio,Trebuchet MS,40,&H00DDD9CE,&H000000FF,&H00E8EAEA,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,2,0030,0030,0020,1
+Style: sign_8133_69_Class_1_3,Comic Sans MS,11,&H00042B45,&H000000FF,&H0084B6D3,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,2,0030,0030,0020,1
+Style: sign_9021_82_Green_Tea,Times New Roman,8,&H00726A6F,&H000000FF,&H00F0ECEF,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,0030,0030,0020,1
+Style: sign_9021_87_Warm,Trebuchet MS,18,&H00EAE8F6,&H000000FF,&H00A997CD,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,2,0030,0030,0020,1
+Style: sign_10882_110_Red_Bean_Soup,Times New Roman,15,&H000B0C22,&H000000FF,&H00C9DBD6,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,8,0030,0030,0020,1
+Style: sign_11882_142_Akebi_Komichi_is,Comic Sans MS,15,&H006B6F6F,&H000000FF,&H006D66AB,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,3,0030,0030,0020,1
+Style: sign_22766_273_Akebi_Komichi,Trebuchet MS,15,&H00ABCB8C,&H000000FF,&H00CEDDDF,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,8,0030,0030,0020,1
+Style: Overlap,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H006C6C6C,&H006C6C6C,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:00.00,0:00:03.73,sign_12822_113_Mangetsu_Dormito,Text,0000,0000,0000,,{\an8\pos(557,280)\c&H343B3A&\3c&HECF3F2&\bord2\fs13}Dormitorio\NMangetsu
+Dialogue: 0,0:00:03.73,0:00:04.65,sign_12822_113_Mangetsu_Dormito,Text,0000,0000,0000,,{\an8\c&H736559&\fs40\bord3\3c&HF5F6F9&}Man
+Dialogue: 0,0:00:04.73,0:00:05.65,sign_12822_113_Mangetsu_Dormito,Text,0000,0000,0000,,{\an8\c&H736559&\fs40\bord3\3c&HF5F6F9&}getsu
+Dialogue: 0,0:00:05.73,0:00:06.65,sign_12822_113_Mangetsu_Dormito,Text,0000,0000,0000,,{\an8\c&H736559&\fs40\bord3\3c&HF5F6F9&}Dormitorio
+Dialogue: 0,0:00:06.73,0:00:09.23,sign_12822_113_Mangetsu_Dormito,Text,0000,0000,0000,,{\c&H515352&\bord2\pos(320,124)\fs20}Dormitorio\NMangetsu
+Dialogue: 0,0:00:11.10,0:00:13.85,main,Supervisor,0000,0000,0000,,Oh, tu devi essere Minoru Ohkuma.
+Dialogue: 0,0:00:17.35,0:00:21.43,main,Supervisor,0000,0000,0000,,La maggior parte delle studentesse\N vivrà qui al dormitorio da domani.
+Dialogue: 0,0:00:21.43,0:00:24.28,main,Supervisor,0000,0000,0000,,Comunque oggi ti faccio fare \Nun veloce giro della struttura.
+Dialogue: 0,0:00:24.28,0:00:28.76,main,Supervisor,0000,0000,0000,,Sarai stanca, immagino. Per ora riposati.
+Dialogue: 0,0:00:28.76,0:00:29.58,main,Minoru,0000,0000,0000,,Va bene.
+Dialogue: 0,0:00:45.46,0:00:46.55,main,Minoru,0000,0000,0000,,Oh, wow!
+Dialogue: 0,0:00:49.52,0:00:52.52,main,Minoru,0000,0000,0000,,Una cicindela.\N È persino più bella che nelle illustrazioni!
+Dialogue: 0,0:00:54.73,0:00:56.52,main,Minoru,0000,0000,0000,,C'è pure una vanessa io!
+Dialogue: 0,0:00:56.52,0:00:57.93,main,Minoru,0000,0000,0000,,Non ne avevo mai vista una!
+Dialogue: 0,0:01:05.50,0:01:06.56,main,Minoru,0000,0000,0000,,Aspetta!
+Dialogue: 0,0:01:23.92,0:01:25.19,main,Komichi,0000,0000,0000,,S-Sì!
+Dialogue: 0,0:01:23.93,0:01:25.18,sign_2013_19_Self_introductio,Text,0000,0000,0000,,{\pos(315,90)\fsp6}Presentazioni
+Dialogue: 0,0:01:27.12,0:01:30.69,main,Komichi,0000,0000,0000,,Io sono Komichi Akebi e sto al banco numero 1.
+Dialogue: 0,0:03:03.41,0:03:07.95,sign_3520_34_Episode_One__The,Title,0000,0000,0000,,{\fad(482,1)\fs14\pos(525,75)}Episodio Cinque \NVoglio imparare un sacco di cose
+Dialogue: 0,0:03:08.52,0:03:09.95,main,Erika,0000,0000,0000,,Una coccinella?
+Dialogue: 0,0:03:09.95,0:03:11.49,main,Komichi,0000,0000,0000,,È un tonchio.
+Dialogue: 0,0:03:11.49,0:03:13.71,main,Komichi,0000,0000,0000,,Si distinguono per via del collo lungo.
+Dialogue: 0,0:03:13.71,0:03:15.29,main,Erika,0000,0000,0000,,Oh!
+Dialogue: 0,0:03:15.29,0:03:17.47,italics,Minoru,0000,0000,0000,,Komichi... Akebi.
+Dialogue: 0,0:03:21.81,0:03:24.47,italics,Minoru,0000,0000,0000,,L'ultima volta l'ho vista con una rana di Schlegel.
+Dialogue: 0,0:03:26.72,0:03:29.26,italics,Minoru,0000,0000,0000,,Oggi sta giocando con un torchio.
+Dialogue: 0,0:03:33.48,0:03:34.36,main,Student,0000,0000,0000,,Cos'è?!
+Dialogue: 0,0:03:34.36,0:03:35.53,main,Student,0000,0000,0000,,Aiuto!
+Dialogue: 0,0:03:38.03,0:03:41.91,main,Girl1,0000,0000,0000,,Non esiste! No, no!\N Non sopporto queste cose!
+Dialogue: 0,0:03:41.91,0:03:44.03,main,Girl2,0000,0000,0000,,Corro a chiamare un'insegnante?
+Dialogue: 0,0:03:44.37,0:03:45.71,main,Minoru,0000,0000,0000,,Un serpente del grano giapponese.
+Dialogue: 0,0:03:50.17,0:03:51.41,main,Girl3,0000,0000,0000,,Ha guardato di qua!
+Dialogue: 0,0:03:51.41,0:03:53.03,main,Girl4,0000,0000,0000,,Ti morderà!
+Dialogue: 0,0:03:53.33,0:03:55.09,italics,Minoru,0000,0000,0000,,Ma non fa mica paura...
+Dialogue: 0,0:03:56.15,0:03:57.42,main,Minoru,0000,0000,0000,,Ti sei perso?
+Dialogue: 0,0:03:58.63,0:03:59.55,main,Komichi,0000,0000,0000,,Carino, vero?
+Dialogue: 0,0:04:01.37,0:04:03.05,main,Komichi,0000,0000,0000,,Minoru Ohkuma?
+Dialogue: 0,0:04:03.88,0:04:05.79,main,Minoru,0000,0000,0000,,S-Sì...
+Dialogue: 0,0:04:07.25,0:04:09.62,italics,Minoru,0000,0000,0000,,I suoi occhi ricordano quelli di una foca.
+Dialogue: 0,0:04:10.62,0:04:13.30,main,Komichi,0000,0000,0000,,Portiamolo in un luogo tranquillo!
+Dialogue: 0,0:04:13.80,0:04:16.59,main,Minoru,0000,0000,0000,,Sì... Andiamo.
+Dialogue: 0,0:04:26.47,0:04:28.60,main,Minoru,0000,0000,0000,,Qui dovrebbe essere al sicuro.
+Dialogue: 0,0:04:32.19,0:04:34.93,main,Komichi,0000,0000,0000,,Ohkuma, quella scatola è tua?
+Dialogue: 0,0:04:34.93,0:04:37.21,main,Komichi,0000,0000,0000,,E te la sei portata a scuola?!
+Dialogue: 0,0:04:37.21,0:04:40.72,main,Minoru,0000,0000,0000,,Sì, perché non sai mai cosa troverai e dove!
+Dialogue: 0,0:04:43.34,0:04:47.23,main,Minoru,0000,0000,0000,,I serpenti del grano giapponesi sono affascinanti \Nperché hanno motivi e colori diversi
+Dialogue: 0,0:04:47.23,0:04:48.48,main,Minoru,0000,0000,0000,,a seconda della regione.
+Dialogue: 0,0:04:48.48,0:04:51.09,main,Komichi,0000,0000,0000,,Davvero?! Non lo sapevo!
+Dialogue: 0,0:04:51.59,0:04:55.10,main,Komichi,0000,0000,0000,,A me è capitato\N di vederli nuotare benissimo nel fiume!
+Dialogue: 0,0:04:55.10,0:04:56.79,main,Minoru,0000,0000,0000,,Che esperienza preziosa!
+Dialogue: 0,0:04:56.79,0:04:59.65,main,Komichi,0000,0000,0000,,E non molto tempo fa, mentre passeggiavo nel bosco,
+Dialogue: 0,0:04:59.65,0:05:02.42,main,Komichi,0000,0000,0000,,ho urtato un rampicante avvolto su un ramo.
+Dialogue: 0,0:05:03.10,0:05:05.14,main,Komichi,0000,0000,0000,,Quel rampicante era...
+Dialogue: 0,0:05:05.14,0:05:06.73,main,Minoru,0000,0000,0000,,Eh, non mi dirai...
+Dialogue: 0,0:05:08.55,0:05:10.49,main,Komichi,0000,0000,0000,,un serpente del grano giapponese!
+Dialogue: 0,0:05:10.49,0:05:11.91,main,Minoru,0000,0000,0000,,Incredibile!
+Dialogue: 0,0:05:14.88,0:05:16.67,main,Komichi,0000,0000,0000,,Quello cos'è, Ohkuma?
+Dialogue: 0,0:05:16.67,0:05:18.25,main,Minoru,0000,0000,0000,,Il mio quaderno delle ricerche.
+Dialogue: 0,0:05:18.25,0:05:23.68,main,Minoru,0000,0000,0000,,Mi appunto ogni giorno le peculiarità degli esseri viventi\N che osservo e i dettagli delle mie scoperte.
+Dialogue: 0,0:05:24.17,0:05:27.08,main,Minoru,0000,0000,0000,,Le tue storie sono fonte di informazioni preziose.
+Dialogue: 0,0:05:27.55,0:05:28.91,main,Komichi,0000,0000,0000,,Io faccio lo stesso!
+Dialogue: 0,0:05:30.77,0:05:34.72,main,Komichi,0000,0000,0000,,Scrivo sempre le cose\N che noto in un quaderno.
+Dialogue: 0,0:05:35.40,0:05:38.56,main,Minoru,0000,0000,0000,,Quindi anche a te interessa \Nosservare gli esseri viventi?
+Dialogue: 0,0:05:38.98,0:05:39.06,sign_8133_69_Class_1_3,Text,0000,0000,0000,,{\frz-15.66\pos(581,228)}Classe 1-3
+Dialogue: 0,0:05:39.03,0:05:39.95,main,Komichi,0000,0000,0000,,Guarda!
+Dialogue: 0,0:05:39.06,0:05:39.19,sign_8133_69_Class_1_3,Text,0000,0000,0000,,{\pos(495,143)}Classe 1-3
+Dialogue: 0,0:05:39.19,0:05:40.56,sign_8133_69_Class_1_3,Text,0000,0000,0000,,{\frz-11.95\pos(510,165)}Classe 1-3
+Dialogue: 0,0:05:40.96,0:05:43.03,main,Minoru,0000,0000,0000,,Classe 1-3?
+Dialogue: 0,0:05:44.06,0:05:47.59,main,Komichi,0000,0000,0000,,Prendo appunti \Nsu tutte le nostre compagne di classe.
+Dialogue: 0,0:05:47.59,0:05:51.27,main,Komichi,0000,0000,0000,,Sono così felice di avere delle compagne. \NPrima non ne avevo mai avute.
+Dialogue: 0,0:05:52.09,0:05:55.86,main,Komichi,0000,0000,0000,,Voglio imparare un sacco di cose su tutte... ma...
+Dialogue: 0,0:05:56.53,0:05:59.84,main,Komichi,0000,0000,0000,,non sempre trovo il momento giusto\N per parlare con loro...
+Dialogue: 0,0:05:59.84,0:06:02.68,main,Minoru,0000,0000,0000,,È in questi momenti \Nche osservare viene in aiuto!
+Dialogue: 0,0:06:02.97,0:06:07.38,main,Minoru,0000,0000,0000,,Sapere di più su una persona, \Ncosa ama e cosa odia,
+Dialogue: 0,0:06:07.38,0:06:10.13,main,Minoru,0000,0000,0000,,può aiutarti nelle future conversazioni.
+Dialogue: 0,0:06:11.25,0:06:12.88,main,Komichi,0000,0000,0000,,Facciamolo assieme, allora!
+Dialogue: 0,0:06:14.48,0:06:15.46,main,Minoru,0000,0000,0000,,Eh?
+Dialogue: 0,0:06:16.23,0:06:18.98,sign_9021_82_Green_Tea,Text,0000,0000,0000,,{\pos(100,55)}Tè verde
+Dialogue: 0,0:06:16.23,0:06:18.98,sign_9021_82_Green_Tea,Text,0000,0000,0000,,{\pos(215,55)}Tè verde
+Dialogue: 0,0:06:16.23,0:06:18.98,sign_9021_82_Green_Tea,Text,0000,0000,0000,,{\pos(325,48)\c&H1A171F&\3c&HC6C3CF&}Porridge di fagioli rossi
+Dialogue: 0,0:06:16.23,0:06:18.98,sign_9021_82_Green_Tea,Text,0000,0000,0000,,{\c&H7B8CB1&\3c&H0C2338&\pos(435,50)}Minestra di mais
+Dialogue: 0,0:06:16.23,0:06:18.98,sign_9021_82_Green_Tea,Text,0000,0000,0000,,{\c&H7B8CB1&\3c&H0C2338&\pos(540,50)}Minestra di mais
+Dialogue: 0,0:06:16.23,0:06:18.98,sign_9021_87_Warm,Text,0000,0000,0000,,{\pos(95,210)\fsp6}Ca{\3c&HD8CDE9&}ldo
+Dialogue: 0,0:06:16.23,0:06:18.98,sign_9021_87_Warm,Text,0000,0000,0000,,{\pos(210,210)\fsp6\3c&H836DBC&}Caldo
+Dialogue: 0,0:06:16.23,0:06:18.98,sign_9021_87_Warm,Text,0000,0000,0000,,{\pos(325,210)\fsp6\3c&H554D9B&\c&HBAC4D3&}Caldo
+Dialogue: 0,0:06:16.23,0:06:18.98,sign_9021_87_Warm,Text,0000,0000,0000,,{\pos(440,210)\fsp6\3c&H554D9B&\c&HBAC4D3&}Caldo
+Dialogue: 0,0:06:16.23,0:06:18.98,sign_9021_87_Warm,Text,0000,0000,0000,,{\pos(553,210)\fsp6\3c&H554D9B&\c&HBAC4D3&}C{\3c&HAEA9CA&}al{\3c&H898CBA&}do
+Dialogue: 0,0:06:19.52,0:06:21.47,main,Minoru,0000,0000,0000,,Stando alle mie osservazioni,
+Dialogue: 0,0:06:21.47,0:06:24.48,main,Minoru,0000,0000,0000,,il nostro soggetto\N appare esattamente qui ogni mattina.
+Dialogue: 0,0:06:27.39,0:06:29.34,main,Komichi,0000,0000,0000,,Hotaru Hiraiwa...
+Dialogue: 0,0:06:29.34,0:06:32.44,main,Komichi,0000,0000,0000,,Non ho parlato molto con lei, per ora.
+Dialogue: 0,0:06:32.44,0:06:34.13,main,Komichi,0000,0000,0000,,Cosa vorrà comprare?
+Dialogue: 0,0:06:44.88,0:06:46.63,main,Minoru,0000,0000,0000,,F-Forse...
+Dialogue: 0,0:06:49.83,0:06:52.93,main,Minoru,0000,0000,0000,,Uhm... non avrei mai detto che volesse il porridge\N di fagioli rossi nella fila più in alto.
+Dialogue: 0,0:06:52.93,0:06:54.38,main,Minoru,0000,0000,0000,,È una che ama le sfide!
+Dialogue: 0,0:07:07.91,0:07:11.70,main,Minoru,0000,0000,0000,,Chissà se riuscirà a comprare\N una lattina così in alto...
+Dialogue: 0,0:07:11.70,0:07:13.79,main,Minoru,0000,0000,0000,,Questo sì che è interessantissimo.
+Dialogue: 0,0:07:15.64,0:07:16.82,main,Minoru,0000,0000,0000,,Akebi?
+Dialogue: 0,0:07:20.62,0:07:22.37,main,Komichi,0000,0000,0000,,Posso aiutarti?
+Dialogue: 0,0:07:25.30,0:07:26.80,main,Hotaru,0000,0000,0000,,E-Eh?
+Dialogue: 0,0:07:26.80,0:07:29.01,main,Komichi,0000,0000,0000,,Ora ci arrivi al pulsante, vero?
+Dialogue: 0,0:07:33.34,0:07:33.51,sign_10882_110_Red_Bean_Soup,Text,0000,0000,0000,,{\pos(120,210)\frz99.2}Porridge\N \Ndi\N\Nfagioli\N\Nrossi
+Dialogue: 0,0:07:33.34,0:07:33.51,sign_10882_110_Red_Bean_Soup,Text,0000,0000,0000,,{\an7\c&H53444C&\fs8\fay.3\pos(103,101)\frz99.98}Con\Nfagioli\Ndi\NHokkaido
+Dialogue: 0,0:07:33.34,0:07:33.51,sign_10882_110_Red_Bean_Soup,Text,0000,0000,0000,,{\fs10\c&HADB1BB&\3c&H2B0425&\frz96.97\pos(338,159)}Con\Npezzi\Ninteri
+Dialogue: 0,0:07:33.34,0:07:33.51,sign_10882_110_Red_Bean_Soup,Text,0000,0000,0000,,{\an1\fs8\c&H8683AF&\3c&H1B1D94&\frz95.73\pos(451,163)}Le immagini sono a scopo illustrativo. \NIl prodotto può differire.
+Dialogue: 0,0:07:33.51,0:07:33.64,sign_10882_110_Red_Bean_Soup,Text,0000,0000,0000,,{\frz86.49\pos(117,223)}Porridge\N \Ndi\N\Nfagioli\N\Nrossi
+Dialogue: 0,0:07:33.51,0:07:33.64,sign_10882_110_Red_Bean_Soup,Text,0000,0000,0000,,{\an7\c&H53444C&\fs8\fay.4\frz89.42\pos(143,113)}Con\Nfagioli\Ndi\NHokkaido
+Dialogue: 0,0:07:33.51,0:07:33.64,sign_10882_110_Red_Bean_Soup,Text,0000,0000,0000,,{\fs10\c&HADB1BB&\3c&H2B0425&\pos(363,222)\frz82.92}Con\Npezzi\Ninteri
+Dialogue: 0,0:07:33.51,0:07:33.64,sign_10882_110_Red_Bean_Soup,Text,0000,0000,0000,,{\an1\fs8\c&H8683AF&\3c&H1B1D94&\frz84.24\pos(480,245)}Le immagini sono a scopo illustrativo. \NIl prodotto può differire.
+Dialogue: 0,0:07:33.64,0:07:33.76,sign_10882_110_Red_Bean_Soup,Text,0000,0000,0000,,{\frz83.24\pos(123,223)}Porridge\N \Ndi\N\Nfagioli\N\Nrossi
+Dialogue: 0,0:07:33.64,0:07:33.76,sign_10882_110_Red_Bean_Soup,Text,0000,0000,0000,,{\an7\c&H53444C&\frz82.42\fs8\fay.4\pos(157,115)}Con\Nfagioli\Ndi\NHokkaido
+Dialogue: 0,0:07:33.64,0:07:33.76,sign_10882_110_Red_Bean_Soup,Text,0000,0000,0000,,{\fs10\c&HADB1BB&\3c&H2B0425&\pos(363,245)\frz79.66}Con\Npezzi\Ninteri
+Dialogue: 0,0:07:33.64,0:07:33.76,sign_10882_110_Red_Bean_Soup,Text,0000,0000,0000,,{\an1\fs8\c&H8683AF&\3c&H1B1D94&\frz84.24\fay.09\pos(478,281)}Le immagini sono a scopo illustrativo. \NIl prodotto può differire.
+Dialogue: 0,0:07:33.76,0:07:33.84,sign_10882_110_Red_Bean_Soup,Text,0000,0000,0000,,{\frz83.24\pos(113,242)}Porridge\N \Ndi\N\Nfagioli\N\Nrossi
+Dialogue: 0,0:07:33.76,0:07:33.84,sign_10882_110_Red_Bean_Soup,Text,0000,0000,0000,,{\an7\c&H53444C&\frz82.42\fs8\fay.2\pos(143,132)}Con\Nfagioli\Ndi\NHokkaido
+Dialogue: 0,0:07:33.76,0:07:33.84,sign_10882_110_Red_Bean_Soup,Text,0000,0000,0000,,{\fs10\c&HADB1BB&\3c&H2B0425&\pos(358,263)\frz80.76}Con\Npezzi\Ninteri
+Dialogue: 0,0:07:33.76,0:07:33.84,sign_10882_110_Red_Bean_Soup,Text,0000,0000,0000,,{\an1\fs8\c&H8683AF&\3c&H1B1D94&\frz84.24\pos(470,296)\fay.05}Le immagini sono a scopo illustrativo. \NIl prodotto può differire.
+Dialogue: 0,0:07:33.84,0:07:34.01,sign_10882_110_Red_Bean_Soup,Text,0000,0000,0000,,{\pos(96,266)\frz83.24}Porridge\N \Ndi\N\Nfagioli\N\Nrossi
+Dialogue: 0,0:07:33.84,0:07:34.01,sign_10882_110_Red_Bean_Soup,Text,0000,0000,0000,,{\an7\c&H53444C&\frz82.42\fs8\pos(122,150)\fay.2}Con\Nfagioli\Ndi\NHokkaido
+Dialogue: 0,0:07:33.84,0:07:34.01,sign_10882_110_Red_Bean_Soup,Text,0000,0000,0000,,{\fs10\c&HADB1BB&\3c&H2B0425&\frz77.88\pos(341,286)}Con\Npezzi\Ninteri
+Dialogue: 0,0:07:33.84,0:07:34.01,sign_10882_110_Red_Bean_Soup,Text,0000,0000,0000,,{\an1\fs8\c&H8683AF&\3c&H1B1D94&\pos(455,318)\frz84.24}Le immagini sono a scopo illustrativo. \NIl prodotto può differire.
+Dialogue: 0,0:07:34.01,0:07:34.51,sign_10882_110_Red_Bean_Soup,Text,0000,0000,0000,,{\frz83.24\pos(80,289)\fay-.2}Porridge\N \Ndi\N\Nfagioli\N\Nrossi
+Dialogue: 0,0:07:34.01,0:07:34.51,sign_10882_110_Red_Bean_Soup,Text,0000,0000,0000,,{\an7\c&H53444C&\frz82.42\fs8\fay.2\pos(102,177)}Con\Nfagioli\Ndi\NHokkaido
+Dialogue: 0,0:07:34.01,0:07:34.51,sign_10882_110_Red_Bean_Soup,Text,0000,0000,0000,,{\fs10\c&HADB1BB&\3c&H2B0425&\pos(326,309)\frz81.39}Con\Npezzi\Ninteri
+Dialogue: 0,0:07:34.01,0:07:34.51,sign_10882_110_Red_Bean_Soup,Text,0000,0000,0000,,{\an1\fs8\c&H8683AF&\3c&H1B1D94&\frz84.24\pos(437,346)}Le immagini sono a scopo illustrativo. \NIl prodotto può differire.
+Dialogue: 0,0:07:34.67,0:07:36.26,main,Komichi,0000,0000,0000,,Evviva!
+Dialogue: 0,0:07:39.36,0:07:41.56,main,Komichi,0000,0000,0000,,Lo faccio spesso con la mia sorellina.
+Dialogue: 0,0:07:41.92,0:07:44.14,main,Hotaru,0000,0000,0000,,Grazie mille.
+Dialogue: 0,0:07:44.14,0:07:46.40,main,Komichi,0000,0000,0000,,Oh, non c'è di che!
+Dialogue: 0,0:07:51.91,0:07:53.81,main,Minoru,0000,0000,0000,,Così non va bene, Akebi!
+Dialogue: 0,0:07:53.81,0:07:54.65,main,Komichi,0000,0000,0000,,Eh?
+Dialogue: 0,0:07:55.07,0:07:56.59,main,Minoru,0000,0000,0000,,Osservare esseri viventi
+Dialogue: 0,0:07:56.59,0:08:00.33,main,Minoru,0000,0000,0000,,significa guardarli da un punto di vista oggettivo \Ne registrare quello che vedi.
+Dialogue: 0,0:08:00.33,0:08:02.76,main,Minoru,0000,0000,0000,,Non devi interferire in ciò che osservi.
+Dialogue: 0,0:08:02.76,0:08:05.28,main,Komichi,0000,0000,0000,,Ah, giusto. Scusami.
+Dialogue: 0,0:08:09.48,0:08:10.87,main,Komichi,0000,0000,0000,,Quanto brilla...
+Dialogue: 0,0:08:11.57,0:08:15.55,italics,Minoru,0000,0000,0000,,Questi sono dati interessanti.\N Komichi Akebi...
+Dialogue: 0,0:08:15.55,0:08:20.31,sign_11882_142_Akebi_Komichi_is,Text,0000,0000,0000,,{\pos(280,105)\frz-14.19\fax-0.07}• Komichi Akebi è un {\u1}tipo attivo{\u0}!!
+Dialogue: 0,0:08:15.55,0:08:20.31,sign_11882_142_Akebi_Komichi_is,Text,0000,0000,0000,,{\an7\fax-0.07\fs11\frz347.2\pos(27,126)}Gioca spesso con la sorellina? \NHa sollevato Hotaru Hiraiwa come se non pesasse niente\NÈ piuttosto muscolosa
+Dialogue: 0,0:08:15.55,0:08:20.31,sign_11882_142_Akebi_Komichi_is,Text,0000,0000,0000,,{\pos(553,78)\frz21.99\fax-0.03}Hotaru Hiraiwa
+Dialogue: 0,0:08:15.55,0:08:20.31,sign_11882_142_Akebi_Komichi_is,Text,0000,0000,0000,,{\pos(625,158)\frz9.942\fax-0.03}Somiglia un po' a Kao
+Dialogue: 0,0:08:15.55,0:08:20.31,sign_11882_142_Akebi_Komichi_is,Text,0000,0000,0000,,{\pos(592,225)\frz20.74\fs11\fax-0.03}Komichi!
+Dialogue: 0,0:08:15.55,0:08:20.31,sign_11882_142_Akebi_Komichi_is,Text,0000,0000,0000,,{\pos(574,270)\frz16.45\fax-0.03}Che carina
+Dialogue: 0,0:08:15.55,0:08:20.31,sign_11882_142_Akebi_Komichi_is,Text,0000,0000,0000,,{\an9\pos(630,295)\frz19.88\fax-0.03}Ha dei bei capelli soffici.\NHa un buon profumo.
+Dialogue: 0,0:08:21.19,0:08:22.82,main,Touko,0000,0000,0000,,Ah, Hotaru!
+Dialogue: 0,0:08:23.12,0:08:26.08,main,Touko,0000,0000,0000,,Hai vinto la tua sfida finalmente? Molto bene!
+Dialogue: 0,0:08:27.44,0:08:30.65,main,Hotaru,0000,0000,0000,,Mi impegnerò per riuscirci da sola \Nla prossima volta.
+Dialogue: 0,0:08:33.07,0:08:34.89,main,Minoru,0000,0000,0000,,Potresti definirlo spiare.
+Dialogue: 0,0:08:34.89,0:08:39.22,main,Minoru,0000,0000,0000,,Cancelli la tua stessa presenza in modo\N da osservare segretamente il soggetto.
+Dialogue: 0,0:08:39.22,0:08:41.54,main,Minoru,0000,0000,0000,,Per essere sicura \Ndi non perderti nemmeno un attimo...
+Dialogue: 0,0:08:41.54,0:08:44.41,main,Hitomi,0000,0000,0000,,Perché mi hai chiesto di venire qui?
+Dialogue: 0,0:09:00.76,0:09:02.66,main,Komichi,0000,0000,0000,,Hitomi Washio!
+Dialogue: 0,0:09:03.50,0:09:05.76,main,Minoru,0000,0000,0000,,Sta parlando con una ragazza della sezione 1.
+Dialogue: 0,0:09:05.76,0:09:07.50,main,Komichi,0000,0000,0000,,Sai proprio tutto!
+Dialogue: 0,0:09:07.50,0:09:09.93,main,Minoru,0000,0000,0000,,Alloggio anch'io come lei al dormitorio Mangetsu.
+Dialogue: 0,0:09:14.78,0:09:17.31,main,Komichi,0000,0000,0000,,Direi che stanno discutendo di qualcosa,
+Dialogue: 0,0:09:17.31,0:09:19.17,main,Komichi,0000,0000,0000,,ma da qui non riesco a sentire.
+Dialogue: 0,0:09:19.17,0:09:22.53,main,Minoru,0000,0000,0000,,Non sono solo le parole a dirci cosa succede.
+Dialogue: 0,0:09:22.53,0:09:26.50,main,Minoru,0000,0000,0000,,Osserviamo bene il linguaggio del corpo, \Nle loro espressioni e la situazione.
+Dialogue: 0,0:09:26.72,0:09:28.70,main,Komichi,0000,0000,0000,,Osserva...
+Dialogue: 0,0:09:28.99,0:09:30.93,main,Minoru,0000,0000,0000,,Osserva...
+Dialogue: 0,0:09:36.97,0:09:38.90,main,Yasuko,0000,0000,0000,,Chissà di che parlano!
+Dialogue: 0,0:09:39.38,0:09:40.86,main,Komichi,0000,0000,0000,,N-Nawashiro?!
+Dialogue: 0,0:09:40.86,0:09:42.18,main,Minoru,0000,0000,0000,,Shhh!
+Dialogue: 0,0:09:43.04,0:09:46.70,main,Yasuko,0000,0000,0000,,Capisco subito dove si trova Akebi. \NÈ una cosa utilissima.
+Dialogue: 0,0:09:48.77,0:09:51.56,main,Hitomi,0000,0000,0000,,Ehi. Vi sento benissimo!
+Dialogue: 0,0:09:52.66,0:09:55.83,main,Yasuko,0000,0000,0000,,Ciao, Hitomi! E...
+Dialogue: 0,0:09:56.08,0:09:58.58,main,Mihoshi,0000,0000,0000,,Ehm... io...
+Dialogue: 0,0:10:00.40,0:10:02.46,main,Yasuko,0000,0000,0000,,Ciao, Tanabe.
+Dialogue: 0,0:10:02.46,0:10:05.08,main,Yasuko,0000,0000,0000,,Scusatemi. Vi ho disturbate?
+Dialogue: 0,0:10:07.58,0:10:09.79,main,Hitomi,0000,0000,0000,,No, anzi. Tempismo perfetto.
+Dialogue: 0,0:10:09.79,0:10:12.36,main,Hitomi,0000,0000,0000,,Questa ragazza dice \Ndi voler essere tua amica, Yasuko.
+Dialogue: 0,0:10:12.70,0:10:13.76,main,Yasuko,0000,0000,0000,,Oh!
+Dialogue: 0,0:10:14.82,0:10:15.62,main,Hitomi,0000,0000,0000,,Allora...
+Dialogue: 0,0:10:16.24,0:10:18.47,main,Hitomi,0000,0000,0000,,voi due laggiù che state facendo?
+Dialogue: 0,0:10:20.47,0:10:24.22,sign_11882_142_Akebi_Komichi_is,Text,0000,0000,0000,,{\pos(280,105)\frz-14.19\fax-0.07}• Komichi Akebi è un {\u1}tipo attivo{\u0}!!
+Dialogue: 0,0:10:20.47,0:10:24.22,sign_11882_142_Akebi_Komichi_is,Text,0000,0000,0000,,{\an7\fs8\frz-14.19\fax-0.07\pos(178,119)}Gioca spesso con la sorellina? \NHa sollevato Hotaru Hiraiwa\Ncome se non pesasse niente\NÈ piuttosto muscolosa
+Dialogue: 0,0:10:20.47,0:10:24.22,sign_11882_142_Akebi_Komichi_is,Text,0000,0000,0000,,{\frz-14.19\fax-0.07\fs13\pos(224,218)}Komichi Akebi è {\u1}una che spicca{\u0}!!
+Dialogue: 0,0:10:20.47,0:10:24.22,sign_11882_142_Akebi_Komichi_is,Text,0000,0000,0000,,{\an7\fs10\frz-14.19\fax-0.07\pos(16,217)}Scarpe sporche.\NSi fa distrarre facilmente?
+Dialogue: 0,0:10:20.47,0:10:24.22,sign_11882_142_Akebi_Komichi_is,Text,0000,0000,0000,,{\an1\frz29.63\pos(372,151)\fax-0.14\fs10}Nawashiro
+Dialogue: 0,0:10:20.47,0:10:24.22,sign_11882_142_Akebi_Komichi_is,Text,0000,0000,0000,,{\an1\frz29.63\fax-0.14\fs10\pos(431,111)}Washio
+Dialogue: 0,0:10:20.47,0:10:24.22,sign_11882_142_Akebi_Komichi_is,Text,0000,0000,0000,,{\pos(593,97)\fax-0.14}Washio e\N Nawashiro\N sono buone amiche!
+Dialogue: 0,0:10:20.47,0:10:24.22,sign_11882_142_Akebi_Komichi_is,Text,0000,0000,0000,,{\pos(625,193)\frz11.18\fs10\fax-0.14}Washio è altissima
+Dialogue: 0,0:10:20.47,0:10:24.22,sign_11882_142_Akebi_Komichi_is,Text,0000,0000,0000,,{\an1\pos(605,244)}È fantastica!
+Dialogue: 0,0:10:20.47,0:10:24.22,sign_11882_142_Akebi_Komichi_is,Text,0000,0000,0000,,{\an7\frz14.42\fax-0.14\fs9\pos(552,333)}Alloggia nel dormitorio.\NPotrò andarla a trovare\Nun giorno?
+Dialogue: 0,0:10:28.70,0:10:33.24,main,Komichi,0000,0000,0000,,Ehi, Ohkuma, dovevamo proprio\N nasconderci così bene?
+Dialogue: 0,0:10:33.24,0:10:35.93,main,Minoru,0000,0000,0000,,Tu ti fai notare ovunque,
+Dialogue: 0,0:10:35.93,0:10:39.90,main,Minoru,0000,0000,0000,,quindi è meglio se ci nascondiamo \Ncompletamente dal soggetto.
+Dialogue: 0,0:10:40.30,0:10:42.00,main,Komichi,0000,0000,0000,,O-Ok...
+Dialogue: 0,0:10:45.76,0:10:47.40,main,Minoru,0000,0000,0000,,Oh, arriva qualcuno!
+Dialogue: 0,0:10:47.40,0:10:48.99,main,Komichi,0000,0000,0000,,È Riona Shijou.
+Dialogue: 0,0:10:53.99,0:10:56.40,main,Minoru,0000,0000,0000,,Non riesco a vedere bene da qui.
+Dialogue: 0,0:10:58.75,0:11:00.89,main,Minoru,0000,0000,0000,,Starà cercando qualcosa?
+Dialogue: 0,0:11:13.72,0:11:14.76,main,Komichi,0000,0000,0000,,Oh?
+Dialogue: 0,0:11:16.78,0:11:20.04,main,Komichi,0000,0000,0000,,Un sandwich?! Ha l'aria squisita!
+Dialogue: 0,0:11:21.51,0:11:23.73,main,Riona,0000,0000,0000,,E-Ecco io...
+Dialogue: 0,0:11:23.73,0:11:26.91,main,Riona,0000,0000,0000,,oggi mi sono svegliata tardi\N e non ho fatto colazione,
+Dialogue: 0,0:11:26.91,0:11:29.07,main,Riona,0000,0000,0000,,così mia mamma me lo ha impacchettato...
+Dialogue: 0,0:11:30.91,0:11:33.29,main,Riona,0000,0000,0000,,Ehm... Ohkuma?
+Dialogue: 0,0:11:36.38,0:11:38.60,main,Minoru,0000,0000,0000,,M-Mi dispiace!
+Dialogue: 0,0:11:38.80,0:11:41.30,sign_11882_142_Akebi_Komichi_is,Text,0000,0000,0000,,{\pos(280,105)\frz-14.19\fax-0.07}• Komichi Akebi è un {\u1}tipo attivo{\u0}!!
+Dialogue: 0,0:11:38.80,0:11:41.30,sign_11882_142_Akebi_Komichi_is,Text,0000,0000,0000,,{\an7\fs8\frz-14.19\fax-0.07\pos(178,119)}Gioca spesso con la sorellina? \NHa sollevato Hotaru Hiraiwa\Ncome se non pesasse niente\NÈ piuttosto muscolosa
+Dialogue: 0,0:11:38.80,0:11:41.30,sign_11882_142_Akebi_Komichi_is,Text,0000,0000,0000,,{\frz-14.19\fax-0.07\fs13\pos(224,218)}Komichi Akebi è {\u1}una che spicca{\u0}!!
+Dialogue: 0,0:11:38.80,0:11:41.30,sign_11882_142_Akebi_Komichi_is,Text,0000,0000,0000,,{\an7\fs10\frz-14.19\fax-0.07\pos(97,203)}Scarpe sporche.\NSi fa distrarre facilmente?
+Dialogue: 0,0:11:38.80,0:11:41.30,sign_11882_142_Akebi_Komichi_is,Text,0000,0000,0000,,{\frz342.8\fs10\pos(230,284)}Komichi Akebi è estremamente {\u1}sensibile{\u0}!!
+Dialogue: 0,0:11:38.80,0:11:41.30,sign_11882_142_Akebi_Komichi_is,Text,0000,0000,0000,,{\an7\fs9\frz340\pos(52,310)}Il petto di Shijou è morbido e caldo\Ncome un coniglietto domestico
+Dialogue: 0,0:11:38.80,0:11:41.30,sign_11882_142_Akebi_Komichi_is,Text,0000,0000,0000,,{\frz13.45\pos(562,76)\fax0.13}Shijou \NPreferisce il pane a colazione!!
+Dialogue: 0,0:11:38.80,0:11:41.30,sign_11882_142_Akebi_Komichi_is,Text,0000,0000,0000,,{\an7\pos(547,298)\fs8\frz17.17}Quel sandwich aveva un'aria\N squisita... \N\NIo ho sempre fame a quest'ora
+Dialogue: 0,0:11:46.97,0:11:49.55,main,Komichi,0000,0000,0000,,Non sta andando molto bene, vero?
+Dialogue: 0,0:11:49.82,0:11:53.93,main,Minoru,0000,0000,0000,,Almeno sono riuscita \Na raccogliere dati interessanti,
+Dialogue: 0,0:11:53.93,0:11:55.32,main,Minoru,0000,0000,0000,,quindi va bene così.
+Dialogue: 0,0:12:00.31,0:12:03.60,main,Komichi,0000,0000,0000,,Wow, sei davvero bravissima\N a disegnare, Ohkuma!
+Dialogue: 0,0:12:04.63,0:12:08.01,main,Minoru,0000,0000,0000,,D-Dato che compilo \Nun quaderno di ricerca ogni giorno,
+Dialogue: 0,0:12:08.01,0:12:10.32,main,Minoru,0000,0000,0000,,ho sviluppato questa abilità in modo naturale.
+Dialogue: 0,0:12:10.32,0:12:12.07,main,Komichi,0000,0000,0000,,Incredibile!
+Dialogue: 0,0:12:12.71,0:12:13.99,main,Minoru,0000,0000,0000,,Tu invece?
+Dialogue: 0,0:12:14.34,0:12:16.33,main,Minoru,0000,0000,0000,,Hai già finito di disegnare?
+Dialogue: 0,0:12:19.76,0:12:21.06,main,Minoru,0000,0000,0000,,Capisco.
+Dialogue: 0,0:12:21.06,0:12:22.66,main,Minoru,0000,0000,0000,,Disegnare in modo semplificato
+Dialogue: 0,0:12:22.66,0:12:26.56,main,Minoru,0000,0000,0000,,può evidenziare meglio le peculiarità del soggetto.
+Dialogue: 0,0:12:27.35,0:12:28.71,main,Minoru,0000,0000,0000,,Dovevo aspettarmelo da te.
+Dialogue: 0,0:12:38.99,0:12:41.11,main,Komichi,0000,0000,0000,,Come si sta bene!
+Dialogue: 0,0:12:41.11,0:12:43.82,main,Minoru,0000,0000,0000,,Già, è una brezza molto piacevole.
+Dialogue: 0,0:12:43.82,0:12:46.61,main,Minoru,0000,0000,0000,,Dato che siamo sempre sedute\Nal banco durante le lezioni,
+Dialogue: 0,0:12:46.61,0:12:50.37,main,Minoru,0000,0000,0000,,è davvero una fortuna poter osservare\Nle altre in questo tipo di ambiente.
+Dialogue: 0,0:12:50.86,0:12:52.12,main,Komichi,0000,0000,0000,,Dici?
+Dialogue: 0,0:12:52.40,0:12:56.63,main,Minoru,0000,0000,0000,,Possiamo vedere meglio i loro hobby,\Npreferenze e comportamenti naturali.
+Dialogue: 0,0:12:57.04,0:12:59.60,main,Minoru,0000,0000,0000,,Ad esempio... fammi pensare...
+Dialogue: 0,0:12:59.98,0:13:01.00,main,Minoru,0000,0000,0000,,Laggiù.
+Dialogue: 0,0:13:03.88,0:13:05.36,main,Minoru,0000,0000,0000,,Mai Togano.
+Dialogue: 0,0:13:08.61,0:13:12.20,main,Minoru,0000,0000,0000,,La sua abilità nel disegnare distintamente\N così tanti tipi di uccelli
+Dialogue: 0,0:13:12.20,0:13:14.56,main,Minoru,0000,0000,0000,,mi dice che devono piacerle davvero molto.
+Dialogue: 0,0:13:14.56,0:13:15.64,main,Komichi,0000,0000,0000,,Hai ragione!
+Dialogue: 0,0:13:16.16,0:13:18.86,main,Minoru,0000,0000,0000,,Uno di questi giorni spero proprio\N di fare una bella chiacchierata con lei.
+Dialogue: 0,0:13:21.49,0:13:22.99,main,Minoru,0000,0000,0000,,Riri Minakami.
+Dialogue: 0,0:13:23.31,0:13:25.29,main,Komichi,0000,0000,0000,,Avrà finito anche lei?
+Dialogue: 0,0:13:25.29,0:13:28.62,main,Minoru,0000,0000,0000,,Penso piuttosto \Nche stia cercando qualcosa da disegnare.
+Dialogue: 0,0:13:28.62,0:13:31.11,main,Minoru,0000,0000,0000,,Il modo in cui cerca pazientemente una preda
+Dialogue: 0,0:13:31.11,0:13:33.76,main,Minoru,0000,0000,0000,,mi fa pensare a una pantera nera,\N maestra della caccia.
+Dialogue: 0,0:13:36.02,0:13:37.38,main,Komichi,0000,0000,0000,,Hai ragione!
+Dialogue: 0,0:13:37.65,0:13:42.12,main,Minoru,0000,0000,0000,,O magari... non le piacciono i posti affollati, \Ncome a me.
+Dialogue: 0,0:14:14.70,0:14:17.61,main,Komichi,0000,0000,0000,,Passi molto tempo a osservare tutti quanti, \Nvero, Ohkuma?
+Dialogue: 0,0:14:17.61,0:14:18.62,main,Minoru,0000,0000,0000,,Eh?
+Dialogue: 0,0:14:18.86,0:14:21.36,main,Minoru,0000,0000,0000,,N-Non direi tutti quanti...
+Dialogue: 0,0:14:21.36,0:14:23.87,main,Minoru,0000,0000,0000,,Al momento l'essere vivente\Nche mi interessa di più è...
+Dialogue: 0,0:14:24.62,0:14:25.87,main,Komichi,0000,0000,0000,,È?
+Dialogue: 0,0:14:28.22,0:14:29.57,main,Minoru,0000,0000,0000,,Ecco...
+Dialogue: 0,0:14:34.88,0:14:37.35,main,Erika,0000,0000,0000,,Akebi, eccoti qua!
+Dialogue: 0,0:14:37.35,0:14:39.91,main,Touko,0000,0000,0000,,Ehi, Ohkuma,\N sei davvero bravissima nel disegno!
+Dialogue: 0,0:14:39.91,0:14:41.24,main,Komichi,0000,0000,0000,,Vero?
+Dialogue: 0,0:14:41.64,0:14:43.86,main,Erika,0000,0000,0000,,Hai rappresentato le sue peculiarità molto bene.
+Dialogue: 0,0:14:46.60,0:14:49.51,main,Touko,0000,0000,0000,,Wow, Ohkuma, sei tutta rossa!
+Dialogue: 0,0:14:50.53,0:14:52.03,main,Komichi,0000,0000,0000,,Tutta rossa!
+Dialogue: 0,0:14:51.13,0:14:52.36,Overlap,Erika,0000,0000,0000,,È vero!
+Dialogue: 0,0:14:52.36,0:14:53.73,main,Komichi; Touko; Erika,0000,0000,0000,,Che carina!
+Dialogue: 0,0:14:57.96,0:15:02.96,sign_8133_69_Class_1_3,Text,0000,0000,0000,,{\frz347.4\pos(127,176)\c&H2E426A&\fs20}Classe 1-3
+Dialogue: 0,0:14:57.96,0:15:02.96,sign_8133_69_Class_1_3,Text,0000,0000,0000,,{\frz24.47\pos(514,149)\c&H71706B&\fs20}Accademia Roubai 5
+Dialogue: 0,0:15:03.60,0:15:07.73,main,Minoru,0000,0000,0000,,Akebi, hai avuto anche tu\N una strana sensazione poco fa?
+Dialogue: 0,0:15:07.73,0:15:08.87,main,Komichi,0000,0000,0000,,In che senso strana?
+Dialogue: 0,0:15:08.87,0:15:10.71,main,Minoru,0000,0000,0000,,Come se qualcuno ci stesse osservando.
+Dialogue: 0,0:15:13.96,0:15:15.38,main,Minoru,0000,0000,0000,,Capisco.
+Dialogue: 0,0:15:16.31,0:15:17.96,main,Touko,0000,0000,0000,,Poi è andata così.
+Dialogue: 0,0:15:17.96,0:15:20.16,main,Touko,0000,0000,0000,,Sono morta dal ridere.
+Dialogue: 0,0:15:20.16,0:15:21.61,main,Komichi,0000,0000,0000,,Davvero?
+Dialogue: 0,0:15:24.73,0:15:29.25,italics,Minoru,0000,0000,0000,,Lo sapevo. È la mia compagna di stanza\N che ci sta osservando, Tougeguchi.
+Dialogue: 0,0:15:33.95,0:15:37.99,italics,Minoru,0000,0000,0000,,Non mi ero mai accorta \Nche ci fosse qualcuno come me.
+Dialogue: 0,0:15:38.81,0:15:39.99,main,Komichi,0000,0000,0000,,A domani.
+Dialogue: 0,0:15:40.35,0:15:41.54,main,Kei,0000,0000,0000,,A domani.
+Dialogue: 0,0:15:43.97,0:15:46.49,italics,Minoru,0000,0000,0000,,Però... perché dovrebbe?
+Dialogue: 0,0:15:49.51,0:15:50.63,sign_22766_273_Akebi_Komichi,Text,0000,0000,0000,,{\bord2\pos(357,271)\frz355.8}Komichi Akebi
+Dialogue: 0,0:15:50.63,0:15:50.76,sign_22766_273_Akebi_Komichi,Text,0000,0000,0000,,{\bord2\pos(357,275)\frz355.8}Komichi Akebi
+Dialogue: 0,0:15:50.76,0:15:52.51,sign_22766_273_Akebi_Komichi,Text,0000,0000,0000,,{\bord2\pos(357,280)\frz355.8}Komichi Akebi
+Dialogue: 0,0:15:57.52,0:15:59.67,main,Ayumi,0000,0000,0000,,Anche oggi ho fallito.
+Dialogue: 0,0:16:00.14,0:16:01.96,main,Ayumi,0000,0000,0000,,Non capita mai l'occasione.
+Dialogue: 0,0:16:03.65,0:16:06.44,main,Ayumi,0000,0000,0000,,Voglio dire, una scuola elitaria in campagna
+Dialogue: 0,0:16:06.44,0:16:09.21,main,Ayumi,0000,0000,0000,,dovrebbe essere piena di ragazze \Nnon proprio popolari.
+Dialogue: 0,0:16:09.21,0:16:14.41,main,Ayumi,0000,0000,0000,,Invece ce ne sono tante bellissime \Ne sono sempre accompagnate da splendide amiche...
+Dialogue: 0,0:16:14.74,0:16:17.88,main,Ayumi,0000,0000,0000,,Credevo di essere l'unica dalla sua parte!
+Dialogue: 0,0:16:17.88,0:16:19.90,main,Ayumi,0000,0000,0000,,Komichi Akebi, tu...
+Dialogue: 0,0:16:21.41,0:16:26.37,main,Ayumi,0000,0000,0000,,sei una traditrice!
+Dialogue: 0,0:16:28.64,0:16:32.67,main,Ayumi,0000,0000,0000,,Come sempre,\N niente mi fa sentire meglio di gridare!
+Dialogue: 0,0:16:39.85,0:16:41.65,main,Ayumi,0000,0000,0000,,Akebi?
+Dialogue: 0,0:16:41.65,0:16:43.94,main,Ayumi,0000,0000,0000,,E... Ohkuma?
+Dialogue: 0,0:16:43.94,0:16:45.73,main,Ayumi,0000,0000,0000,,Un attimo, non è come sembra!
+Dialogue: 0,0:16:45.73,0:16:50.29,main,Ayumi,0000,0000,0000,,Non stavo parlando di te, Akebi... \Nvoglio dire... ecco, ehm...
+Dialogue: 0,0:16:51.47,0:16:52.35,main,Komichi,0000,0000,0000,,Questo...
+Dialogue: 0,0:17:17.72,0:17:21.12,flashback,Ayumi,0000,0000,0000,,Perché una ragazza carina come lei deve fare \Nil test di ammissione in questa scuola?
+Dialogue: 0,0:17:21.76,0:17:24.54,flashback,Ayumi,0000,0000,0000,,Il mio debutto alle medie sarà rovinato.
+Dialogue: 0,0:17:24.89,0:17:26.14,flashback,Ayumi,0000,0000,0000,,Ahia...
+Dialogue: 0,0:17:27.20,0:17:30.87,flashback,Ayumi,0000,0000,0000,,Che faccio se non mi sento meglio\N prima dell'esame?
+Dialogue: 0,0:17:33.86,0:17:36.40,flashback italics,Ayumi,0000,0000,0000,,Ho dimenticato il fazzoletto.
+Dialogue: 0,0:17:36.76,0:17:38.07,flashback italics,Ayumi,0000,0000,0000,,Non ho speranze.
+Dialogue: 0,0:17:44.87,0:17:45.57,flashback,Komichi,0000,0000,0000,,Ecco!
+Dialogue: 0,0:17:46.15,0:17:47.34,flashback,Komichi,0000,0000,0000,,Usa questo.
+Dialogue: 0,0:17:53.44,0:17:55.50,flashback,Ayumi,0000,0000,0000,,G-Grazie...
+Dialogue: 0,0:17:55.50,0:17:57.82,flashback,Komichi,0000,0000,0000,,Perché sei venuta\N in un bagno così lontano da tutto?
+Dialogue: 0,0:17:57.82,0:18:00.34,flashback,Ayumi,0000,0000,0000,,Eh? Ehm... E tu?
+Dialogue: 0,0:18:00.56,0:18:04.10,flashback,Komichi,0000,0000,0000,,Non mi sento a mio agio nei luoghi affollati.
+Dialogue: 0,0:18:05.45,0:18:06.86,flashback,Ayumi,0000,0000,0000,,Dio esiste...
+Dialogue: 0,0:18:07.68,0:18:09.04,flashback,Ayumi,0000,0000,0000,,Ed è gentile...
+Dialogue: 0,0:18:10.36,0:18:13.10,sign_22766_273_Akebi_Komichi,Text,0000,0000,0000,,{\c&H96B477&\bord2\fs36\pos(330,240)\frz2.226}Komichi Akebi
+Dialogue: 0,0:18:10.74,0:18:13.10,flashback,Ayumi,0000,0000,0000,,"Komichi... Akebi".
+Dialogue: 0,0:18:13.10,0:18:15.83,flashbackitalicstop,Announcement,0000,0000,0000,,L'esame sta per cominciare.
+Dialogue: 0,0:18:16.39,0:18:17.82,flashback,Komichi,0000,0000,0000,,Oh! Devo sbrigarmi!
+Dialogue: 0,0:18:16.42,0:18:19.11,flashbackitalicstop,Announcement,0000,0000,0000,,Presentatevi nella classe \Na cui siete state assegnate.
+Dialogue: 0,0:18:17.82,0:18:19.11,flashback,Ayumi,0000,0000,0000,,Ehi, aspetta!
+Dialogue: 0,0:18:19.93,0:18:22.37,flashback,Ayumi,0000,0000,0000,,Che ci faccio con questo?!
+Dialogue: 0,0:18:23.29,0:18:25.21,flashback,Komichi,0000,0000,0000,,Tienilo fino al nostro prossimo incontro!
+Dialogue: 0,0:18:28.58,0:18:33.09,flashback,Ayumi,0000,0000,0000,,Prossimo incontro? Che intende dire?
+Dialogue: 0,0:18:33.43,0:18:35.95,flashback,Ayumi,0000,0000,0000,,Questo è solo il luogo\N dove si tiene l'esame di ammissione.
+Dialogue: 0,0:18:35.95,0:18:37.77,flashback,Ayumi,0000,0000,0000,,Non c'è nessuna garanzia...
+Dialogue: 0,0:18:39.00,0:18:41.08,flashback,Ayumi,0000,0000,0000,,Voleva dire che devo passare l'esame?!
+Dialogue: 0,0:18:43.31,0:18:45.93,main,Komichi,0000,0000,0000,,Questo è il fazzoletto \Nche ti ho prestato prima dell'esame!
+Dialogue: 0,0:18:47.22,0:18:49.40,main,Ayumi,0000,0000,0000,,O-Oh, scusami!
+Dialogue: 0,0:18:49.40,0:18:51.94,main,Ayumi,0000,0000,0000,,Ho sempre voluto restituirtelo.
+Dialogue: 0,0:18:55.21,0:18:56.43,main,Komichi,0000,0000,0000,,Che gioia!
+Dialogue: 0,0:18:56.74,0:18:59.62,main,Komichi,0000,0000,0000,,Quella ragazza eri tu, Tougeguchi!
+Dialogue: 0,0:18:59.62,0:19:02.09,main,Komichi,0000,0000,0000,,Mi son sempre chiesta chi fosse!
+Dialogue: 0,0:19:02.09,0:19:04.79,main,Komichi,0000,0000,0000,,Sono felicissima che siamo\N state ammesse alla stessa scuola!
+Dialogue: 0,0:19:04.79,0:19:05.97,main,Komichi,0000,0000,0000,,Grazie!
+Dialogue: 0,0:19:08.08,0:19:12.84,main,Komichi,0000,0000,0000,,Il fatto è che non ti avevo riconosciuta con la divisa. \NTi fa sembrare diversa.
+Dialogue: 0,0:19:15.40,0:19:18.22,italics,Ayumi,0000,0000,0000,,Non avrei mai pensato che \Nla ragazza con lo strano pigiama
+Dialogue: 0,0:19:18.22,0:19:21.49,italics,Ayumi,0000,0000,0000,,si sarebbe presentata \Ncon la marinaretta il primo giorno.
+Dialogue: 0,0:19:29.66,0:19:30.68,italics,Ayumi,0000,0000,0000,,Però...
+Dialogue: 0,0:19:31.04,0:19:36.55,italics,Ayumi,0000,0000,0000,,è proprio perché ho incontrato Akebi \Nche ho capito che non ero l'unica nervosa,
+Dialogue: 0,0:19:36.55,0:19:38.47,italics,Ayumi,0000,0000,0000,,così sono riuscita a sostenere l'esame.
+Dialogue: 0,0:19:39.43,0:19:42.82,main,Komichi,0000,0000,0000,,Che facciamo, Ohkuma?! \NAnche stavolta il soggetto ci ha beccate!
+Dialogue: 0,0:19:43.24,0:19:45.90,main,Minoru,0000,0000,0000,,A questo punto, \Nforse dobbiamo considerarlo un segno.
+Dialogue: 0,0:19:50.84,0:19:52.54,main,Ayumi,0000,0000,0000,,Allora io vado.
+Dialogue: 0,0:19:52.54,0:19:53.36,main,Komichi,0000,0000,0000,,Ok.
+Dialogue: 0,0:19:56.53,0:19:58.60,main,Ayumi,0000,0000,0000,,Komichi... Akebi!
+Dialogue: 0,0:19:59.53,0:20:01.94,main,Ayumi,0000,0000,0000,,S-S...
+Dialogue: 0,0:20:03.60,0:20:05.45,main,Ayumi,0000,0000,0000,,Spero che diventeremo amiche!
+Dialogue: 0,0:20:08.65,0:20:10.97,main,Komichi,0000,0000,0000,,Anch'io!
+Dialogue: 0,0:20:23.57,0:20:28.48,main,Minoru,0000,0000,0000,,Credo che anche Tougeguchi stesse aspettando\N il momento giusto per parlare con te.
+Dialogue: 0,0:20:29.75,0:20:32.25,main,Komichi,0000,0000,0000,,Mi avrebbe fatto piacere\N se l'avesse fatto molto prima!
+Dialogue: 0,0:20:39.63,0:20:42.21,main,Minoru,0000,0000,0000,,Nonostante gli incidenti e i fallimenti,
+Dialogue: 0,0:20:42.21,0:20:46.04,main,Minoru,0000,0000,0000,,credo di poter dire che la missione \Ndi osservazione è stata un successo.
+Dialogue: 0,0:20:46.04,0:20:47.12,main,Komichi,0000,0000,0000,,Sì!
+Dialogue: 0,0:20:47.12,0:20:51.13,main,Komichi,0000,0000,0000,,Sono felice di aver scoperto \Nnuovi lati delle nostre compagne!
+Dialogue: 0,0:20:51.81,0:20:53.00,main,Komichi,0000,0000,0000,,Grazie!
+Dialogue: 0,0:20:53.77,0:20:57.76,main,Minoru,0000,0000,0000,,Non avrei mai pensato \Ndi poter parlare con te in questo modo,
+Dialogue: 0,0:20:57.76,0:21:01.54,main,Minoru,0000,0000,0000,,per cui osservare assieme \Nè stata una bella esperienza.
+Dialogue: 0,0:21:02.42,0:21:03.52,main,Minoru,0000,0000,0000,,Per questo...
+Dialogue: 0,0:21:04.45,0:21:06.27,main,Minoru,0000,0000,0000,,voglio ringraziarti anch'io.
+Dialogue: 0,0:21:08.01,0:21:09.41,main,Komichi,0000,0000,0000,,Sai...
+Dialogue: 0,0:21:10.10,0:21:14.95,main,Komichi,0000,0000,0000,,anch'io ho sempre desiderato\N di poter parlare con te, Ohkuma.
+Dialogue: 0,0:21:15.53,0:21:16.28,main,Minoru,0000,0000,0000,,Eh?
+Dialogue: 0,0:21:17.52,0:21:22.33,main,Komichi,0000,0000,0000,,Mi chiedevo come mai mi osservassi sempre.
+Dialogue: 0,0:21:23.15,0:21:25.93,main,Minoru,0000,0000,0000,,Eh? T-Te n'eri accorta?
+Dialogue: 0,0:21:26.31,0:21:31.14,main,Komichi,0000,0000,0000,,Ma oggi ho potuto imparare\N un sacco di cose su di te.
+Dialogue: 0,0:21:31.14,0:21:34.44,main,Komichi,0000,0000,0000,,Sai molto sugli esseri viventi \Ne sei brava a disegnare.
+Dialogue: 0,0:21:37.02,0:21:39.67,main,Komichi,0000,0000,0000,,Ci sono un sacco di cose ancora che non so,
+Dialogue: 0,0:21:39.67,0:21:42.20,main,Komichi,0000,0000,0000,,quindi spero che mi insegnerai \Nmolto altro d'ora in poi.
+Dialogue: 0,0:21:53.27,0:21:57.24,main,Minoru,0000,0000,0000,,Ti va di andare a osservare insieme gli insetti\Nla prossima volta?
+Dialogue: 0,0:22:00.65,0:22:02.13,main,Komichi,0000,0000,0000,,Sì! Sì!
+Dialogue: 0,0:22:02.49,0:22:07.21,main,Komichi,0000,0000,0000,,Evvivaaa! Grazie!
+Dialogue: 0,0:22:05.22,0:22:07.90,Overlap,Minoru,0000,0000,0000,,Akebi, non stringere così...

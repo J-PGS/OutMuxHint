@@ -1,0 +1,295 @@
+﻿[Script Info]
+Title: Español (España)
+Original Script: crunchyroll_es  [http://www.crunchyroll.com/user/crunchyroll_es]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Gen_Main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Gen_Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Gen_Main_Up,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00090909,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,1
+Style: Gen_Italics_top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,1
+Style: Cart_TitleEp,Times New Roman,12,&H00000000,&H000000FF,&H6FFFFFFF,&H00797979,0,0,0,0,100,110,0,0,1,1,0,8,0020,0040,0020,1
+Style: Cart_A_Tre,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0020,1
+Style: Cart_C_Tre,Trebuchet MS,24,&H00323232,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0020,1
+Style: Cart_A_Tim,Times New Roman,24,&H00FFFFFF,&H000000FF,&H00303030,&H00303030,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_C_Tim,Times New Roman,24,&H00323232,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_A_Ari,Arial,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_C_Ari,Arial,24,&H00323232,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0020,1
+Style: Cart_Tre_NoShad,Trebuchet MS,20,&H00000000,&H000000FF,&H00FFFFFF,&H00D9D9D9,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0020,1
+Style: Cart_SeriesTitle,Times New Roman,24,&H00000000,&H000000FF,&H00FBFCFA,&H00000000,0,0,0,0,100,100,0,0,1,0,0,8,0030,0030,0050,1
+Style: Cart_Avance,Trebuchet MS,16,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,0010,0010,0018,1
+Style: Cart_Nota,Arial,24,&H001B3140,&H000000FF,&H00F9F9F9,&H008D365A,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0020,1
+Style: Cart_Next,Trebuchet MS,26,&H00F8FFFF,&H000000FF,&H00110D3A,&H005B5D5F,0,0,0,0,100,100,0,0,1,0,0,8,0020,0020,0130,1
+Style: Cart_TitleSeries,Trebuchet MS,20,&H00FFFFFF,&H000000FF,&H00494949,&H00797979,0,0,0,0,100,110,0,0,1,1,0,5,0020,0040,0020,1
+Style: Cart_SeriesTitle2,Trebuchet MS,28,&H00BEBEBE,&H000000FF,&H00FBFCFA,&H00000000,0,0,0,0,100,100,0,0,1,0,0,8,0033,0030,0053,1
+Style: Cart_EX01,Arial,8,&H00A7A39E,&H000000FF,&H00F6F8F5,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,7,0030,0030,0020,1
+Style: Cart_EX03,Trebuchet MS,26,&H00A2665C,&H000000FF,&H00F5F5F3,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,7,0030,0030,0020,1
+Style: Cart_EX02,Arial,33,&H00F1F2F2,&H000000FF,&H00A3A29C,&H00A99EA2,-1,0,0,0,100,100,0,0,1,1,2,7,0030,0030,0020,1
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:08.90,0:00:10.14,Gen_Main,Komichi,0000,0000,0000,,Buenos días.
+Dialogue: 0,0:00:11.82,0:00:13.61,Gen_Main,Erika,0000,0000,0000,,Buenos días, Komichi.
+Dialogue: 0,0:00:25.42,0:00:27.33,Gen_Main,Komichi,0000,0000,0000,,Buenos días, Erika.
+Dialogue: 0,0:00:29.34,0:00:34.01,Gen_Main,Komichi,0000,0000,0000,,Le envié las fotos de cuando jugamos\Nen el agua el fin de semana a mi padre.
+Dialogue: 0,0:00:34.22,0:00:35.97,Gen_Main,Erika,0000,0000,0000,,¿A tu padre?
+Dialogue: 0,0:00:36.18,0:00:39.62,Gen_Main,Komichi,0000,0000,0000,,Dijo que le habría gustado\Nir de pesca con nosotras.
+Dialogue: 0,0:00:39.81,0:00:42.34,Gen_Main,Komichi,0000,0000,0000,,Se sorprendió mucho con tu equipo.
+Dialogue: 0,0:00:42.56,0:00:46.24,Gen_Main,Erika,0000,0000,0000,,¿En serio? Me da un poco de vergüenza.
+Dialogue: 0,0:00:46.44,0:00:50.07,Gen_Main,Komichi,0000,0000,0000,,Ah, y también dijo\Nque tus manos eran muy bonitas.
+Dialogue: 0,0:00:50.27,0:00:51.38,Gen_Main,Erika,0000,0000,0000,,¿Qué?
+Dialogue: 0,0:00:51.94,0:00:54.04,Gen_Italics,Erika,0000,0000,0000,,¿Hasta en eso se fijó?
+Dialogue: 0,0:00:54.24,0:00:56.76,Gen_Main,Komichi,0000,0000,0000,,Siempre te arreglas mucho las uñas, ¿no?
+Dialogue: 0,0:00:56.95,0:00:58.13,Gen_Main,Komichi,0000,0000,0000,,Y eso es porque…
+Dialogue: 0,0:00:59.12,0:01:01.20,Gen_Main,Komichi,0000,0000,0000,,¡tocas muy bien el violín!
+Dialogue: 0,0:01:01.37,0:01:03.53,Gen_Main,Komichi,0000,0000,0000,,Es genial saber tocar un instrumento.
+Dialogue: 0,0:01:03.75,0:01:06.06,Gen_Main,Komichi,0000,0000,0000,,¡Cómo te admiro!
+Dialogue: 0,0:01:06.25,0:01:11.30,Gen_Main,Erika,0000,0000,0000,,Pues para mí es mucho más guay\Nsaber bailar, como tú.
+Dialogue: 0,0:01:11.50,0:01:13.80,Gen_Main,Komichi / Erika,0000,0000,0000,,-¿Tú crees?\N-Sí.
+Dialogue: 0,0:01:14.80,0:01:16.84,Gen_Main,Komichi,0000,0000,0000,,Me sonrojas.
+Dialogue: 0,0:01:23.85,0:01:25.73,Gen_Main,Oshizu / Mai,0000,0000,0000,,-Buenos días.\N-Buenos días.
+Dialogue: 0,0:01:26.19,0:01:27.50,Gen_Main,Komichi,0000,0000,0000,,Buenos días.
+Dialogue: 0,0:02:59.57,0:03:04.99,Cart_TitleEp,CARTEL,0000,0000,0000,,{\blur1\fad(400,0)\pos(524,70)}Episodio 7\N{\fs16}Por favor, déjame oírte
+Dialogue: 0,0:03:00.03,0:03:02.99,Gen_Main,Chica 1 / Chica 2,0000,0000,0000,,-¿Vamos al club?\N-Qué día tan largo.
+Dialogue: 0,0:03:03.16,0:03:04.99,Gen_Main,Chica 3,0000,0000,0000,,¿Dónde te cambiarás hoy?
+Dialogue: 0,0:03:07.29,0:03:08.81,Gen_Main,Chica 4,0000,0000,0000,,Claro, cuando acabemos.
+Dialogue: 0,0:03:09.00,0:03:12.63,Gen_Main,Mai / Oshizu,0000,0000,0000,,-Bueno, Hebimori, hasta luego.\N-Sí.
+Dialogue: 0,0:03:31.10,0:03:34.09,Gen_Italics,Oshizu,0000,0000,0000,,Sí, las guitarras eléctricas\Nsuenan genial.
+Dialogue: 0,0:03:35.40,0:03:39.69,Gen_Main,Chica 5 / Chica 6,0000,0000,0000,,-Eh, de verdad…\N-Eso te acaba de salir muy bien.
+Dialogue: 0,0:03:39.90,0:03:41.76,Gen_Main,Chica 7,0000,0000,0000,,Tú puedes. Lo harás bien.
+Dialogue: 0,0:03:41.95,0:03:43.94,Gen_Main,Chica 8,0000,0000,0000,,Hazlo igual que antes.
+Dialogue: 0,0:03:44.16,0:03:47.18,Gen_Italics,Oshizu,0000,0000,0000,,Pero siempre termino yéndome a casa.
+Dialogue: 0,0:03:56.46,0:04:00.21,Gen_Italics,Oshizu,0000,0000,0000,,¿Qué? ¿Ed quedó décimo?\NNo tiene sentido.
+Dialogue: 0,0:04:00.38,0:04:03.33,Gen_Italics,Oshizu,0000,0000,0000,,¿Harán un reportaje sobre\Nla infancia de Miki Fukumoto?
+Dialogue: 0,0:04:03.55,0:04:05.97,Gen_Italics,Oshizu,0000,0000,0000,,Dejad de hablar tanto de Miki.
+Dialogue: 0,0:04:06.47,0:04:09.25,Gen_Italics,Oshizu,0000,0000,0000,,Ay, la guitarra eléctrica Lala\Nes fantástica.
+Dialogue: 0,0:04:09.43,0:04:12.10,Gen_Italics,Oshizu / Komichi,0000,0000,0000,,-Si la tuviera, yo también…\N-{\i0}Hebimori.{\i1}
+Dialogue: 0,0:04:12.89,0:04:14.52,Gen_Main,Komichi,0000,0000,0000,,¡Hebimori!
+Dialogue: 0,0:04:14.69,0:04:15.77,Gen_Main,Komichi,0000,0000,0000,,Hola.
+Dialogue: 0,0:04:19.19,0:04:20.82,Gen_Main,Komichi,0000,0000,0000,,Menudos auriculares.
+Dialogue: 0,0:04:20.99,0:04:22.91,Gen_Main,Oshizu,0000,0000,0000,,Oh, Akebi.
+Dialogue: 0,0:04:23.11,0:04:24.95,Gen_Main,Oshizu,0000,0000,0000,,Perdón, no me di cuenta.
+Dialogue: 0,0:04:25.11,0:04:27.28,Gen_Main,Komichi,0000,0000,0000,,Hebimori, esa es…
+Dialogue: 0,0:04:31.50,0:04:34.60,Gen_Main,Komichi,0000,0000,0000,,Es una revista que leen\Nlos que tocan música, ¿no?
+Dialogue: 0,0:04:34.76,0:04:35.75,Gen_Main,Oshizu,0000,0000,0000,,¿Eh?
+Dialogue: 0,0:04:35.96,0:04:38.85,Gen_Main,Komichi,0000,0000,0000,,Hace poco Miki\Nsalió en la portada y la compré.
+Dialogue: 0,0:04:39.04,0:04:43.51,Gen_Main,Komichi,0000,0000,0000,,Pero cuando volví a casa y la abrí\Nestaba llena de partituras.
+Dialogue: 0,0:04:44.09,0:04:46.80,Gen_Italics,Oshizu,0000,0000,0000,,La compré por la portada,\Nno me había dado cuenta.
+Dialogue: 0,0:04:46.97,0:04:50.80,Gen_Main,Komichi,0000,0000,0000,,No entendí nada de lo que decía, pero…
+Dialogue: 0,0:04:51.02,0:04:53.65,Gen_Main,Komichi,0000,0000,0000,,espera, ¿sabes tocar un instrumento?
+Dialogue: 0,0:04:53.85,0:04:55.89,Gen_Main,Oshizu,0000,0000,0000,,¿Eh? No realmente.
+Dialogue: 0,0:04:57.90,0:05:00.01,Gen_Main,Oshizu,0000,0000,0000,,La guitarra…
+Dialogue: 0,0:05:00.90,0:05:02.21,Gen_Main,Oshizu,0000,0000,0000,,un poco.
+Dialogue: 0,0:05:02.40,0:05:05.90,Gen_Main,Komichi,0000,0000,0000,,Increíble. Quiero oírte…
+Dialogue: 0,0:05:07.57,0:05:09.41,Gen_Main,Komichi,0000,0000,0000,,tocar la guitarra.
+Dialogue: 0,0:05:13.00,0:05:14.29,Gen_Main,Oshizu,0000,0000,0000,,De acuerdo.
+Dialogue: 0,0:05:15.46,0:05:18.79,Gen_Italics,Presidenta,0000,0000,0000,,Probando. Komichi Akebi de la clase 1-3…
+Dialogue: 0,0:05:19.00,0:05:22.45,Gen_Main,Komichi,0000,0000,0000,,¡Es la presidenta!\NDisculpa, debo ir al club.
+Dialogue: 0,0:05:22.67,0:05:24.93,Gen_Main,Komichi,0000,0000,0000,,Déjame oírte tocar otro día, ¿vale?
+Dialogue: 0,0:05:25.13,0:05:29.14,Gen_Italics,Presidenta,0000,0000,0000,,Komichi Akebi, Komichi Akebi,\Npor favor, ven al club…
+Dialogue: 0,0:05:30.14,0:05:32.64,Gen_Italics,Oshizu,0000,0000,0000,,En qué me he metido.
+Dialogue: 0,0:05:32.81,0:05:37.14,Gen_Italics,Oshizu,0000,0000,0000,,Ni siquiera sé… cómo leer una partitura.
+Dialogue: 0,0:05:37.14,0:05:39.65,Cart_C_Tre,CARTEL,0000,0000,0000,,{\bord2\an8\3c&H94AFB8&\c&H2E3B50&\blur1\fs12\pos(535,269)}Residencia\NLuna Llena
+Dialogue: 0,0:05:47.49,0:05:51.90,Gen_Italics,Oshizu,0000,0000,0000,,De mi casa me traje la vieja guitarra\Nde papá porque sí.
+Dialogue: 0,0:05:52.12,0:05:56.32,Gen_Italics,Oshizu,0000,0000,0000,,Aunque no la he tocado\Ndesde que llegué aquí.
+Dialogue: 0,0:05:57.92,0:06:00.53,Gen_Italics,Oshizu,0000,0000,0000,,Después de todo, no es eléctrica.
+Dialogue: 0,0:06:17.98,0:06:19.35,Gen_Main,Oshizu,0000,0000,0000,,¿Acordes?
+Dialogue: 0,0:06:19.52,0:06:22.81,Gen_Main,Oshizu,0000,0000,0000,,¿No se supone que la música\Nes do, re, mi, fa?
+Dialogue: 0,0:06:26.03,0:06:27.74,Gen_Main,Oshizu,0000,0000,0000,,Lo encontré. Conque esto es.
+Dialogue: 0,0:06:28.32,0:06:30.65,Gen_Main,Oshizu,0000,0000,0000,,Primero el do…
+Dialogue: 0,0:06:34.99,0:06:36.46,Gen_Main,Oshizu,0000,0000,0000,,Luego…
+Dialogue: 0,0:06:44.96,0:06:46.51,Gen_Main,Oshizu,0000,0000,0000,,Lo logré.
+Dialogue: 0,0:06:55.18,0:06:57.98,Gen_Main,Oshizu / Mai,0000,0000,0000,,-Bienvenida.\N-Sí.
+Dialogue: 0,0:07:04.44,0:07:07.67,Gen_Main,Mai,0000,0000,0000,,Siempre creí que solo era un adorno.
+Dialogue: 0,0:07:08.57,0:07:11.45,Gen_Main,Oshizu,0000,0000,0000,,Pues, lo era, pero…
+Dialogue: 0,0:07:12.24,0:07:16.10,Gen_Main,Oshizu,0000,0000,0000,,Lo siento, tocaré cuando no estés.
+Dialogue: 0,0:07:16.29,0:07:19.13,Gen_Main,Mai,0000,0000,0000,,Tranqui, no me molesta.
+Dialogue: 0,0:07:21.08,0:07:22.58,Gen_Main,Oshizu,0000,0000,0000,,Ya veo.
+Dialogue: 0,0:07:39.10,0:07:42.10,Gen_Italics,TV,0000,0000,0000,,Ahora doblamos las rodillas,\Nestiramos los brazos
+Dialogue: 0,0:07:42.27,0:07:43.83,Gen_Italics,TV,0000,0000,0000,,y los juntamos sobre la cabeza.
+Dialogue: 0,0:07:44.02,0:07:45.49,Gen_Main,Kao,0000,0000,0000,,Los juntamos.
+Dialogue: 0,0:07:48.69,0:07:51.54,Gen_Italics,Komichi,0000,0000,0000,,Hebimori me dijo\Nque sabía tocar la guitarra.
+Dialogue: 0,0:07:50.49,0:07:51.78,Cart_EX01,Text,0000,0000,0000,,{\c&H978D8C&\3c&HF3F3F3&\pos(235,93)}Hebimori me dijo que sabía tocar la guitarra.
+Dialogue: 0,0:07:50.49,0:07:51.90,Cart_EX01,Text,0000,0000,0000,,{\pos(243,35)\fscx95\fad(1,429)}¿Hebimori toca algún instrumento?
+Dialogue: 0,0:07:51.78,0:07:52.99,Cart_EX01,Text,0000,0000,0000,,{\c&H978D8C&\3c&HDED4EB&\fad(149,1)\pos(264,52)\clip(m 389 63 l 389 57 393 51 261 51 261 62)}Hebimori me dijo que sabía tocar la guitarra.
+Dialogue: 0,0:07:51.90,0:07:52.99,Cart_EX01,Text,0000,0000,0000,,{\pos(243,10)\fscx95}¿Hebimori toca algún instrumento?
+Dialogue: 0,0:07:57.99,0:08:00.25,Cart_EX01,Text,0000,0000,0000,,{\pos(243,10)\fscx95}¿Hebimori toca algún instrumento?
+Dialogue: 0,0:07:57.99,0:08:00.25,Cart_EX01,Text,0000,0000,0000,,{\c&H978D8C&\3c&HDED4EB&\pos(264,52)}Hebimori me dijo que sabía tocar la guitarra.
+Dialogue: 0,0:07:57.99,0:08:00.25,Cart_EX01,Text,0000,0000,0000,,{\pos(240,95)\fscx85}¿Y si también aprendes a tocar música?
+Dialogue: 0,0:07:58.16,0:08:00.25,Gen_Italics,Sato,0000,0000,0000,,¿Y si también aprendes a tocar música?
+Dialogue: 0,0:08:00.41,0:08:02.26,Gen_Italics,TV,0000,0000,0000,,Doblamos el torso hacia adelante…
+Dialogue: 0,0:08:02.66,0:08:04.37,Gen_Main,Komichi,0000,0000,0000,,Música.
+Dialogue: 0,0:08:04.54,0:08:06.17,Gen_Main,Komichi,0000,0000,0000,,Podría ser.
+Dialogue: 0,0:08:06.38,0:08:09.55,Gen_Main,Kao / TV,0000,0000,0000,,-Hermana, concéntrate.\N-Nos levantamos…
+Dialogue: 0,0:08:12.55,0:08:13.75,Gen_Main,Entrenadora,0000,0000,0000,,Siguiente.
+Dialogue: 0,0:08:22.56,0:08:23.56,Gen_Main,Entrenadora,0000,0000,0000,,Siguiente.
+Dialogue: 0,0:08:25.81,0:08:29.83,Gen_Main,Presidenta,0000,0000,0000,,¡A, e, i, u, e, o, a, o!
+Dialogue: 0,0:08:30.03,0:08:34.21,Gen_Main,Komichi,0000,0000,0000,,¡A, e, i, u, e, o, a, o!
+Dialogue: 0,0:08:34.40,0:08:38.03,Gen_Main,Presidenta / Komichi,0000,0000,0000,,-Más fuerte.\N-¡A, e, i, u,!
+Dialogue: 0,0:08:38.20,0:08:40.17,Gen_Main,Chica 9 / Todas,0000,0000,0000,,-Buen trabajo.\N-Buen trabajo.
+Dialogue: 0,0:08:40.37,0:08:42.84,Gen_Main,Chica 10 / Chica 11,0000,0000,0000,,-Buen trabajo.\N-Buen trabajo.
+Dialogue: 0,0:08:44.46,0:08:45.87,Gen_Main,Chica 12,0000,0000,0000,,Buen trabajo.
+Dialogue: 0,0:08:46.04,0:08:49.88,Gen_Main,Komichi,0000,0000,0000,,¡U, e, o, a, o!
+Dialogue: 0,0:08:51.88,0:08:53.01,Gen_Main,Presidenta,0000,0000,0000,,Bien.
+Dialogue: 0,0:08:53.51,0:08:55.27,Gen_Main,Presidenta,0000,0000,0000,,Hoy llegaremos hasta aquí.
+Dialogue: 0,0:08:55.47,0:08:58.78,Gen_Main,Komichi,0000,0000,0000,,Sí… Muchas gracias…
+Dialogue: 0,0:08:58.97,0:09:01.13,Gen_Main,Presidenta,0000,0000,0000,,Sécate el sudor y vete a casa.
+Dialogue: 0,0:09:04.14,0:09:05.57,Gen_Main,Mai,0000,0000,0000,,Buen trabajo.
+Dialogue: 0,0:09:06.65,0:09:08.37,Gen_Main,Komichi,0000,0000,0000,,Togano.
+Dialogue: 0,0:09:10.02,0:09:12.89,Gen_Main,Mai,0000,0000,0000,,¿Estás en el club de teatro, Akebi?
+Dialogue: 0,0:09:13.11,0:09:15.67,Gen_Main,Mai,0000,0000,0000,,¿Siempre ensayáis por aquí?
+Dialogue: 0,0:09:15.82,0:09:18.46,Gen_Main,Komichi,0000,0000,0000,,No. Generalmente es en la clase, pero
+Dialogue: 0,0:09:18.62,0:09:21.05,Gen_Main,Komichi,0000,0000,0000,,últimamente usamos\Nel patio y otros sitios.
+Dialogue: 0,0:09:21.58,0:09:23.25,Gen_Main,Komichi,0000,0000,0000,,La presidenta dice:
+Dialogue: 0,0:09:23.45,0:09:27.17,Gen_Main,Komichi,0000,0000,0000,,"Lo primero es poder\Nvocalizar en público".
+Dialogue: 0,0:09:28.46,0:09:29.53,Gen_Main,Mai,0000,0000,0000,,Te sale parecido.
+Dialogue: 0,0:09:30.00,0:09:35.88,Gen_Main,Komichi,0000,0000,0000,,Como es la primera vez que actúo,\Ndice que debo aprender bien lo básico.
+Dialogue: 0,0:09:37.13,0:09:41.22,Gen_Main,Komichi,0000,0000,0000,,En casa también ejercito el torso.
+Dialogue: 0,0:09:41.43,0:09:45.12,Gen_Main,Mai,0000,0000,0000,,Yo solo puedo intentar\Nseguirle el ritmo a las mayores.
+Dialogue: 0,0:09:45.27,0:09:46.75,Gen_Main,Komichi,0000,0000,0000,,Ya veo.
+Dialogue: 0,0:09:46.94,0:09:51.32,Gen_Main,Komichi,0000,0000,0000,,Pero es divertido poder ir haciendo\Nlo que antes no podías, ¿no?
+Dialogue: 0,0:09:52.61,0:09:53.61,Gen_Main,Mai,0000,0000,0000,,Sí.
+Dialogue: 0,0:09:55.57,0:09:59.99,Gen_Main,Komichi,0000,0000,0000,,Por cierto, tú compartes cuarto\Ncon Hebimori en la residencia, ¿no?
+Dialogue: 0,0:10:00.20,0:10:01.23,Gen_Main,Mai,0000,0000,0000,,Sí.
+Dialogue: 0,0:10:02.33,0:10:06.37,Gen_Main,Komichi,0000,0000,0000,,Entonces, la has escuchado\Ntocar la guitarra, ¿verdad?
+Dialogue: 0,0:10:13.59,0:10:18.59,Gen_Main,Oshizu,0000,0000,0000,,El acorde G. A ver… Un dedo\Nen la primera cuerda, traste 3.
+Dialogue: 0,0:10:19.05,0:10:24.66,Gen_Main,Oshizu,0000,0000,0000,,Otro en la quinta cuerda, traste 2\Ny otro en la sexta cuerda, traste 3.
+Dialogue: 0,0:10:24.85,0:10:26.54,Gen_Main,Oshizu,0000,0000,0000,,¿Eh? Qué difícil.
+Dialogue: 0,0:10:27.39,0:10:29.98,Gen_Main,Oshizu,0000,0000,0000,,¿Lo estoy haciendo bien?
+Dialogue: 0,0:10:30.19,0:10:34.56,Gen_Main,Oshizu,0000,0000,0000,,En fin. El próximo es el C.
+Dialogue: 0,0:10:35.15,0:10:39.99,Gen_Main,Oshizu,0000,0000,0000,,Segunda cuerda, traste 1.\NCuarta cuerda, traste 2.
+Dialogue: 0,0:10:40.70,0:10:45.97,Gen_Main,Oshizu,0000,0000,0000,,Quinta cuerda, traste 3.\NSexta cuerda, no se toca.
+Dialogue: 0,0:10:46.16,0:10:47.33,Gen_Main,Oshizu,0000,0000,0000,,¿No se toca?
+Dialogue: 0,0:10:48.96,0:10:51.96,Gen_Main,Oshizu,0000,0000,0000,,¡¿Y cuántos de estos acordes hay?!
+Dialogue: 0,0:10:55.75,0:10:56.55,Cart_C_Tre,Text,0000,0000,0000,,{\frz0.86\t(487,488,\3c&HE3DDD5&)\fad(1,103)\fs13\an7\c&HCF8A79&\pos(221,188)}¿Cuántos acordes existen?\NExplicación sencilla para principiantes
+Dialogue: 0,0:10:56.76,0:10:57.46,Cart_EX02,Text,0000,0000,0000,,{\pos(110,35)\blur1\frz0.14\fs32}Lección de guitarra del profesor
+Dialogue: 0,0:10:56.76,0:10:57.55,Cart_EX03,Text,0000,0000,0000,,{\pos(129,94)\fad(1,103)\c&HC0936E&}¿Cuántos acordes existen? Explicación sencilla para principiantes
+Dialogue: 0,0:11:00.26,0:11:01.43,Gen_Main,Oshizu,0000,0000,0000,,Esto es imposible.
+Dialogue: 0,0:11:02.43,0:11:04.68,Gen_Italics,Oshizu,0000,0000,0000,,Pero no los usaré todos.
+Dialogue: 0,0:11:05.06,0:11:07.36,Gen_Italics,Oshizu,0000,0000,0000,,Si solo aprendo los que necesito…
+Dialogue: 0,0:11:18.78,0:11:20.15,Gen_Main,Oshizu,0000,0000,0000,,Bienvenida.
+Dialogue: 0,0:11:20.61,0:11:21.65,Gen_Main,Mai,0000,0000,0000,,Ya he llegado.
+Dialogue: 0,0:11:22.03,0:11:25.83,Gen_Main,Oshizu,0000,0000,0000,,Togano, me habías dicho\Nque este juego era divertido, ¿no?
+Dialogue: 0,0:11:28.41,0:11:31.06,Gen_Main,Mai,0000,0000,0000,,Antes me encontré\Ncon Akebi después del club.
+Dialogue: 0,0:11:31.54,0:11:33.61,Gen_Main,Oshizu,0000,0000,0000,,Vaya…
+Dialogue: 0,0:11:34.96,0:11:37.83,Gen_Main,Mai,0000,0000,0000,,Dice que tiene ganas\Nde oírte tocar la guitarra.
+Dialogue: 0,0:11:39.09,0:11:40.66,Gen_Main,Mai,0000,0000,0000,,¿Hoy no tocarás?
+Dialogue: 0,0:11:41.80,0:11:45.69,Gen_Main,Oshizu,0000,0000,0000,,Parece que hay muchas formas\Nde tocar la guitarra.
+Dialogue: 0,0:11:47.10,0:11:50.98,Gen_Main,Oshizu,0000,0000,0000,,Y usan la C, E\Ny muchas letras del alfabeto.
+Dialogue: 0,0:11:51.18,0:11:53.99,Gen_Main,Oshizu,0000,0000,0000,,Apenas puedo seguirle\Nel ritmo a las clases,
+Dialogue: 0,0:11:54.19,0:11:56.73,Gen_Main,Oshizu,0000,0000,0000,,así que nunca podría aprender.
+Dialogue: 0,0:11:56.90,0:12:00.41,Gen_Main,Mai,0000,0000,0000,,En ese caso,\Ndeberías decírselo pronto a Akebi.
+Dialogue: 0,0:12:05.07,0:12:07.52,Gen_Main,Oshizu,0000,0000,0000,,Giré una especie de tornillo\Ny se cortó una.
+Dialogue: 0,0:12:08.33,0:12:10.66,Gen_Main,Mai,0000,0000,0000,,Esas cuerdas estaban oxidadas.
+Dialogue: 0,0:12:10.83,0:12:11.98,Gen_Main,Oshizu,0000,0000,0000,,Cierto.
+Dialogue: 0,0:12:12.16,0:12:15.47,Gen_Main,Oshizu,0000,0000,0000,,Pero soy tan ignorante que ni lo sabía.
+Dialogue: 0,0:12:15.67,0:12:16.75,Gen_Main,Mai,0000,0000,0000,,¿Qué harás?
+Dialogue: 0,0:12:17.25,0:12:21.42,Gen_Main,Oshizu,0000,0000,0000,,Pues me gustaría aprender\Na tocar, pero ya ves.
+Dialogue: 0,0:12:21.72,0:12:23.90,Gen_Main,Oshizu,0000,0000,0000,,Aunque empiece a tocar ahora, no…
+Dialogue: 0,0:12:24.05,0:12:26.68,Gen_Main,Mai,0000,0000,0000,,Nadie lo hace bien a la primera.
+Dialogue: 0,0:12:28.18,0:12:31.52,Gen_Main,Mai,0000,0000,0000,,Por eso yo también\Nentreno todos los días.
+Dialogue: 0,0:12:39.40,0:12:41.25,Gen_Main,Mai,0000,0000,0000,,He vuelto a ganar.
+Dialogue: 0,0:12:42.44,0:12:44.77,Gen_Main,Oshizu,0000,0000,0000,,Eres muy buena, Togano.
+Dialogue: 0,0:12:50.12,0:12:51.50,Gen_Main,Chica 13,0000,0000,0000,,¡Bien! ¡Por aquí!
+Dialogue: 0,0:12:51.70,0:12:53.90,Gen_Main,Chica 14,0000,0000,0000,,Así, mueve las piernas.
+Dialogue: 0,0:13:01.38,0:13:04.71,Gen_Italics,Oshizu,0000,0000,0000,,Tatsumori está en el club de atletismo.
+Dialogue: 0,0:13:04.93,0:13:06.97,Gen_Main,Komichi,0000,0000,0000,,¡A, e, i, u, e…!
+Dialogue: 0,0:13:07.18,0:13:09.30,Gen_Main,Presidenta,0000,0000,0000,,Sigue así, Komichi Akebi.
+Dialogue: 0,0:13:09.47,0:13:12.26,Gen_Main,Komichi,0000,0000,0000,,¡A, e, i, u, e…!
+Dialogue: 0,0:13:12.43,0:13:14.25,Gen_Main,Presidenta,0000,0000,0000,,Saca la voz desde el estómago.
+Dialogue: 0,0:13:14.98,0:13:16.45,Gen_Italics,Oshizu,0000,0000,0000,,Akebi.
+Dialogue: 0,0:13:19.15,0:13:21.02,Gen_Main,Presidenta,0000,0000,0000,,Tu voz está mejor que ayer.
+Dialogue: 0,0:13:21.23,0:13:24.49,Gen_Italics,Oshizu / Komichi,0000,0000,0000,,-Está toda sudada…\N-{\i0}¡Sí!{\i1}
+Dialogue: 0,0:13:24.65,0:13:26.68,Gen_Italics,Oshizu,0000,0000,0000,,Pero como que…
+Dialogue: 0,0:13:47.18,0:13:50.36,Gen_Main,Entrenadora,0000,0000,0000,,Bien, Togao. En el próximo entrenamiento\Nentrarás como alero.
+Dialogue: 0,0:13:50.57,0:13:51.47,Gen_Main,Mai,0000,0000,0000,,Sí.
+Dialogue: 0,0:13:52.51,0:13:53.72,Gen_Italics,Oshizu,0000,0000,0000,,Togano también.
+Dialogue: 0,0:14:03.69,0:14:05.09,Gen_Main,Oshizu,0000,0000,0000,,Lo conseguí.
+Dialogue: 0,0:14:14.54,0:14:17.04,Cart_C_Tre,Text,0000,0000,0000,,{\b0\bord0\shad0\fs18\c&HB9B6B8&\pos(328,49)}Canciones en guitarra para principiantes
+Dialogue: 0,0:14:14.54,0:14:17.04,Cart_C_Tre,Text,0000,0000,0000,,{\an1\c&H9984CF&\fs13\3c&HF5F7F7&\pos(307,149)}[Canciones de guitarra para principiantes]\NPara tocar con acordes simples
+Dialogue: 0,0:14:14.54,0:14:17.04,Cart_C_Tre,Text,0000,0000,0000,,{\an1\c&H9984CF&\fs13\3c&HF5F7F7&\pos(307,149)}[Canciones de guitarra para principiantes]\NPara tocar con acordes simples
+Dialogue: 0,0:14:14.54,0:14:17.04,Cart_C_Tre,Text,0000,0000,0000,,{\an1\fs13\c&H795EB9&\pos(306,282)}[Para principiantes en la guitarra]\NEsa famosa canción con acordes y arreglos
+Dialogue: 0,0:14:15.33,0:14:19.65,Gen_Main,Mai,0000,0000,0000,,Antes no podía encestar ningún tiro.
+Dialogue: 0,0:14:20.04,0:14:21.06,Gen_Main,Oshizu,0000,0000,0000,,¿Qué?
+Dialogue: 0,0:14:21.21,0:14:24.59,Gen_Main,Mai,0000,0000,0000,,Después de todo,\Nquería empezar haciendo tiros largos.
+Dialogue: 0,0:14:24.75,0:14:27.34,Gen_Main,Oshizu,0000,0000,0000,,Eso sí que fue arriesgado.
+Dialogue: 0,0:14:27.51,0:14:29.74,Gen_Main,Mai,0000,0000,0000,,Incluso ahora fallo bastante,
+Dialogue: 0,0:14:30.80,0:14:35.78,Gen_Main,Mai,0000,0000,0000,,pero al practicar cerca del aro\Ne ir alejándome poco a poco…
+Dialogue: 0,0:14:36.85,0:14:39.69,Gen_Main,Mai,0000,0000,0000,,Por eso creo que hay…
+Dialogue: 0,0:14:41.35,0:14:44.32,Gen_Main,Mai,0000,0000,0000,,un método que te sirva a ti.
+Dialogue: 0,0:14:47.90,0:14:49.93,Gen_Main,Oshizu,0000,0000,0000,,Conozco esta canción.
+Dialogue: 0,0:16:25.83,0:16:26.96,Gen_Main,Mai,0000,0000,0000,,¿Estás lista?
+Dialogue: 0,0:16:27.84,0:16:28.95,Gen_Main,Oshizu,0000,0000,0000,,Sí.
+Dialogue: 0,0:16:35.89,0:16:37.96,Gen_Main,Komichi / Mai,0000,0000,0000,,-Buenos días.\N-Buenos días.
+Dialogue: 0,0:16:39.31,0:16:40.96,Gen_Main,Oshizu,0000,0000,0000,,Buenos días.
+Dialogue: 0,0:16:42.77,0:16:46.94,Gen_Main,Oshizu,0000,0000,0000,,Akebi, ¿tienes tiempo hoy\Ndespués de clase?
+Dialogue: 0,0:16:49.86,0:16:51.99,Gen_Main,Komichi,0000,0000,0000,,Con permiso.
+Dialogue: 0,0:16:52.74,0:16:54.99,Gen_Main,Komichi,0000,0000,0000,,Me late el corazón, estoy muy nerviosa.
+Dialogue: 0,0:16:55.16,0:16:57.31,Gen_Main,Oshizu,0000,0000,0000,,Eso debería decir yo.
+Dialogue: 0,0:16:57.53,0:16:58.70,Gen_Main,Komichi,0000,0000,0000,,Claro.
+Dialogue: 0,0:17:00.37,0:17:02.69,Gen_Main,Oshizu,0000,0000,0000,,Bueno, allá voy.
+Dialogue: 0,0:18:13.53,0:18:15.76,Gen_Main,Touko,0000,0000,0000,,Oh, conque aquí estabas, Kizaki.
+Dialogue: 0,0:18:16.95,0:18:18.02,Gen_Main,Erika,0000,0000,0000,,Pues claro.
+Dialogue: 0,0:18:18.20,0:18:21.06,Gen_Italics,Komichi,0000,0000,0000,,No sabía que Erika tocaba el piano.
+Dialogue: 0,0:18:21.24,0:18:23.70,Gen_Main,Touko,0000,0000,0000,,Cierto, cierto.
+Dialogue: 0,0:18:23.87,0:18:26.75,Gen_Main,Erika,0000,0000,0000,,¿Qué quieres? Debo irme al club.
+Dialogue: 0,0:18:26.96,0:18:29.27,Gen_Main,Touko,0000,0000,0000,,Vaya, tan seca como siempre.
+Dialogue: 0,0:18:29.46,0:18:31.36,Gen_Main,Touko,0000,0000,0000,,Asustaste a Ai el otro día, ¿sabes?
+Dialogue: 0,0:18:31.54,0:18:35.47,Gen_Main,Touko,0000,0000,0000,,Como siempre que voy a tu cuarto\Npones cara de molestia,
+Dialogue: 0,0:18:35.67,0:18:38.87,Gen_Main,Touko,0000,0000,0000,,me preguntó si podía pasarme\Na mí las cartas de la residencia.
+Dialogue: 0,0:18:39.09,0:18:40.16,Gen_Main,Erika,0000,0000,0000,,¿Qué?
+Dialogue: 0,0:18:40.32,0:18:45.18,Gen_Main,Touko,0000,0000,0000,,Por eso le dije que dabas mucho miedo\Ncuando te hacían enfadar.
+Dialogue: 0,0:18:45.35,0:18:47.52,Gen_Main,Erika,0000,0000,0000,,¡No le metas ideas raras!
+Dialogue: 0,0:18:47.68,0:18:49.43,Gen_Main,Touko,0000,0000,0000,,Vamos, es verdad.
+Dialogue: 0,0:18:49.64,0:18:53.04,Gen_Main,Erika / Touko,0000,0000,0000,,-No soy así con todos.\N-¡O sea, que…!
+Dialogue: 0,0:18:55.78,0:18:58.47,Gen_Main,Komichi,0000,0000,0000,,Nunca había visto a Erika así.
+Dialogue: 0,0:19:00.20,0:19:02.80,Gen_Main,Komichi,0000,0000,0000,,Pero qué bien toca el piano.
+Dialogue: 0,0:19:04.49,0:19:06.24,Gen_Main,Oshizu / Komichi,0000,0000,0000,,-Lo siento.\N-¿Qué?
+Dialogue: 0,0:19:08.08,0:19:10.28,Gen_Main,Oshizu,0000,0000,0000,,Lo sabía, no puedo.
+Dialogue: 0,0:19:10.79,0:19:13.84,Gen_Main,Oshizu,0000,0000,0000,,No puedo tocar después de Erika Kizaki.
+Dialogue: 0,0:19:14.04,0:19:15.39,Gen_Main,Komichi,0000,0000,0000,,¡Espera!
+Dialogue: 0,0:19:15.59,0:19:17.99,Gen_Main,Oshizu,0000,0000,0000,,Yo te mentí.
+Dialogue: 0,0:19:18.72,0:19:21.14,Gen_Main,Oshizu,0000,0000,0000,,La verdad es que\Nno sé tocar la guitarra.
+Dialogue: 0,0:19:21.69,0:19:22.71,Gen_Main,Oshizu,0000,0000,0000,,Hasta otra.
+Dialogue: 0,0:19:26.06,0:19:27.72,Gen_Main,Komichi,0000,0000,0000,,¡Quiero oírte!
+Dialogue: 0,0:19:28.52,0:19:30.23,Gen_Main,Komichi,0000,0000,0000,,Por favor, déjame oírte.
+Dialogue: 0,0:19:49.87,0:19:53.91,Gen_Italics,Oshizu,0000,0000,0000,,No te olvidaré
+Dialogue: 0,0:19:54.42,0:19:59.42,Gen_Italics,Oshizu,0000,0000,0000,,Sigo por este camino serpenteante
+Dialogue: 0,0:19:59.76,0:20:04.92,Gen_Italics,Oshizu,0000,0000,0000,,junto a este sol recién nacido
+Dialogue: 0,0:20:05.22,0:20:10.72,Gen_Italics,Oshizu,0000,0000,0000,,y esta arena amarilla\Nque atraviesa mis sueños
+Dialogue: 0,0:20:11.89,0:20:15.92,Gen_Italics,Oshizu,0000,0000,0000,,Nunca más podré volver
+Dialogue: 0,0:20:16.11,0:20:21.39,Gen_Italics,Oshizu,0000,0000,0000,,a ese día en que rodábamos\Nhaciéndonos cosquillas
+Dialogue: 0,0:20:21.61,0:20:27.54,Gen_Italics,Oshizu,0000,0000,0000,,Seguro que ese futuro\Nmás agitado de lo que imaginé
+Dialogue: 0,0:20:27.74,0:20:31.63,Gen_Italics,Oshizu,0000,0000,0000,,me está esperando
+Dialogue: 0,0:20:31.83,0:20:37.79,Gen_Italics,Oshizu,0000,0000,0000,,Con solo oír el eco de un "Te amo"
+Dialogue: 0,0:20:37.96,0:20:43.13,Gen_Italics,Oshizu,0000,0000,0000,,siento que puedo volverme más fuerte
+Dialogue: 0,0:20:43.30,0:20:48.76,Gen_Italics,Oshizu,0000,0000,0000,,Y esta pequeña felicidad
+Dialogue: 0,0:20:48.93,0:20:55.69,Gen_Italics,Oshizu,0000,0000,0000,,quiero abrazarla hasta casi aplastarla
+Dialogue: 0,0:21:15.46,0:21:17.94,Gen_Main,Oshizu,0000,0000,0000,,No, así no es.
+Dialogue: 0,0:21:21.55,0:21:23.34,Gen_Main,Oshizu / Mai,0000,0000,0000,,-Me salió.\N-¿El qué?
+Dialogue: 0,0:21:23.51,0:21:25.34,Gen_Main,Oshizu,0000,0000,0000,,¡Oh, Togano!
+Dialogue: 0,0:21:25.51,0:21:27.49,Gen_Main,Oshizu,0000,0000,0000,,El acorde F.
+Dialogue: 0,0:21:28.14,0:21:30.79,Gen_Main,Mai,0000,0000,0000,,Vaya… ¿Qué?
+Dialogue: 0,0:21:32.77,0:21:34.61,Gen_Main,Oshizu,0000,0000,0000,,Es muy importante.
+Dialogue: 0,0:21:34.81,0:21:39.40,Gen_Main,Oshizu,0000,0000,0000,,La próxima vez le tocaré una canción\Nmucho mejor que la anterior.
+Dialogue: 0,0:21:41.40,0:21:44.04,Gen_Main,Mai / Oshizu,0000,0000,0000,,-Déjame oírlo de nuevo.\N-¿Qué?
+Dialogue: 0,0:21:44.53,0:21:45.81,Gen_Main,Mai,0000,0000,0000,,El acorde F.
+Dialogue: 0,0:21:46.40,0:21:49.32,Gen_Main,Oshizu,0000,0000,0000,,Bueno, ya que insistes.
+Dialogue: 0,0:21:50.28,0:21:54.58,Gen_Italics,Komichi,0000,0000,0000,,Hoy pude oír tocar a Kizaki y Hebimori.
+Dialogue: 0,0:21:54.95,0:21:59.12,Gen_Italics,Komichi,0000,0000,0000,,Y decidí esforzarme\Naún más en el club de teatro.
+Dialogue: 0,0:21:59.29,0:22:02.50,Gen_Main,Kao / Komichi,0000,0000,0000,,-Hermana, ya va a empezar.\N-Sí.
+Dialogue: 0,0:22:02.67,0:22:06.02,Gen_Italics,TV,0000,0000,0000,,Ahora doblamos las rodillas,\Nestiramos los brazos
+Dialogue: 0,0:22:06.17,0:22:08.05,Gen_Italics,TV,0000,0000,0000,,y los juntamos sobre la cabeza.
+Dialogue: 0,0:22:08.22,0:22:09.73,Gen_Main,Kao / Komichi,0000,0000,0000,,¡Los juntamos!

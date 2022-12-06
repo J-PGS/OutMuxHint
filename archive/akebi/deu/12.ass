@@ -1,0 +1,203 @@
+﻿[Script Info]
+Title: Deutsch
+Original Script: cr_de  [http://www.crunchyroll.com/user/cr_de]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,23,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,0000,0000,0020,1
+Style: Internal,Arial,23,&H00FFFFFF,&H000000FF,&H001E0200,&H00000000,-1,-1,0,0,100,100,0,0,1,2,0,2,0000,0000,0020,1
+Style: Internal Top,Arial,23,&H00FFFFFF,&H000000FF,&H001E0200,&H00000000,-1,-1,0,0,100,100,0,0,1,2,0,8,0000,0000,0020,1
+Style: Flashback,Arial,23,&H00F7ECEB,&H000000FF,&H004D0701,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,0000,0000,0020,1
+Style: Flashback Internal,Arial,23,&H00F7ECEB,&H000000FF,&H004D0701,&H00000000,-1,-1,0,0,100,100,0,0,1,2,0,2,0000,0000,0020,1
+Style: Flashback Top,Arial,23,&H00F7ECEB,&H000000FF,&H004D0701,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0000,0000,0020,1
+Style: Overlap,Arial,23,&H00F3EDE3,&H000000FF,&H00362B17,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,0000,0000,0020,1
+Style: Top,Arial,23,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0000,0000,0020,1
+Style: Narrator,Arial,23,&H00F2F2F9,&H000000FF,&H00000050,&H00000050,-1,-1,0,0,100,100,0,0,1,2,0,2,0000,0000,0020,1
+Style: TypePlaceholder,Arial,19,&H00000000,&H000000FF,&H00FFFFFF,&H00FFFFFF,0,0,0,0,100,100,0,0,1,0,0,8,0010,0010,0020,1
+Style: Eptitel,Georgia,16,&H00000000,&H000000FF,&H00FFFFFF,&H00FFFFFF,0,-1,0,0,100,100,0,0,1,1,0,8,0010,0010,0020,1
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 1,0:00:09.98,0:00:12.85,TypePlaceholder,,0000,0000,0000,,{\fnGeorgia\b1\c&H4763E3&\bord5\3c&HE5ECEC&\fs24\move(216,294,213,240)\fad(0,200)}Sportfest der {\c&H4C7DBA&\bord2\3c&HF8FEF0&}Robai-Akademie
+Dialogue: 0,0:00:09.98,0:00:12.85,TypePlaceholder,,0000,0000,0000,,{\fnGeorgia\b1\c&H5B4ED3&\bord6\3c&HDEB7A8&\fs24\move(216,294,213,240)\fad(0,200)}Sportfest der {\alpha&HFF&}Robai-Akademie
+Dialogue: 0,0:00:29.55,0:00:31.21,Default,,0000,0000,0000,,Schnell! Schnell!
+Dialogue: 0,0:00:38.20,0:00:40.17,Default,,0000,0000,0000,,Die erste Gruppe bitte hier entlang!
+Dialogue: 0,0:00:40.17,0:00:44.02,Default,,0000,0000,0000,,Der Musikklub kann loslegen!
+Dialogue: 0,0:02:27.28,0:02:30.50,Eptitel,,0000,0000,0000,,{\fax0.2\fs10\fad(1200,0)\bord1\blur4\3a&H88&\pos(119.19,72.24)}Zwölfte Folge\N{\fs15}Aber ich bin nicht alleine
+Dialogue: 0,0:02:30.50,0:02:34.00,TypePlaceholder,,0000,0000,0000,,{\c&H14165E&\fnGeorgia\b1\fs24\3c&H104669&\bord2\frz359.2\pos(481.334,37.332)}1. Jahrgangsstufe
+Dialogue: 0,0:02:30.50,0:02:34.00,TypePlaceholder,,0000,0000,0000,,{\c&H0D1518&\fnGeorgia\b1\fs24\3c&H334E5B&\bord2\frz356.6\pos(477.334,144.666)}Wir holen uns den Sieg
+Dialogue: 0,0:02:37.21,0:02:39.05,Default,,0000,0000,0000,,Danke schön!
+Dialogue: 0,0:02:42.68,0:02:44.01,Default,,0000,0000,0000,,Okidoki!
+Dialogue: 0,0:02:44.01,0:02:47.52,Default,,0000,0000,0000,,Genießt ihr auch alle den Festabschluss?
+Dialogue: 0,0:02:47.52,0:02:49.47,Default,,0000,0000,0000,,Ja!
+Dialogue: 0,0:02:49.47,0:02:52.90,Default,,0000,0000,0000,,Sehr schön! Ihr seid ja total angefacht!
+Dialogue: 0,0:02:54.77,0:02:58.68,Default,,0000,0000,0000,,Als Nächstes bitten wir um\NAufmerksamkeit für den Theaterklub!
+Dialogue: 0,0:03:04.95,0:03:06.37,Default,,0000,0000,0000,,Usagihara?
+Dialogue: 0,0:03:08.20,0:03:11.92,Default,,0000,0000,0000,,Dieses Jahr tritt bei ihnen nur ein\NMädchen aus dem ersten Jahrgang auf!
+Dialogue: 0,0:03:12.31,0:03:16.13,Default,,0000,0000,0000,,Dieses Mädchen hat auf der ganzen\NAkademie für großen Wirbel gesorgt!
+Dialogue: 0,0:03:17.40,0:03:18.88,Default,,0000,0000,0000,,Schweißlevel im Normalbereich?
+Dialogue: 0,0:03:18.88,0:03:19.55,Default,,0000,0000,0000,,Ja.
+Dialogue: 0,0:03:20.13,0:03:23.52,Default,,0000,0000,0000,,Blickt man ihr in die Augen,\Ngrüßt sie einen immer ganz lieb.
+Dialogue: 0,0:03:23.52,0:03:26.35,Default,,0000,0000,0000,,Ihr Markenzeichen\Nist ihre Matrosenuniform.
+Dialogue: 0,0:03:26.35,0:03:30.33,Default,,0000,0000,0000,,Du gehst auf die Bühne,\Nwenn dich der Rundfunkklub aufruft.
+Dialogue: 0,0:03:30.33,0:03:31.02,Default,,0000,0000,0000,,Okay.
+Dialogue: 0,0:03:33.11,0:03:34.88,Default,,0000,0000,0000,,Bist du nervös?
+Dialogue: 0,0:03:34.88,0:03:36.11,Default,,0000,0000,0000,,Ja, ein wenig.
+Dialogue: 0,0:03:37.14,0:03:39.86,Default,,0000,0000,0000,,Keine Sorge! Du packst das, Akebi!
+Dialogue: 0,0:03:39.86,0:03:42.07,Default,,0000,0000,0000,,Auch ich feuere dich kräftig an!
+Dialogue: 0,0:03:43.11,0:03:44.21,Default,,0000,0000,0000,,Okay!
+Dialogue: 0,0:03:44.21,0:03:46.37,Default,,0000,0000,0000,,Na, wisst ihr schon, wen wir meinen?
+Dialogue: 0,0:03:46.37,0:03:48.87,Default,,0000,0000,0000,,Nun gut, die Bühne gehört dir!
+Dialogue: 0,0:04:07.88,0:04:09.89,Internal,,0000,0000,0000,,Ich kann überhaupt nichts hören.
+Dialogue: 0,0:04:12.02,0:04:13.89,Internal,,0000,0000,0000,,Fast so als wäre ich unter Wasser.
+Dialogue: 0,0:04:36.45,0:04:38.46,Flashback,,0000,0000,0000,,Vielen Dank!
+Dialogue: 0,0:04:40.71,0:04:44.01,Flashback,,0000,0000,0000,,Deine musikalische Begleitung\Nhat für gute Stimmung gesorgt, Kizaki.
+Dialogue: 0,0:04:44.01,0:04:47.39,Flashback,,0000,0000,0000,,Ich war selbst überrascht, dass ich\Nin diesem Moment so spielen konnte.
+Dialogue: 0,0:04:48.57,0:04:53.18,Flashback,,0000,0000,0000,,Ähm, danke nochmals,\Ndass du mir die CD ausgeliehen hast.
+Dialogue: 0,0:04:54.08,0:04:57.02,Flashback,,0000,0000,0000,,Ach, hab ich gerne gemacht.\NAkebi hat sich darüber gefreut.
+Dialogue: 0,0:05:03.65,0:05:06.95,Flashback,,0000,0000,0000,,Der Song, zu dem du tanzen willst,\Nhat auch eine Klavierbegleitung, richtig?
+Dialogue: 0,0:05:06.95,0:05:10.33,Flashback,,0000,0000,0000,,Ja, genau! Ich bin ganz verrückt\Nnach dieser Klavierversion.
+Dialogue: 0,0:05:10.33,0:05:14.22,Flashback,,0000,0000,0000,,Was wäre, wenn jemand zum\NFestabschluss auf dem Klavier spielt?
+Dialogue: 0,0:05:14.22,0:05:15.66,Flashback,,0000,0000,0000,,Was?
+Dialogue: 0,0:05:15.66,0:05:19.04,Flashback,,0000,0000,0000,,So etwas Traumhaftes wäre\Nfür mich unvorstellbar.
+Dialogue: 0,0:05:20.05,0:05:23.01,Internal,,0000,0000,0000,,Das ist unvorstellbar.
+Dialogue: 0,0:05:43.73,0:05:45.36,Default,,0000,0000,0000,,Dieser Tanz …
+Dialogue: 0,0:05:48.99,0:05:51.28,Flashback,,0000,0000,0000,,Immer heiter weiter!
+Dialogue: 0,0:06:03.54,0:06:06.13,Internal,,0000,0000,0000,,Das war auch ihr Anfeuertanz.
+Dialogue: 0,0:06:06.65,0:06:10.05,Internal,,0000,0000,0000,,Akebi ist die ganze Zeit über gerannt.
+Dialogue: 0,0:06:10.45,0:06:13.04,Internal,,0000,0000,0000,,Immer sah ich,\Nwie sie alle fröhlich anfeuerte,
+Dialogue: 0,0:06:13.04,0:06:14.33,Internal,,0000,0000,0000,,aber jetzt …
+Dialogue: 0,0:06:14.33,0:06:17.56,Internal,,0000,0000,0000,,Menno, ich bin wirklich eine Dumpfbacke.
+Dialogue: 0,0:06:18.35,0:06:21.44,Internal,,0000,0000,0000,,Von hier aus kann ich Komichi\Ngar nicht zuschauen.
+Dialogue: 0,0:06:25.25,0:06:26.57,Internal,,0000,0000,0000,,Auch egal.
+Dialogue: 0,0:06:27.34,0:06:28.65,Internal,,0000,0000,0000,,Ich erinnere mich an sie.
+Dialogue: 0,0:06:39.57,0:06:40.33,Internal,,0000,0000,0000,,Schließlich …
+Dialogue: 0,0:06:41.37,0:06:43.09,Internal,,0000,0000,0000,,habe ich sie seit heute Morgen …
+Dialogue: 0,0:06:57.72,0:07:00.06,Default,,0000,0000,0000,,Jetzt kriege ich es auch hin.
+Dialogue: 0,0:07:00.73,0:07:02.60,Default,,0000,0000,0000,,Wir haben auch die ganze Zeit trainiert.
+Dialogue: 0,0:07:03.85,0:07:06.86,Internal,,0000,0000,0000,,Akebi hat immer …
+Dialogue: 0,0:07:31.14,0:07:33.84,Flashback,,0000,0000,0000,,Dort kann sie ihn doch\Nniemals zurückschlagen!
+Dialogue: 0,0:07:55.85,0:07:59.16,Flashback,,0000,0000,0000,,Hotaru! Du musst deswegen nicht weinen!
+Dialogue: 0,0:08:01.04,0:08:02.75,Internal,,0000,0000,0000,,Seit diesem Match …
+Dialogue: 0,0:08:40.41,0:08:41.54,Internal,,0000,0000,0000,,Die ganze Zeit …
+Dialogue: 0,0:08:41.54,0:08:42.66,Internal,,0000,0000,0000,,… hat sie uns …
+Dialogue: 0,0:08:43.79,0:08:44.92,Internal,,0000,0000,0000,,… angefeuert.
+Dialogue: 0,0:08:49.80,0:08:52.63,Internal,,0000,0000,0000,,Jetzt sind wir dran, sie anzufeuern!
+Dialogue: 0,0:09:16.41,0:09:17.91,TypePlaceholder,,0000,0000,0000,,{\c&H9A9084&\fnComic Sans MS\b1\move(314,112,326,80,0,500)\frz5.544\t(0,500,\frz-1.1)}Akebi
+Dialogue: 0,0:09:23.08,0:09:25.46,Internal,,0000,0000,0000,,Ich kann genau hören,\Nwie ihr mich anfeuert.
+Dialogue: 0,0:09:27.74,0:09:31.02,Flashback,,0000,0000,0000,,Dritter Abschlusskurs!\NErster Jahrgang, Klasse C!
+Dialogue: 0,0:09:42.17,0:09:44.18,Flashback,,0000,0000,0000,,Streng dich an!
+Dialogue: 0,0:09:44.77,0:09:45.62,Flashback,,0000,0000,0000,,Okuma!
+Dialogue: 0,0:09:45.62,0:09:47.02,Flashback,,0000,0000,0000,,Du schaffst das!
+Dialogue: 0,0:09:56.03,0:09:59.16,Flashback,,0000,0000,0000,,Du packst das, Tatsumori!
+Dialogue: 0,0:09:59.16,0:10:02.37,Flashback,,0000,0000,0000,,Ist egal, welchen Platz\Nwir am Ende belegen, Komichi.
+Dialogue: 0,0:10:03.45,0:10:05.50,Flashback,,0000,0000,0000,,Danke, dass du dir solche Sorgen machst.
+Dialogue: 0,0:10:06.17,0:10:09.42,Flashback,,0000,0000,0000,,Dann will ich mir mal\Nden Schweiß wegwaschen!
+Dialogue: 0,0:10:09.42,0:10:10.67,Flashback,,0000,0000,0000,,Okay.
+Dialogue: 0,0:10:22.43,0:10:25.35,Flashback,,0000,0000,0000,,Komichi!
+Dialogue: 0,0:10:22.43,0:10:25.35,Overlap,,0000,0000,0000,,Streng dich an, Akebi!
+Dialogue: 0,0:10:25.35,0:10:26.42,Flashback,,0000,0000,0000,,Akebi!
+Dialogue: 0,0:10:26.42,0:10:27.48,Flashback,,0000,0000,0000,,Du schaffst das!
+Dialogue: 0,0:10:41.24,0:10:44.12,Flashback,,0000,0000,0000,,Drück auf die Tube, Riri!
+Dialogue: 0,0:10:49.50,0:10:51.21,Flashback,,0000,0000,0000,,Mach weiter!
+Dialogue: 0,0:10:50.14,0:10:51.21,Overlap,,0000,0000,0000,,Bleib dran!
+Dialogue: 0,0:10:57.71,0:11:00.05,Flashback,,0000,0000,0000,,Hol dir den Sieg!
+Dialogue: 0,0:11:08.81,0:11:11.94,Flashback,,0000,0000,0000,,Der erste Platz! Der erste\NPlatz geht an Klasse C!
+Dialogue: 0,0:11:20.32,0:11:22.57,Internal,,0000,0000,0000,,Alleine hätte ich das\Nniemals zustande gebracht.
+Dialogue: 0,0:11:24.41,0:11:26.33,Internal,,0000,0000,0000,,Aber ich bin nicht alleine.
+Dialogue: 0,0:11:30.51,0:11:33.50,Internal,,0000,0000,0000,,Komichi war bisher immer\Nfür eine Überraschung gut.
+Dialogue: 0,0:11:34.57,0:11:36.34,Internal,,0000,0000,0000,,Seit unserer ersten\NBegegnung bis heute …
+Dialogue: 0,0:11:36.75,0:11:37.75,Internal,,0000,0000,0000,,Die ganze Zeit …
+Dialogue: 0,0:11:39.92,0:11:42.34,Flashback,,0000,0000,0000,,In der zweiten Hälfte wird Geige gespielt.
+Dialogue: 0,0:12:24.37,0:12:29.39,Internal,,0000,0000,0000,,Gerade weil Komichi in mein Leben getreten war,\Nerinnerte ich mich daran …
+Dialogue: 0,0:12:33.62,0:12:35.56,Internal,,0000,0000,0000,,… wie viel Spaß mir das Spielen macht.
+Dialogue: 0,0:13:03.26,0:13:04.67,Flashback,,0000,0000,0000,,Wir müssen zur letzten Disziplin!
+Dialogue: 0,0:13:04.67,0:13:06.43,Flashback,,0000,0000,0000,,Schnell! Schnell!
+Dialogue: 0,0:13:06.73,0:13:07.68,Flashback,,0000,0000,0000,,Das Finale fängt an!
+Dialogue: 0,0:13:15.94,0:13:18.31,Flashback,,0000,0000,0000,,Oh, mir rutscht das Herz in die Hose.
+Dialogue: 0,0:13:20.23,0:13:21.94,Flashback,,0000,0000,0000,,Hau ihn weg, Riri!
+Dialogue: 0,0:13:25.95,0:13:27.28,Flashback,,0000,0000,0000,,Hab ihn!
+Dialogue: 0,0:13:32.83,0:13:36.17,Flashback Internal,,0000,0000,0000,,Wir haben meinetwegen\Ndie Führung verloren.
+Dialogue: 0,0:13:36.71,0:13:37.29,Flashback,,0000,0000,0000,,Entschuldigung!
+Dialogue: 0,0:13:40.79,0:13:42.55,Flashback,,0000,0000,0000,,Das war ein guter Hechtsprung.
+Dialogue: 0,0:13:42.55,0:13:43.85,Flashback,,0000,0000,0000,,Komichi!
+Dialogue: 0,0:13:43.85,0:13:45.30,Flashback,,0000,0000,0000,,Bleib dran!
+Dialogue: 0,0:13:45.30,0:13:47.09,Flashback,,0000,0000,0000,,Nehmt euch an Komi ein Beispiel!
+Dialogue: 0,0:14:25.88,0:14:27.84,Flashback,,0000,0000,0000,,Wir holen uns den Sieg im letzten Satz!
+Dialogue: 0,0:14:27.84,0:14:29.84,Flashback,,0000,0000,0000,,Lasst uns auf jeden Fall gewinnen!
+Dialogue: 0,0:14:49.11,0:14:51.11,Flashback Internal,,0000,0000,0000,,Ich krieg ihn um jeden Preis!
+Dialogue: 0,0:15:03.63,0:15:05.88,Flashback,,0000,0000,0000,,Minakami hat ihn zurückgeschossen! Aber …
+Dialogue: 0,0:15:09.17,0:15:10.13,Flashback,,0000,0000,0000,,Sie hat ihn!
+Dialogue: 0,0:15:11.13,0:15:12.89,Flashback,,0000,0000,0000,,Es ist noch nicht vorbei!
+Dialogue: 0,0:15:24.82,0:15:26.86,Flashback,,0000,0000,0000,,Komi!
+Dialogue: 0,0:15:30.86,0:15:32.95,Internal,,0000,0000,0000,,Ein Scheitern ist undenkbar.
+Dialogue: 0,0:15:39.94,0:15:40.87,Internal,,0000,0000,0000,,Schließlich …
+Dialogue: 0,0:15:42.54,0:15:44.58,Internal,,0000,0000,0000,,hab ich sogar das hinbekommen.
+Dialogue: 0,0:15:54.17,0:15:56.10,Internal,,0000,0000,0000,,Ich hab es hinbekommen!
+Dialogue: 0,0:16:46.94,0:16:47.77,Default,,0000,0000,0000,,Akebi!
+Dialogue: 0,0:16:47.77,0:16:51.02,Default,,0000,0000,0000,,Akebi! Du warst fabelhaft!
+Dialogue: 0,0:16:52.61,0:16:53.80,Default,,0000,0000,0000,,Akebi!
+Dialogue: 0,0:16:53.80,0:16:55.24,Default,,0000,0000,0000,,Akebi! Du warst wundervoll!
+Dialogue: 0,0:16:55.24,0:16:57.66,Default,,0000,0000,0000,,Das war so schön!
+Dialogue: 0,0:17:12.68,0:17:13.63,Default,,0000,0000,0000,,Erika …
+Dialogue: 0,0:17:14.08,0:17:15.22,Default,,0000,0000,0000,,Danke schön.
+Dialogue: 0,0:17:30.90,0:17:33.40,TypePlaceholder,,0000,0000,0000,,{\c&HC4CACB&\fnTimes New Roman\b1\fs40\3c&H505357&\bord4\frz17.74\t(0,2500,\fs35)\move(167,20,185.5,37.5)}Sieg
+Dialogue: 0,0:17:30.90,0:17:33.40,TypePlaceholder,,0000,0000,0000,,{\c&HC4CACB&\fnTimes New Roman\b1\fs30\3c&H413D39&\bord4\frz6.972\move(460,126,445,130.5)\t(0,2500,\fs26)}1. {\c&HA1916D&}Jahrgangsstufe\N{\c&HC4CACB&}Klasse {\c&HA1916D&}C
+Dialogue: 0,0:17:33.40,0:17:36.99,TypePlaceholder,,0000,0000,0000,,{\c&HC4CACB&\fnTimes New Roman\b1\fs10\3c&H505357&\bord2\frz17.74\move(251,125,255.5,129)\t(0,3590,\fs8)}Sieg
+Dialogue: 0,0:17:33.40,0:17:36.99,TypePlaceholder,,0000,0000,0000,,{\c&HC4CACB&\fnTimes New Roman\b1\fs7\3c&H413D39&\bord1\frz6.972\move(300,144,302,148.5)\t(0,3590,\fs6)}1. {\c&HA1916D&}Jahrgangsstufe\N{\c&HC4CACB&}Klasse {\c&HA1916D&}C
+Dialogue: 0,0:17:56.01,0:17:58.87,TypePlaceholder,,0000,0000,0000,,{\c&HF0F5EA&\fnTrebuchet MS\fs13\pos(288.572,132)\frx22\fry356\frz337.9\fad(0,100)}Montag
+Dialogue: 0,0:17:56.01,0:17:58.87,TypePlaceholder,,0000,0000,0000,,{\c&HF0F5EA&\fnTrebuchet MS\fs13\frx22\fry356\frz337.9\pos(260.572,174.286)\fax-0.1\bord3\3c&H6F537D&\fad(0,100)}Snooze
+Dialogue: 0,0:17:56.01,0:17:58.87,TypePlaceholder,,0000,0000,0000,,{\c&HF0F5EA&\fnTrebuchet MS\fs13\frx22\fry356\fax-0.1\pos(230.858,215.429)\frz335.9\fad(0,100)}Ausstellen
+Dialogue: 0,0:18:15.03,0:18:17.54,TypePlaceholder,,0000,0000,0000,,{\fnTrebuchet MS\fs13\c&H31282E&\frx50\fry2\fax-0.6\frz341.3\move(368,83,402,83)}Sportfest der Robai-Akademie
+Dialogue: 0,0:18:15.03,0:18:17.54,TypePlaceholder,,0000,0000,0000,,{\fnTrebuchet MS\fs15\c&H31282E&\frx50\fry2\fax-0.6\b1\frz341.7\move(349,97,383.857,96.714)}Abschlussfest
+Dialogue: 0,0:18:15.03,0:18:17.54,TypePlaceholder,,0000,0000,0000,,{\fnTrebuchet MS\c&H31282E&\fnTimes New Roman\fs13\frx52\fry356\fax-0.5\frz341.6\move(332,106,370,107)}Programm
+Dialogue: 0,0:18:24.25,0:18:26.34,Default,,0000,0000,0000,,Endlich bist du wach, Schwesterherz.
+Dialogue: 0,0:18:30.42,0:18:32.51,Default,,0000,0000,0000,,Wie spät ist es gerade?
+Dialogue: 0,0:18:33.76,0:18:36.60,Default,,0000,0000,0000,,Heute bin ich vor dir\Naus den Federn gekommen!
+Dialogue: 0,0:18:36.60,0:18:39.30,Default,,0000,0000,0000,,Das Frühstück ist schon fertig.
+Dialogue: 0,0:18:39.30,0:18:41.91,Default,,0000,0000,0000,,Ich komme sofort!
+Dialogue: 0,0:18:51.74,0:18:55.53,Default,,0000,0000,0000,,Irgendwie schien mir alles\Nnur ein Traum zu sein.
+Dialogue: 0,0:19:48.46,0:19:50.40,Default,,0000,0000,0000,,Soll ich dich unterwegs absetzen?
+Dialogue: 0,0:19:50.40,0:19:53.39,Default,,0000,0000,0000,,Nein, schon gut! Ich renne\Nimmer auf meinem Schulweg.
+Dialogue: 0,0:19:53.39,0:19:54.87,Default,,0000,0000,0000,,Hast du auch nichts vergessen?
+Dialogue: 0,0:19:54.87,0:19:55.54,Default,,0000,0000,0000,,Nein!
+Dialogue: 0,0:19:55.99,0:19:57.13,Default,,0000,0000,0000,,Schwesterherz!
+Dialogue: 0,0:19:59.43,0:20:01.31,Default,,0000,0000,0000,,Dein Kragen ist nicht ordentlich!
+Dialogue: 0,0:20:03.18,0:20:04.35,Default,,0000,0000,0000,,Danke dir.
+Dialogue: 0,0:20:08.82,0:20:10.02,Default,,0000,0000,0000,,Bis später dann!
+Dialogue: 0,0:20:20.74,0:20:23.49,Default,,0000,0000,0000,,Hey! Komichi!
+Dialogue: 0,0:20:25.79,0:20:29.58,Default,,0000,0000,0000,,Guten Morgen, Herr Taira!
+Dialogue: 0,0:20:53.11,0:20:56.61,Default,,0000,0000,0000,,Eins, zwei! Eins, zwei!\NEins, zwei! Eins, zwei!
+Dialogue: 0,0:20:56.61,0:20:57.77,Default,,0000,0000,0000,,Okay!
+Dialogue: 0,0:20:57.77,0:20:59.61,Default,,0000,0000,0000,,Ich fang jetzt an!
+Dialogue: 0,0:20:59.61,0:21:02.62,TypePlaceholder,,0000,0000,0000,,{\frx0\fry30\frz348.4\fnComic Sans MS\b1\c&H7D423A&\3c&HBAADB2&\bord3\fax0.25\move(74,70,74,93)}Schwimmklub
+Dialogue: 0,0:20:59.61,0:21:02.62,TypePlaceholder,,0000,0000,0000,,{\frx0\fry30\fnComic Sans MS\b1\c&H1F1419&\3c&HC2B7BD&\bord3\fax0.15\frz352.2\move(149,152,149,175)}Tennisklub
+Dialogue: 0,0:20:59.61,0:21:02.62,TypePlaceholder,,0000,0000,0000,,{\frx0\fry30\fnComic Sans MS\b1\c&H3F379A&\3c&HC2B7BD&\bord3\fax0.15\fs15\move(237,179,237,202)\frz353.2}Tischtennis{\c&H1F1419&}klub
+Dialogue: 0,0:21:23.20,0:21:24.63,Default,,0000,0000,0000,,Da bist du ja.
+Dialogue: 0,0:21:29.64,0:21:33.65,TypePlaceholder,,0000,0000,0000,,{\c&HDFC9C4&\fnTimes New Roman\b1\fs30\3c&H6C574F&\bord4\frx356\fry66\frz15.08\move(282,24,252,24)}Sieg
+Dialogue: 0,0:21:29.64,0:21:33.65,TypePlaceholder,,0000,0000,0000,,{\c&HDFC9C4&\fnTimes New Roman\b1\fs17\3c&H594340&\bord4\frz9.715\move(321,109,291,109)\frx356\fry68}1. {\c&HA1916D&}Jahrgangsstufe\N{\c&HC4CACB&}Klasse {\c&HA1916D&}C
+Dialogue: 0,0:21:44.15,0:21:50.16,TypePlaceholder,,0000,0000,0000,,{\c&HCEBBB5&\fnTimes New Roman\b1\fs17\3c&H63504A&\bord2\frz17.74\fad(0,100)\pos(318.5,52)}Sieg
+Dialogue: 0,0:21:44.15,0:21:50.16,TypePlaceholder,,0000,0000,0000,,{\c&HC4B5A0&\fnTimes New Roman\b1\fs11\3c&H584842&\bord2\frz6.972\fad(0,100)\pos(390,72)}1. {\c&HA17B60&}Jahrgangsstufe\N{\c&HC4B5A0&}Klasse {\c&HA17B60&}C
+Dialogue: 0,0:21:44.99,0:21:47.31,Default,,0000,0000,0000,,Das hat wirklich Spaß gemacht.
+Dialogue: 0,0:21:47.31,0:21:48.53,Default,,0000,0000,0000,,Ja, stimmt.
+Dialogue: 0,0:21:48.53,0:21:50.16,Default,,0000,0000,0000,,Ob wir das mal wieder machen können?
+Dialogue: 0,0:21:50.79,0:21:53.67,Default,,0000,0000,0000,,Sicher werden wir noch\Nviele Möglichkeiten dazu haben.
+Dialogue: 0,0:22:06.82,0:22:07.89,Default,,0000,0000,0000,,Morgen!
+Dialogue: 0,0:23:07.44,0:23:09.78,TypePlaceholder,,0000,0000,0000,,{\bord2.5\c&HFFFFFF&\3c&H000000&\fs23\b1}Projektleitung: Nina Trommer\NSpotting: Stephanie Leborgne
+Dialogue: 0,0:23:09.78,0:23:12.62,TypePlaceholder,,0000,0000,0000,,{\bord2.5\c&HFFFFFF&\3c&H000000&\fs23\b1}Veröffentlichung: Jelizaveta Stolarova\NWAKANIM
+Dialogue: 0,0:23:12.62,0:23:17.33,TypePlaceholder,,0000,0000,0000,,{\bord2.5\c&HFFFFFF&\3c&H000000&\fs23\b1}Übersetzung & Adaption: Patrice Schindler\NRevision: Isabelle Mach
+Dialogue: 0,0:23:17.33,0:23:19.83,TypePlaceholder,,0000,0000,0000,,{\bord2.5\c&HFFFFFF&\3c&H000000&\fs23\b1}Michael Gohl für Crunchyroll
+Dialogue: 0,0:23:22.67,0:23:25.75,TypePlaceholder,,0000,0000,0000,,{\c&HC4CACB&\fnTimes New Roman\b1\fs40\t(0,3080,\fs37)\3c&H505357&\bord4\frz17.74\fad(0,100)\move(177,30,182,40)}Sieg
+Dialogue: 0,0:23:22.67,0:23:25.75,TypePlaceholder,,0000,0000,0000,,{\c&HC4CACB&\fnTimes New Roman\b1\fs30\3c&H413D39&\bord4\frz6.972\fad(0,100)\t(0,3080,\fs29)\move(460,126,455,127)}1. {\c&HA1916D&}Jahrgangsstufe\N{\c&HC4CACB&}Klasse {\c&HA1916D&}C
