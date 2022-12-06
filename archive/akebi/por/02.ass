@@ -1,0 +1,365 @@
+﻿[Script Info]
+Title: Português (Brasil)
+Original Script: cr_pt  [http://www.crunchyroll.com/user/cr_pt]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: main,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,2,0040,0040,0015,0
+Style: top,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,8,0040,0040,0015,0
+Style: italics,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,2,1,2,0040,0040,0015,0
+Style: italicstop,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,2,1,8,0040,0040,0015,0
+Style: flashback,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,-1,0,0,0,100,100,0,0,1,2,1,2,0040,0040,0015,1
+Style: sign_3520_34_Episode_One__The,Georgia,11,&H32000000,&H000000FF,&HC8FFFFFF,&HC8FFFFFF,0,0,0,0,100,100,0,0,1,1,1,8,0030,0030,0020,1
+Style: sign_7300_44_16__Washio_Hitom,Comic Sans MS,40,&H003B3B3B,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,8,0030,0030,0020,1
+Style: sign_21313_231_Class_Roster,Times New Roman,40,&H00427373,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,2,0030,0030,0020,1
+Style: sign_21430_236_Akebi_Komichi,Arial,22,&H004D5751,&H000000FF,&H00D6DBD8,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,1,0030,0030,0020,1
+Style: sign_25648_273_Komichi,Verdana,20,&H00155794,&H000000FF,&H0090DAF1,&H00E9E9E9,-1,0,0,0,100,100,0,0,1,0,0,2,0030,0030,0020,1
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:19.47,0:00:20.57,flashback,Miki,0000,0000,0000,,Beba comigo!
+Dialogue: 0,0:00:23.70,0:00:27.63,main,Komichi,0000,0000,0000,,Tudo começou com o comercial\Nda idol Fukumoto Miki-chan.
+Dialogue: 0,0:00:28.52,0:00:33.11,main,Komichi,0000,0000,0000,,Assim que vi a Miki-chan e a roupa,\Neu me apaixonei!
+Dialogue: 0,0:00:33.11,0:00:35.60,flashback,Komichi,0000,0000,0000,,Q-Que linda!
+Dialogue: 0,0:00:35.60,0:00:38.56,flashback,Komichi,0000,0000,0000,,Linda! Linda! Linda!\NLinda! Linda! Linda!
+Dialogue: 0,0:00:39.22,0:00:42.68,main,Komichi,0000,0000,0000,,Então, quando encontrei uma foto de\Nquando minha mãe era aluna daqui,
+Dialogue: 0,0:00:42.68,0:00:44.50,main,Komichi,0000,0000,0000,,achei que era o meu destino.
+Dialogue: 0,0:00:45.84,0:00:48.26,flashback,Yuwa,0000,0000,0000,,Não vejo problema\Nem você estudar lá,
+Dialogue: 0,0:00:48.69,0:00:49.80,flashback,Yuwa,0000,0000,0000,,mas não será moleza.
+Dialogue: 0,0:00:50.05,0:00:51.32,flashback,Komichi,0000,0000,0000,,Vou me esforçar!
+Dialogue: 0,0:00:51.59,0:00:55.92,flashback,Komichi,0000,0000,0000,,Além disso... se eu for aprovada\Nna Academia Roubai...
+Dialogue: 0,0:01:00.30,0:01:03.66,flashback,Komichi,0000,0000,0000,,...quero que você faça um\Nuniforme de marinheiro pra mim!
+Dialogue: 0,0:01:05.96,0:01:09.59,main,Komichi,0000,0000,0000,,Eu sempre fui fascinada pela forma\Ncom que minha mãe trabalhava.
+Dialogue: 0,0:01:11.43,0:01:14.88,main,Komichi,0000,0000,0000,,Eu só tinha olhos para aquele\Nuniforme de marinheiro.
+Dialogue: 0,0:01:21.38,0:01:25.32,main,Komichi,0000,0000,0000,,O uniforme de marinheiro foi o motivo\Nda minha aprovação nesta escola.
+Dialogue: 0,0:01:28.41,0:01:33.22,main,Komichi,0000,0000,0000,,A diretora disse que eu podia vestir\Nqualquer uniforme, então...
+Dialogue: 0,0:01:37.38,0:01:41.27,main,Komichi,0000,0000,0000,,...eu escolhi o uniforme de marinheiro!
+Dialogue: 0,0:03:14.75,0:03:17.67,sign_3520_34_Episode_One__The,Title,0000,0000,0000,,{\fad(482,1)\pos(100,70)}Episódio 2\NAté amanhã
+Dialogue: 0,0:03:17.95,0:03:21.28,italics,Komichi,0000,0000,0000,,Ai, eu falei demais!
+Dialogue: 0,0:03:21.28,0:03:24.79,italics,Komichi,0000,0000,0000,,Tenho certeza de que\Nelas ficaram entediadas!
+Dialogue: 0,0:03:25.42,0:03:28.73,main,Tamura,0000,0000,0000,,Akebi-san? Já terminou?
+Dialogue: 0,0:03:28.73,0:03:32.99,main,Komichi,0000,0000,0000,,Ah! E o meu corpo é bem flexível,
+Dialogue: 0,0:03:32.99,0:03:35.51,main,Komichi,0000,0000,0000,,e tem uma coisa que eu faço\Nque sempre faz minha irmã rir!
+Dialogue: 0,0:03:35.81,0:03:38.28,main,Komichi,0000,0000,0000,,Quero terminar mostrando\Nessa coisa a vocês!
+Dialogue: 0,0:03:43.32,0:03:44.12,main,Komichi,0000,0000,0000,,Lá vai!
+Dialogue: 0,0:04:02.18,0:04:05.94,main,Komichi,0000,0000,0000,,Depois que a sua irmã se forçou\Na parecer legal pra ela...
+Dialogue: 0,0:04:06.45,0:04:07.69,main,Komichi,0000,0000,0000,,...ela virou um fantasma!
+Dialogue: 0,0:04:07.98,0:04:09.19,main,Komichi,0000,0000,0000,,Isso sempre faz—
+Dialogue: 0,0:04:11.40,0:04:12.35,main,Komichi,0000,0000,0000,,Mas hein?
+Dialogue: 0,0:04:14.33,0:04:17.34,main,Komichi,0000,0000,0000,,Sim... Terminei.
+Dialogue: 0,0:04:17.34,0:04:19.47,main,Tamura,0000,0000,0000,,Sim, muito obrigada.
+Dialogue: 0,0:04:24.73,0:04:27.96,main,Erika,0000,0000,0000,,Agora sei bastante\Nsobre você, Akebi-san.
+Dialogue: 0,0:04:28.35,0:04:31.20,main,Erika,0000,0000,0000,,Sendo sincera, achei o\Nmomento final engraçado.
+Dialogue: 0,0:04:32.12,0:04:33.55,main,Komichi,0000,0000,0000,,Kizaki-san...!
+Dialogue: 0,0:04:33.55,0:04:34.46,main,Erika,0000,0000,0000,,Só que...
+Dialogue: 0,0:04:34.46,0:04:36.21,main,Erika,0000,0000,0000,,Acho que as demais...
+Dialogue: 0,0:04:37.75,0:04:41.57,main,Erika,0000,0000,0000,,...só prestaram atenção na sua saia.
+Dialogue: 0,0:04:44.78,0:04:45.59,main,Komichi,0000,0000,0000,,Hã?
+Dialogue: 0,0:04:48.18,0:04:51.41,main,Hitomi,0000,0000,0000,,Washio Hitomi. Pretendo\Nentrar no Clube de Vôlei.
+Dialogue: 0,0:04:51.41,0:04:52.19,main,Hitomi,0000,0000,0000,,É só isso.
+Dialogue: 0,0:04:55.54,0:04:59.44,italics,Komichi,0000,0000,0000,,Mesa 16, Washio Hitomi-san.
+Dialogue: 0,0:04:59.96,0:05:01.26,main,Komichi,0000,0000,0000,,Clube de Vôlei.
+Dialogue: 0,0:05:01.67,0:05:03.84,main,Komichi,0000,0000,0000,,Ela é bem alta.
+Dialogue: 0,0:05:04.45,0:05:05.95,sign_7300_44_16__Washio_Hitom,Text,0000,0000,0000,,16. Washio Hitomi
+Dialogue: 0,0:05:05.95,0:05:08.95,sign_7300_44_16__Washio_Hitom,Text,0000,0000,0000,,{\an7\fs11\c&H737476&\pos(352,75)\fad(2316,1)}Akebi Komichi
+Dialogue: 0,0:05:05.95,0:05:08.95,sign_7300_44_16__Washio_Hitom,Text,0000,0000,0000,,{\an7\fs11\c&H737476&\pos(355,100)\fad(2316,1)}Usagihara Touko
+Dialogue: 0,0:05:05.95,0:05:08.95,sign_7300_44_16__Washio_Hitom,Text,0000,0000,0000,,{\an7\fs11\c&H737476&\pos(355,130)\fad(2316,1)}Ohkuma Minoru
+Dialogue: 0,0:05:05.95,0:05:08.95,sign_7300_44_16__Washio_Hitom,Text,0000,0000,0000,,{\an7\fs11\c&H737476&\pos(355,160)\fad(2316,1)}Kamimoku Neko
+Dialogue: 0,0:05:05.95,0:05:08.95,sign_7300_44_16__Washio_Hitom,Text,0000,0000,0000,,{\an7\fs11\c&H737476&\pos(357,187)\fad(2316,1)}Kizaki Erika
+Dialogue: 0,0:05:05.95,0:05:08.95,sign_7300_44_16__Washio_Hitom,Text,0000,0000,0000,,{\an7\fs11\c&H737476&\pos(357,217)\fad(2316,1)}Kojou Tomono
+Dialogue: 0,0:05:05.95,0:05:08.95,sign_7300_44_16__Washio_Hitom,Text,0000,0000,0000,,{\an7\fs11\c&H737476&\pos(357,250)\fad(2316,1)}Shijou Riona
+Dialogue: 0,0:05:05.95,0:05:08.95,sign_7300_44_16__Washio_Hitom,Text,0000,0000,0000,,{\an7\fs11\c&H737476&\pos(360,285)\fad(2316,1)}Tatsumori Ai
+Dialogue: 0,0:05:05.95,0:05:08.95,sign_7300_44_16__Washio_Hitom,Text,0000,0000,0000,,{\an7\fs11\c&H737476&\pos(455,84)\fad(2316,1)}Tanigawa Kei
+Dialogue: 0,0:05:05.95,0:05:08.95,sign_7300_44_16__Washio_Hitom,Text,0000,0000,0000,,{\an7\fs11\c&H737476&\pos(455,108)\fad(2316,1)}Tougeguchi Ayumi
+Dialogue: 0,0:05:05.95,0:05:08.95,sign_7300_44_16__Washio_Hitom,Text,0000,0000,0000,,{\an7\fs11\c&H737476&\pos(457,137)\fad(2316,1)}Togano Mai
+Dialogue: 0,0:05:05.95,0:05:08.95,sign_7300_44_16__Washio_Hitom,Text,0000,0000,0000,,{\an7\fs11\c&H737476&\pos(460,165)\fad(2316,1)}Nawashiro Yasuko
+Dialogue: 0,0:05:05.95,0:05:08.95,sign_7300_44_16__Washio_Hitom,Text,0000,0000,0000,,{\an7\fs11\c&H737476&\pos(462,195)\fad(2316,1)}Minakami Riri
+Dialogue: 0,0:05:05.95,0:05:08.95,sign_7300_44_16__Washio_Hitom,Text,0000,0000,0000,,{\an7\fs11\c&H737476&\pos(462,225)\fad(2316,1)}Hiraiwa Hotaru
+Dialogue: 0,0:05:05.95,0:05:08.95,sign_7300_44_16__Washio_Hitom,Text,0000,0000,0000,,{\an7\fs11\c&H737476&\pos(463,255)\fad(2316,1)}Hebimori Oshizu
+Dialogue: 0,0:05:05.95,0:05:08.95,sign_7300_44_16__Washio_Hitom,Text,0000,0000,0000,,{\an7\fs11\c&H737476&\pos(463,293)\fad(2316,1)}Washio Hitomi
+Dialogue: 0,0:05:10.13,0:05:11.27,italics,Komichi,0000,0000,0000,,Terminei!
+Dialogue: 0,0:05:26.25,0:05:29.04,flashback,Mako,0000,0000,0000,,Bom, vamos almoçar?
+Dialogue: 0,0:05:29.04,0:05:29.82,flashback,Komichi,0000,0000,0000,,Tá!
+Dialogue: 0,0:05:31.06,0:05:35.91,main,Tamura,0000,0000,0000,,Muito bem, arrumem as mesas do jeito\Nque desenhei e formem grupos.
+Dialogue: 0,0:05:36.40,0:05:37.99,main,Komichi,0000,0000,0000,,O-O que você achou?
+Dialogue: 0,0:05:42.12,0:05:44.81,main,Erika,0000,0000,0000,,Você ficou ótima!
+Dialogue: 0,0:05:47.54,0:05:48.58,main,Komichi,0000,0000,0000,,Você também!
+Dialogue: 0,0:05:52.13,0:05:53.41,main,Komichi,0000,0000,0000,,Aqui está.
+Dialogue: 0,0:05:53.41,0:05:54.50,main,Riri,0000,0000,0000,,Obrigada.
+Dialogue: 0,0:05:55.33,0:05:57.83,italics,Komichi,0000,0000,0000,,Ela falou com o sotaque de Kansai!
+Dialogue: 0,0:05:58.19,0:06:01.59,italics,Komichi,0000,0000,0000,,Mesa número 13, Minakami Riri-san.
+Dialogue: 0,0:06:03.60,0:06:06.06,main,Komichi,0000,0000,0000,,Aqui... está?
+Dialogue: 0,0:06:07.83,0:06:11.53,italics,Komichi,0000,0000,0000,,Mesa número 14, Hiraiwa Hotaru-san!
+Dialogue: 0,0:06:11.53,0:06:13.67,italics,Komichi,0000,0000,0000,,Que fofa!
+Dialogue: 0,0:06:18.50,0:06:20.56,main,Komichi,0000,0000,0000,,Cuidado para não derramar.
+Dialogue: 0,0:06:20.56,0:06:21.89,main,Hotaru,0000,0000,0000,,Obrigada.
+Dialogue: 0,0:06:24.80,0:06:29.40,italics,Erika,0000,0000,0000,,Akebi-san, se colocar tudo isso pra elas...
+Dialogue: 0,0:06:25.79,0:06:28.25,top,Komichi,0000,0000,0000,,E aqui está!
+Dialogue: 0,0:06:28.25,0:06:29.39,top,Komichi,0000,0000,0000,,Prontinho!
+Dialogue: 0,0:06:32.70,0:06:34.05,italics,Erika,0000,0000,0000,,Agora entendeu.
+Dialogue: 0,0:06:37.32,0:06:39.16,italics,Komichi,0000,0000,0000,,Sentar com nossas mesas assim...
+Dialogue: 0,0:06:39.56,0:06:42.46,italics,Komichi,0000,0000,0000,,...faz parecer que somos uma família!
+Dialogue: 0,0:06:43.22,0:06:45.47,main,Tamura,0000,0000,0000,,Muito bem, vamos comer.
+Dialogue: 0,0:06:45.47,0:06:47.02,main,All,0000,0000,0000,,Vamos comer!
+Dialogue: 0,0:07:10.60,0:07:11.95,italics,Komichi,0000,0000,0000,,Parece complicado!
+Dialogue: 0,0:07:13.95,0:07:16.58,main,Komichi,0000,0000,0000,,Por favor, use isto aqui!
+Dialogue: 0,0:07:17.58,0:07:19.68,main,Tomono,0000,0000,0000,,Ah, obrigada...
+Dialogue: 0,0:07:21.44,0:07:25.05,main,Tomono,0000,0000,0000,,Esqueci o estojo dos óculos\Nna mochila.
+Dialogue: 0,0:07:25.35,0:07:26.95,main,Tomono,0000,0000,0000,,Ajudou bastante.
+Dialogue: 0,0:07:27.70,0:07:28.98,main,Komichi,0000,0000,0000,,Que bom!
+Dialogue: 0,0:07:31.88,0:07:32.77,italics,Komichi,0000,0000,0000,,Espera...
+Dialogue: 0,0:07:33.19,0:07:35.76,italics,Komichi,0000,0000,0000,,Eu não limpei meu suor\Ncom aquele paninho?
+Dialogue: 0,0:07:39.33,0:07:40.79,main,Erika,0000,0000,0000,,Akebi-san?
+Dialogue: 0,0:07:41.80,0:07:44.63,main,Komichi,0000,0000,0000,,E-Esse lencinho aí...
+Dialogue: 0,0:07:44.63,0:07:47.57,main,Tomono,0000,0000,0000,,Ah, eu usei a parte que está seca.
+Dialogue: 0,0:07:51.94,0:07:54.11,italics,Erika,0000,0000,0000,,Eu me divirto só de olhar pra ela.
+Dialogue: 0,0:07:54.42,0:07:56.66,main,Tomono,0000,0000,0000,,Obrigada pelo lenço.
+Dialogue: 0,0:07:57.21,0:07:58.57,main,Tomono,0000,0000,0000,,É...
+Dialogue: 0,0:07:59.38,0:08:01.09,main,Komichi,0000,0000,0000,,Akebi Komichi!
+Dialogue: 0,0:08:01.09,0:08:03.59,main,Komichi,0000,0000,0000,,Prazer em te conhecer,\NKojou Tomono-san!
+Dialogue: 0,0:08:04.44,0:08:07.89,main,Tomono,0000,0000,0000,,Muito prazer. Puxa,\Nvocê se lembrou do meu nome.
+Dialogue: 0,0:08:08.58,0:08:09.73,main,Tomono,0000,0000,0000,,Fico feliz.
+Dialogue: 0,0:08:09.73,0:08:13.31,italics,Komichi,0000,0000,0000,,Mesa número 6, Kojou Tomono-san.
+Dialogue: 0,0:08:13.59,0:08:15.43,italics,Komichi,0000,0000,0000,,Uma garota muito gentil!
+Dialogue: 0,0:08:22.00,0:08:24.19,main,Touko,0000,0000,0000,,Akebi-chan, aposto que você é popular!
+Dialogue: 0,0:08:24.50,0:08:27.88,italics,Komichi,0000,0000,0000,,Mesa número 2, Usagihara Touko-san.
+Dialogue: 0,0:08:28.49,0:08:30.95,main,Komichi,0000,0000,0000,,Eu nunca fui popular na minha vida!
+Dialogue: 0,0:08:30.95,0:08:34.91,main,Touko,0000,0000,0000,,Nem vem! Você é a única com\Nuniforme de marinheiro todo branco.
+Dialogue: 0,0:08:34.91,0:08:37.19,main,Touko,0000,0000,0000,,E você fica ótima nele.
+Dialogue: 0,0:08:37.76,0:08:39.28,main,Touko,0000,0000,0000,,Parece até uma idol!
+Dialogue: 0,0:08:39.53,0:08:41.42,main,Komichi,0000,0000,0000,,P-Pareço...
+Dialogue: 0,0:08:42.22,0:08:46.36,main,Komichi,0000,0000,0000,,Não adianta me bajular,\Nnão vou quebrar o seu galho!
+Dialogue: 0,0:08:46.36,0:08:49.29,italics,Komichi,0000,0000,0000,,Kao! Ela disse que pareço uma idol!
+Dialogue: 0,0:08:49.29,0:08:52.74,main,Touko,0000,0000,0000,,Eu adoro esse tipo de\Ncarinha que você faz.
+Dialogue: 0,0:08:52.74,0:08:55.39,main,Komichi,0000,0000,0000,,Ai, ninguém nunca falou isso\Npra mim antes!
+Dialogue: 0,0:08:57.70,0:09:00.23,main,Touko,0000,0000,0000,,Mas blazer também é demais, não acha?
+Dialogue: 0,0:09:00.23,0:09:02.00,main,Touko,0000,0000,0000,,Eu queria muito usar um.
+Dialogue: 0,0:09:02.00,0:09:04.47,main,Komichi,0000,0000,0000,,Sim! Faz parecer que você é adulta.
+Dialogue: 0,0:09:04.47,0:09:06.63,main,Komichi,0000,0000,0000,,Quero usar algum dia também!
+Dialogue: 0,0:09:06.94,0:09:10.42,main,Touko,0000,0000,0000,,Então... Que tal experimentar agora?
+Dialogue: 0,0:09:10.42,0:09:11.00,main,Komichi,0000,0000,0000,,Hã?
+Dialogue: 0,0:09:13.24,0:09:14.52,main,Touko,0000,0000,0000,,Peraí.
+Dialogue: 0,0:09:16.32,0:09:17.07,main,Touko,0000,0000,0000,,Pronto.
+Dialogue: 0,0:09:18.62,0:09:20.00,main,Touko,0000,0000,0000,,Agora me dá a sua.
+Dialogue: 0,0:09:20.65,0:09:22.24,main,Komichi,0000,0000,0000,,Ah, tudo bem mesmo?
+Dialogue: 0,0:09:27.33,0:09:28.84,main,Erika,0000,0000,0000,,Quê?!
+Dialogue: 0,0:09:28.84,0:09:30.49,main,Erika,0000,0000,0000,,Calma! Segura isso aí!
+Dialogue: 0,0:09:30.49,0:09:32.39,main,Erika,0000,0000,0000,,Ela só estava brincando!
+Dialogue: 0,0:09:32.39,0:09:33.03,main,Komichi,0000,0000,0000,,Hã?
+Dialogue: 0,0:09:34.55,0:09:38.83,main,Erika,0000,0000,0000,,Se tirar a blusa, não vai\Nficar só com a roupa de baixo?
+Dialogue: 0,0:09:38.83,0:09:40.07,main,Komichi,0000,0000,0000,,Ah, é mesmo!
+Dialogue: 0,0:09:40.07,0:09:42.95,main,Touko,0000,0000,0000,,Você é do tipo certinha, é?
+Dialogue: 0,0:09:42.95,0:09:46.16,main,Komichi,0000,0000,0000,,É que você tem jeito pra falar,\Nacabei indo na sua.
+Dialogue: 0,0:09:46.48,0:09:50.01,italics,Erika,0000,0000,0000,,Não, Akebi-san, você que é descuidada.
+Dialogue: 0,0:09:50.31,0:09:52.95,italics,Erika,0000,0000,0000,,Não posso deixar insetos bizarros\Ngrudarem nela.
+Dialogue: 0,0:09:51.24,0:09:54.12,top,Touko,0000,0000,0000,,Hehehehehe...
+Dialogue: 0,0:09:57.74,0:10:00.70,main,Touko,0000,0000,0000,,Quê?! Você não fez cursinho, Akebi-chan?
+Dialogue: 0,0:10:00.70,0:10:02.11,main,Touko,0000,0000,0000,,Que raridade!
+Dialogue: 0,0:10:02.11,0:10:03.91,main,Komichi,0000,0000,0000,,I-Isso é esquisito?
+Dialogue: 0,0:10:03.91,0:10:08.01,main,Touko,0000,0000,0000,,Não, é que quase todas que tentam\Nentrar na Roubai fazem cursinho.
+Dialogue: 0,0:10:08.53,0:10:09.95,main,Touko,0000,0000,0000,,Por exemplo...
+Dialogue: 0,0:10:09.95,0:10:11.28,main,Touko,0000,0000,0000,,Aquela garota ali!
+Dialogue: 0,0:10:11.67,0:10:15.20,main,Touko,0000,0000,0000,,Tanigawa Kei. Ela sempre tirava\Nas maiores notas nos simulados.
+Dialogue: 0,0:10:15.20,0:10:17.30,main,Touko,0000,0000,0000,,Não tem tempo ruim se\Nvocê ficar amiga dela!
+Dialogue: 0,0:10:18.51,0:10:20.41,main,Touko,0000,0000,0000,,E aquela é a Tatsumori Ai.
+Dialogue: 0,0:10:20.41,0:10:22.24,main,Touko,0000,0000,0000,,Ela fez o mesmo cursinho que eu.
+Dialogue: 0,0:10:22.24,0:10:24.02,main,Touko,0000,0000,0000,,É pavio curto e fica brava fácil.
+Dialogue: 0,0:10:24.02,0:10:27.41,main,Touko,0000,0000,0000,,Ela brigou comigo várias vezes por\Nconversar nas sessões de estudo.
+Dialogue: 0,0:10:27.57,0:10:30.48,main,Komichi,0000,0000,0000,,Mas a culpa realmente não foi sua?
+Dialogue: 0,0:10:32.93,0:10:34.19,main,Komichi,0000,0000,0000,,Ah, aliás...
+Dialogue: 0,0:10:33.91,0:10:37.48,italicstop,Mika,0000,0000,0000,,Olá, pessoal! Aqui é a Mika, do\Nsegundo ano, do Clube de Rádio!
+Dialogue: 0,0:10:34.19,0:10:37.45,main,Komichi,0000,0000,0000,,Vocês três são de Tokyo, não são?
+Dialogue: 0,0:10:37.45,0:10:38.41,main,Touko,0000,0000,0000,,Sim.
+Dialogue: 0,0:10:37.48,0:10:38.56,italicstop,Miku,0000,0000,0000,,Aqui é a Miku.
+Dialogue: 0,0:10:38.41,0:10:41.79,main,Komichi,0000,0000,0000,,A Kizaki-san também é de Tokyo,\Ne a Kojou-san é de Nagano.
+Dialogue: 0,0:10:38.56,0:10:41.68,italicstop,Mika,0000,0000,0000,,Parabéns às calouras por\Nterem entrado na escola!
+Dialogue: 0,0:10:41.68,0:10:42.57,italicstop,Miku,0000,0000,0000,,Muito prazer.
+Dialogue: 0,0:10:41.79,0:10:43.99,main,Komichi,0000,0000,0000,,E como vocês vêm pra escola?
+Dialogue: 0,0:10:42.57,0:10:48.33,italicstop,Mika,0000,0000,0000,,Este programa é transmitido em todas as turmas\Natravés da estação de rádio do clube!
+Dialogue: 0,0:10:43.99,0:10:44.66,main,Erika,0000,0000,0000,,Ah, eu—
+Dialogue: 0,0:10:44.66,0:10:46.92,main,Touko,0000,0000,0000,,Ou você se muda pra cá,\Nou fica em um dos dormitórios.
+Dialogue: 0,0:10:48.33,0:10:51.54,italicstop,Miku,0000,0000,0000,,Nosso objetivo é transmitir\Npara todo o Japão.
+Dialogue: 0,0:10:49.47,0:10:51.24,main,Tomono,0000,0000,0000,,Eu estou na casa da minha avó, que—
+Dialogue: 0,0:10:51.24,0:10:52.52,main,Touko,0000,0000,0000,,Eu fui pros dormitórios!
+Dialogue: 0,0:10:51.54,0:10:54.49,italicstop,Mika,0000,0000,0000,,Bom, é hora de tocar\No sucesso da Roubai!
+Dialogue: 0,0:10:52.52,0:10:54.49,main,Touko,0000,0000,0000,,Aliás, a Kizaki-san é minha vizinha!
+Dialogue: 0,0:10:55.75,0:10:56.75,main,Touko,0000,0000,0000,,Ué?
+Dialogue: 0,0:10:56.75,0:10:58.95,main,Erika,0000,0000,0000,,É mesmo? Que legal.
+Dialogue: 0,0:10:56.75,0:10:59.04,italicstop,Mika,0000,0000,0000,,Temos a música perfeita para\Nparabenizar vocês hoje.
+Dialogue: 0,0:10:58.95,0:11:00.08,main,Touko,0000,0000,0000,,Uéé?
+Dialogue: 0,0:10:59.04,0:11:00.59,italicstop,Miku,0000,0000,0000,,Só para vocês.
+Dialogue: 0,0:11:00.48,0:11:03.83,main,Komichi,0000,0000,0000,,Dormitórios, é?\NSempre quis ficar em um.
+Dialogue: 0,0:11:00.59,0:11:03.31,italicstop,Mika,0000,0000,0000,,Calma, espera! Não é perfeita!\NMe deixa de fora dessa!
+Dialogue: 0,0:11:03.31,0:11:05.52,italicstop,Miku,0000,0000,0000,,Sim, é sobre um amor\Nnão correspondido.
+Dialogue: 0,0:11:03.83,0:11:05.86,main,Komichi,0000,0000,0000,,Posso visitar vocês algum dia?
+Dialogue: 0,0:11:05.52,0:11:07.71,italicstop,Mika,0000,0000,0000,,Um brinde a todas as colegiais!
+Dialogue: 0,0:11:05.86,0:11:06.95,main,Erika,0000,0000,0000,,Quando quiser!
+Dialogue: 0,0:11:06.95,0:11:08.42,main,Touko,0000,0000,0000,,Uéé...?
+Dialogue: 0,0:11:07.71,0:11:08.77,italicstop,Miku,0000,0000,0000,,Um brinde!
+Dialogue: 0,0:11:08.77,0:11:10.69,italics,Mika,0000,0000,0000,,Agora, escutem...
+Dialogue: 0,0:11:11.02,0:11:14.10,italics,Mika/Miku,0000,0000,0000,,"Desilusão", de Fukumoto Miki.
+Dialogue: 0,0:11:14.96,0:11:18.64,main,Erika,0000,0000,0000,,Ei, Akebi-san, você disse que\Ngostava dessa cantora, né?
+Dialogue: 0,0:11:18.64,0:11:22.58,main,Komichi,0000,0000,0000,,Sim! A Miki-chan é muito fofa\Ncantando essa música!
+Dialogue: 0,0:11:22.89,0:11:24.48,main,Erika,0000,0000,0000,,É mesmo? De que forma?
+Dialogue: 0,0:11:24.48,0:11:26.02,main,Komichi,0000,0000,0000,,Bom...
+Dialogue: 0,0:11:26.50,0:11:29.62,main,Komichi,0000,0000,0000,,Ah, tipo quando ela canta essa parte!
+Dialogue: 0,0:11:29.85,0:11:32.43,main,Touko,0000,0000,0000,,Ah, quando ela faz aquilo\Ncom o hidratante labial?
+Dialogue: 0,0:11:32.43,0:11:34.16,main,Komichi,0000,0000,0000,,Sim! Vocês conhecem?
+Dialogue: 0,0:11:34.43,0:11:37.45,main,Erika,0000,0000,0000,,Eu, não. O que ela faz?
+Dialogue: 0,0:11:38.83,0:11:41.22,main,Touko,0000,0000,0000,,Akebi-chan! Mostra pra ela!
+Dialogue: 0,0:11:41.67,0:11:44.48,main,Komichi,0000,0000,0000,,Mas eu não consigo\Ntransmitir muito bem.
+Dialogue: 0,0:11:44.48,0:11:46.72,main,Touko,0000,0000,0000,,Não, você consegue, sim!
+Dialogue: 0,0:11:46.72,0:11:48.44,main,Touko,0000,0000,0000,,Até tenho o hidratante comigo.
+Dialogue: 0,0:11:51.66,0:11:53.25,main,Touko,0000,0000,0000,,Akebi-san...
+Dialogue: 0,0:11:54.50,0:11:57.40,main,Touko,0000,0000,0000,,Se sequer consegue expressar\No que mais ama na sua idol...
+Dialogue: 0,0:11:57.89,0:12:00.48,main,Touko,0000,0000,0000,,...pode mesmo se considerar fã dela?
+Dialogue: 0,0:12:09.85,0:12:11.65,main,Komichi,0000,0000,0000,,E-Eu consigo!
+Dialogue: 0,0:12:11.96,0:12:13.53,main,Touko,0000,0000,0000,,C-Consegue?
+Dialogue: 0,0:12:13.89,0:12:17.05,italics,Komichi,0000,0000,0000,,Mas se vou fazer isso,\Npreciso fazer direito,
+Dialogue: 0,0:12:17.40,0:12:19.51,italics,Komichi,0000,0000,0000,,ou seria um insulto à Miki-chan.
+Dialogue: 0,0:12:20.28,0:12:22.53,main,Komichi,0000,0000,0000,,Eu limpo antes de te devolver.
+Dialogue: 0,0:12:22.53,0:12:23.42,main,Touko,0000,0000,0000,,Sim, sim.
+Dialogue: 0,0:12:23.80,0:12:27.59,italics,Komichi,0000,0000,0000,,Ela coloca o hidratante em\Ndois dedos desse jeito,
+Dialogue: 0,0:12:28.04,0:12:29.93,italics,Komichi,0000,0000,0000,,passa nos lábios e...
+Dialogue: 0,0:12:56.53,0:13:00.49,main,Touko,0000,0000,0000,,Akebi-chan, faz aquilo de\Nolhar pra gente de novo.
+Dialogue: 0,0:13:00.49,0:13:01.98,main,Komichi,0000,0000,0000,,Hã? Tá...
+Dialogue: 0,0:13:02.81,0:13:03.91,main,Komichi,0000,0000,0000,,Assim?
+Dialogue: 0,0:13:07.37,0:13:09.28,main,Touko,0000,0000,0000,,Akebi-chan! De novo!
+Dialogue: 0,0:13:09.28,0:13:10.07,main,Komichi,0000,0000,0000,,Tá!
+Dialogue: 0,0:13:10.68,0:13:14.08,main,Erika,0000,0000,0000,,Akebi-san, você realmente\Ntem o charme dela pra isso!
+Dialogue: 0,0:13:14.08,0:13:15.06,main,Komichi,0000,0000,0000,,Mesmo?!
+Dialogue: 0,0:13:15.63,0:13:18.82,main,Erika,0000,0000,0000,,Para de pedir para ela repetir!\NTá enchendo o saco da Akebi-san.
+Dialogue: 0,0:13:18.82,0:13:21.69,main,Touko,0000,0000,0000,,Ah, eu não {\i1}falar{\i0} japonês.
+Dialogue: 0,0:13:21.69,0:13:24.07,top,Erika,0000,0000,0000,,Mentirosa! Eu sei que você fala!
+Dialogue: 0,0:13:22.73,0:13:24.07,italics,Komichi,0000,0000,0000,,Que sensação é essa?
+Dialogue: 0,0:13:24.77,0:13:27.34,italics,Komichi,0000,0000,0000,,Eu me sinto plena, de diversas formas.
+Dialogue: 0,0:13:29.32,0:13:31.07,main,Komichi,0000,0000,0000,,Obrigada pelo almoço!
+Dialogue: 0,0:13:35.27,0:13:36.13,main,Komichi,0000,0000,0000,,Pronto.
+Dialogue: 0,0:13:51.27,0:13:52.47,main,Touko,0000,0000,0000,,Akebi-chan!
+Dialogue: 0,0:13:54.71,0:13:56.49,main,Touko,0000,0000,0000,,Do que você quer brincar?
+Dialogue: 0,0:14:03.46,0:14:05.24,flashback,Mako,0000,0000,0000,,Oh, muito bem.
+Dialogue: 0,0:14:07.66,0:14:10.62,flashback,Mako,0000,0000,0000,,Komichi-chan, do que\Nvocê quer brincar?
+Dialogue: 0,0:14:11.12,0:14:13.90,flashback,Komichi,0000,0000,0000,,Não se preocupa, eu brinco sozinha!
+Dialogue: 0,0:14:15.58,0:14:17.89,flashback,Komichi,0000,0000,0000,,Pode continuar trabalhando\Nenquanto toma conta!
+Dialogue: 0,0:14:19.22,0:14:22.41,flashback,Komichi,0000,0000,0000,,Já consigo pular duas barras!
+Dialogue: 0,0:14:27.67,0:14:28.68,main,Komichi,0000,0000,0000,,Que tal...
+Dialogue: 0,0:14:36.17,0:14:38.11,main,Teacher1,0000,0000,0000,,Só falta terminar isso.
+Dialogue: 0,0:14:38.11,0:14:42.68,main,Teacher1,0000,0000,0000,,E então, Tamura-sensei, como foi o seu\Nprimeiro dia como coordenadora de turma?
+Dialogue: 0,0:14:42.68,0:14:44.52,main,Tamura,0000,0000,0000,,A-Ah, sim!
+Dialogue: 0,0:14:44.52,0:14:46.96,main,Tamura,0000,0000,0000,,Tenho várias alunas peculiares.
+Dialogue: 0,0:14:46.96,0:14:48.90,main,Tamura,0000,0000,0000,,Sendo sincera, estou um tanto nervosa.
+Dialogue: 0,0:14:48.90,0:14:49.20,sign_21313_231_Class_Roster,Text,0000,0000,0000,,{\frz-24.85\fax-0.26\pos(370,70)\clip(m 481 124 l 509 95 325 10 312 17 304 20 295 22 288 26 283 24 295 32)}Diário de Classe
+Dialogue: 0,0:14:49.20,0:14:49.32,sign_21313_231_Class_Roster,Text,0000,0000,0000,,{\frz-24.85\fax-0.31\pos(376,64)\clip(m 376 62 l 492 124 526 91 350 4 333 7 333 15 339 20 340 24 344 30 348 36 352 37 363 38 373 36 379 38 385 44 385 54)}Diário de Classe
+Dialogue: 0,0:14:49.32,0:14:49.45,sign_21313_231_Class_Roster,Text,0000,0000,0000,,{\frz-44.13\fax0.24\pos(414,14)\clip(m 543 86 l 516 110 426 22 436 18 440 13 441 1 449 1)}Diário de Classe
+Dialogue: 0,0:14:49.45,0:14:49.57,sign_21313_231_Class_Roster,Text,0000,0000,0000,,{\frz-47.29\fax0.24\pos(431,13)\c&H22433E&\clip(m 550 98 l 530 114 457 35 462 19 474 3)}Diário de Classe
+Dialogue: 0,0:14:50.95,0:14:54.46,top,Tamura,0000,0000,0000,,Mas acredito que será\Numa turma divertida.
+Dialogue: 0,0:14:53.78,0:14:56.79,sign_21430_236_Akebi_Komichi,Text,0000,0000,0000,,{\frz-31.23\move(173,290,140,315)}Akebi Komichi
+Dialogue: 0,0:15:07.21,0:15:08.47,main,Erika,0000,0000,0000,,Akebi-san!
+Dialogue: 0,0:15:10.36,0:15:11.48,main,Erika,0000,0000,0000,,Até amanhã.
+Dialogue: 0,0:15:11.48,0:15:12.63,main,Touko,0000,0000,0000,,Até!
+Dialogue: 0,0:15:12.63,0:15:15.78,main,Komichi,0000,0000,0000,,Ah... Sim, até amanhã.
+Dialogue: 0,0:15:40.88,0:15:42.79,main,Komichi,0000,0000,0000,,Ela disse, "até amanhã"!
+Dialogue: 0,0:15:42.79,0:15:44.14,main,Komichi,0000,0000,0000,,Ai, ai...
+Dialogue: 0,0:15:48.68,0:15:50.71,main,Komichi,0000,0000,0000,,Fiquei um tanto nervosa.
+Dialogue: 0,0:15:51.95,0:15:53.94,main,Komichi,0000,0000,0000,,Preciso falar direito com elas amanhã!
+Dialogue: 0,0:15:57.49,0:15:59.30,main,Komichi,0000,0000,0000,,Usagihara Touko-san...
+Dialogue: 0,0:15:59.80,0:16:01.51,main,Komichi,0000,0000,0000,,Ohkuma Minoru-san...
+Dialogue: 0,0:16:01.94,0:16:03.64,main,Komichi,0000,0000,0000,,Kamimoku Neko-san...
+Dialogue: 0,0:16:18.35,0:16:20.09,main,Komichi,0000,0000,0000,,Kizaki Erika-san!
+Dialogue: 0,0:16:22.93,0:16:24.52,main,Komichi,0000,0000,0000,,Kojou Tomono-san...
+Dialogue: 0,0:16:24.80,0:16:26.41,main,Komichi,0000,0000,0000,,Shijou Riona-san...
+Dialogue: 0,0:16:27.31,0:16:28.87,main,Komichi,0000,0000,0000,,Tatsumori Ai-san...
+Dialogue: 0,0:16:29.36,0:16:30.85,main,Komichi,0000,0000,0000,,Tanigawa Kei-san...
+Dialogue: 0,0:16:32.05,0:16:33.88,main,Komichi,0000,0000,0000,,Tougeguchi Ayumi-san...
+Dialogue: 0,0:16:33.88,0:16:35.53,main,Komichi,0000,0000,0000,,Togano Mai-san...
+Dialogue: 0,0:16:35.53,0:16:37.17,main,Komichi,0000,0000,0000,,Nawashiro Yasuko-san...
+Dialogue: 0,0:16:37.68,0:16:39.34,main,Komichi,0000,0000,0000,,Minakami Riri-san...
+Dialogue: 0,0:16:40.79,0:16:42.65,main,Komichi,0000,0000,0000,,Hiraiwa Hotaru-san...
+Dialogue: 0,0:16:43.96,0:16:45.75,main,Komichi,0000,0000,0000,,Hebimori Oshizu-san...
+Dialogue: 0,0:16:46.37,0:16:48.07,main,Komichi,0000,0000,0000,,Washio Hitomi-san...
+Dialogue: 0,0:16:52.77,0:16:54.19,main,Komichi,0000,0000,0000,,Todas vocês!
+Dialogue: 0,0:16:54.69,0:16:59.05,main,Komichi,0000,0000,0000,,Até amanhã!
+Dialogue: 0,0:17:13.04,0:17:14.45,main,Komichi,0000,0000,0000,,Cheguei.
+Dialogue: 0,0:17:16.21,0:17:19.14,main,Yuwa,0000,0000,0000,,Bem-vinda. Seu pai está em casa.
+Dialogue: 0,0:17:26.38,0:17:28.78,main,Yuwa,0000,0000,0000,,Ele disse que precisa voltar\Nao trabalho amanhã cedo.
+Dialogue: 0,0:17:29.74,0:17:31.13,main,Komichi,0000,0000,0000,,É mesmo?
+Dialogue: 0,0:17:31.72,0:17:33.88,main,Yuwa,0000,0000,0000,,Ele perguntou onde você estava.
+Dialogue: 0,0:17:34.29,0:17:36.40,main,Yuwa,0000,0000,0000,,Ele queria te ver de\Nuniforme de marinheiro.
+Dialogue: 0,0:17:37.25,0:17:39.23,main,Komichi,0000,0000,0000,,É melhor esperar um pouco\Nantes de me trocar?
+Dialogue: 0,0:17:39.23,0:17:42.24,main,Yuwa,0000,0000,0000,,Ah, não se preocupa. A culpa\Né dele por pegar no sono.
+Dialogue: 0,0:17:42.24,0:17:45.40,main,Yuwa,0000,0000,0000,,Além disso, você provavelmente\Ncorreu por aí e ficou toda suada, né?
+Dialogue: 0,0:17:45.40,0:17:47.66,main,Yuwa,0000,0000,0000,,Deixa o seu uniforme\Nsecar um pouco antes.
+Dialogue: 0,0:17:47.97,0:17:49.71,main,Komichi,0000,0000,0000,,Certo...
+Dialogue: 0,0:17:49.71,0:17:51.46,sign_25648_273_Komichi,Sign,0000,0000,0000,,{\pos(318,148)}Komichi
+Dialogue: 0,0:18:26.78,0:18:29.86,main,Komichi,0000,0000,0000,,Pai? É melhor ir dormir na cama,\Nou ficará doente.
+Dialogue: 0,0:18:30.26,0:18:32.55,main,Yuwa,0000,0000,0000,,Vivo dizendo isso a ele,\Nmas ele não me escuta.
+Dialogue: 0,0:18:33.69,0:18:35.79,main,Komichi,0000,0000,0000,,Ei, acorda, Kao.
+Dialogue: 0,0:18:39.64,0:18:41.31,main,Kao,0000,0000,0000,,Nee-chan...
+Dialogue: 0,0:18:41.79,0:18:43.97,main,Kao,0000,0000,0000,,O papai tá em casa.
+Dialogue: 0,0:18:43.97,0:18:44.65,main,Komichi,0000,0000,0000,,Sim.
+Dialogue: 0,0:18:47.27,0:18:50.40,main,Yuwa,0000,0000,0000,,O banho está pronto. Vão se lavar.
+Dialogue: 0,0:18:51.13,0:18:52.80,main,Komichi/Kao,0000,0000,0000,,Tá!
+Dialogue: 0,0:18:53.89,0:18:58.14,main,Komichi/Kao,0000,0000,0000,,Banho, banho, banho...
+Dialogue: 0,0:19:00.63,0:19:02.02,main,Yuwa,0000,0000,0000,,Estava acordado.
+Dialogue: 0,0:19:02.02,0:19:03.75,main,Sato,0000,0000,0000,,Você me pegou.
+Dialogue: 0,0:19:04.91,0:19:06.91,main,Yuwa,0000,0000,0000,,É que não ouvi você roncar.
+Dialogue: 0,0:19:06.91,0:19:10.34,main,Sato,0000,0000,0000,,Já fazia tanto tempo...\NFiquei meio nervoso, sabe?
+Dialogue: 0,0:19:10.34,0:19:13.22,main,Yuwa,0000,0000,0000,,Então fingiu estar dormindo?\NFrancamente.
+Dialogue: 0,0:19:13.54,0:19:16.17,main,Yuwa,0000,0000,0000,,A Komichi estava doida pra\Nte mostrar o uniforme.
+Dialogue: 0,0:19:17.13,0:19:22.31,main,Sato,0000,0000,0000,,É que não sabia o que dizer a uma garota\Nda idade dela pra deixá-la feliz.
+Dialogue: 0,0:19:23.27,0:19:25.98,main,Sato,0000,0000,0000,,A Komichi cresceu, né?
+Dialogue: 0,0:19:26.69,0:19:31.00,main,Komichi,0000,0000,0000,,Kao, uma das meninas da turma\Ndisse que eu sou engraçada!
+Dialogue: 0,0:19:33.07,0:19:36.16,main,Komichi,0000,0000,0000,,E outra disse que eu parecia uma idol!
+Dialogue: 0,0:19:36.16,0:19:38.22,main,Kao,0000,0000,0000,,Parece que você se divertiu.
+Dialogue: 0,0:19:38.22,0:19:39.70,main,Komichi,0000,0000,0000,,Hã? É mesmo?
+Dialogue: 0,0:19:39.97,0:19:42.50,main,Kao,0000,0000,0000,,Eu também quero ir pra essa escola.
+Dialogue: 0,0:19:43.05,0:19:44.07,main,Komichi,0000,0000,0000,,Seria ótimo.
+Dialogue: 0,0:19:44.07,0:19:47.08,main,Kao,0000,0000,0000,,Aí, eu usaria o mesmo uniforme que você!
+Dialogue: 0,0:19:47.08,0:19:49.69,main,Komichi,0000,0000,0000,,Hm... Aí você ficaria com vergonha.
+Dialogue: 0,0:19:49.69,0:19:52.18,main,Kao,0000,0000,0000,,Usaria com orgulho!
+Dialogue: 0,0:19:52.18,0:19:54.29,main,Komichi,0000,0000,0000,,Você é uma menina forte!
+Dialogue: 0,0:19:55.52,0:19:57.43,main,Komichi,0000,0000,0000,,Orgulho, é?
+Dialogue: 0,0:20:00.10,0:20:01.95,main,Komichi,0000,0000,0000,,Acho que a Kizaki-san não conseguiria.
+Dialogue: 0,0:20:02.30,0:20:04.36,main,Kao,0000,0000,0000,,Quem é Kizaki-san?
+Dialogue: 0,0:20:04.92,0:20:09.35,main,Komichi,0000,0000,0000,,A minha colega de turma.\NA que falou que eu sou engraçada.
+Dialogue: 0,0:20:09.35,0:20:10.39,main,Kao,0000,0000,0000,,Quero conhecer ela!
+Dialogue: 0,0:20:12.32,0:20:15.09,main,Komichi,0000,0000,0000,,Quer que eu a convide pra vir aqui?
+Dialogue: 0,0:20:15.09,0:20:16.06,main,Kao,0000,0000,0000,,Convida!
+Dialogue: 0,0:20:16.06,0:20:18.11,main,Komichi,0000,0000,0000,,Ah, não. Não posso.
+Dialogue: 0,0:20:18.11,0:20:19.17,main,Kao,0000,0000,0000,,Por que não?
+Dialogue: 0,0:20:20.19,0:20:21.78,main,Komichi,0000,0000,0000,,Você acha que ela viria?
+Dialogue: 0,0:20:22.15,0:20:25.65,main,Kao,0000,0000,0000,,Sim, você pode dizer\Nque a Kao que pediu.
+Dialogue: 0,0:20:29.02,0:20:34.53,main,Komichi,0000,0000,0000,,Ai, Kao! Você é uma irmãzinha perfeita!
+Dialogue: 0,0:20:34.96,0:20:37.35,main,Komichi,0000,0000,0000,,Então... Rapidinho.
+Dialogue: 0,0:20:40.29,0:20:41.05,main,Komichi,0000,0000,0000,,Ué?
+Dialogue: 0,0:20:41.29,0:20:42.62,main,Komichi,0000,0000,0000,,Cadê o pai?
+Dialogue: 0,0:20:50.57,0:20:53.42,main,Komichi,0000,0000,0000,,Pai, bem-vindo.
+Dialogue: 0,0:20:53.98,0:20:56.55,main,Sato,0000,0000,0000,,Ah, olá, Komichi.
+Dialogue: 0,0:20:57.07,0:20:57.89,main,Komichi,0000,0000,0000,,Oi.
+Dialogue: 0,0:20:58.72,0:21:00.76,main,Sato,0000,0000,0000,,Então... como foi na escola?
+Dialogue: 0,0:21:01.25,0:21:02.77,main,Komichi,0000,0000,0000,,Fiquei meio nervosa.
+Dialogue: 0,0:21:02.77,0:21:04.56,main,Komichi,0000,0000,0000,,Mas foi divertido.
+Dialogue: 0,0:21:04.56,0:21:05.57,main,Sato,0000,0000,0000,,É mesmo?
+Dialogue: 0,0:21:05.57,0:21:06.26,main,Komichi,0000,0000,0000,,Sim.
+Dialogue: 0,0:21:06.66,0:21:11.24,main,Komichi,0000,0000,0000,,Ah, e tem um monte de coisas\Nque quero te contar!
+Dialogue: 0,0:21:31.64,0:21:32.63,main,Sato,0000,0000,0000,,Komichi...
+Dialogue: 0,0:21:35.23,0:21:38.88,main,Sato,0000,0000,0000,,Que horas você vai\Npra escola amanhã cedo?
+Dialogue: 0,0:21:40.31,0:21:41.74,main,Komichi,0000,0000,0000,,E você?
+Dialogue: 0,0:21:43.29,0:21:46.53,main,Sato,0000,0000,0000,,Bom... Eu preciso sair lá pelas seis.
+Dialogue: 0,0:21:48.59,0:21:50.61,main,Komichi,0000,0000,0000,,Então eu vou me trocar antes disso.
+Dialogue: 0,0:21:54.18,0:21:55.62,main,Sato,0000,0000,0000,,Mal posso esperar pra ver.
+Dialogue: 0,0:21:56.19,0:21:57.02,main,Komichi,0000,0000,0000,,Tá!
+Dialogue: 0,0:22:03.93,0:22:05.21,main,Komichi,0000,0000,0000,,Pai!
+Dialogue: 0,0:22:07.25,0:22:08.65,main,Komichi,0000,0000,0000,,Até amanhã!

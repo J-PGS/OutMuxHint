@@ -1,0 +1,358 @@
+﻿[Script Info]
+Title: English (US)
+Original Script: aniplex  [http://www.crunchyroll.com/user/aniplex]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,0010,0010,0010,1
+Style: main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: italicstop,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: flashback,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: flashback italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: flashbacktop,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,0,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0018,0
+Style: flashbackitalicstop,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: sign_3520_34_Episode_One__The,Georgia,11,&H32000000,&H000000FF,&HC8FFFFFF,&HC8FFFFFF,0,0,0,0,100,100,0,0,1,1,1,8,0030,0030,0020,1
+Style: sign_7300_44_16__Washio_Hitom,Comic Sans MS,40,&H003B3B3B,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,8,0030,0030,0020,1
+Style: sign_21313_231_Class_Roster,Times New Roman,40,&H00427373,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,2,0030,0030,0020,1
+Style: sign_21430_236_Akebi_Komichi,Arial,22,&H004D5751,&H000000FF,&H00D6DBD8,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,1,0030,0030,0020,1
+Style: sign_25648_273_Komichi,Verdana,20,&H00155794,&H000000FF,&H0090DAF1,&H00E9E9E9,-1,0,0,0,100,100,0,0,1,0,0,2,0030,0030,0020,1
+Style: sign_7511_59_Club_Application,Times New Roman,8,&H005F5F5F,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,2,0030,0030,0020,1
+Style: sign_12144_120_Fukumoto_Miki,Arial,8,&H00ACA8BC,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,8,0030,0030,0020,1
+Style: sign_17327_176_New_Solutions_Ka,Times New Roman,15,&H00C5D1DF,&H000000FF,&H006D66AB,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,7,0030,0030,0020,1
+Style: sign_17795_180_SEND_THIS_FILE_,Arial,10,&H00AFAFA3,&H000000FF,&H00EFF1F1,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,2,0030,0030,0020,1
+Style: sign_19829_202_Taking_Hold_of_S,Times New Roman,20,&H00938767,&H000000FF,&H00EDDDC0,&H00000000,0,0,0,0,100,100,0,0,1,3,0,7,0030,0030,0020,1
+Style: sign_20505_211_Literature_Club_,Trebuchet MS,15,&H0044C6DD,&H000000FF,&H003F5CA2,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,7,0030,0030,0020,1
+Style: sign_25120_248_Beyond_the_Blue_,Georgia,15,&H00434545,&H000000FF,&H00B5BBB8,&H00E9E9E9,-1,0,0,0,100,100,0,0,1,0,0,2,0030,0030,0020,1
+Style: sign_21609_224_Missing,Times New Roman,20,&H005E6B6D,&H000000FF,&H00D1DBDE,&H00E9E9E9,-1,0,0,0,100,100,0,0,1,3,0,2,0030,0030,0020,1
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:00.57,0:00:03.47,main,Oshizu,0000,0000,0000,,On your mark... Set...
+Dialogue: 0,0:00:05.20,0:00:07.66,main,Touko,0000,0000,0000,,Have you decided yet, Kizaki-san?
+Dialogue: 0,0:00:07.66,0:00:09.48,main,Erika,0000,0000,0000,,I sorta have an idea, but...
+Dialogue: 0,0:00:09.72,0:00:12.50,main,Touko,0000,0000,0000,,We're gonna have to decide soon.
+Dialogue: 0,0:00:17.17,0:00:21.16,main,Ayumi,0000,0000,0000,,Wow, Togano-san, you've been playing \Nbasketball since grade school?
+Dialogue: 0,0:00:21.75,0:00:24.03,main,Mai,0000,0000,0000,,Yeah. What about you?
+Dialogue: 0,0:00:24.03,0:00:26.17,main,Ayumi,0000,0000,0000,,It's always been table tennis for me.
+Dialogue: 0,0:00:26.77,0:00:29.27,main,Yasuko,0000,0000,0000,,I went for the volleyball club.
+Dialogue: 0,0:00:29.27,0:00:30.50,main,Hitomi,0000,0000,0000,,Did you?
+Dialogue: 0,0:00:32.90,0:00:34.47,main,Oshizu,0000,0000,0000,,On your mark...
+Dialogue: 0,0:00:35.21,0:00:36.53,main,Oshizu,0000,0000,0000,,Set...
+Dialogue: 0,0:00:47.28,0:00:48.26,main,Tomono,0000,0000,0000,,Next is...
+Dialogue: 0,0:00:49.25,0:00:50.42,main,Erika,0000,0000,0000,,Akebi-san?
+Dialogue: 0,0:00:51.56,0:00:52.68,main,Erika,0000,0000,0000,,Akebi-san!
+Dialogue: 0,0:00:52.68,0:00:53.45,main,Komichi,0000,0000,0000,,Yes!
+Dialogue: 0,0:00:53.45,0:00:55.69,main,Erika,0000,0000,0000,,It's your turn next.
+Dialogue: 0,0:00:55.69,0:00:57.08,main,Komichi,0000,0000,0000,,Oh... Right.
+Dialogue: 0,0:01:00.51,0:01:02.89,main,Komichi,0000,0000,0000,,Akebi Komichi! I'm ready!
+Dialogue: 0,0:01:03.50,0:01:04.54,main,Oshizu,0000,0000,0000,,Huh?
+Dialogue: 0,0:01:05.24,0:01:07.53,main,Oshizu,0000,0000,0000,,O-On your mark...
+Dialogue: 0,0:01:08.22,0:01:10.05,main,Oshizu,0000,0000,0000,,Set...
+Dialogue: 0,0:01:12.66,0:01:13.37,main,Tomono,0000,0000,0000,,Huh?!
+Dialogue: 0,0:01:18.24,0:01:19.72,main,Tomono,0000,0000,0000,,She's barefoot?!
+Dialogue: 0,0:02:51.76,0:02:54.50,main,Touko,0000,0000,0000,,Jeez, I can't believe you did that.
+Dialogue: 0,0:02:51.77,0:02:57.23,sign_3520_34_Episode_One__The,Title,0000,0000,0000,,{\fad(482,554)\pos(518,70)}Episode Three \NHave You Decided on a Club?
+Dialogue: 0,0:02:55.32,0:02:58.93,main,Komichi,0000,0000,0000,,The teacher chewed me out about \Nhow I could've hurt myself.
+Dialogue: 0,0:02:58.93,0:03:01.17,main,Touko,0000,0000,0000,,And you had to pick up \Nrocks as punishment, huh?
+Dialogue: 0,0:03:01.96,0:03:05.77,main,Tomono,0000,0000,0000,,You had the fastest time out \Nof the whole class, though.
+Dialogue: 0,0:03:05.77,0:03:08.60,main,Tomono,0000,0000,0000,,I bet it was even faster than a boy's time.
+Dialogue: 0,0:03:08.60,0:03:09.16,main,Komichi,0000,0000,0000,,Really?!
+Dialogue: 0,0:03:11.62,0:03:14.93,main,Komichi,0000,0000,0000,,I actually run faster when I'm barefoot!
+Dialogue: 0,0:03:38.97,0:03:41.69,main,Upperclassman5,0000,0000,0000,,Hey, is Akebi Komichi-san in this class?
+Dialogue: 0,0:03:41.69,0:03:44.50,top,Shijou,0000,0000,0000,,Um... well...
+Dialogue: 0,0:03:44.12,0:03:45.62,main,Mai,0000,0000,0000,,Who are they?
+Dialogue: 0,0:03:46.16,0:03:47.70,main,Ayumi,0000,0000,0000,,I think they're older students.
+Dialogue: 0,0:03:47.70,0:03:51.17,main,Upperclassman14,0000,0000,0000,,We heard she's the only one wearing \Na sailor uniform to school.
+Dialogue: 0,0:03:51.55,0:03:53.94,main,Touko,0000,0000,0000,,Akebi-chan, Akebi-chan! Hide!
+Dialogue: 0,0:03:54.29,0:03:54.98,main,Komichi,0000,0000,0000,,Huh?
+Dialogue: 0,0:03:55.41,0:03:58.19,main,Upperclassman9,0000,0000,0000,,There she is! The girl \Nwith the sailor uniform!
+Dialogue: 0,0:04:02.13,0:04:06.14,main,Upperclassman5,0000,0000,0000,,We saw you running out there last period.
+Dialogue: 0,0:04:06.79,0:04:08.27,main,Upperclassman14,0000,0000,0000,,Please join the track club!
+Dialogue: 0,0:04:08.27,0:04:09.20,main,Upperclassman5,0000,0000,0000,,The basketball club!
+Dialogue: 0,0:04:09.20,0:04:10.89,main,Upperclassman9,0000,0000,0000,,No, no! The soccer club!
+Dialogue: 0,0:04:12.70,0:04:14.90,main,Komichi,0000,0000,0000,,Um... I...
+Dialogue: 0,0:04:14.90,0:04:17.50,main,Touko,0000,0000,0000,,Wow, she's all popular now.
+Dialogue: 0,0:04:17.50,0:04:19.29,main,Tomono,0000,0000,0000,,I thought they were gonna...
+Dialogue: 0,0:04:19.29,0:04:20.49,main,Touko,0000,0000,0000,,Uh-huh.
+Dialogue: 0,0:04:20.82,0:04:23.52,main,Upperclassman5,0000,0000,0000,,Or... have you already picked a club?
+Dialogue: 0,0:04:23.52,0:04:26.57,main,Komichi,0000,0000,0000,,Huh? No, not yet...
+Dialogue: 0,0:04:27.63,0:04:28.34,main,Erika,0000,0000,0000,,Um—
+Dialogue: 0,0:04:28.34,0:04:29.49,main,Kei,0000,0000,0000,,Excuse me, ladies.
+Dialogue: 0,0:04:34.67,0:04:38.92,main,Kei,0000,0000,0000,,I'm very sorry, but we need to \Nprepare for our next class.
+Dialogue: 0,0:04:38.92,0:04:42.01,main,Kei,0000,0000,0000,,Could you try to recruit new \Nmembers some other time?
+Dialogue: 0,0:04:50.55,0:04:52.63,main,Upperclassman5,0000,0000,0000,,Yeah, you're right.
+Dialogue: 0,0:04:52.63,0:04:54.52,main,Upperclassman14,0000,0000,0000,,Sorry for barging in like that.
+Dialogue: 0,0:04:54.52,0:04:58.09,main,Upperclassman9,0000,0000,0000,,Anyway, come check out our clubs \Nif you feel like it, okay?
+Dialogue: 0,0:04:58.09,0:04:59.75,main,Komichi,0000,0000,0000,,Okay...
+Dialogue: 0,0:05:04.13,0:05:06.15,main,English Teacher,0000,0000,0000,,No running in the halls!
+Dialogue: 0,0:05:13.23,0:05:16.13,main,Ayumi,0000,0000,0000,,I went to check out the equestrian club,\N and they actually have horses.
+Dialogue: 0,0:05:13.25,0:05:15.25,sign_7511_59_Club_Application,Text,0000,0000,0000,,{\fax-1.06\frz322.8\pos(435,95)}Club Application Form
+Dialogue: 0,0:05:13.25,0:05:15.25,sign_7511_59_Club_Application,Text,0000,0000,0000,,{\fax-1.06\an7\frz320.8\pos(285,45)\fay.02}\h\h\h\hName of Club \NI wish to join the _____ club.
+Dialogue: 0,0:05:16.13,0:05:17.62,main,Togano,0000,0000,0000,,Wow, were they big?
+Dialogue: 0,0:05:17.62,0:05:18.42,main,Ayumi,0000,0000,0000,,They were huge!
+Dialogue: 0,0:05:20.68,0:05:21.92,main,Kei,0000,0000,0000,,Um...
+Dialogue: 0,0:05:22.16,0:05:23.14,main,Kei,0000,0000,0000,,Akebi-san?
+Dialogue: 0,0:05:23.14,0:05:25.33,main,Komichi,0000,0000,0000,,You have really nice legs, Tanigawa-san.
+Dialogue: 0,0:05:25.33,0:05:25.66,main,Kei,0000,0000,0000,,Huh?
+Dialogue: 0,0:05:25.66,0:05:27.95,main,Komichi,0000,0000,0000,,Your skin looks so smooth, like porcelain!
+Dialogue: 0,0:05:29.80,0:05:32.46,main,Komichi,0000,0000,0000,,I realized it during PE earlier!
+Dialogue: 0,0:05:32.46,0:05:33.96,main,Kei,0000,0000,0000,,What are you...
+Dialogue: 0,0:05:37.83,0:05:40.02,main,Komichi,0000,0000,0000,,Do you mind if I lift your skirt?
+Dialogue: 0,0:05:40.71,0:05:41.83,main,Kei,0000,0000,0000,,What?!
+Dialogue: 0,0:05:44.14,0:05:46.91,main,Kei,0000,0000,0000,,Seriously, what are you even asking?
+Dialogue: 0,0:05:48.81,0:05:52.92,main,Komichi,0000,0000,0000,,Usagihara-san is running a contest \Nto see who has the prettiest legs.
+Dialogue: 0,0:05:52.92,0:05:55.03,main,Komichi,0000,0000,0000,,Would you like to join in?
+Dialogue: 0,0:05:55.90,0:05:58.18,main,Kei,0000,0000,0000,,The teacher won't like this.
+Dialogue: 0,0:05:58.18,0:05:59.98,main,Kei,0000,0000,0000,,You'll get your uniforms dirty.
+Dialogue: 0,0:05:59.98,0:06:01.09,main,Kei,0000,0000,0000,,I'll pass.
+Dialogue: 0,0:06:01.39,0:06:05.07,main,Kei,0000,0000,0000,,More importantly, Akebi-san, have you \Ndecided which club you're joining?
+Dialogue: 0,0:06:05.07,0:06:08.85,main,Komichi,0000,0000,0000,,I'm still deciding, actually. \NThey all seem really interesting.
+Dialogue: 0,0:06:09.19,0:06:11.09,main,Komichi,0000,0000,0000,,So thanks for what you did earlier!
+Dialogue: 0,0:06:11.09,0:06:15.16,main,Kei,0000,0000,0000,,No, I really didn't do anything \Nthat deserves thanks.
+Dialogue: 0,0:06:17.16,0:06:20.07,main,Kei,0000,0000,0000,,Club applications need to \Nbe submitted this week.
+Dialogue: 0,0:06:20.07,0:06:21.48,main,Kei,0000,0000,0000,,Don't be late.
+Dialogue: 0,0:06:21.48,0:06:22.29,main,Komichi,0000,0000,0000,,I won't!
+Dialogue: 0,0:06:24.66,0:06:27.83,main,Touko,0000,0000,0000,,Class President Tanigawa is so serious.
+Dialogue: 0,0:06:27.83,0:06:30.45,main,Touko,0000,0000,0000,,She just gives off this air of \Nneatness and classic beauty.
+Dialogue: 0,0:06:30.45,0:06:34.61,main,Tomono,0000,0000,0000,,She looked so cool setting those \Nolder girls straight earlier.
+Dialogue: 0,0:06:35.54,0:06:38.62,main,Touko,0000,0000,0000,,I feel like she could stand to be \Na little more playful, though.
+Dialogue: 0,0:06:38.99,0:06:42.79,main,Touko,0000,0000,0000,,Its like she's Miss. Rules and \NRegulations in the flesh.
+Dialogue: 0,0:06:44.30,0:06:46.09,italics,Kei,0000,0000,0000,,I can hear you.
+Dialogue: 0,0:06:51.92,0:06:54.04,top,Math Teacher,0000,0000,0000,,Could you take care of this, please?
+Dialogue: 0,0:06:53.31,0:06:57.20,italics,Kei,0000,0000,0000,,I'm not trying to be particularly \Nserious or anything.
+Dialogue: 0,0:06:54.04,0:06:54.62,top,Kei,0000,0000,0000,,Yes, ma'am.
+Dialogue: 0,0:06:55.87,0:06:57.64,top,Math Teacher,0000,0000,0000,,You're always such a big help.
+Dialogue: 0,0:06:57.96,0:06:58.90,italics,Kei,0000,0000,0000,,I just...
+Dialogue: 0,0:07:00.37,0:07:04.79,italics,Kei,0000,0000,0000,,don't think anything is worth getting \Nin trouble with the teachers over.
+Dialogue: 0,0:07:05.85,0:07:08.64,main,Math Teacher,0000,0000,0000,,Tanigawa-san, you're always so well-prepared.
+Dialogue: 0,0:07:14.99,0:07:17.65,main,Math Teacher,0000,0000,0000,,Okay, who knows the solution to this one?
+Dialogue: 0,0:07:20.66,0:07:22.94,main,Students,0000,0000,0000,,Bye!
+Dialogue: 0,0:07:22.94,0:07:24.20,main,Students,0000,0000,0000,,See you tomorrow.
+Dialogue: 0,0:07:24.20,0:07:26.01,main,Ai,0000,0000,0000,,Wake up, Kamimoku-san.
+Dialogue: 0,0:07:26.01,0:07:27.16,main,Kei,0000,0000,0000,,Goodbye.
+Dialogue: 0,0:07:27.58,0:07:29.48,main,Ai,0000,0000,0000,,Goodbye, Tanigawa-san.
+Dialogue: 0,0:07:29.80,0:07:31.67,main,Ai,0000,0000,0000,,Kamimoku-san, classes are over!
+Dialogue: 0,0:07:38.12,0:07:40.67,main,Touko,0000,0000,0000,,Komichi!
+Dialogue: 0,0:07:48.05,0:07:51.58,italics,Kei,0000,0000,0000,,Akebi-san is already so \Npopular within the class.
+Dialogue: 0,0:07:52.00,0:07:53.95,italics,Kei,0000,0000,0000,,She's friendly and really cute,
+Dialogue: 0,0:07:54.25,0:07:55.31,italics,Kei,0000,0000,0000,,and...
+Dialogue: 0,0:07:55.74,0:07:56.58,main,Tomono,0000,0000,0000,,Well, bye!
+Dialogue: 0,0:07:56.58,0:07:57.47,main,Komichi,0000,0000,0000,,See you tomorrow!
+Dialogue: 0,0:07:57.47,0:07:58.45,main,Touko,0000,0000,0000,,Bye!
+Dialogue: 0,0:07:59.07,0:08:00.98,main,Komichi,0000,0000,0000,,Tanigawa-san!
+Dialogue: 0,0:08:02.11,0:08:05.38,italics,Kei,0000,0000,0000,,She talks to me often.
+Dialogue: 0,0:08:06.41,0:08:07.53,main,Komichi,0000,0000,0000,,Heading home now?
+Dialogue: 0,0:08:07.53,0:08:08.89,main,Kei,0000,0000,0000,,Uh, yeah...
+Dialogue: 0,0:08:08.89,0:08:11.45,main,Kei,0000,0000,0000,,I noticed you were... dancing to something.
+Dialogue: 0,0:08:11.45,0:08:14.46,main,Komichi,0000,0000,0000,,Yeah! Fukumoto Miki-chan's solo debut song!
+Dialogue: 0,0:08:14.46,0:08:16.74,main,Komichi,0000,0000,0000,,It's such a good song!
+Dialogue: 0,0:08:26.48,0:08:29.48,sign_12144_120_Fukumoto_Miki,Text,0000,0000,0000,,{\fax0.18\pos(266,330)\frz6.648\fay-.01\b1}Fukumoto Miki
+Dialogue: 0,0:08:27.93,0:08:29.17,top,Komichi,0000,0000,0000,,What do you think?
+Dialogue: 0,0:08:29.82,0:08:31.81,main,Kei,0000,0000,0000,,Y-Yeah...
+Dialogue: 0,0:08:36.94,0:08:40.77,italics,Kei,0000,0000,0000,,She's so close, I'm not \Nhearing much of it.
+Dialogue: 0,0:08:45.81,0:08:48.48,main,Kei,0000,0000,0000,,I'm kind of amazed you can dance to this.
+Dialogue: 0,0:08:48.48,0:08:50.01,main,Komichi,0000,0000,0000,,Huh? Really?
+Dialogue: 0,0:08:50.01,0:08:50.59,main,Kei,0000,0000,0000,,Yeah.
+Dialogue: 0,0:08:51.02,0:08:54.43,main,Komichi,0000,0000,0000,,I've watched the music video over \Nand over again to practice!
+Dialogue: 0,0:08:54.43,0:08:56.60,main,Komichi,0000,0000,0000,,Music programs on TV, too!
+Dialogue: 0,0:08:56.60,0:09:01.42,main,Komichi,0000,0000,0000,,I always try to guess what she's thinking \Nwhen the look on her face changes.
+Dialogue: 0,0:09:03.29,0:09:05.26,main,Kei,0000,0000,0000,,You have a very inquisitive mind.
+Dialogue: 0,0:09:08.21,0:09:09.23,main,Kei,0000,0000,0000,,Thanks.
+Dialogue: 0,0:09:09.23,0:09:10.27,main,Komichi,0000,0000,0000,,No problem!
+Dialogue: 0,0:09:10.68,0:09:13.62,main,Komichi,0000,0000,0000,,What about you? Is there \Nanything you really like?
+Dialogue: 0,0:09:13.62,0:09:14.50,main,Kei,0000,0000,0000,,Me?
+Dialogue: 0,0:09:14.50,0:09:17.58,main,Komichi,0000,0000,0000,,Yeah! I want to know more about you!
+Dialogue: 0,0:09:18.01,0:09:20.99,main,Kei,0000,0000,0000,,There's nothing that I particularly like.
+Dialogue: 0,0:09:23.18,0:09:25.72,main,Komichi,0000,0000,0000,,Well, have you decided on a club yet?
+Dialogue: 0,0:09:27.60,0:09:30.09,main,Kei,0000,0000,0000,,Not... yet.
+Dialogue: 0,0:09:30.09,0:09:31.57,main,Komichi,0000,0000,0000,,I know, right?
+Dialogue: 0,0:09:31.57,0:09:35.66,main,Komichi,0000,0000,0000,,There are too many to choose from!\N I can't pick just one!
+Dialogue: 0,0:09:36.86,0:09:40.52,main,Kei,0000,0000,0000,,It's not because there are \Ntoo many I want to—
+Dialogue: 0,0:09:40.52,0:09:43.57,main,Komichi,0000,0000,0000,,Tanigawa-san, your legs really are pretty!
+Dialogue: 0,0:09:44.05,0:09:45.66,main,Kei,0000,0000,0000,,That again?
+Dialogue: 0,0:09:46.07,0:09:49.02,main,Komichi,0000,0000,0000,,Please show me! I really want to see them!
+Dialogue: 0,0:09:49.02,0:09:50.20,main,Kei,0000,0000,0000,,No.
+Dialogue: 0,0:09:50.20,0:09:51.99,main,Komichi,0000,0000,0000,,Why not?
+Dialogue: 0,0:09:51.99,0:09:53.53,main,Kei,0000,0000,0000,,Because it's embarrassing!
+Dialogue: 0,0:09:55.46,0:09:58.07,main,Komichi,0000,0000,0000,,You can take a picture at \Nhome and send it to me!
+Dialogue: 0,0:09:58.07,0:09:59.04,main,Komichi,0000,0000,0000,,How about that?
+Dialogue: 0,0:09:59.04,0:10:02.66,main,Kei,0000,0000,0000,,That's even more embarrassing! \NAnd it'd be saved in my history!
+Dialogue: 0,0:10:02.66,0:10:04.20,main,Komichi,0000,0000,0000,,No, huh?
+Dialogue: 0,0:10:05.09,0:10:08.56,main,Komichi,0000,0000,0000,,Okay, then I'll just give you \Nmy contact info for now!
+Dialogue: 0,0:10:08.56,0:10:10.60,main,Kei,0000,0000,0000,,Oh, I'll give you mine, too.
+Dialogue: 0,0:10:11.22,0:10:13.20,main,Komichi,0000,0000,0000,,Yay!
+Dialogue: 0,0:10:14.20,0:10:16.17,main,Komichi,0000,0000,0000,,Let's keep in touch all the time!
+Dialogue: 0,0:10:18.50,0:10:22.75,italics,Kei,0000,0000,0000,,She so easily does things that I've \Nalways wanted to, but couldn't.
+Dialogue: 0,0:10:20.18,0:10:21.98,top,Komichi,0000,0000,0000,,See you tomorrow!
+Dialogue: 0,0:10:30.01,0:10:31.27,italics,Kei,0000,0000,0000,,It makes me happy.
+Dialogue: 0,0:10:38.08,0:10:39.16,main,Kei,0000,0000,0000,,I'm home.
+Dialogue: 0,0:10:40.00,0:10:41.44,main,Kei,0000,0000,0000,,Mom?
+Dialogue: 0,0:10:45.04,0:10:46.90,main,Kei,0000,0000,0000,,Maybe she's out shopping.
+Dialogue: 0,0:10:47.80,0:10:49.92,main,Kei,0000,0000,0000,,I guess it's just me.
+Dialogue: 0,0:11:07.95,0:11:09.40,flashback,Komichi,0000,0000,0000,,You have really nice legs.
+Dialogue: 0,0:11:32.60,0:11:34.12,main,Kei,0000,0000,0000,,I actually took one.
+Dialogue: 0,0:11:35.22,0:11:36.63,main,Kei,0000,0000,0000,,That's so risque!
+Dialogue: 0,0:11:36.63,0:11:39.67,italics,Kei,0000,0000,0000,,But it's not lewd or anything... right?
+Dialogue: 0,0:11:39.67,0:11:41.78,italics,Kei,0000,0000,0000,,I'm just taking a picture of myself!
+Dialogue: 0,0:11:41.78,0:11:43.63,italics,Kei,0000,0000,0000,,There's nothing lewd about it!
+Dialogue: 0,0:11:44.62,0:11:47.25,italics,Kei,0000,0000,0000,,And yet... my heart is pounding.
+Dialogue: 0,0:11:47.25,0:11:50.14,italics,Kei,0000,0000,0000,,It's like I'm seeing a version \Nof myself that I don't know.
+Dialogue: 0,0:11:51.18,0:11:54.13,italics,Kei,0000,0000,0000,,It's... kind of fun.
+Dialogue: 0,0:11:54.85,0:11:56.36,italics,Kei,0000,0000,0000,,So I might as well...
+Dialogue: 0,0:11:57.42,0:11:58.65,main,Mom,0000,0000,0000,,I'm home.
+Dialogue: 0,0:11:59.26,0:12:00.61,main,Mom,0000,0000,0000,,Kei?
+Dialogue: 0,0:12:01.45,0:12:02.44,main,Mom,0000,0000,0000,,Is she in her room?
+Dialogue: 0,0:12:02.66,0:12:06.66,sign_17327_176_New_Solutions_Ka,Text,0000,0000,0000,,New {\c&H181640&}Solutions {\3c&HCED2D6&}Kanji Dictionary\N{\c&H7D8384&\b0} Japanese Dictionary\N{\c&HD7D6D7&\3c&H5F5D60&}Archaic Japanese Dictionary\N{\c&H709166&\3c&HCADAE4&}1 {\3c&H709166&\c&HCADAE4&}Encyclopedia\N{\c&H434E72&\3c&HCADAE4&}2 {\3c&H434E72&\c&HCADAE4&}Encyclopedia\N{\3c&HCADAE4&\c&H2E3D3D&}3 {\c&HCADAE4&\3c&H2E3D3D&}Encyclopedia
+Dialogue: 0,0:12:07.28,0:12:10.71,italics,Kei,0000,0000,0000,,I might... be a pervert.
+Dialogue: 0,0:12:11.23,0:12:14.63,italics,Kei,0000,0000,0000,,I can't send any of these!
+Dialogue: 0,0:12:15.24,0:12:17.66,italics,Kei,0000,0000,0000,,Not this one... Definitely not this one.
+Dialogue: 0,0:12:22.17,0:12:22.67,sign_17795_180_SEND_THIS_FILE_,Text,0000,0000,0000,,{\pos(408,130)\fsp2\frx20\c&HEFF5BB&}SEND
+Dialogue: 0,0:12:22.17,0:12:24.18,sign_17795_180_SEND_THIS_FILE_,Text,0000,0000,0000,,{\pos(238,130)\fsp4\frx20}CANCEL
+Dialogue: 0,0:12:22.17,0:12:24.68,sign_17795_180_SEND_THIS_FILE_,Text,0000,0000,0000,,{\pos(322,77)\frx6\fsp4}SEND THIS FILE?
+Dialogue: 0,0:12:24.05,0:12:24.68,sign_17795_180_SEND_THIS_FILE_,Text,0000,0000,0000,,{\pos(408,130)\fsp2\frx20\c&HEFF5BB&}SEND
+Dialogue: 0,0:12:24.18,0:12:24.30,sign_17795_180_SEND_THIS_FILE_,Text,0000,0000,0000,,{\pos(238,130)\fsp4\frx20\clip(m 253 133 l 259 127 263 116 199 115 202 133)}CANCEL
+Dialogue: 0,0:12:24.30,0:12:24.43,sign_17795_180_SEND_THIS_FILE_,Text,0000,0000,0000,,{\pos(238,130)\fsp4\frx20\clip(m 219 135 l 224 131 227 126 231 119 200 120 202 133)}CANCEL
+Dialogue: 0,0:12:24.55,0:12:24.68,sign_17795_180_SEND_THIS_FILE_,Text,0000,0000,0000,,{\pos(238,130)\fsp4\frx20\clip(m 239 116 l 242 122 247 129 250 135 274 133 269 118)}CANCEL
+Dialogue: 0,0:12:26.69,0:12:27.43,main,Mom,0000,0000,0000,,Kei?
+Dialogue: 0,0:12:31.52,0:12:34.45,main,Mom,0000,0000,0000,,What's going on? Why haven't \Nyou changed clothes yet?
+Dialogue: 0,0:12:35.49,0:12:36.43,main,Kei,0000,0000,0000,,Why?!
+Dialogue: 0,0:12:36.43,0:12:38.85,main,Kei,0000,0000,0000,,Wait... Wait... W-W-W-Wa—
+Dialogue: 0,0:12:44.75,0:12:45.69,main,Mom,0000,0000,0000,,Honey...
+Dialogue: 0,0:12:46.07,0:12:47.81,main,Mom,0000,0000,0000,,Why are you crying?
+Dialogue: 0,0:12:49.06,0:12:50.70,main,Kei,0000,0000,0000,,Mom...
+Dialogue: 0,0:12:51.15,0:12:55.18,main,Kei,0000,0000,0000,,This is the most embarrassing \Nthing that could ever happen!
+Dialogue: 0,0:13:08.97,0:13:11.64,sign_17795_180_SEND_THIS_FILE_,Text,0000,0000,0000,,{\c&HFFFFFF&\move(85,190,85,3,2487,2670)\fs15\1a&H7D&\fad(109,1)}READ
+Dialogue: 0,0:13:08.97,0:13:11.68,sign_17795_180_SEND_THIS_FILE_,Text,0000,0000,0000,,{\an1\c&H7E6D39&\3c&HE7FABC&\move(160,140,160,-100,2487,2710)\fs16\fad(109,1)}P{\c&H7D6D39&}l{\c&H7C6D38&}e{\c&H7B6D38&}a{\c&H7A6D37&}s{\c&H796D37&}e {\c&H776D36&}d{\c&H766D35&}o{\c&H756D35&}n{\c&H746D34&}'{\c&H736D34&}t {\c&H716D33&}s{\c&H706D32&}h{\c&H6F6D32&}o{\c&H6E6D31&}w {\c&H6C6D30&}t{\c&H6B6C30&}h{\c&H6A6C2F&}a{\c&H696C2F&}t {\c&H676C2E&}t{\c&H666C2D&}o {\c&H646C2C&}a{\c&H636C2C&}n{\c&H626C2B&}y{\c&H616C2B&}o{\c&H606C2A&}n{\c&H5F6C2A&}e {\c&H5D6C29&}({\c&H5C6C28&};{\c&H5B6C28&}人{\c&H5A6C27&};{\c&H596C27&})
+Dialogue: 0,0:13:11.72,0:13:15.69,sign_17795_180_SEND_THIS_FILE_,Text,0000,0000,0000,,{\an1\fs16\fad(109,1)\c&H6A664E&\pos(167,112)\3c&HF7F6F8&\bord3}T{\c&H69654E&}he{\c&H68644E&}y {\c&H66634E&}r{\c&H66624E&}e{\c&H65614E&}a{\c&H64614E&}l{\c&H63604E&}l{\c&H635F4E&}y {\c&H615E4E&}a{\c&H605D4E&}r{\c&H605C4E&}e {\c&H5E5B4E&}p{\c&H5D5A4E&}re{\c&H5C594E&}t{\c&H5B584F&}ty{\c&H5A574F&}!{\c&H59564F&}! {\c&H58554F&}Y{\c&H57544F&}o{\c&H56544F&}u{\c&H55534F&}'{\c&H55524F&}r{\c&H54514F&}e {\c&H52504F&}g{\c&H524F4F&}o{\c&H514F4F&}o{\c&H504E4F&}d {\c&H4F4D4F&}a{\c&H4E4C4F&}t {\c&H615D4E&}\N{\c&H6A664E&}t{\c&H69654E&}ak{\c&H68644E&}i{\c&H67634E&}n{\c&H66634E&}g {\c&H65614E&}s{\c&H64614E&}e{\c&H64604E&}l{\c&H63604E&}f{\c&H625F4E&}i{\c&H625E4E&}e{\c&H615E4E&}s{\c&H605D4E&}! {\c&H5F5C4E&}T{\c&H5E5B4E&}e{\c&H5D5A4E&}ac{\c&H5C594E&}h {\c&H5B584F&}m{\c&H5A574F&}e {\c&H58564F&}h{\c&H58554F&}o{\c&H57544F&}w {\c&H56534F&}y{\c&H55524F&}o{\c&H54524F&}u {\c&H53514F&}d{\c&H52504F&}o {\c&H514F4F&}t{\c&H504E4F&}h{\c&H4F4D4F&}at{\c&H4E4C4F&}!
+Dialogue: 0,0:13:14.39,0:13:15.68,main,Kei,0000,0000,0000,,I'm good at it?
+Dialogue: 0,0:13:17.03,0:13:20.77,main,Mom,0000,0000,0000,,Kei, go ahead and take \Nyour bath before dinner.
+Dialogue: 0,0:13:20.77,0:13:22.38,main,Kei,0000,0000,0000,,Okay...
+Dialogue: 0,0:13:36.82,0:13:39.86,italics,Kei,0000,0000,0000,,I'm so embarrassed.
+Dialogue: 0,0:13:47.01,0:13:52.51,sign_19829_202_Taking_Hold_of_S,Text,0000,0000,0000,,Taking Hold of Summer
+Dialogue: 0,0:13:52.52,0:13:55.02,main,Senpai1,0000,0000,0000,,That book is really moving, isn't it?
+Dialogue: 0,0:13:55.02,0:13:56.22,main,Tomono,0000,0000,0000,,It is.
+Dialogue: 0,0:13:56.22,0:13:59.89,main,Senpai2,0000,0000,0000,,Hey, Tomono-chan, do you \Nprefer to read or write?
+Dialogue: 0,0:13:59.89,0:14:02.77,main,Tomono,0000,0000,0000,,Well... I do think I'd like to try writing.
+Dialogue: 0,0:14:02.77,0:14:05.69,main,Senpai2,0000,0000,0000,,And there's the aggressive \Nliterature club recruiter!
+Dialogue: 0,0:14:06.11,0:14:08.25,main,Tomono,0000,0000,0000,,What are you going to do, Tanigawa-san?
+Dialogue: 0,0:14:08.25,0:14:11.92,main,Tomono,0000,0000,0000,,I knew from the start that I wanted \Nto join the literature club.
+Dialogue: 0,0:14:11.92,0:14:15.21,main,Kei,0000,0000,0000,,Yeah... I'm going to think \Nabout it a bit longer.
+Dialogue: 0,0:14:15.20,0:14:19.71,sign_20505_211_Literature_Club_,Text,0000,0000,0000,,Literature Club \N{\fs10\c&H192B2A&\3c&HD5E1E1&}Seeking new members!!\N\N{\fs15\c&H2D2A26&\3c&HE7E7E7&}Karate Association\N\N{\c&H5A38D9&} Table Tennis {\c&H343636&}Club\N\N{\c&HAB745D&}Swimming Club\N{\fs10\b0}Beginners welcome!\NWe practice in the school's indoor pool!\NObservers welcome anytime!\N\N{\fs15\b1\c&H696A67&}Seeking New Members\N\N{\c&H41B8C3&\3c&HC9AB71&\bord3}Welcome to the\N{\c&H7E21A8&}Equestrian Club\N{\fs10\c&H000000&\3c&HE7E8EC&\bord2}Everyone is welcome!\N Want to come ride horses with us??\N\N{\fs15\c&H597B85&\u1}Come Join Us! \N{\u0\c&H47494E&}Kyudo Club\N{\fs10\c&H000000&\3c&H7CA783&}Recruiting new first-years!
+Dialogue: 0,0:14:20.71,0:14:21.96,main,Tomono,0000,0000,0000,,Akebi-san?
+Dialogue: 0,0:14:23.15,0:14:26.31,main,Komichi,0000,0000,0000,,What? You've already decided \Nwhich club you're joining?
+Dialogue: 0,0:14:23.75,0:14:24.78,top,Tennis Club,0000,0000,0000,,Here it comes!
+Dialogue: 0,0:14:24.78,0:14:25.71,top,Tennis Club,0000,0000,0000,,Okay!
+Dialogue: 0,0:14:27.41,0:14:31.69,main,Komichi,0000,0000,0000,,I envy you. I just keep waffling \Nback and forth between them all.
+Dialogue: 0,0:14:31.69,0:14:34.29,main,Komichi,0000,0000,0000,,Maybe I'll just join the \Nliterature club, too.
+Dialogue: 0,0:14:34.29,0:14:36.46,main,Tomono,0000,0000,0000,,You shouldn't decide that way!
+Dialogue: 0,0:14:36.82,0:14:39.35,main,Tomono,0000,0000,0000,,If there are that many \Nthings you want to do,
+Dialogue: 0,0:14:39.35,0:14:41.84,main,Tomono,0000,0000,0000,,you need to pick the one that's right.
+Dialogue: 0,0:14:41.84,0:14:42.98,main,Komichi,0000,0000,0000,,Kojou-san...
+Dialogue: 0,0:14:43.58,0:14:47.20,main,Tomono,0000,0000,0000,,Get a good look at all of them.\N I'll go with you.
+Dialogue: 0,0:14:49.02,0:14:50.22,main,Komichi,0000,0000,0000,,Thanks!
+Dialogue: 0,0:15:01.25,0:15:05.25,sign_21609_224_Missing,,0000,0000,0000,,{\move(105,70,125,70)\fad(525,1)\frz-4.53\fax-0.03\frx340\fry4}Pure Heart
+Dialogue: 0,0:15:13.66,0:15:17.09,main,Tomono,0000,0000,0000,,I never knew a school could \Nhave this many clubs.
+Dialogue: 0,0:15:17.09,0:15:19.48,main,Komichi,0000,0000,0000,,I couldn't believe it, either.
+Dialogue: 0,0:15:20.86,0:15:22.55,main,Komichi,0000,0000,0000,,So much for deciding.
+Dialogue: 0,0:15:22.55,0:15:25.02,main,Komichi,0000,0000,0000,,That just gave me even more \Nthings I want to try!
+Dialogue: 0,0:15:30.25,0:15:32.55,main,Tomono,0000,0000,0000,,Sorry I wasn't much help.
+Dialogue: 0,0:15:32.55,0:15:33.02,main,Komichi,0000,0000,0000,,Huh?
+Dialogue: 0,0:15:33.02,0:15:35.96,main,Komichi,0000,0000,0000,,Why do you say that? I had a lot of fun!
+Dialogue: 0,0:15:39.15,0:15:42.53,main,Komichi,0000,0000,0000,,I'll go home and try to \Nreally think it through.
+Dialogue: 0,0:15:42.53,0:15:44.52,main,Komichi,0000,0000,0000,,Thank you so much for doing this with me!
+Dialogue: 0,0:15:48.79,0:15:50.02,main,Tomono,0000,0000,0000,,Sure.
+Dialogue: 0,0:15:50.67,0:15:53.87,main,Tomono,0000,0000,0000,,I hope you find a club \Nthat's perfect for you.
+Dialogue: 0,0:16:12.30,0:16:13.82,main,Komichi,0000,0000,0000,,It's really pouring.
+Dialogue: 0,0:16:14.91,0:16:17.21,main,Komichi,0000,0000,0000,,You're soaked, Kojou-san.
+Dialogue: 0,0:16:17.21,0:16:20.51,main,Komichi,0000,0000,0000,,I'm sorry. If you hadn't been \Nvisiting clubs with me...
+Dialogue: 0,0:16:20.51,0:16:21.76,main,Tomono,0000,0000,0000,,No, it's okay.
+Dialogue: 0,0:16:21.76,0:16:24.92,main,Tomono,0000,0000,0000,,I'm more worried about you. \NAren't you cold in those thin clothes?
+Dialogue: 0,0:16:24.92,0:16:26.78,main,Komichi,0000,0000,0000,,I'm totally—
+Dialogue: 0,0:16:27.29,0:16:30.37,main,Tomono,0000,0000,0000,,See? Take those off before you catch a cold.
+Dialogue: 0,0:16:32.96,0:16:33.79,main,Komichi,0000,0000,0000,,Okay.
+Dialogue: 0,0:16:50.98,0:16:53.66,main,Komichi,0000,0000,0000,,This is a little embarrassing.
+Dialogue: 0,0:17:13.61,0:17:15.11,main,Komichi,0000,0000,0000,,It's so warm.
+Dialogue: 0,0:17:15.65,0:17:16.91,main,Komichi,0000,0000,0000,,Thanks!
+Dialogue: 0,0:17:19.68,0:17:22.13,main,Tomono,0000,0000,0000,,You look a little more grown-up in that.
+Dialogue: 0,0:17:25.97,0:17:27.70,main,Tomono,0000,0000,0000,,Oh, that's...
+Dialogue: 0,0:17:27.69,0:17:29.69,sign_25120_248_Beyond_the_Blue_,Text,0000,0000,0000,,{\move(325,110,325,96)}Beyond the Blue Sky
+Dialogue: 0,0:17:27.69,0:17:29.69,sign_25120_248_Beyond_the_Blue_,Text,0000,0000,0000,,{\an8\move(325,180,325,168)\fs8}Imai Tsutomu
+Dialogue: 0,0:17:29.34,0:17:32.66,main,Tomono,0000,0000,0000,,It's the novel I'm going to read \Nat the club's next reading.
+Dialogue: 0,0:17:32.66,0:17:34.16,main,Komichi,0000,0000,0000,,A reading...
+Dialogue: 0,0:17:34.16,0:17:35.59,main,Komichi,0000,0000,0000,,That sounds fun!
+Dialogue: 0,0:17:35.59,0:17:37.43,main,Tomono,0000,0000,0000,,Hardly.
+Dialogue: 0,0:17:37.43,0:17:41.18,main,Tomono,0000,0000,0000,,It'll be my first time. I can't \Nread in front of people.
+Dialogue: 0,0:17:41.97,0:17:43.41,main,Komichi,0000,0000,0000,,You'll be fine!
+Dialogue: 0,0:17:44.09,0:17:46.37,main,Tomono,0000,0000,0000,,Have you done that before?
+Dialogue: 0,0:17:46.37,0:17:49.87,main,Komichi,0000,0000,0000,,Yeah... though it was just \Nfor my little sister.
+Dialogue: 0,0:17:51.21,0:17:55.73,main,Komichi,0000,0000,0000,,I love looking down at Kao's head \Nwhile she's looking at the book.
+Dialogue: 0,0:17:59.99,0:18:01.91,main,Tomono,0000,0000,0000,,I'd like to hear it, too.
+Dialogue: 0,0:18:02.92,0:18:04.78,main,Tomono,0000,0000,0000,,The way your sister does.
+Dialogue: 0,0:18:07.50,0:18:08.38,main,Komichi,0000,0000,0000,,Sure.
+Dialogue: 0,0:18:19.10,0:18:21.74,main,Komichi,0000,0000,0000,,You'll have to tell me what \Nthe harder kanji are, okay?
+Dialogue: 0,0:18:28.24,0:18:31.44,main,Komichi,0000,0000,0000,,{\i1}Beyond the Blue Sky{\i0} by Imai Tsutomu.
+Dialogue: 0,0:18:32.50,0:18:34.80,main,Komichi,0000,0000,0000,,"With five minutes before the bell rings,
+Dialogue: 0,0:18:34.80,0:18:38.26,main,Komichi,0000,0000,0000,,I hurriedly clear off the top of my desk.
+Dialogue: 0,0:18:39.17,0:18:40.87,main,Komichi,0000,0000,0000,,It's been six months since the accident.
+Dialogue: 0,0:18:41.52,0:18:45.21,main,Komichi,0000,0000,0000,,As I hobble along on my crutches,
+Dialogue: 0,0:18:45.21,0:18:47.52,main,Komichi,0000,0000,0000,,a large spider..."
+Dialogue: 0,0:18:52.67,0:18:57.01,main,Komichi,0000,0000,0000,,"A large spider languidly passes me by.
+Dialogue: 0,0:18:57.93,0:18:59.41,main,Komichi,0000,0000,0000,,I look up at the sky.
+Dialogue: 0,0:19:05.12,0:19:09.72,main,Komichi,0000,0000,0000,,'How lucky the clouds are.\N They're so free...'
+Dialogue: 0,0:19:12.17,0:19:15.27,main,Komichi,0000,0000,0000,,Tomorrow is the final round of \Nthe prefectural tournament.
+Dialogue: 0,0:19:16.31,0:19:18.35,main,Komichi,0000,0000,0000,,I was supposed to be in it.
+Dialogue: 0,0:19:19.17,0:19:20.70,main,Komichi,0000,0000,0000,,'Hey!'
+Dialogue: 0,0:19:21.22,0:19:26.31,main,Komichi,0000,0000,0000,,A voice that sounds much too deep to be a \Nmiddle schooler calls me from behind..."
+Dialogue: 0,0:19:27.41,0:19:29.30,main,Komichi,0000,0000,0000,,"Hey!"
+Dialogue: 0,0:19:40.59,0:19:44.88,main,Komichi,0000,0000,0000,,"Slow, relaxed footsteps approach me,\N resounding quietly.
+Dialogue: 0,0:19:46.01,0:19:48.28,main,Komichi,0000,0000,0000,,Then, suddenly, someone enters\N my field of vision.
+Dialogue: 0,0:19:49.72,0:19:52.33,main,Komichi,0000,0000,0000,,'I know a club that's perfect for you!'"
+Dialogue: 0,0:20:24.05,0:20:24.60,main,Tomono,0000,0000,0000,,Huh?
+Dialogue: 0,0:20:28.34,0:20:30.04,main,Tomono,0000,0000,0000,,Mom?
+Dialogue: 0,0:20:35.46,0:20:37.88,main,Komichi,0000,0000,0000,,Uh... sorry.
+Dialogue: 0,0:20:41.27,0:20:43.83,main,Komichi,0000,0000,0000,,It stopped raining.
+Dialogue: 0,0:20:48.82,0:20:52.28,main,Tomono,0000,0000,0000,,I am so sorry! I must have been heavy.
+Dialogue: 0,0:20:52.28,0:20:54.69,main,Komichi,0000,0000,0000,,Not at all! That actually made me happy!
+Dialogue: 0,0:20:54.69,0:20:58.98,main,Komichi,0000,0000,0000,,My sister always says my mom's \Nlap is comfier than mine.
+Dialogue: 0,0:20:58.98,0:21:00.91,main,Komichi,0000,0000,0000,,I can't stand it!
+Dialogue: 0,0:21:01.19,0:21:03.97,main,Komichi,0000,0000,0000,,So how did my lap feel?
+Dialogue: 0,0:21:03.97,0:21:07.40,main,Tomono,0000,0000,0000,,Y-Yeah... It felt nice.
+Dialogue: 0,0:21:08.10,0:21:09.24,main,Tomono,0000,0000,0000,,And...
+Dialogue: 0,0:21:09.78,0:21:11.12,main,Tomono,0000,0000,0000,,So did your reading.
+Dialogue: 0,0:21:11.12,0:21:11.90,main,Komichi,0000,0000,0000,,Huh?
+Dialogue: 0,0:21:11.90,0:21:16.95,main,Tomono,0000,0000,0000,,Akebi-san, why don't we take \Na look at one last club?
+Dialogue: 0,0:21:21.40,0:21:22.94,main,Students,0000,0000,0000,,Good morning.
+Dialogue: 0,0:21:22.94,0:21:24.06,main,Touko,0000,0000,0000,,Morning!
+Dialogue: 0,0:21:24.06,0:21:25.16,main,Erika,0000,0000,0000,,Morning.
+Dialogue: 0,0:21:25.95,0:21:28.39,main,Touko,0000,0000,0000,,Akebi-chan, it's not too late!
+Dialogue: 0,0:21:28.39,0:21:31.09,main,Touko,0000,0000,0000,,Join the softball club with me! \NWe'll aim for the nationals!
+Dialogue: 0,0:21:31.68,0:21:34.10,main,Erika,0000,0000,0000,,Roubai allows students \Nto join multiple clubs.
+Dialogue: 0,0:21:34.10,0:21:35.43,main,Erika,0000,0000,0000,,Wanna climb some mountains?
+Dialogue: 0,0:21:35.43,0:21:37.43,main,Komichi,0000,0000,0000,,Those both sound like fun,
+Dialogue: 0,0:21:37.43,0:21:40.31,main,Komichi,0000,0000,0000,,but I found the club that's right for me.
+Dialogue: 0,0:21:40.31,0:21:41.67,main,Erika,0000,0000,0000,,I-I see...
+Dialogue: 0,0:21:40.94,0:21:42.72,top,Touko,0000,0000,0000,,Really? What is it?
+Dialogue: 0,0:21:43.48,0:21:44.42,main,Kei,0000,0000,0000,,Good morning.
+Dialogue: 0,0:21:44.42,0:21:46.18,main,Komichi,0000,0000,0000,,Oh, good morning, Tanigawa-san!
+Dialogue: 0,0:21:46.18,0:21:47.26,main,Erika/Touko,0000,0000,0000,,Morning!
+Dialogue: 0,0:21:47.26,0:21:49.31,main,Kei,0000,0000,0000,,I decided which club I'm joining.
+Dialogue: 0,0:21:49.31,0:21:50.24,main,Komichi,0000,0000,0000,,Oh?
+Dialogue: 0,0:21:51.14,0:21:52.32,main,Kei,0000,0000,0000,,Photography.
+Dialogue: 0,0:21:54.30,0:21:55.99,main,Komichi,0000,0000,0000,,That's perfect for you!
+Dialogue: 0,0:21:55.99,0:21:58.88,main,Touko,0000,0000,0000,,Well? What did you decide on, Akebi-chan?
+Dialogue: 0,0:21:58.88,0:22:01.20,main,Touko,0000,0000,0000,,Tell us! Tell us!
+Dialogue: 0,0:22:07.27,0:22:08.53,main,Komichi,0000,0000,0000,,The drama club!

@@ -1,0 +1,345 @@
+﻿[Script Info]
+Title: English (US)
+Original Script: aniplex  [http://www.crunchyroll.com/user/aniplex]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,0010,0010,0010,1
+Style: main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: italicstop,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: flashback,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: flashback italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: flashbacktop,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,0,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0018,0
+Style: flashbackitalicstop,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: sign_3520_34_Episode_One__The,Georgia,11,&H32000000,&H000000FF,&HC8FFFFFF,&HC8FFFFFF,0,0,0,0,100,100,0,0,1,1,1,8,0030,0030,0020,1
+Style: sign_12822_113_Mangetsu_Dormito,Times New Roman,9,&H00787878,&H000000FF,&H00F2F6F7,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,2,0030,0030,0020,1
+Style: sign_4166_34__Mon__,Comic Sans MS,40,&H00CCC5C2,&H000000FF,&H005C4F46,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,8,0030,0030,0020,1
+Style: sign_4304_36_Monday,Georgia,11,&H004F3E33,&H000000FF,&H00F1DACC,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,8,0030,0030,0020,1
+Style: sign_4409_45_Wednesday,Arial,21,&H00FFFFFF,&H000000FF,&H00847455,&H00847455,-1,0,0,0,100,100,0,0,1,1,0,8,0030,0030,0020,1
+Style: sign_4532_49__Wednesday__,Comic Sans MS,40,&H00939592,&H000000FF,&H00EFEFEF,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0030,0030,0020,1
+Style: sign_6588_80_School_Library,Times New Roman,40,&H003C6790,&H000000FF,&H0084B6D3,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,8,0030,0030,0020,1
+Style: sign_6624_81_Introduction_to_,Times New Roman,21,&H001A3F51,&H000000FF,&H00C3D3E0,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,8,0030,0030,0020,1
+Style: sign_14930_162_Freshwater_Fish_,Verdana,18,&H006B6E72,&H000000FF,&H00EAEBF0,&H00000000,0,0,0,0,100,100,0,0,1,3,0,8,0030,0030,0020,1
+Style: sign_20425_209_Video,Arial,10,&H00E1F2E5,&H000000FF,&H002A3D36,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,8,0030,0030,0020,1
+Style: sign_11281_101_Does_Hebimori_sa,Arial,8,&H00A7A39E,&H000000FF,&H00F6F8F5,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,7,0030,0030,0020,1
+Style: sign_15723_164_How_many_guitar_,Arial,26,&H00A2665C,&H000000FF,&H00F5F5F3,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,7,0030,0030,0020,1
+Style: sign_15747_165_Guitar_Teacher_s,Arial,33,&H00F1F2F2,&H000000FF,&H00A3A29C,&H00A99EA2,-1,0,0,0,100,100,0,0,1,1,2,7,0030,0030,0020,1
+Style: sign_20489_215_beginner_guitar_,Arial,17,&H00ADAFAF,&H000000FF,&H00F7F9FB,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,7,0030,0030,0020,1
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:08.85,0:00:09.99,main,Komichi,0000,0000,0000,,Morning.
+Dialogue: 0,0:00:11.77,0:00:13.62,main,Erika,0000,0000,0000,,Good morning, Komichi-san.
+Dialogue: 0,0:00:25.40,0:00:27.32,main,Komichi,0000,0000,0000,,Good morning, Erika-chan.
+Dialogue: 0,0:00:29.36,0:00:33.88,main,Komichi,0000,0000,0000,,By the way, I texted our pictures from \Nthe lake on Saturday to my dad.
+Dialogue: 0,0:00:34.20,0:00:36.14,main,Erika,0000,0000,0000,,To your dad?
+Dialogue: 0,0:00:36.14,0:00:39.90,main,Komichi,0000,0000,0000,,He said he wished he could \Nhave gone fishing with us!
+Dialogue: 0,0:00:39.90,0:00:42.46,main,Komichi,0000,0000,0000,,He was surprised by the gear you had, too.
+Dialogue: 0,0:00:42.46,0:00:46.39,main,Erika,0000,0000,0000,,H-He was? That's kind of embarrassing.
+Dialogue: 0,0:00:46.39,0:00:50.27,main,Komichi,0000,0000,0000,,Oh, and he said you have very pretty hands!
+Dialogue: 0,0:00:50.27,0:00:51.43,main,Erika,0000,0000,0000,,Huh?!
+Dialogue: 0,0:00:51.93,0:00:54.24,italics,Erika,0000,0000,0000,,H-He was even looking at that?
+Dialogue: 0,0:00:54.24,0:00:56.83,main,Komichi,0000,0000,0000,,Well, you always keep your \Nnails nice and tidy, right?
+Dialogue: 0,0:00:56.83,0:00:58.12,main,Komichi,0000,0000,0000,,So I told him...
+Dialogue: 0,0:00:59.13,0:01:01.21,main,Komichi,0000,0000,0000,,It's because you're good at the violin!
+Dialogue: 0,0:01:01.41,0:01:03.75,main,Komichi,0000,0000,0000,,It's so cool that you can \Nplay an instrument!
+Dialogue: 0,0:01:03.75,0:01:06.18,main,Komichi,0000,0000,0000,,I wish I could do that!
+Dialogue: 0,0:01:06.18,0:01:11.50,main,Erika,0000,0000,0000,,I think it's far more amazing \Nthat you can dance.
+Dialogue: 0,0:01:11.50,0:01:12.83,main,Komichi,0000,0000,0000,,Really?!
+Dialogue: 0,0:01:12.83,0:01:13.69,main,Erika,0000,0000,0000,,Yes.
+Dialogue: 0,0:01:14.77,0:01:16.85,main,Komichi,0000,0000,0000,,You're making me blush...
+Dialogue: 0,0:01:23.86,0:01:24.68,main,Oshizu,0000,0000,0000,,Morning.
+Dialogue: 0,0:01:24.68,0:01:25.63,main,Mai,0000,0000,0000,,Morning.
+Dialogue: 0,0:01:26.18,0:01:27.41,main,Komichi,0000,0000,0000,,Morning!
+Dialogue: 0,0:02:59.38,0:03:01.82,main,Student,0000,0000,0000,,Okay, club time. Let's go.
+Dialogue: 0,0:02:59.57,0:03:04.99,sign_3520_34_Episode_One__The,Title,0000,0000,0000,,{\fad(482,1)\pos(525,70)}Episode Seven \NPlease Let Me Hear It
+Dialogue: 0,0:03:01.82,0:03:03.34,main,Student,0000,0000,0000,,It's been a long day.
+Dialogue: 0,0:03:03.34,0:03:04.99,main,Student,0000,0000,0000,,What're you changing into today?
+Dialogue: 0,0:03:07.28,0:03:08.03,main,Student,0000,0000,0000,,Hey, nice!
+Dialogue: 0,0:03:08.03,0:03:09.01,main,Student,0000,0000,0000,,Yeah, when we're done.
+Dialogue: 0,0:03:09.01,0:03:10.85,main,Mai,0000,0000,0000,,Well, see you later, Hebimori-san.
+Dialogue: 0,0:03:10.85,0:03:12.48,main,Oshizu,0000,0000,0000,,Uh... Yeah.
+Dialogue: 0,0:03:13.90,0:03:14.91,main,Student,0000,0000,0000,,See ya.
+Dialogue: 0,0:03:14.26,0:03:15.88,top,Student,0000,0000,0000,,Yeah, apparently.
+Dialogue: 0,0:03:31.09,0:03:34.12,italics,Oshizu,0000,0000,0000,,Electric guitars sound so cool.
+Dialogue: 0,0:03:35.23,0:03:37.41,main,Student,0000,0000,0000,,Oh, come on!
+Dialogue: 0,0:03:36.83,0:03:39.24,top,Student,0000,0000,0000,,No, seriously, that was awesome!
+Dialogue: 0,0:03:39.86,0:03:41.93,main,Student,0000,0000,0000,,Just do it like that! It was great!
+Dialogue: 0,0:03:41.03,0:03:43.73,top,Student,0000,0000,0000,,No way, I can't! It's too hard!
+Dialogue: 0,0:03:41.93,0:03:44.19,main,Student,0000,0000,0000,,Oh, sure you can!
+Dialogue: 0,0:03:44.19,0:03:47.13,italics,Oshizu,0000,0000,0000,,But in the end, I chose \Nnot to join any clubs.
+Dialogue: 0,0:03:56.45,0:04:00.20,italics,Oshizu,0000,0000,0000,,What? Ed ranked tenth? That makes no sense.
+Dialogue: 0,0:04:00.39,0:04:03.51,italics,Oshizu,0000,0000,0000,,The next issue is a special feature \Non Fukumoto Miki's youth?
+Dialogue: 0,0:04:03.51,0:04:05.90,italics,Oshizu,0000,0000,0000,,Enough about Miki already.
+Dialogue: 0,0:04:06.46,0:04:09.34,italics,Oshizu,0000,0000,0000,,Oh, man, this Rara model's \Nelectric guitar is so cool.
+Dialogue: 0,0:04:09.34,0:04:11.26,italicstop,Oshizu,0000,0000,0000,,If I had that, I could...
+Dialogue: 0,0:04:09.71,0:04:10.82,main,Komichi,0000,0000,0000,,Hebimori-san?
+Dialogue: 0,0:04:11.26,0:04:12.68,main,Komichi,0000,0000,0000,,Hebimori-san.
+Dialogue: 0,0:04:12.96,0:04:14.52,main,Komichi,0000,0000,0000,,Hebimori-san!
+Dialogue: 0,0:04:14.84,0:04:15.77,main,Komichi,0000,0000,0000,,Hello!
+Dialogue: 0,0:04:19.18,0:04:20.81,main,Komichi,0000,0000,0000,,Those are pretty hardcore.
+Dialogue: 0,0:04:20.81,0:04:24.94,main,Oshizu,0000,0000,0000,,A-Akebi-san... Sorry, \NI didn't notice you there.
+Dialogue: 0,0:04:24.94,0:04:27.29,main,Komichi,0000,0000,0000,,Hebimori-san, isn't that...
+Dialogue: 0,0:04:31.50,0:04:35.01,main,Komichi,0000,0000,0000,,That's a magazine that people \Nwho make music read, right?
+Dialogue: 0,0:04:35.01,0:04:35.86,main,Oshizu,0000,0000,0000,,Huh?
+Dialogue: 0,0:04:35.86,0:04:39.14,main,Komichi,0000,0000,0000,,I bought a copy once because \NMiki-chan was on the cover!
+Dialogue: 0,0:04:39.14,0:04:41.53,main,Komichi,0000,0000,0000,,But when I got it home and opened it,
+Dialogue: 0,0:04:41.53,0:04:43.52,main,Komichi,0000,0000,0000,,it was all sheet music inside.
+Dialogue: 0,0:04:44.06,0:04:46.80,italics,Oshizu,0000,0000,0000,,I bought it because of the cover, \Nso I didn't even notice.
+Dialogue: 0,0:04:46.80,0:04:50.96,main,Komichi,0000,0000,0000,,I had no idea what any of it said.
+Dialogue: 0,0:04:50.96,0:04:53.82,main,Komichi,0000,0000,0000,,But does that mean you can \Nplay an instrument, too?
+Dialogue: 0,0:04:53.82,0:04:55.89,main,Oshizu,0000,0000,0000,,Huh? Uh, not really.
+Dialogue: 0,0:04:57.90,0:04:59.86,main,Oshizu,0000,0000,0000,,J-Just the guitar...
+Dialogue: 0,0:05:00.89,0:05:02.29,main,Oshizu,0000,0000,0000,,I guess.
+Dialogue: 0,0:05:02.29,0:05:03.55,main,Komichi,0000,0000,0000,,Wow...
+Dialogue: 0,0:05:03.98,0:05:05.57,main,Komichi,0000,0000,0000,,I wanna hear it!
+Dialogue: 0,0:05:05.91,0:05:06.75,italics,Oshizu,0000,0000,0000,,Huh?
+Dialogue: 0,0:05:07.39,0:05:09.42,main,Komichi,0000,0000,0000,,I want to hear you play guitar!
+Dialogue: 0,0:05:13.06,0:05:14.25,main,Oshizu,0000,0000,0000,,Sure.
+Dialogue: 0,0:05:13.37,0:05:14.91,italicstop,Club President,0000,0000,0000,,Testing, testing...
+Dialogue: 0,0:05:15.41,0:05:19.69,italics,Club President,0000,0000,0000,,Uh... Paging Akebi Komichi of Class 1-3.
+Dialogue: 0,0:05:18.98,0:05:20.42,top,Komichi,0000,0000,0000,,That's the club president!
+Dialogue: 0,0:05:19.69,0:05:23.68,italics,Club President,0000,0000,0000,,Akebi Komichi, please report to \Nyour club room immediately.
+Dialogue: 0,0:05:20.42,0:05:22.68,main,Komichi,0000,0000,0000,,Sorry! I gotta get to my club!
+Dialogue: 0,0:05:22.68,0:05:25.12,main,Komichi,0000,0000,0000,,Let me hear you play sometime, okay?
+Dialogue: 0,0:05:23.68,0:05:29.14,italicstop,Club President,0000,0000,0000,,Repeat: Akebi Komichi, \NAkebi Komichi, please repor—
+Dialogue: 0,0:05:30.08,0:05:32.28,italics,Oshizu,0000,0000,0000,,Well, now I've done it.
+Dialogue: 0,0:05:32.91,0:05:37.14,italics,Oshizu,0000,0000,0000,,I can't read sheet music at all.
+Dialogue: 0,0:05:37.14,0:05:39.65,sign_12822_113_Mangetsu_Dormito,,0000,0000,0000,,{\bord2\an8\pos(537,270)\3c&H94AFB8&\c&H2E3B50&\blur1\1a&HFF&}Mangetsu\N Dormitory
+Dialogue: 0,0:05:47.43,0:05:52.04,italics,Oshizu,0000,0000,0000,,I brought my dad's old guitar with me \Nfrom home for no particular reason,
+Dialogue: 0,0:05:52.04,0:05:56.05,italics,Oshizu,0000,0000,0000,,though I haven't played it \Nonce since I moved here.
+Dialogue: 0,0:05:57.90,0:06:00.45,italics,Oshizu,0000,0000,0000,,It's not electric, after all.
+Dialogue: 0,0:06:16.34,0:06:17.17,main,Oshizu,0000,0000,0000,,Huh?
+Dialogue: 0,0:06:17.98,0:06:19.36,main,Oshizu,0000,0000,0000,,Chords?
+Dialogue: 0,0:06:19.36,0:06:22.73,main,Oshizu,0000,0000,0000,,Aren't music notes just "do, \Nre, mi, fa," and so on?
+Dialogue: 0,0:06:26.01,0:06:27.73,main,Oshizu,0000,0000,0000,,Oh, here it is.
+Dialogue: 0,0:06:28.29,0:06:30.58,main,Oshizu,0000,0000,0000,,First is... do...
+Dialogue: 0,0:06:34.99,0:06:36.31,main,Oshizu,0000,0000,0000,,Okay, next...
+Dialogue: 0,0:06:44.89,0:06:46.16,main,Oshizu,0000,0000,0000,,I did it!
+Dialogue: 0,0:06:55.21,0:06:56.30,main,Oshizu,0000,0000,0000,,Welcome back.
+Dialogue: 0,0:06:56.93,0:06:57.75,main,Mai,0000,0000,0000,,Yeah.
+Dialogue: 0,0:07:04.40,0:07:07.57,main,Mai,0000,0000,0000,,I always thought that was \Njust for decoration.
+Dialogue: 0,0:07:08.56,0:07:11.40,main,Oshizu,0000,0000,0000,,Well, it was, but...
+Dialogue: 0,0:07:12.24,0:07:15.79,main,Oshizu,0000,0000,0000,,Oh, sorry. I'll only play \Nit when you're not here.
+Dialogue: 0,0:07:16.27,0:07:19.12,main,Mai,0000,0000,0000,,No, it's fine. It doesn't bother me.
+Dialogue: 0,0:07:21.09,0:07:22.29,main,Oshizu,0000,0000,0000,,Okay...
+Dialogue: 0,0:07:39.10,0:07:42.20,italics,TV Voice,0000,0000,0000,,Next, bend your knees, stretch \Nyour arms out wide,
+Dialogue: 0,0:07:42.20,0:07:44.13,italics,TV Voice,0000,0000,0000,,and bring your hands \Ntogether above your head.
+Dialogue: 0,0:07:44.13,0:07:45.49,main,Kao,0000,0000,0000,,Above your head!
+Dialogue: 1,0:07:48.46,0:07:51.98,italicstop,TV Voice,0000,0000,0000,,Now slowly bring your left leg forward.
+Dialogue: 0,0:07:48.73,0:07:51.42,italics,Komichi,0000,0000,0000,,Hebimori-san said she can play the guitar!
+Dialogue: 0,0:07:50.49,0:07:51.78,sign_11281_101_Does_Hebimori_sa,Text,0000,0000,0000,,{\c&H978D8C&\3c&HF3F3F3&\pos(235,93)}Hebimori-san said she can play the guitar!
+Dialogue: 0,0:07:50.49,0:07:51.90,sign_11281_101_Does_Hebimori_sa,Text,0000,0000,0000,,{\pos(243,35)\fscx95\fad(1,429)}Does Hebimori-san play any instruments?
+Dialogue: 0,0:07:51.78,0:07:52.99,sign_11281_101_Does_Hebimori_sa,Text,0000,0000,0000,,{\c&H978D8C&\3c&HDED4EB&\fad(149,1)\pos(264,52)\clip(m 389 63 l 389 57 393 51 261 51 261 62)}Hebimori-san said she can play the guitar!
+Dialogue: 0,0:07:51.90,0:07:52.99,sign_11281_101_Does_Hebimori_sa,Text,0000,0000,0000,,{\pos(243,10)\fscx95}Does Hebimori-san play any instruments?
+Dialogue: 1,0:07:57.99,0:08:00.24,italics,Dad,0000,0000,0000,,Why don't you try playing \Nan instrument, too?
+Dialogue: 0,0:07:57.99,0:08:00.25,sign_11281_101_Does_Hebimori_sa,Text,0000,0000,0000,,{\pos(243,10)\fscx95}Does Hebimori-san play any instruments?
+Dialogue: 0,0:07:57.99,0:08:00.25,sign_11281_101_Does_Hebimori_sa,Text,0000,0000,0000,,{\c&H978D8C&\3c&HDED4EB&\pos(264,52)}Hebimori-san said she can play the guitar!
+Dialogue: 0,0:07:57.99,0:08:00.25,sign_11281_101_Does_Hebimori_sa,Text,0000,0000,0000,,{\pos(240,95)\fscx85}Why don't you try playing an instrument, too?
+Dialogue: 0,0:07:57.99,0:08:00.55,italicstop,TV Voice,0000,0000,0000,,Now extend your legs broadly to each side,
+Dialogue: 0,0:08:00.55,0:08:02.68,italics,TV Voice,0000,0000,0000,,and lean your upper body forward.
+Dialogue: 0,0:08:02.68,0:08:04.37,main,Komichi,0000,0000,0000,,Music, huh?
+Dialogue: 0,0:08:04.37,0:08:06.34,main,Komichi,0000,0000,0000,,That could be fun, too!
+Dialogue: 0,0:08:06.34,0:08:08.64,main,Kao,0000,0000,0000,,Onee-chan! Focus!
+Dialogue: 0,0:08:07.94,0:08:09.54,italicstop,TV Voice,0000,0000,0000,,Next, raise yourself up and...
+Dialogue: 0,0:08:12.54,0:08:13.47,main,Coach,0000,0000,0000,,Next.
+Dialogue: 0,0:08:22.56,0:08:23.55,main,Coach,0000,0000,0000,,Next.
+Dialogue: 0,0:08:25.48,0:08:30.02,main,Club President,0000,0000,0000,,A, e, i, u, e, o, a, o!
+Dialogue: 0,0:08:30.02,0:08:34.37,main,Komichi,0000,0000,0000,,A, e, i, u, e, o, a, o!
+Dialogue: 0,0:08:34.37,0:08:35.82,main,Club President,0000,0000,0000,,Louder!
+Dialogue: 0,0:08:35.82,0:08:38.03,main,Komichi,0000,0000,0000,,A, e, i, u...
+Dialogue: 0,0:08:38.03,0:08:39.42,main,Basketball Club,0000,0000,0000,,Good job today.
+Dialogue: 0,0:08:38.92,0:08:40.37,main,Basketball Club,0000,0000,0000,,Good job.
+Dialogue: 0,0:08:40.37,0:08:41.35,main,Basketball Club,0000,0000,0000,,Good job.
+Dialogue: 0,0:08:41.35,0:08:42.76,main,Basketball Club,0000,0000,0000,,Good job to you, too.
+Dialogue: 0,0:08:44.42,0:08:45.87,main,Basketball Club,0000,0000,0000,,Good job.
+Dialogue: 0,0:08:45.87,0:08:49.63,main,Komichi,0000,0000,0000,,U, e, o, a, o!
+Dialogue: 0,0:08:51.89,0:08:52.93,main,Club President,0000,0000,0000,,Okay.
+Dialogue: 0,0:08:53.34,0:08:55.11,main,Club President,0000,0000,0000,,That's it for today.
+Dialogue: 0,0:08:55.42,0:08:58.84,main,Komichi,0000,0000,0000,,Okay... Thank you very much.
+Dialogue: 0,0:08:58.84,0:09:01.14,main,Club President,0000,0000,0000,,Wipe off all that sweat before you go home.
+Dialogue: 0,0:09:04.11,0:09:05.47,main,Mai,0000,0000,0000,,You've been working hard.
+Dialogue: 0,0:09:06.60,0:09:08.23,main,Komichi,0000,0000,0000,,T-Togano-san.
+Dialogue: 0,0:09:10.00,0:09:13.07,main,Mai,0000,0000,0000,,You're in the drama club, right?
+Dialogue: 0,0:09:13.07,0:09:15.65,main,Mai,0000,0000,0000,,Do you always practice out here?
+Dialogue: 0,0:09:15.88,0:09:18.50,main,Komichi,0000,0000,0000,,No, it's usually in the lesson room,
+Dialogue: 0,0:09:18.50,0:09:20.98,main,Komichi,0000,0000,0000,,but I've been trying the courtyard \Nand other places lately.
+Dialogue: 0,0:09:21.59,0:09:22.90,main,Komichi,0000,0000,0000,,Our club president said,
+Dialogue: 0,0:09:23.40,0:09:27.17,main,Komichi,0000,0000,0000,,"The first thing you need to get good at \Nis using your voice in front of people."
+Dialogue: 0,0:09:28.50,0:09:29.55,main,Mai,0000,0000,0000,,That sounded like her.
+Dialogue: 0,0:09:29.96,0:09:32.80,main,Komichi,0000,0000,0000,,This is my first time acting in a play,
+Dialogue: 0,0:09:32.80,0:09:35.71,main,Komichi,0000,0000,0000,,so she says I need lots of \Npractice in the basics.
+Dialogue: 0,0:09:37.07,0:09:41.39,main,Komichi,0000,0000,0000,,I've been working on building \Nup my... trunk? At home, too.
+Dialogue: 0,0:09:41.39,0:09:45.10,main,Mai,0000,0000,0000,,I think it's taking all I've got \Nto keep up with my seniors, too.
+Dialogue: 0,0:09:45.30,0:09:46.91,main,Komichi,0000,0000,0000,,Really?
+Dialogue: 0,0:09:46.91,0:09:51.24,main,Komichi,0000,0000,0000,,But it's fun when you slowly learn to do \Nsomething that you couldn't before, huh?
+Dialogue: 0,0:09:52.62,0:09:53.62,main,Mai,0000,0000,0000,,Yeah.
+Dialogue: 0,0:09:55.48,0:10:00.20,main,Komichi,0000,0000,0000,,By the way, you live in the same \Ndorm room as Hebimori-san, right?
+Dialogue: 0,0:10:00.20,0:10:00.97,main,Mai,0000,0000,0000,,That's right.
+Dialogue: 0,0:10:02.29,0:10:06.38,main,Komichi,0000,0000,0000,,Then I bet you've heard her \Nplay her guitar, right?
+Dialogue: 0,0:10:13.58,0:10:16.37,main,Oshizu,0000,0000,0000,,G chord... uh...
+Dialogue: 0,0:10:16.37,0:10:18.60,main,Oshizu,0000,0000,0000,,First string, third fret...
+Dialogue: 0,0:10:18.97,0:10:21.19,main,Oshizu,0000,0000,0000,,Fifth string, second fret...
+Dialogue: 0,0:10:21.19,0:10:24.81,main,Oshizu,0000,0000,0000,,Sixth string, third fret...
+Dialogue: 0,0:10:24.81,0:10:26.46,main,Oshizu,0000,0000,0000,,Man, this is hard.
+Dialogue: 0,0:10:27.44,0:10:29.72,main,Oshizu,0000,0000,0000,,Am I doing this right?
+Dialogue: 0,0:10:30.19,0:10:34.45,main,Oshizu,0000,0000,0000,,Well, whatever. Next is... C.
+Dialogue: 0,0:10:35.26,0:10:37.78,main,Oshizu,0000,0000,0000,,Second string, first fret...
+Dialogue: 0,0:10:37.78,0:10:39.99,main,Oshizu,0000,0000,0000,,Fourth string, second fret...
+Dialogue: 0,0:10:40.64,0:10:43.24,main,Oshizu,0000,0000,0000,,Fifth string, third fret...
+Dialogue: 0,0:10:43.24,0:10:45.74,main,Oshizu,0000,0000,0000,,And sixth string... mute.
+Dialogue: 0,0:10:46.19,0:10:47.24,main,Oshizu,0000,0000,0000,,Mute?
+Dialogue: 0,0:10:48.90,0:10:52.04,main,Oshizu,0000,0000,0000,,Just how many of these \Nchords are there, anyway?
+Dialogue: 0,0:10:55.75,0:10:56.55,sign_15723_164_How_many_guitar_,Text,0000,0000,0000,,{\pos(225,190)\frz0.86\t(487,488,\3c&HE3DDD5&)\fad(1,103)\fs13}How many guitar chords are there?\N Chords explained for beginners!
+Dialogue: 0,0:10:56.76,0:10:57.09,sign_15723_164_How_many_guitar_,Text,0000,0000,0000,,{\frz0.37\an1\pos(135,145)\c&HD0A28C&\3c&HEDEFEF&\clip(m 128 90 l 128 145 429 146 441 138 451 131 467 134 484 142 498 143 548 89)}H{\c&HCFA28C&}o{\c&HCEA18B&}w {\c&HCDA08A&}m{\c&HCCA08A&}a{\c&HCB9F8A&}n{\c&HCB9E89&}y {\c&HC99E88&}g{\c&HC89D88&}u{\c&HC79C88&}i{\c&HC79C87&}t{\c&HC69C87&}a{\c&HC59B86&}r {\c&HC49A86&}c{\c&HC39A85&}h{\c&HC29985&}o{\c&HC19884&}r{\c&HC09884&}d{\c&HC09883&}s {\c&HBE9683&}a{\c&HBD9682&}r{\c&HBC9682&}e {\c&HBB9481&}t{\c&HBA9481&}h{\c&HB99480&}e{\c&HB99380&}r{\c&HB8927F&}e{\c&HB7927F&}?{\c&HC49A86&}\N{\c&HD0A28C&\3c&HEDEFEF&}C{\c&HCFA18B&}h{\c&HCEA08B&\3c&HEDEFEE&}o{\c&HCC9E8A&\3c&HEDEEEE&}r{\c&HCB9D89&\3c&HECEEEE&}d{\c&HCA9C89&}s {\c&HC89A88&\3c&HECEEED&}e{\c&HC69987&}x{\c&HC59886&}p{\c&HC49686&\3c&HECEDEC&}l{\c&HC39585&}a{\c&HC29484&\3c&HEBEDEC&}i{\c&HC09384&}n{\c&HBF9283&\3c&HEBEDEB&}e{\c&HBE9082&\3c&HEBECEB&}d {\c&HBC8E81&\3c&HEBECEA&}f{\c&HBA8D81&}o{\c&HB98C80&\3c&HEAECEA&}r {\c&HB78A7F&\3c&HEAECE9&}b{\c&HB6887E&\3c&HEAEBE9&}e{\c&HB4877D&}g{\c&HB3867D&}i{\c&HB2857C&\3c&HEAEBE8&}n{\c&HB1847C&}n{\c&HB0827B&\3c&HE9EAE8&}e{\c&HAE817A&}r{\c&HAD807A&\3c&HE9EAE7&}s{\c&HAC7F79&\3c&HE9EAE7&}!
+Dialogue: 0,0:10:56.76,0:10:57.46,sign_15747_165_Guitar_Teacher_s,Text,0000,0000,0000,,{\pos(110,35)\frz0.14}Guitar Teacher's Guitar Lesson
+Dialogue: 0,0:10:57.09,0:10:57.55,sign_15723_164_How_many_guitar_,Text,0000,0000,0000,,{\frz0.37\fad(1,103)\an1\pos(135,145)\c&HD0A28C&\3c&HEDEFEF&}H{\c&HCFA28C&}o{\c&HCEA18B&}w {\c&HCDA08A&}m{\c&HCCA08A&}a{\c&HCB9F8A&}n{\c&HCB9E89&}y {\c&HC99E88&}g{\c&HC89D88&}u{\c&HC79C88&}i{\c&HC79C87&}t{\c&HC69C87&}a{\c&HC59B86&}r {\c&HC49A86&}c{\c&HC39A85&}h{\c&HC29985&}o{\c&HC19884&}r{\c&HC09884&}d{\c&HC09883&}s {\c&HBE9683&}a{\c&HBD9682&}r{\c&HBC9682&}e {\c&HBB9481&}t{\c&HBA9481&}h{\c&HB99480&}e{\c&HB99380&}r{\c&HB8927F&}e{\c&HB7927F&}?{\c&HC49A86&}\N{\c&HD0A28C&\3c&HEDEFEF&}C{\c&HCFA18B&}h{\c&HCEA08B&\3c&HEDEFEE&}o{\c&HCC9E8A&\3c&HEDEEEE&}r{\c&HCB9D89&\3c&HECEEEE&}d{\c&HCA9C89&}s {\c&HC89A88&\3c&HECEEED&}e{\c&HC69987&}x{\c&HC59886&}p{\c&HC49686&\3c&HECEDEC&}l{\c&HC39585&}a{\c&HC29484&\3c&HEBEDEC&}i{\c&HC09384&}n{\c&HBF9283&\3c&HEBEDEB&}e{\c&HBE9082&\3c&HEBECEB&}d {\c&HBC8E81&\3c&HEBECEA&}f{\c&HBA8D81&}o{\c&HB98C80&\3c&HEAECEA&}r {\c&HB78A7F&\3c&HEAECE9&}b{\c&HB6887E&\3c&HEAEBE9&}e{\c&HB4877D&}g{\c&HB3867D&}i{\c&HB2857C&\3c&HEAEBE8&}n{\c&HB1847C&}n{\c&HB0827B&\3c&HE9EAE8&}e{\c&HAE817A&}r{\c&HAD807A&\3c&HE9EAE7&}s{\c&HAC7F79&\3c&HE9EAE7&}!
+Dialogue: 0,0:11:00.27,0:11:01.18,main,Oshizu,0000,0000,0000,,Not a chance.
+Dialogue: 0,0:11:02.40,0:11:04.67,italics,Oshizu,0000,0000,0000,,Well, it's not like I'll \Nbe using all of them.
+Dialogue: 0,0:11:05.03,0:11:07.28,italics,Oshizu,0000,0000,0000,,If I just learn the necessary ones...
+Dialogue: 0,0:11:18.80,0:11:19.95,main,Oshizu,0000,0000,0000,,Welcome back.
+Dialogue: 0,0:11:20.66,0:11:21.65,main,Mai,0000,0000,0000,,Thanks.
+Dialogue: 0,0:11:21.98,0:11:25.82,main,Oshizu,0000,0000,0000,,You said a while ago that you \Nliked this game, right?
+Dialogue: 0,0:11:28.41,0:11:31.59,main,Mai,0000,0000,0000,,I saw Akebi-san after club practice today.
+Dialogue: 0,0:11:31.59,0:11:33.44,main,Oshizu,0000,0000,0000,,Y-Yeah?
+Dialogue: 0,0:11:34.97,0:11:37.74,main,Mai,0000,0000,0000,,She said she can't wait \Nto hear you play guitar.
+Dialogue: 0,0:11:39.07,0:11:40.50,main,Mai,0000,0000,0000,,You're not going to play it today?
+Dialogue: 0,0:11:41.75,0:11:45.55,main,Oshizu,0000,0000,0000,,You know, apparently, there are a lot \Nof different ways to play a guitar.
+Dialogue: 0,0:11:47.11,0:11:51.05,main,Oshizu,0000,0000,0000,,And a lot of it uses letters of \Nthe alphabet, like C and E.
+Dialogue: 0,0:11:51.05,0:11:54.17,main,Oshizu,0000,0000,0000,,I'm having enough trouble \Njust keeping up in class.
+Dialogue: 0,0:11:54.17,0:11:56.73,main,Oshizu,0000,0000,0000,,There's no way I can play guitar.
+Dialogue: 0,0:11:56.73,0:12:00.33,main,Mai,0000,0000,0000,,Then shouldn't you tell Akebi-san \Nthat sooner rather than later?
+Dialogue: 0,0:12:05.01,0:12:07.38,main,Oshizu,0000,0000,0000,,I turned some screw-looking thing,\N and the string snapped.
+Dialogue: 0,0:12:08.32,0:12:10.32,main,Mai,0000,0000,0000,,Well, the strings were pretty rusty.
+Dialogue: 0,0:12:10.67,0:12:11.70,main,Oshizu,0000,0000,0000,,Yeah.
+Dialogue: 0,0:12:12.13,0:12:15.66,main,Oshizu,0000,0000,0000,,But that just proves what a \Ncomplete newbie at this I am.
+Dialogue: 0,0:12:15.66,0:12:16.75,main,Mai,0000,0000,0000,,What're you gonna do?
+Dialogue: 0,0:12:17.25,0:12:21.44,main,Oshizu,0000,0000,0000,,Well, I want to learn how \Nto play, but considering that...
+Dialogue: 0,0:12:21.72,0:12:24.18,main,Oshizu,0000,0000,0000,,I guess it's too late to start now.
+Dialogue: 0,0:12:24.18,0:12:26.69,main,Mai,0000,0000,0000,,I don't think anyone can master \Nanything right off the bat.
+Dialogue: 0,0:12:28.01,0:12:31.52,main,Mai,0000,0000,0000,,That's why I practice \Nevery single day, too.
+Dialogue: 0,0:12:39.38,0:12:41.15,main,Mai,0000,0000,0000,,I win again.
+Dialogue: 0,0:12:42.45,0:12:44.74,main,Oshizu,0000,0000,0000,,You're so good at this, Togano-san.
+Dialogue: 0,0:12:50.06,0:12:51.71,main,Tennis Club,0000,0000,0000,,Nice! Over here!
+Dialogue: 0,0:12:50.68,0:12:51.71,top,Tennis Club,0000,0000,0000,,Good one!
+Dialogue: 0,0:12:51.71,0:12:53.09,main,Tennis Club,0000,0000,0000,,Okay, move your feet!
+Dialogue: 0,0:12:53.09,0:12:53.88,main,Tennis Club,0000,0000,0000,,One more!
+Dialogue: 0,0:12:53.88,0:12:54.72,main,Tennis Club,0000,0000,0000,,Oh, nice hit!
+Dialogue: 0,0:13:01.48,0:13:04.99,italics,Oshizu,0000,0000,0000,,Tatsumori-san is in the track club?
+Dialogue: 0,0:13:04.99,0:13:09.30,main,Komichi,0000,0000,0000,,A, e, i, u, e, o, a, o!
+Dialogue: 0,0:13:07.15,0:13:09.01,top,Club President,0000,0000,0000,,Good, Akebi Komichi!
+Dialogue: 0,0:13:09.55,0:13:14.16,main,Komichi,0000,0000,0000,,A, e, i, u, e, o, a, o!
+Dialogue: 0,0:13:12.18,0:13:14.16,top,Club President,0000,0000,0000,,Your voice should come \Nfrom deep in your belly!
+Dialogue: 0,0:13:14.16,0:13:18.57,main,Komichi,0000,0000,0000,,A, e, i, u, e, o, a, o!
+Dialogue: 0,0:13:15.03,0:13:16.28,italicstop,Oshizu,0000,0000,0000,,Akebi-san...
+Dialogue: 0,0:13:19.14,0:13:21.30,top,Club President,0000,0000,0000,,Your voice is sounding \Nbetter than yesterday.
+Dialogue: 0,0:13:21.11,0:13:23.98,italics,Oshizu,0000,0000,0000,,Look at how much she's sweating.
+Dialogue: 0,0:13:21.30,0:13:23.43,top,Club President,0000,0000,0000,,Let's keep this up.
+Dialogue: 0,0:13:23.43,0:13:24.30,main,Komichi,0000,0000,0000,,Okay!
+Dialogue: 0,0:13:24.71,0:13:26.66,italics,Oshizu,0000,0000,0000,,But she looks kind of...
+Dialogue: 0,0:13:47.13,0:13:50.94,main,Coach,0000,0000,0000,,Good, Togano. Next practice, \Nyou'll take the court as a forward.
+Dialogue: 0,0:13:50.94,0:13:51.48,main,Mai,0000,0000,0000,,Yes, ma'am!
+Dialogue: 0,0:13:52.51,0:13:53.72,italics,Oshizu,0000,0000,0000,,Togano-san, too.
+Dialogue: 0,0:14:03.71,0:14:05.01,main,Oshizu,0000,0000,0000,,I did it!
+Dialogue: 0,0:14:14.54,0:14:17.04,sign_20489_215_beginner_guitar_,Text,0000,0000,0000,,{\pos(187,50)}beginner     guitar           song
+Dialogue: 0,0:14:14.54,0:14:17.04,sign_20489_215_beginner_guitar_,Text,0000,0000,0000,,{\an1\pos(115,101)\c&HD1D2D4&\3c&HE9ECF2&}All              {\3c&HEFF4F3&\c&HC3A2A8&}Video       {\c&HD1D2D4&\3c&HF5F9F7&}Images       {\3c&HF6F8F9&}News           {\3c&HF2F6F6&}Shopping
+Dialogue: 0,0:14:14.54,0:14:17.04,sign_15723_164_How_many_guitar_,Text,0000,0000,0000,,{\an1\c&H9984CF&\fs13\pos(310,155)\3c&HF5F7F7&}[Guitar Practice Songs for Beginners]\N Play with simple chords...
+Dialogue: 0,0:14:14.54,0:14:17.04,sign_15723_164_How_many_guitar_,Text,0000,0000,0000,,{\an1\fs13\c&H795EB9&\pos(306,282)}[Guitar for Beginners]\N Play that famous song with arranged...
+Dialogue: 0,0:14:15.31,0:14:19.55,main,Mai,0000,0000,0000,,You know, there was a time when \NI couldn't make a basket at all.
+Dialogue: 0,0:14:20.03,0:14:21.04,main,Oshizu,0000,0000,0000,,Huh?
+Dialogue: 0,0:14:21.25,0:14:24.59,main,Mai,0000,0000,0000,,Because I was trying to make \Nlong shots right off the bat.
+Dialogue: 0,0:14:24.59,0:14:27.33,main,Oshizu,0000,0000,0000,,Well, that's obviously too much.
+Dialogue: 0,0:14:27.58,0:14:29.72,main,Mai,0000,0000,0000,,I still miss all the time,
+Dialogue: 0,0:14:30.74,0:14:33.30,main,Mai,0000,0000,0000,,but I started practicing shooting \Nfrom closer to the net,
+Dialogue: 0,0:14:33.30,0:14:35.68,main,Mai,0000,0000,0000,,and gradually moved farther away from it.
+Dialogue: 0,0:14:36.85,0:14:39.68,main,Mai,0000,0000,0000,,So I'm sure there's something like that
+Dialogue: 0,0:14:41.34,0:14:44.13,main,Mai,0000,0000,0000,,for you to try, too.
+Dialogue: 0,0:14:46.50,0:14:47.32,main,Oshizu,0000,0000,0000,,Oh...
+Dialogue: 0,0:14:47.91,0:14:49.83,main,Oshizu,0000,0000,0000,,I know this song.
+Dialogue: 0,0:16:25.91,0:16:26.97,main,Mai,0000,0000,0000,,Are you ready to leave?
+Dialogue: 0,0:16:27.83,0:16:28.96,main,Oshizu,0000,0000,0000,,Oh... Yeah.
+Dialogue: 0,0:16:35.90,0:16:36.99,main,Komichi,0000,0000,0000,,Morning!
+Dialogue: 0,0:16:36.99,0:16:37.97,main,Mai,0000,0000,0000,,Morning.
+Dialogue: 0,0:16:39.30,0:16:40.99,main,Oshizu,0000,0000,0000,,M-Morning.
+Dialogue: 0,0:16:42.22,0:16:46.89,main,Oshizu,0000,0000,0000,,A-Akebi-san, will you have some \Ntime after school today?
+Dialogue: 0,0:16:49.88,0:16:51.99,main,Komichi,0000,0000,0000,,Here I am.
+Dialogue: 0,0:16:52.71,0:16:54.99,main,Komichi,0000,0000,0000,,I'm so excited, I'm getting nervous.
+Dialogue: 0,0:16:54.99,0:16:57.49,main,Oshizu,0000,0000,0000,,Shouldn't that be my line?
+Dialogue: 0,0:16:57.49,0:16:58.58,main,Komichi,0000,0000,0000,,Oh, yeah!
+Dialogue: 0,0:17:00.34,0:17:02.57,main,Oshizu,0000,0000,0000,,Okay... here I go.
+Dialogue: 0,0:18:13.52,0:18:15.66,main,Touko,0000,0000,0000,,Hey, Kizaki-san, there you are.
+Dialogue: 0,0:18:16.93,0:18:18.29,top,Erika,0000,0000,0000,,O-Of course I am!
+Dialogue: 0,0:18:18.25,0:18:20.69,italics,Komichi,0000,0000,0000,,Erika-chan can play piano, too?
+Dialogue: 0,0:18:18.29,0:18:21.24,top,Erika,0000,0000,0000,,I'm on cleaning duty this week.
+Dialogue: 0,0:18:21.24,0:18:23.71,main,Touko,0000,0000,0000,,Oh, that's right.
+Dialogue: 0,0:18:23.71,0:18:26.99,main,Erika,0000,0000,0000,,So what did you want? \NI need to head to my club.
+Dialogue: 0,0:18:26.99,0:18:29.48,main,Touko,0000,0000,0000,,Aw, always so standoffish.
+Dialogue: 0,0:18:29.48,0:18:31.50,main,Touko,0000,0000,0000,,Ai was a little freaked \Nout the other day, too.
+Dialogue: 0,0:18:31.50,0:18:35.35,main,Touko,0000,0000,0000,,She said every time she goes to \Nyour room, you act like it's a bother,
+Dialogue: 0,0:18:35.66,0:18:39.09,main,Touko,0000,0000,0000,,so she asked if it was okay to \Nbring you a notice from the dorm.
+Dialogue: 0,0:18:39.09,0:18:39.86,main,Erika,0000,0000,0000,,Huh?
+Dialogue: 0,0:18:40.26,0:18:45.17,main,Touko,0000,0000,0000,,So I told her that you're super \Nscary when someone makes you mad.
+Dialogue: 0,0:18:45.17,0:18:47.51,main,Erika,0000,0000,0000,,D-Don't give people weird ideas!
+Dialogue: 0,0:18:47.51,0:18:49.64,main,Touko,0000,0000,0000,,But it's true, isn't it?
+Dialogue: 0,0:18:49.64,0:18:51.64,main,Erika,0000,0000,0000,,I'm not like that to everyone.
+Dialogue: 0,0:18:51.64,0:18:52.97,main,Touko,0000,0000,0000,,What?! You mean...
+Dialogue: 0,0:18:55.72,0:18:58.39,main,Komichi,0000,0000,0000,,I've never seen Erika-chan act that way.
+Dialogue: 0,0:19:00.19,0:19:02.68,main,Komichi,0000,0000,0000,,But her piano playing was beautiful.
+Dialogue: 0,0:19:04.46,0:19:05.42,main,Oshizu,0000,0000,0000,,Sorry.
+Dialogue: 0,0:19:05.42,0:19:06.05,main,Komichi,0000,0000,0000,,Huh?
+Dialogue: 0,0:19:07.91,0:19:10.17,main,Oshizu,0000,0000,0000,,I'm really not up to it.
+Dialogue: 0,0:19:10.79,0:19:14.05,main,Oshizu,0000,0000,0000,,I can't follow a performance \Nlike that by Kizaki Erika.
+Dialogue: 0,0:19:14.05,0:19:15.52,main,Komichi,0000,0000,0000,,W-Wait!
+Dialogue: 0,0:19:15.52,0:19:18.65,main,Oshizu,0000,0000,0000,,I lied to you, Akebi-san.
+Dialogue: 0,0:19:18.65,0:19:21.04,main,Oshizu,0000,0000,0000,,The truth is... I can't play the guitar.
+Dialogue: 0,0:19:21.76,0:19:22.73,main,Oshizu,0000,0000,0000,,So, bye.
+Dialogue: 0,0:19:26.08,0:19:27.38,main,Komichi,0000,0000,0000,,I want to hear it!
+Dialogue: 0,0:19:28.50,0:19:29.99,main,Komichi,0000,0000,0000,,Please let me hear it.
+Dialogue: 0,0:19:49.87,0:19:54.00,italics,Oshizu,0000,0000,0000,,I can't forget you
+Dialogue: 0,0:19:54.26,0:19:59.47,italics,Oshizu,0000,0000,0000,,As I walk this winding road
+Dialogue: 0,0:19:59.76,0:20:04.94,italics,Oshizu,0000,0000,0000,,With the newly-born sun
+Dialogue: 0,0:20:05.23,0:20:10.69,italics,Oshizu,0000,0000,0000,,And yellow sand that crosses \Nover from my dreams
+Dialogue: 0,0:20:11.88,0:20:15.81,italics,Oshizu,0000,0000,0000,,The day we fell over tickling each other
+Dialogue: 0,0:20:16.12,0:20:21.27,italics,Oshizu,0000,0000,0000,,Will never come a second time
+Dialogue: 0,0:20:21.60,0:20:27.77,italics,Oshizu,0000,0000,0000,,I'm sure a livelier future \Nthan I ever imagined
+Dialogue: 0,0:20:27.77,0:20:31.76,italics,Oshizu,0000,0000,0000,,Is waiting for me
+Dialogue: 0,0:20:31.76,0:20:37.78,italics,Oshizu,0000,0000,0000,,Just the sound of "I love you"
+Dialogue: 0,0:20:37.78,0:20:43.14,italics,Oshizu,0000,0000,0000,,Was enough to make me feel stronger
+Dialogue: 0,0:20:43.33,0:20:48.76,italics,Oshizu,0000,0000,0000,,I embraced that tiny happiness
+Dialogue: 0,0:20:48.76,0:20:55.65,italics,Oshizu,0000,0000,0000,,So tightly that I could have crushed it
+Dialogue: 0,0:21:15.52,0:21:17.95,main,Oshizu,0000,0000,0000,,No, that's not right.
+Dialogue: 0,0:21:21.59,0:21:22.85,main,Oshizu,0000,0000,0000,,I did it!
+Dialogue: 0,0:21:22.85,0:21:23.33,main,Mai,0000,0000,0000,,Did what?
+Dialogue: 0,0:21:23.63,0:21:25.33,main,Oshizu,0000,0000,0000,,Oh, Togano-san...
+Dialogue: 0,0:21:25.63,0:21:27.33,main,Oshizu,0000,0000,0000,,A-An F chord.
+Dialogue: 0,0:21:28.19,0:21:30.73,main,Mai,0000,0000,0000,,Oh... And?
+Dialogue: 0,0:21:32.76,0:21:34.78,main,Oshizu,0000,0000,0000,,It's really important!
+Dialogue: 0,0:21:34.78,0:21:39.11,main,Oshizu,0000,0000,0000,,I'm gonna give her a much better \Nperformance than {\i1}that{\i0} next time!
+Dialogue: 0,0:21:39.89,0:21:41.15,main,Mai,0000,0000,0000,,Hmm...
+Dialogue: 0,0:21:41.40,0:21:43.10,main,Mai,0000,0000,0000,,Let me hear it again.
+Dialogue: 0,0:21:43.10,0:21:43.89,main,Oshizu,0000,0000,0000,,Huh?
+Dialogue: 0,0:21:44.54,0:21:45.81,main,Mai,0000,0000,0000,,The F chord.
+Dialogue: 0,0:21:46.40,0:21:49.33,main,Oshizu,0000,0000,0000,,Aw, jeez... Fine, I guess.
+Dialogue: 0,0:21:49.80,0:21:51.25,top,Kao,0000,0000,0000,,Roll, roll.
+Dialogue: 0,0:21:50.32,0:21:54.59,italics,Komichi,0000,0000,0000,,Today, I got to hear both Kizaki-san and \NHebimori-san play their instruments.
+Dialogue: 0,0:21:54.93,0:21:59.14,italics,Komichi,0000,0000,0000,,And it made me feel like I need to \Nwork hard in the drama club, too.
+Dialogue: 0,0:21:55.65,0:21:57.22,top,Kao,0000,0000,0000,,Roll, roll.
+Dialogue: 0,0:21:59.28,0:22:01.78,main,Kao,0000,0000,0000,,Onee-chan, it's about to start.
+Dialogue: 0,0:22:01.78,0:22:02.51,main,Komichi,0000,0000,0000,,Okay!
+Dialogue: 0,0:22:02.77,0:22:06.02,italics,TV Voice,0000,0000,0000,,Next, bend your knees, stretch \Nyour arms out wide,
+Dialogue: 0,0:22:06.02,0:22:08.09,italics,TV Voice,0000,0000,0000,,and bring your hands \Ntogether above your head.
+Dialogue: 0,0:22:08.09,0:22:09.73,main,Kao; Komichi,0000,0000,0000,,Above your head!

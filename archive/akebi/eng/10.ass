@@ -1,0 +1,350 @@
+﻿[Script Info]
+Title: English (US)
+Original Script: aniplex  [http://www.crunchyroll.com/user/aniplex]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,0010,0010,0010,1
+Style: main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: italicstop,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: flashback,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: flashback italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: flashbacktop,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,0,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0018,0
+Style: flashbackitalicstop,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: sign_3520_34_Episode_One__The,Georgia,11,&H32000000,&H000000FF,&HC8FFFFFF,&HC8FFFFFF,0,0,0,0,100,100,0,0,1,1,1,8,0030,0030,0020,1
+Style: sign_12822_113_Mangetsu_Dormito,Times New Roman,9,&H00787878,&H000000FF,&H00F2F6F7,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,2,0030,0030,0020,1
+Style: sign_3195_3_Midterm_Exam_Res,Times New Roman,23,&H00605F5F,&H000000FF,&H00E7E9E9,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,7,0030,0030,0020,1
+Style: sign_4324_20_Regarding_the_At,Comic Sans MS,18,&H00B3B2AE,&H000000FF,&H00F6F8F5,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,1,0030,0030,0020,1
+Style: sign_5097_20_End,Times New Roman,23,&H00434843,&H000000FF,&H00E7E9E9,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,2,0030,0030,0020,1
+Style: sign_8285_70_Veggie_Fest,Arial Black,12,&H00A5A4A9,&H000000FF,&H00FFFAFA,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,0030,0030,0020,1
+Style: sign_8333_74_Oranges,Arial,13,&H00434F54,&H000000FF,&H00D5E1E5,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,2,0030,0030,0020,1
+Style: sign_8386_77_Champon_Ken,Arial Black,19,&H00FFFFFF,&H000000FF,&H0055646B,&H0055646B,-1,0,0,0,100,100,0,0,1,1,2,1,0030,0030,0020,1
+Style: sign_8487_80_Play_Room,Verdana,23,&H00AD9BED,&H000000FF,&H00E7E9E9,&H008EA2AD,-1,0,0,0,100,100,0,0,1,1,2,7,0030,0030,0020,1
+Style: sign_11593_120_Dragonfly_Books,Verdana,12,&H00D6D9D5,&H000000FF,&H00424549,&H00000000,0,0,0,0,100,100,0,0,1,2,0,1,0030,0030,0020,1
+Style: sign_13314_139_When_the_Fleaban,Times New Roman,8,&H00050503,&H000000FF,&H008FCAB0,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,8,0030,0030,0020,1
+Style: sign_15294_163_Literary_Masters,Times New Roman,10,&H002E4354,&H000000FF,&H00568DAE,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,1,0030,0030,0020,1
+Style: sign_24797_279_Roubai_Academy,Times New Roman,15,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,2,0030,0030,0020,1
+Style: sign_20505_211_Literature_Club_,Trebuchet MS,15,&H0044C6DD,&H000000FF,&H003F5CA2,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,7,0030,0030,0020,1
+Style: sign_30973_301_Drama_Club_This_,Georgia,25,&H00273C49,&H000000FF,&H003F5CA2,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,7,0030,0030,0020,1
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:16.40,0:00:17.98,main,Komichi,0000,0000,0000,,Morning.
+Dialogue: 0,0:00:18.25,0:00:20.37,main,Touko,0000,0000,0000,,Hey, Akebi-chan's here!
+Dialogue: 0,0:00:20.37,0:00:22.33,main,Erika,0000,0000,0000,,Morning, Komichi-san.
+Dialogue: 0,0:00:22.92,0:00:25.79,main,Komichi,0000,0000,0000,,Morning, Erika-chan, Usagihara-san.
+Dialogue: 0,0:00:27.53,0:00:30.90,main,Touko,0000,0000,0000,,A summer uniform! The red ribbon's so cute!
+Dialogue: 0,0:00:31.79,0:00:32.94,main,Komichi,0000,0000,0000,,Thanks!
+Dialogue: 0,0:00:35.34,0:00:37.88,main,Komichi,0000,0000,0000,,You both look really cute, too!
+Dialogue: 0,0:00:38.42,0:00:40.27,main,Touko,0000,0000,0000,,You think so?
+Dialogue: 0,0:00:41.06,0:00:43.22,main,Komichi,0000,0000,0000,,Hey, let's take a picture together!
+Dialogue: 0,0:00:42.37,0:00:43.81,main,Riri,0000,0000,0000,,Morning.
+Dialogue: 0,0:00:43.22,0:00:43.58,main,Erika,0000,0000,0000,,Okay.
+Dialogue: 0,0:00:43.58,0:00:45.15,main,Touko,0000,0000,0000,,Oh, yeah, good idea!
+Dialogue: 0,0:00:45.15,0:00:47.22,main,Komichi,0000,0000,0000,,Morning, Riri-san!
+Dialogue: 0,0:00:47.22,0:00:48.44,main,Touko; Erika,0000,0000,0000,,Morning!
+Dialogue: 0,0:00:48.84,0:00:50.70,main,Riri,0000,0000,0000,,Wow, your ribbon's red.
+Dialogue: 0,0:00:50.70,0:00:52.91,main,Riri,0000,0000,0000,,You'll get even more attention now.
+Dialogue: 0,0:00:53.25,0:00:55.12,main,Komichi,0000,0000,0000,,Y-You think so?
+Dialogue: 0,0:00:55.12,0:00:57.33,main,Riri,0000,0000,0000,,An' that's fine. Soak up that attention.
+Dialogue: 0,0:00:59.09,0:01:02.70,main,Erika,0000,0000,0000,,Yeah, we finally got to switch \Nto our summer uniforms,
+Dialogue: 0,0:01:02.70,0:01:05.36,main,Erika,0000,0000,0000,,but we'll be in our gym \Nclothes all day today.
+Dialogue: 0,0:01:05.36,0:01:07.99,main,Riri,0000,0000,0000,,Yeah, not much class time before \Nthe athletic festival starts.
+Dialogue: 0,0:01:07.99,0:01:10.04,main,Riri,0000,0000,0000,,I'm lovin' that, though!
+Dialogue: 0,0:01:10.04,0:01:11.39,main,Touko,0000,0000,0000,,Ditto!
+Dialogue: 0,0:01:11.39,0:01:12.34,main,Riri,0000,0000,0000,,Right?
+Dialogue: 0,0:01:15.54,0:01:17.98,main,Komichi,0000,0000,0000,,Let's all practice hard!
+Dialogue: 0,0:02:50.81,0:02:53.31,main,Yasuko,0000,0000,0000,,Start by doing this...
+Dialogue: 0,0:02:55.02,0:02:58.38,main,Yasuko,0000,0000,0000,,And wrap it around the \Nchair legs several times.
+Dialogue: 0,0:02:55.48,0:02:59.36,sign_3520_34_Episode_One__The,Title,0000,0000,0000,,{\fad(482,1)\bord2\pos(475,65)}Episode Ten \NFight On! Fight On!
+Dialogue: 0,0:03:04.68,0:03:06.75,main,Komichi,0000,0000,0000,,L-Like this?
+Dialogue: 0,0:03:08.23,0:03:10.39,main,Yasuko,0000,0000,0000,,Yeah, that's it.
+Dialogue: 0,0:03:11.24,0:03:12.68,main,Yasuko,0000,0000,0000,,When you're done wrapping,
+Dialogue: 0,0:03:12.68,0:03:16.65,main,Yasuko,0000,0000,0000,,tie up the center with \Na short length of tape.
+Dialogue: 0,0:03:17.12,0:03:19.67,main,Yasuko,0000,0000,0000,,Then take it off and cut it with scissors.
+Dialogue: 0,0:03:22.09,0:03:25.55,main,Yasuko,0000,0000,0000,,Finally, pull the bundled-up tape \Npieces loose with your hands.
+Dialogue: 0,0:03:27.07,0:03:29.07,main,Komichi,0000,0000,0000,,I did it!
+Dialogue: 0,0:03:29.45,0:03:31.61,main,Komichi,0000,0000,0000,,They're so cute!
+Dialogue: 0,0:03:31.94,0:03:34.42,main,Kei,0000,0000,0000,,That was easier than I thought.
+Dialogue: 0,0:03:34.78,0:03:36.40,main,Neko,0000,0000,0000,,So soft and fluffy.
+Dialogue: 0,0:03:37.32,0:03:39.55,main,Komichi,0000,0000,0000,,That's amazing, Nawashiro-san!
+Dialogue: 0,0:03:39.55,0:03:44.49,main,Komichi,0000,0000,0000,,I was wondering what we were \Ngonna use the vinyl tape for!
+Dialogue: 0,0:03:45.70,0:03:48.78,main,Yasuko,0000,0000,0000,,I figured cheering is better with pompoms,
+Dialogue: 0,0:03:48.78,0:03:50.73,main,Yasuko,0000,0000,0000,,so I looked up how to make them.
+Dialogue: 0,0:03:50.73,0:03:52.23,main,Komichi,0000,0000,0000,,I see!
+Dialogue: 0,0:03:52.23,0:03:56.83,main,Komichi,0000,0000,0000,,Okay! Let's cheer everybody on!
+Dialogue: 0,0:03:56.83,0:03:58.07,main,Kei; Yasuko,0000,0000,0000,,Yeah!
+Dialogue: 0,0:04:05.12,0:04:07.50,main,Erika,0000,0000,0000,,You're in the tennis \Nclub, right, Shijou-san?
+Dialogue: 0,0:04:07.50,0:04:10.63,main,Riona,0000,0000,0000,,Yeah. Have you ever played?
+Dialogue: 0,0:04:10.63,0:04:13.05,main,Erika,0000,0000,0000,,Our summer house has a \Ncourt, so yeah, a little.
+Dialogue: 0,0:04:13.05,0:04:14.13,main,Riona,0000,0000,0000,,S-Summer house?!
+Dialogue: 0,0:04:14.13,0:04:16.91,main,Erika,0000,0000,0000,,I was only playing around for fun, though.
+Dialogue: 0,0:04:16.91,0:04:20.12,main,Erika,0000,0000,0000,,I'll do my best not to trip you up.
+Dialogue: 0,0:04:22.46,0:04:24.16,main,Riona,0000,0000,0000,,Oh, you won't.
+Dialogue: 0,0:04:24.16,0:04:26.85,main,Riona,0000,0000,0000,,It's not like I'm that good at it, either.
+Dialogue: 0,0:04:28.19,0:04:31.15,main,Erika,0000,0000,0000,,Your tennis wear looks really nice.
+Dialogue: 0,0:04:31.52,0:04:32.24,main,Riona,0000,0000,0000,,Huh?
+Dialogue: 0,0:04:33.70,0:04:35.95,main,Riona,0000,0000,0000,,Oh... Thanks.
+Dialogue: 0,0:04:42.59,0:04:44.39,main,Erika,0000,0000,0000,,What's wrong?
+Dialogue: 0,0:04:44.39,0:04:46.30,main,Riona,0000,0000,0000,,N-Nothing!
+Dialogue: 0,0:05:08.71,0:05:10.57,main,Minoru,0000,0000,0000,,S-Sorry.
+Dialogue: 0,0:05:10.57,0:05:11.65,main,Ayumi,0000,0000,0000,,Don't worry about it.
+Dialogue: 0,0:05:12.15,0:05:15.28,main,Ayumi,0000,0000,0000,,Let's take it easy at first \Nan' try to get a rally goin'.
+Dialogue: 0,0:05:15.28,0:05:17.53,main,Ayumi,0000,0000,0000,,We can take our time \Ngettin' used to the ball.
+Dialogue: 0,0:05:18.06,0:05:18.92,main,Minoru,0000,0000,0000,,Okay.
+Dialogue: 0,0:05:20.31,0:05:21.95,main,Ayumi,0000,0000,0000,,That said...
+Dialogue: 0,0:05:23.09,0:05:24.23,main,Badminton Club,0000,0000,0000,,One point!
+Dialogue: 0,0:05:29.05,0:05:31.25,main,Ayumi,0000,0000,0000,,We ain't got near enough people.
+Dialogue: 0,0:05:32.14,0:05:34.56,main,Minoru,0000,0000,0000,,If no students show up to practice,
+Dialogue: 0,0:05:34.56,0:05:38.80,main,Minoru,0000,0000,0000,,that gives us a much higher \Nchance of winning on game day.
+Dialogue: 0,0:05:38.80,0:05:40.63,main,Ayumi,0000,0000,0000,,Let's beat 'em to a pulp!
+Dialogue: 0,0:05:40.63,0:05:41.42,main,Minoru,0000,0000,0000,,Yep.
+Dialogue: 0,0:05:42.41,0:05:45.42,main,Ayumi,0000,0000,0000,,I'll show 'em what a table \Ntennis club member's got!
+Dialogue: 0,0:05:47.41,0:05:48.14,main,Komichi,0000,0000,0000,,Is this is?
+Dialogue: 0,0:05:48.14,0:05:49.73,main,Yasuko,0000,0000,0000,,Over there, I think.
+Dialogue: 0,0:05:52.97,0:05:54.24,main,Minoru,0000,0000,0000,,Tougeguchi-san?
+Dialogue: 0,0:05:56.99,0:05:58.46,main,Minoru,0000,0000,0000,,Akebi-san!
+Dialogue: 0,0:05:59.71,0:06:01.67,main,Ayumi,0000,0000,0000,,Wh-What're y'all doin' here?
+Dialogue: 0,0:06:01.67,0:06:03.11,main,Komichi,0000,0000,0000,,Okay, here we go!
+Dialogue: 0,0:06:04.07,0:06:05.94,main,Komichi,0000,0000,0000,,Ready, and...
+Dialogue: 0,0:06:06.26,0:06:09.42,main,Komichi,0000,0000,0000,,Fight on! Fight on! Table tennis!
+Dialogue: 0,0:06:09.42,0:06:12.60,main,Komichi,0000,0000,0000,,Fight on! Fight on! Practice!
+Dialogue: 0,0:06:12.60,0:06:15.62,main,Komichi,0000,0000,0000,,Fight on! Fight on! Table tennis!
+Dialogue: 0,0:06:15.62,0:06:18.75,main,Komichi,0000,0000,0000,,Fight on! Fight on! Practice!
+Dialogue: 0,0:06:17.85,0:06:19.66,top,Ayumi,0000,0000,0000,,T-Tone it down!
+Dialogue: 0,0:06:21.45,0:06:23.37,main,Minoru,0000,0000,0000,,What in the world was that?
+Dialogue: 0,0:06:23.37,0:06:24.69,main,Komichi,0000,0000,0000,,What was it?
+Dialogue: 0,0:06:26.59,0:06:27.61,main,Komichi,0000,0000,0000,,A cheer!
+Dialogue: 0,0:06:28.06,0:06:29.52,main,Ayumi,0000,0000,0000,,A cheer?!
+Dialogue: 0,0:06:29.52,0:06:30.33,main,Komichi,0000,0000,0000,,Yep!
+Dialogue: 0,0:06:30.70,0:06:33.91,main,Kei,0000,0000,0000,,I guess we weren't very together, though.
+Dialogue: 0,0:06:34.36,0:06:36.23,main,Neko,0000,0000,0000,,How do you cheer, anyway?
+Dialogue: 0,0:06:38.78,0:06:39.50,main,Ayumi,0000,0000,0000,,Huh?
+Dialogue: 0,0:06:39.68,0:06:40.99,main,Yasuko,0000,0000,0000,,Good question.
+Dialogue: 0,0:06:40.99,0:06:46.68,main,Yasuko,0000,0000,0000,,When I think of cheering, I think of \Nthe cheerleaders in foreign TV shows.
+Dialogue: 0,0:06:47.01,0:06:50.17,main,Yasuko,0000,0000,0000,,They hop and jump and do lifts...
+Dialogue: 0,0:06:50.17,0:06:51.50,main,Komichi,0000,0000,0000,,Lifts?!
+Dialogue: 0,0:06:52.81,0:06:57.07,main,Komichi,0000,0000,0000,,Fight on! Fight on! Fight on! Fight on!
+Dialogue: 0,0:06:57.07,0:06:57.92,main,Komichi,0000,0000,0000,,That sounds good.
+Dialogue: 0,0:06:57.92,0:07:00.62,main,Yasuko,0000,0000,0000,,It means lifting another \Ncheerleader over your head.
+Dialogue: 0,0:07:01.11,0:07:03.23,main,Komichi,0000,0000,0000,,I've done that before!
+Dialogue: 0,0:07:04.68,0:07:05.81,main,Komichi,0000,0000,0000,,Okay!
+Dialogue: 0,0:07:06.22,0:07:09.10,main,Ayumi,0000,0000,0000,,Whoa! Stop, stop!
+Dialogue: 0,0:07:09.72,0:07:10.73,main,Komichi,0000,0000,0000,,Huh?
+Dialogue: 0,0:07:10.73,0:07:13.46,main,Ayumi,0000,0000,0000,,Yer freakin' people out, usin' a \Nbig move like that outta nowhere!
+Dialogue: 0,0:07:13.87,0:07:16.07,main,Ayumi,0000,0000,0000,,Start with some simple choreography!
+Dialogue: 0,0:07:17.83,0:07:19.82,main,Komichi,0000,0000,0000,,What kind of choreography?
+Dialogue: 0,0:07:19.82,0:07:23.49,main,Ayumi,0000,0000,0000,,You ain't never seen the stand dances \Nthey do at Koshien and stuff like that?
+Dialogue: 0,0:07:27.12,0:07:28.59,main,Ayumi,0000,0000,0000,,For example...
+Dialogue: 0,0:07:31.54,0:07:34.94,main,Ayumi,0000,0000,0000,,Stuff like this, and this...
+Dialogue: 0,0:07:35.38,0:07:36.69,main,Ayumi,0000,0000,0000,,and this!
+Dialogue: 0,0:07:38.72,0:07:41.04,main,Komichi,0000,0000,0000,,Wow! That was so cool!
+Dialogue: 0,0:07:41.04,0:07:42.47,main,Ayumi,0000,0000,0000,,It takes nothin' to get \Nyou all excited, huh?
+Dialogue: 0,0:07:42.98,0:07:48.56,main,Ayumi,0000,0000,0000,,Sheesh... Why'd ya volunteer to do this \Nif ya don't even know the basics?
+Dialogue: 0,0:07:48.56,0:07:51.62,main,Komichi,0000,0000,0000,,I thought it'd give me a chance \Nto watch everyone practice.
+Dialogue: 0,0:07:51.62,0:07:52.78,main,Ayumi,0000,0000,0000,,I see.
+Dialogue: 0,0:07:53.22,0:07:55.44,main,Yasuko,0000,0000,0000,,Why don't we all try that, then?
+Dialogue: 0,0:07:56.85,0:07:58.26,main,Komichi,0000,0000,0000,,Here we go!
+Dialogue: 0,0:07:58.65,0:08:00.49,main,Komichi,0000,0000,0000,,Ready, and...
+Dialogue: 0,0:08:00.49,0:08:04.77,main,Komichi,0000,0000,0000,,Fight on! Fight on! Ayumi!
+Dialogue: 0,0:08:05.01,0:08:09.32,main,Komichi,0000,0000,0000,,Fight on! Fight on! Minoru!
+Dialogue: 0,0:08:09.91,0:08:11.25,main,Minoru,0000,0000,0000,,Wow!
+Dialogue: 0,0:08:11.45,0:08:14.48,main,Minoru,0000,0000,0000,,I think I can actually \Nfeel a surge of power!
+Dialogue: 0,0:08:14.48,0:08:17.23,main,Ayumi,0000,0000,0000,,Well, it's better than it was before.
+Dialogue: 0,0:08:17.42,0:08:19.30,main,Komichi,0000,0000,0000,,Thanks, Tougeguchi-san!
+Dialogue: 0,0:08:19.57,0:08:22.90,main,Komichi,0000,0000,0000,,Want me to help with your table \Ntennis practice in return?
+Dialogue: 0,0:08:22.90,0:08:24.01,main,Ayumi,0000,0000,0000,,N-No, thank you!
+Dialogue: 0,0:08:24.01,0:08:26.10,main,Komichi,0000,0000,0000,,C'mon, no need to be modest!
+Dialogue: 0,0:08:26.10,0:08:27.77,top,Ayumi,0000,0000,0000,,Look, I'm sayin'...
+Dialogue: 0,0:08:26.49,0:08:28.86,main,Oshizu,0000,0000,0000,,Seems awfully lively over there.
+Dialogue: 0,0:08:28.86,0:08:29.80,main,Hotaru,0000,0000,0000,,Yeah.
+Dialogue: 0,0:08:32.01,0:08:35.06,main,Komichi,0000,0000,0000,,Hebimori-san! Hotaru-chan!
+Dialogue: 0,0:08:35.40,0:08:37.20,main,Komichi,0000,0000,0000,,Hey!
+Dialogue: 0,0:08:37.20,0:08:38.04,main,Oshizu,0000,0000,0000,,Hi.
+Dialogue: 0,0:08:49.15,0:08:53.11,main,Komichi,0000,0000,0000,,Fight on! Fight on! Oshizu!
+Dialogue: 0,0:08:53.11,0:08:56.80,main,Komichi,0000,0000,0000,,Fight on! Fight on! Hotaru!
+Dialogue: 0,0:08:56.80,0:09:00.69,top,Komichi,0000,0000,0000,,Fight on! Fight on! Oshizu!
+Dialogue: 0,0:08:57.37,0:08:59.27,main,Oshizu,0000,0000,0000,,Whoa, hang on...
+Dialogue: 0,0:09:00.69,0:09:04.50,main,Komichi,0000,0000,0000,,Fight on! Fight on! Hotaru!
+Dialogue: 0,0:09:04.50,0:09:08.52,main,Komichi,0000,0000,0000,,Fight on! Fight on! Oshi...zu...
+Dialogue: 0,0:09:08.52,0:09:14.71,main,Komichi,0000,0000,0000,,Fight on! Fight on! Hotaru!
+Dialogue: 0,0:09:24.78,0:09:28.81,main,Komichi,0000,0000,0000,,Hotaru-chan! Thanks!
+Dialogue: 0,0:09:29.31,0:09:30.93,main,Kei,0000,0000,0000,,I guess they made a connection.
+Dialogue: 0,0:09:32.55,0:09:34.61,main,Yasuko,0000,0000,0000,,We got some great advice.
+Dialogue: 0,0:09:34.61,0:09:38.04,main,Komichi,0000,0000,0000,,Yeah! Cheering isn't just about the calls.
+Dialogue: 0,0:09:38.04,0:09:40.11,main,Komichi,0000,0000,0000,,There's a dancing element to it, too!
+Dialogue: 0,0:09:40.11,0:09:43.04,main,Komichi,0000,0000,0000,,Maybe we'll be able to do \Na few different things!
+Dialogue: 0,0:09:43.04,0:09:44.53,main,Yasuko,0000,0000,0000,,Like what?
+Dialogue: 0,0:09:44.53,0:09:47.64,main,Komichi,0000,0000,0000,,Well, like maybe...
+Dialogue: 0,0:09:48.18,0:09:52.16,main,Kei,0000,0000,0000,,I need to go practice with \Nthe basketball team now.
+Dialogue: 0,0:09:52.16,0:09:53.25,main,Yasuko,0000,0000,0000,,Oh...
+Dialogue: 0,0:09:53.68,0:09:56.11,main,Neko,0000,0000,0000,,And I need to head to the dojo later.
+Dialogue: 0,0:09:56.11,0:09:57.20,main,Yasuko,0000,0000,0000,,Really?
+Dialogue: 0,0:09:57.20,0:09:58.48,main,Komichi,0000,0000,0000,,Well, then...
+Dialogue: 0,0:11:14.92,0:11:16.72,main,Komichi,0000,0000,0000,,So nice and cool...
+Dialogue: 0,0:11:19.97,0:11:21.58,main,Yasuko,0000,0000,0000,,Good practice, everyone.
+Dialogue: 0,0:11:21.58,0:11:24.46,main,Yasuko,0000,0000,0000,,I'm gonna go watch Hitomi-chan's practice.
+Dialogue: 0,0:11:24.46,0:11:25.74,main,Yasuko,0000,0000,0000,,See you later.
+Dialogue: 0,0:11:26.20,0:11:27.68,main,Kei,0000,0000,0000,,See you.
+Dialogue: 0,0:11:31.65,0:11:33.00,main,Neko,0000,0000,0000,,So much energy...
+Dialogue: 0,0:11:34.65,0:11:37.81,main,Kei,0000,0000,0000,,That was a pretty tough practice, huh?
+Dialogue: 0,0:11:39.66,0:11:43.70,main,Neko,0000,0000,0000,,I can't move. I want a bath.
+Dialogue: 0,0:11:45.21,0:11:46.28,main,Komichi,0000,0000,0000,,Okay!
+Dialogue: 0,0:11:53.53,0:11:54.94,main,Kei,0000,0000,0000,,Akebi-san?
+Dialogue: 0,0:12:26.30,0:12:29.68,main,Erika,0000,0000,0000,,Shijou-san, looks like \Na court just opened up.
+Dialogue: 0,0:12:30.38,0:12:31.96,main,Erika,0000,0000,0000,,Let's start practice.
+Dialogue: 0,0:12:32.35,0:12:34.18,main,Riona,0000,0000,0000,,S-Sure...
+Dialogue: 0,0:12:45.48,0:12:49.10,italics,Riona,0000,0000,0000,,Until I started studying for \Nentrance exams two years ago,
+Dialogue: 0,0:12:49.10,0:12:51.04,italics,Riona,0000,0000,0000,,I had played hardball tennis \Nall through school.
+Dialogue: 0,0:12:51.70,0:12:56.18,italics,Riona,0000,0000,0000,,Of course, I'm sure everyone expects me \Nto do great in the athletic festival.
+Dialogue: 0,0:13:05.50,0:13:08.94,italics,Riona,0000,0000,0000,,Do skills really degrade this \Nmuch in just two years?!
+Dialogue: 0,0:13:09.93,0:13:13.89,italics,Riona,0000,0000,0000,,I spend all my club time picking up balls and \Ndoing practice swings, so I didn't even notice.
+Dialogue: 0,0:13:20.74,0:13:23.38,main,Riona,0000,0000,0000,,Sorry I keep missing.
+Dialogue: 0,0:13:23.38,0:13:25.70,main,Erika,0000,0000,0000,,Nah, don't worry about it.
+Dialogue: 0,0:13:36.88,0:13:38.29,main,Erika,0000,0000,0000,,Here, have some of this.
+Dialogue: 0,0:13:40.59,0:13:43.21,main,Erika,0000,0000,0000,,It's my favorite black tea.
+Dialogue: 0,0:13:43.21,0:13:45.17,main,Erika,0000,0000,0000,,It should help you relax.
+Dialogue: 0,0:13:45.48,0:13:47.77,main,Riona,0000,0000,0000,,Th-Thanks...
+Dialogue: 0,0:13:56.07,0:13:57.33,main,Riona,0000,0000,0000,,That's good.
+Dialogue: 0,0:14:01.87,0:14:03.13,main,BG,0000,0000,0000,,Here it comes!
+Dialogue: 0,0:14:03.13,0:14:06.27,main,Erika,0000,0000,0000,,Oh... So you didn't play for two years?
+Dialogue: 0,0:14:07.16,0:14:09.07,main,Erika,0000,0000,0000,,I wouldn't say you lost your skills.
+Dialogue: 0,0:14:09.07,0:14:11.07,main,Erika,0000,0000,0000,,You just grew up.
+Dialogue: 0,0:14:12.21,0:14:13.25,main,Erika,0000,0000,0000,,As in your height and such.
+Dialogue: 0,0:14:14.49,0:14:17.33,main,Riona,0000,0000,0000,,You're right! I got a {\i1}lot{\i0} taller!
+Dialogue: 0,0:14:17.33,0:14:19.12,main,Riona,0000,0000,0000,,And it wasn't just my height!
+Dialogue: 0,0:14:19.12,0:14:20.84,main,Riona,0000,0000,0000,,A lot of things... grew!
+Dialogue: 0,0:14:24.99,0:14:29.89,main,Riona,0000,0000,0000,,My mom said I was developing \Nbetter than most girls, too.
+Dialogue: 0,0:14:29.89,0:14:32.35,main,Erika,0000,0000,0000,,That's not something to feel bad about.
+Dialogue: 0,0:14:32.91,0:14:35.34,main,Riona,0000,0000,0000,,That's what my mom says, too, but...
+Dialogue: 0,0:14:39.07,0:14:40.98,main,Komichi,0000,0000,0000,,Fight on!
+Dialogue: 0,0:14:44.30,0:14:45.46,main,Komichi,0000,0000,0000,,How was that?
+Dialogue: 0,0:14:45.46,0:14:47.40,main,Kei,0000,0000,0000,,Sounded good.
+Dialogue: 0,0:14:48.20,0:14:51.71,italics,Riona,0000,0000,0000,,Akebi-san is so slender.
+Dialogue: 0,0:14:48.87,0:14:51.30,top,Komichi,0000,0000,0000,,But I think this part is still...
+Dialogue: 0,0:14:52.37,0:14:53.94,main,Komichi,0000,0000,0000,,Shijou-san!
+Dialogue: 0,0:14:53.94,0:14:57.83,main,Komichi,0000,0000,0000,,It's amazing that you can \Nserve from that high up!
+Dialogue: 0,0:14:58.27,0:15:00.84,main,Komichi,0000,0000,0000,,I'll send lots of cheers your way!
+Dialogue: 0,0:15:01.94,0:15:03.21,main,Riona,0000,0000,0000,,Must be nice.
+Dialogue: 0,0:15:08.84,0:15:09.86,main,Komichi,0000,0000,0000,,Eep!
+Dialogue: 0,0:15:10.26,0:15:11.65,main,Riona,0000,0000,0000,,S-Sorry!
+Dialogue: 0,0:15:13.45,0:15:16.94,main,Komichi,0000,0000,0000,,Shijou-san, you just said, "Must be nice."
+Dialogue: 0,0:15:16.94,0:15:17.92,main,Riona,0000,0000,0000,,Huh?!
+Dialogue: 0,0:15:17.92,0:15:20.22,main,Komichi,0000,0000,0000,,You wanted to be on the \Ncheer squad that badly?!
+Dialogue: 0,0:15:20.22,0:15:20.90,main,Riona,0000,0000,0000,,Huh?!
+Dialogue: 0,0:15:21.30,0:15:25.30,main,Erika,0000,0000,0000,,Why don't you help out the squad to fill in \Nfor the girls who went to other practices?
+Dialogue: 0,0:15:25.30,0:15:26.53,main,Riona,0000,0000,0000,,Kizaki-san?!
+Dialogue: 0,0:15:26.53,0:15:29.91,main,Komichi,0000,0000,0000,,You're doing great too, Erika-chan!
+Dialogue: 0,0:15:28.75,0:15:29.91,top,Riona,0000,0000,0000,,Huh?!
+Dialogue: 0,0:15:33.75,0:15:36.55,top,Komichi,0000,0000,0000,,Remember when I raised my \Nhand for the cheer squad?
+Dialogue: 0,0:15:34.36,0:15:36.16,italics,Riona,0000,0000,0000,,Wh-What do I do?
+Dialogue: 0,0:15:36.55,0:15:38.91,top,Komichi,0000,0000,0000,,After that, my club president \Nsaid I should do it
+Dialogue: 0,0:15:38.91,0:15:40.99,top,Komichi,0000,0000,0000,,'cause it would help my \Nclub performance, too!
+Dialogue: 0,0:15:39.93,0:15:42.42,italics,Riona,0000,0000,0000,,I don't know how it even came to this...
+Dialogue: 0,0:15:40.99,0:15:44.11,top,Komichi,0000,0000,0000,,And then Kojou-san seemed so amazing to me,
+Dialogue: 0,0:15:44.11,0:15:46.15,top,Komichi,0000,0000,0000,,since she's the one who \Nsteered me toward that club!
+Dialogue: 0,0:15:46.12,0:15:49.43,italics,Riona,0000,0000,0000,,That wasn't even what I meant!
+Dialogue: 0,0:15:46.15,0:15:48.14,top,Komichi,0000,0000,0000,,Isn't cheering great?
+Dialogue: 0,0:15:58.99,0:16:00.66,main,Komichi,0000,0000,0000,,Here. Your pompoms.
+Dialogue: 0,0:16:02.71,0:16:06.29,main,Komichi,0000,0000,0000,,We made these ourselves. Aren't they cute?
+Dialogue: 0,0:16:06.29,0:16:08.07,main,Riona,0000,0000,0000,,Y-Yeah...
+Dialogue: 0,0:16:08.07,0:16:09.81,main,Komichi,0000,0000,0000,,Okay, let's do this!
+Dialogue: 0,0:16:09.81,0:16:11.77,main,Riona,0000,0000,0000,,I-I can't just jump right in like that!
+Dialogue: 0,0:16:12.18,0:16:13.96,main,Komichi,0000,0000,0000,,We'll just do a little bit.
+Dialogue: 0,0:16:13.96,0:16:17.49,main,Komichi,0000,0000,0000,,Tougeguchi-san just taught me \Nhow to do it not long ago, too.
+Dialogue: 0,0:16:18.56,0:16:19.42,main,Komichi,0000,0000,0000,,Make an L!
+Dialogue: 0,0:16:19.42,0:16:20.75,main,Komichi,0000,0000,0000,,Another L!
+Dialogue: 0,0:16:20.75,0:16:22.58,main,Komichi,0000,0000,0000,,Then build up to...
+Dialogue: 0,0:16:22.58,0:16:24.63,main,Komichi,0000,0000,0000,,V! And that's it!
+Dialogue: 0,0:16:24.63,0:16:27.15,italics,Riona,0000,0000,0000,,That does seem simple enough, but...
+Dialogue: 0,0:16:27.72,0:16:31.24,main,Komichi,0000,0000,0000,,Fight on! Fight on! Class 3!
+Dialogue: 0,0:16:31.24,0:16:32.58,top,Student1,0000,0000,0000,,What's this?
+Dialogue: 0,0:16:31.24,0:16:34.67,main,Komichi,0000,0000,0000,,Fight on! Fight on! Class 3!
+Dialogue: 0,0:16:32.58,0:16:34.04,top,Student2,0000,0000,0000,,There's another one now.
+Dialogue: 0,0:16:34.68,0:16:37.84,main,Komichi,0000,0000,0000,,Fight on! Fight on! Class 3!
+Dialogue: 0,0:16:35.77,0:16:37.84,top,Touko,0000,0000,0000,,I can hear your cheers!
+Dialogue: 0,0:16:38.18,0:16:41.14,main,Komichi,0000,0000,0000,,Fight on! Fight on! Class 3!
+Dialogue: 0,0:16:41.32,0:16:45.15,main,Komichi,0000,0000,0000,,Fight on! Fight on! Class 3!
+Dialogue: 0,0:16:55.05,0:16:57.37,main,Komichi,0000,0000,0000,,You did great, Shijou-san!
+Dialogue: 0,0:16:57.37,0:16:59.77,italics,Riona,0000,0000,0000,,That was so embarrassing!
+Dialogue: 0,0:16:59.77,0:17:01.39,main,Komichi,0000,0000,0000,,Did you get it on video, Tanigawa-san?
+Dialogue: 0,0:17:01.39,0:17:02.06,main,Kei,0000,0000,0000,,Yep!
+Dialogue: 0,0:17:02.06,0:17:03.70,main,Riona,0000,0000,0000,,Sh-She was recording it?!
+Dialogue: 0,0:17:04.20,0:17:08.07,main,Komichi,0000,0000,0000,,One of the competitors wanted to see how \Nher performance looked and asked her to.
+Dialogue: 0,0:17:12.21,0:17:15.80,main,Komichi,0000,0000,0000,,I'm not tall like Nawashiro-san,
+Dialogue: 0,0:17:15.80,0:17:20.97,main,Komichi,0000,0000,0000,,so I figured out that I have to reach my \Narms and legs out farther to look as powerful.
+Dialogue: 0,0:17:23.25,0:17:26.54,main,Komichi,0000,0000,0000,,Neko-chan is good at moving \Nreally gracefully...
+Dialogue: 0,0:17:28.43,0:17:31.06,main,Komichi,0000,0000,0000,,And Tanigawa-san has such beautiful legs,
+Dialogue: 0,0:17:31.06,0:17:33.76,main,Komichi,0000,0000,0000,,so she looks amazing when she dances!
+Dialogue: 0,0:17:34.55,0:17:37.70,main,Komichi,0000,0000,0000,,That all made me feel like \NI need to practice more.
+Dialogue: 0,0:17:39.23,0:17:40.72,main,Riona,0000,0000,0000,,Akebi-san...
+Dialogue: 0,0:17:40.72,0:17:42.63,main,Kei,0000,0000,0000,,Here, Shijou-san. You can look, too.
+Dialogue: 0,0:17:47.79,0:17:50.44,italics,Riona,0000,0000,0000,,I-I'm scared to watch it.
+Dialogue: 0,0:18:03.30,0:18:05.15,main,Riona,0000,0000,0000,,K-Kamimoku-san?!
+Dialogue: 0,0:18:05.46,0:18:07.45,main,Riona,0000,0000,0000,,C-Careful!
+Dialogue: 0,0:18:22.15,0:18:25.59,italicstop,Komichi,0000,0000,0000,,Fight on! Fight on! Class 3!
+Dialogue: 0,0:18:25.59,0:18:28.91,italicstop,Komichi,0000,0000,0000,,Fight on! Fight on! Class 3!
+Dialogue: 0,0:18:28.53,0:18:30.18,main,Komichi,0000,0000,0000,,Shijou-san...
+Dialogue: 0,0:18:28.91,0:18:32.36,italicstop,Komichi,0000,0000,0000,,Fight on! Fight on! Class 3!
+Dialogue: 0,0:18:30.16,0:18:32.36,main,Komichi,0000,0000,0000,,You're not really stretching \Nyour elbows and waist much.
+Dialogue: 0,0:18:32.36,0:18:35.74,italicstop,Komichi,0000,0000,0000,,Fight on! Fight on! Class 3!
+Dialogue: 0,0:18:32.67,0:18:33.43,main,Riona,0000,0000,0000,,Yeah...
+Dialogue: 0,0:18:33.66,0:18:34.68,italics,Riona,0000,0000,0000,,What is this?
+Dialogue: 0,0:18:35.74,0:18:39.01,italicstop,Komichi,0000,0000,0000,,Fight on! Fight on! Class 3!
+Dialogue: 0,0:18:36.01,0:18:37.90,italics,Riona,0000,0000,0000,,Why am I so scrunched up?
+Dialogue: 0,0:18:38.61,0:18:40.97,main,Riona,0000,0000,0000,,I look so dumb.
+Dialogue: 0,0:18:39.01,0:18:42.38,italicstop,Komichi,0000,0000,0000,,Fight on! Fight on! Class 3!
+Dialogue: 0,0:18:40.97,0:18:41.96,main,Komichi,0000,0000,0000,,Huh?
+Dialogue: 0,0:18:41.96,0:18:46.56,italics,Riona,0000,0000,0000,,Akebi-san's figure makes me \Nenvy her enough as it is.
+Dialogue: 0,0:18:46.80,0:18:50.76,italics,Riona,0000,0000,0000,,But she's practicing so \Nhard to cover for that,
+Dialogue: 0,0:18:50.76,0:18:52.38,italics,Riona,0000,0000,0000,,and dancing with all her might.
+Dialogue: 0,0:18:53.86,0:18:56.63,italics,Riona,0000,0000,0000,,I can't stand this!
+Dialogue: 0,0:18:59.58,0:19:02.35,main,Riona,0000,0000,0000,,Akebi-san, can I try it just a little more?
+Dialogue: 0,0:19:10.37,0:19:11.58,main,Komichi,0000,0000,0000,,Of course!
+Dialogue: 0,0:19:19.71,0:19:21.84,italics,Riona,0000,0000,0000,,I'm still embarrassed, but...
+Dialogue: 0,0:19:23.25,0:19:24.33,main,Komichi,0000,0000,0000,,You're doing great!
+Dialogue: 0,0:19:30.09,0:19:31.67,main,Komichi,0000,0000,0000,,Now all you need is a smile!
+Dialogue: 0,0:19:36.61,0:19:38.26,main,Kei,0000,0000,0000,,They're matching up better.
+Dialogue: 0,0:19:39.21,0:19:40.28,italics,Riona,0000,0000,0000,,What is this?
+Dialogue: 0,0:19:50.36,0:19:51.54,main,Komichi,0000,0000,0000,,Last stage!
+Dialogue: 0,0:19:57.40,0:19:59.39,italics,Riona,0000,0000,0000,,It feels so good!
+Dialogue: 0,0:20:06.55,0:20:08.33,main,Erika,0000,0000,0000,,Good work out there.
+Dialogue: 0,0:20:08.33,0:20:10.30,main,Erika,0000,0000,0000,,You were a lot of fun to watch.
+Dialogue: 0,0:20:10.30,0:20:12.38,main,Riona,0000,0000,0000,,Sorry to keep you waiting so long.
+Dialogue: 0,0:20:12.38,0:20:14.57,main,Erika,0000,0000,0000,,It wasn't that long at all.
+Dialogue: 0,0:20:14.57,0:20:16.88,main,Erika,0000,0000,0000,,You sure are sweating, though.
+Dialogue: 0,0:20:19.64,0:20:20.92,main,Erika,0000,0000,0000,,Want to take a break?
+Dialogue: 0,0:20:31.45,0:20:32.49,main,Riona,0000,0000,0000,,No.
+Dialogue: 0,0:20:37.06,0:20:38.10,main,Riona,0000,0000,0000,,Let's play!
+Dialogue: 0,0:20:41.31,0:20:42.53,italics,Riona,0000,0000,0000,,I remember now...
+Dialogue: 0,0:20:45.63,0:20:48.80,italics,Riona,0000,0000,0000,,why I started playing tennis.
+Dialogue: 0,0:21:12.03,0:21:13.63,italics,Riona,0000,0000,0000,,Because it looked so cool!
+Dialogue: 0,0:21:15.55,0:21:18.08,main,Komichi,0000,0000,0000,,Shijou-san, you look so cool!
+Dialogue: 0,0:21:23.46,0:21:25.32,main,Riona,0000,0000,0000,,Here comes the next one!
+Dialogue: 0,0:21:29.30,0:21:31.81,sign_24797_279_Roubai_Academy,Text,0000,0000,0000,,{\fs9\pos(585,230)\c&HB6D2E7&}Roubai\NAcademy
+Dialogue: 0,0:21:30.42,0:21:33.91,main,Komichi,0000,0000,0000,,I learned cheer choreography today.
+Dialogue: 0,0:21:31.81,0:21:34.31,sign_30973_301_Drama_Club_This_,Text,0000,0000,0000,,{\pos(375,18)}Drama\NClub\NThis\N Way
+Dialogue: 0,0:21:31.81,0:21:34.31,sign_30973_301_Drama_Club_This_,Text,0000,0000,0000,,{\pos(20,100)\fs15}Seeking New Members
+Dialogue: 0,0:21:33.91,0:21:36.80,main,Komichi,0000,0000,0000,,Then, based on that choreography,
+Dialogue: 0,0:21:36.80,0:21:39.91,main,Komichi,0000,0000,0000,,we all discussed how we could add \Nmore of this or that to it.
+Dialogue: 0,0:21:39.91,0:21:43.57,main,Komichi,0000,0000,0000,,And then I did a bunch of \Ndancing with Shijou-san.
+Dialogue: 0,0:21:43.79,0:21:49.56,main,Club President,0000,0000,0000,,Komichi-kun, your explanations are always so\Nfull of adverbs that I barely understand you.
+Dialogue: 0,0:21:49.56,0:21:51.82,main,Komichi,0000,0000,0000,,R-Really?
+Dialogue: 0,0:21:51.82,0:21:55.09,main,Komichi,0000,0000,0000,,But I had so much fun!
+Dialogue: 0,0:21:55.57,0:21:58.65,main,Club President,0000,0000,0000,,Oh, really, now?
+Dialogue: 0,0:21:58.65,0:22:03.55,main,Club President,0000,0000,0000,,Then let me give you a gift \Nthat'll make you even happier.
+Dialogue: 0,0:22:07.82,0:22:09.29,main,Komichi,0000,0000,0000,,What?!

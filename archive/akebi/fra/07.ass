@@ -1,0 +1,272 @@
+﻿[Script Info]
+Title: Français (France)
+Original Script: cr_fr  [http://www.crunchyroll.com/user/cr_fr]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,1,2,0002,0002,0025,1
+Style: Italique,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,1,1,2,0002,0002,0025,1
+Style: TiretsDefault,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,1,1,0020,0002,0025,1
+Style: TiretsItalique,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,1,1,1,0020,0002,0025,1
+Style: Sign,Arial,18,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,0,8,0002,0002,0025,1
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:08.94,0:00:10.03,Default,,0000,0000,0000,,Bonjour !
+Dialogue: 0,0:00:11.86,0:00:13.61,Default,,0000,0000,0000,,Salut, Komichi.
+Dialogue: 0,0:00:25.46,0:00:27.33,Default,,0000,0000,0000,,Salut, Erika.
+Dialogue: 0,0:00:29.38,0:00:33.97,Default,,0000,0000,0000,,Au fait, j’ai envoyé à mon père\Nles photos qu’on a prises au lac.
+Dialogue: 0,0:00:34.26,0:00:36.01,Default,,0000,0000,0000,,Vraiment ? À ton père ?
+Dialogue: 0,0:00:36.18,0:00:39.72,Default,,0000,0000,0000,,Il a dit qu’il aurait bien aimé\Nvenir avec nous
+Dialogue: 0,0:00:39.89,0:00:42.39,Default,,0000,0000,0000,,et qu’il était épaté\Npar ton matériel.
+Dialogue: 0,0:00:42.56,0:00:46.31,Default,,0000,0000,0000,,Ah bon ? Je suis un peu gênée\Nqu’il m’ait vue comme ça.
+Dialogue: 0,0:00:46.48,0:00:50.15,Default,,0000,0000,0000,,Ah, et il a ajouté\Nque tu avais de très jolies mains.
+Dialogue: 0,0:00:51.94,0:00:54.07,Default,,0000,0000,0000,,{\i1}Il m’a scrutée à ce point ?{\i0}
+Dialogue: 0,0:00:54.24,0:00:56.70,Default,,0000,0000,0000,,Tu prends soin de tes ongles, non ?
+Dialogue: 0,0:00:56.86,0:00:58.12,Default,,0000,0000,0000,,Je lui ai expliqué
+Dialogue: 0,0:00:59.12,0:01:01.20,Default,,0000,0000,0000,,que c’était pour pratiquer le violon.
+Dialogue: 0,0:01:01.45,0:01:05.96,Default,,0000,0000,0000,,C’est cool de jouer d’un instrument.\NJ’aimerais en être capable !
+Dialogue: 0,0:01:06.25,0:01:07.25,Default,,0000,0000,0000,,Entre nous,
+Dialogue: 0,0:01:07.50,0:01:11.34,Default,,0000,0000,0000,,tu es bien plus impressionnante\Nquand tu danses.
+Dialogue: 0,0:01:11.50,0:01:12.76,Default,,0000,0000,0000,,Tu trouves ?
+Dialogue: 0,0:01:12.92,0:01:13.71,Default,,0000,0000,0000,,Oui.
+Dialogue: 0,0:01:14.88,0:01:16.43,Default,,0000,0000,0000,,Tu vas me faire rougir.
+Dialogue: 0,0:01:23.93,0:01:25.68,TiretsDefault,,0278,0000,0000,,– Bonjour.\N– Salut.
+Dialogue: 0,0:01:26.35,0:01:27.39,Default,,0000,0000,0000,,Salut !
+Dialogue: 0,0:02:59.70,0:03:04.99,Sign,SIGN,0000,0000,0000,,{\i1\b1}{\an8}JOUE UN MORCEAU POUR MOI
+Dialogue: 0,0:03:00.07,0:03:01.78,Default,,0000,0000,0000,,Bon, on va au club ?
+Dialogue: 0,0:03:03.32,0:03:04.99,Default,,0000,0000,0000,,T’as de quoi te changer ?
+Dialogue: 0,0:03:07.41,0:03:08.87,Default,,0000,0000,0000,,On se retrouve après.
+Dialogue: 0,0:03:09.04,0:03:11.00,Default,,0000,0000,0000,,À tout à l’heure, Hebimori.
+Dialogue: 0,0:03:11.75,0:03:12.42,Default,,0000,0000,0000,,Ouais.
+Dialogue: 0,0:03:31.10,0:03:34.10,Default,,0000,0000,0000,,{\i1}C’est classe,\Nle son des guitares électriques.{\i0}
+Dialogue: 0,0:03:35.44,0:03:36.77,Default,,0000,0000,0000,,Tu te la joues trop…
+Dialogue: 0,0:03:36.94,0:03:39.36,Default,,0000,0000,0000,,Mais non, ça avait du style !
+Dialogue: 0,0:03:40.03,0:03:44.07,Default,,0000,0000,0000,,Je suis sûre que ça le fera.\NC’est parfait, je te dis !
+Dialogue: 0,0:03:44.24,0:03:47.08,Default,,0000,0000,0000,,{\i1}Mais j’ai préféré\Nne pas choisir de club.{\i0}
+Dialogue: 0,0:03:56.50,0:04:00.09,Default,,0000,0000,0000,,{\i1}Hein ? Ed est classé 10e ?\NN’importe quoi…{\i0}
+Dialogue: 0,0:04:00.34,0:04:03.38,Default,,0000,0000,0000,,{\i1}Le prochain numéro\Nportera sur la vie de Miki ?{\i0}
+Dialogue: 0,0:04:03.55,0:04:05.89,Default,,0000,0000,0000,,{\i1}On en parle déjà assez comme ça…{\i0}
+Dialogue: 0,0:04:06.47,0:04:09.22,Default,,0000,0000,0000,,{\i1}Ah, ce nouveau modèle\Nde guitare est top.{\i0}
+Dialogue: 0,0:04:09.39,0:04:11.14,TiretsDefault,,0249,0000,0000,,– {\i1}Même moi, je…{\i0}\N– Hebimori…
+Dialogue: 0,0:04:11.31,0:04:14.52,Default,,0000,0000,0000,,Hebimori. Hebimori !
+Dialogue: 0,0:04:14.77,0:04:15.77,Default,,0000,0000,0000,,Salut !
+Dialogue: 0,0:04:19.23,0:04:20.82,Default,,0000,0000,0000,,T’as un sacré casque.
+Dialogue: 0,0:04:21.57,0:04:24.95,Default,,0000,0000,0000,,Akebi… Désolée, je t’avais pas vue.
+Dialogue: 0,0:04:25.11,0:04:27.28,Default,,0000,0000,0000,,Hebimori, ce magazine…
+Dialogue: 0,0:04:31.54,0:04:34.87,Default,,0000,0000,0000,,C’est celui que lisent les musiciens,\Npas vrai ?
+Dialogue: 0,0:04:35.79,0:04:38.88,Default,,0000,0000,0000,,J’ai acheté le numéro\Navec Miki en couverture.
+Dialogue: 0,0:04:39.04,0:04:43.76,Default,,0000,0000,0000,,Mais quand je l’ai ouvert,\Nil était rempli de partitions…
+Dialogue: 0,0:04:44.09,0:04:46.80,Default,,0000,0000,0000,,{\i1}J’ai pris celui-là\Njuste pour la couv’ aussi…{\i0}
+Dialogue: 0,0:04:46.97,0:04:50.81,Default,,0000,0000,0000,,Je n’ai rien compris\Nà ce qui était écrit dedans,
+Dialogue: 0,0:04:50.97,0:04:53.89,Default,,0000,0000,0000,,mais toi,\Ntu sais jouer d’un instrument ?
+Dialogue: 0,0:04:54.56,0:04:55.89,Default,,0000,0000,0000,,Non, pas vraiment…
+Dialogue: 0,0:04:58.56,0:04:59.94,Default,,0000,0000,0000,,Enfin, si…
+Dialogue: 0,0:05:00.90,0:05:02.03,Default,,0000,0000,0000,,de la guitare.
+Dialogue: 0,0:05:02.36,0:05:05.57,Default,,0000,0000,0000,,Ouah… Je veux t’entendre jouer !
+Dialogue: 0,0:05:07.41,0:05:09.41,Default,,0000,0000,0000,,Avec ta propre guitare.
+Dialogue: 0,0:05:13.12,0:05:14.91,TiretsDefault,,0252,0000,0000,,– Bon, d’accord.\N– {\i1}Test…{\i0}
+Dialogue: 0,0:05:15.66,0:05:19.04,Default,,0000,0000,0000,,{\i1}Euh… Akebi Komichi de la 5e 3…{\i0}
+Dialogue: 0,0:05:19.17,0:05:22.55,Default,,0000,0000,0000,,C’est Chiarashi !\NDésolée, je dois filer à mon club.
+Dialogue: 0,0:05:22.67,0:05:25.13,Default,,0000,0000,0000,,Joue-moi un morceau\Nun de ces quatre !
+Dialogue: 0,0:05:25.30,0:05:29.14,Default,,0000,0000,0000,,{\i1}Akebi Komichi est demandée\Ndans sa salle de club…{\i0}
+Dialogue: 0,0:05:30.22,0:05:32.26,Default,,0000,0000,0000,,{\i1}J’ai fait une belle bourde.{\i0}
+Dialogue: 0,0:05:32.93,0:05:36.94,Default,,0000,0000,0000,,{\i1}Je ne sais même pas lire\Nune partition.{\i0}
+Dialogue: 0,0:05:37.14,0:05:39.65,Sign,SIGN,0000,0000,0000,,{\i1\b1}{\an8}DORTOIR MANGETSU
+Dialogue: 0,0:05:47.57,0:05:51.95,Default,,0000,0000,0000,,{\i1}J’ai embarqué la vieille guitare de papa\Nsur un coup de tête,{\i0}
+Dialogue: 0,0:05:52.08,0:05:56.16,Default,,0000,0000,0000,,{\i1}mais j’y ai pas touché une fois\Ndepuis que je suis ici.{\i0}
+Dialogue: 0,0:05:57.87,0:06:00.42,Default,,0000,0000,0000,,{\i1}C’est pas\Nune guitare électrique, quoi…{\i0}
+Dialogue: 0,0:06:18.10,0:06:19.35,Default,,0000,0000,0000,,Un accord ?
+Dialogue: 0,0:06:19.56,0:06:22.73,Default,,0000,0000,0000,,La musique,\Nc’est pas du {\i1}do{\i0}, {\i1}ré{\i0}, {\i1}mi{\i0} ?
+Dialogue: 0,0:06:26.15,0:06:27.74,Default,,0000,0000,0000,,Ah, j’ai trouvé.
+Dialogue: 0,0:06:28.32,0:06:30.53,Default,,0000,0000,0000,,Je vais essayer le {\i1}do{\i0}.
+Dialogue: 0,0:06:35.12,0:06:36.25,Default,,0000,0000,0000,,Au suivant…
+Dialogue: 0,0:06:45.05,0:06:46.13,Default,,0000,0000,0000,,J’ai réussi !
+Dialogue: 0,0:06:55.26,0:06:56.27,Default,,0000,0000,0000,,Tu es rentrée…
+Dialogue: 0,0:06:57.02,0:06:57.98,Default,,0000,0000,0000,,Oui.
+Dialogue: 0,0:07:04.48,0:07:07.57,Default,,0000,0000,0000,,Je croyais que ta guitare\Nétait là pour décorer.
+Dialogue: 0,0:07:08.69,0:07:11.41,Default,,0000,0000,0000,,Moi aussi, pour être honnête…
+Dialogue: 0,0:07:12.28,0:07:15.78,Default,,0000,0000,0000,,Ah, désolée.\NJ’éviterai de jouer quand tu es là…
+Dialogue: 0,0:07:16.37,0:07:19.08,Default,,0000,0000,0000,,Pas la peine, ça me dérange pas.
+Dialogue: 0,0:07:21.17,0:07:22.29,Default,,0000,0000,0000,,D’accord.
+Dialogue: 0,0:07:39.10,0:07:41.98,Default,,0000,0000,0000,,{\i1}Ensuite, pliez les genoux,\Ntendez les bras{\i0}
+Dialogue: 0,0:07:42.14,0:07:44.06,Default,,0000,0000,0000,,{\i1}et joignez les mains en l’air.{\i0}
+Dialogue: 0,0:07:44.23,0:07:45.48,Default,,0000,0000,0000,,Mains en l’air !
+Dialogue: 0,0:07:48.61,0:07:51.45,Default,,0000,0000,0000,,{\i1}Hebimori a dit\Nqu’elle jouait de la guitare.{\i0}
+Dialogue: 0,0:07:58.12,0:08:00.25,Default,,0000,0000,0000,,{\i1}Et si tu jouais d’un instrument ?{\i0}
+Dialogue: 0,0:08:00.50,0:08:02.62,Default,,0000,0000,0000,,{\i1}Avancez ensuite le haut du corps…{\i0}
+Dialogue: 0,0:08:02.79,0:08:04.37,Default,,0000,0000,0000,,Jouer d’un instrument…
+Dialogue: 0,0:08:04.54,0:08:06.21,Default,,0000,0000,0000,,C’est pas mal, comme idée.
+Dialogue: 0,0:08:06.38,0:08:08.25,Default,,0000,0000,0000,,Concentre-toi, Komichi !
+Dialogue: 0,0:08:08.42,0:08:09.55,Default,,0000,0000,0000,,{\i1}Relevez-vous…{\i0}
+Dialogue: 0,0:08:12.67,0:08:13.43,Default,,0000,0000,0000,,Suivante.
+Dialogue: 0,0:08:22.68,0:08:23.44,Default,,0000,0000,0000,,Suivante.
+Dialogue: 0,0:08:34.49,0:08:35.70,Default,,0000,0000,0000,,Plus fort !
+Dialogue: 0,0:08:38.20,0:08:40.37,TiretsDefault,,0229,0000,0000,,– À demain, les filles.\N– Au revoir.
+Dialogue: 0,0:08:40.54,0:08:42.75,TiretsDefault,,0240,0000,0000,,– On rentre, nous !\N– Salut !
+Dialogue: 0,0:08:44.58,0:08:45.71,Default,,0000,0000,0000,,Bye.
+Dialogue: 0,0:08:51.88,0:08:52.84,Default,,0000,0000,0000,,Bien !
+Dialogue: 0,0:08:53.47,0:08:55.13,Default,,0000,0000,0000,,Ça suffit pour aujourd’hui.
+Dialogue: 0,0:08:55.43,0:08:58.64,Default,,0000,0000,0000,,D’accord… Merci pour les exercices.
+Dialogue: 0,0:08:59.01,0:09:01.14,Default,,0000,0000,0000,,Sèche-toi bien avant de rentrer.
+Dialogue: 0,0:09:04.23,0:09:05.64,Default,,0000,0000,0000,,Tu t’es bien dépensée.
+Dialogue: 0,0:09:06.69,0:09:08.19,Default,,0000,0000,0000,,Ah, Togano !
+Dialogue: 0,0:09:10.02,0:09:12.90,Default,,0000,0000,0000,,Tu es dans le club de théâtre,\Nc’est ça ?
+Dialogue: 0,0:09:13.11,0:09:15.65,Default,,0000,0000,0000,,Tu répètes toujours dans le coin ?
+Dialogue: 0,0:09:15.90,0:09:18.45,Default,,0000,0000,0000,,Non, on a plusieurs salles pour ça,
+Dialogue: 0,0:09:18.62,0:09:21.08,Default,,0000,0000,0000,,mais en ce moment,\Non va dans la cour.
+Dialogue: 0,0:09:21.70,0:09:22.91,Default,,0000,0000,0000,,Chiarashi m’a dit…
+Dialogue: 0,0:09:23.45,0:09:27.17,Default,,0000,0000,0000,,« Avant tout, il est important\Nde savoir parler en public. »
+Dialogue: 0,0:09:28.50,0:09:29.54,Default,,0000,0000,0000,,Belle imitation.
+Dialogue: 0,0:09:30.00,0:09:32.71,Default,,0000,0000,0000,,Vu que je n’avais\Njamais fait de théâtre,
+Dialogue: 0,0:09:32.84,0:09:35.72,Default,,0000,0000,0000,,je dois surtout travailler les bases.
+Dialogue: 0,0:09:37.18,0:09:41.31,Default,,0000,0000,0000,,À la maison, je renforce aussi\Nle « tronc » de mon corps.
+Dialogue: 0,0:09:41.47,0:09:45.10,Default,,0000,0000,0000,,Moi aussi, j’ai du mal\Nà me mettre au niveau des autres.
+Dialogue: 0,0:09:45.31,0:09:46.77,Default,,0000,0000,0000,,Vraiment ?
+Dialogue: 0,0:09:46.94,0:09:51.27,Default,,0000,0000,0000,,Mais c’est sympa de réussir\Ndes choses petit à petit, non ?
+Dialogue: 0,0:09:52.61,0:09:53.61,Default,,0000,0000,0000,,Oui.
+Dialogue: 0,0:09:55.53,0:10:00.12,Default,,0000,0000,0000,,Au fait, c’est bien toi,\Nla camarade de chambre de Hebimori ?
+Dialogue: 0,0:10:00.28,0:10:00.99,Default,,0000,0000,0000,,Oui.
+Dialogue: 0,0:10:02.37,0:10:06.37,Default,,0000,0000,0000,,Alors tu as déjà dû l’entendre\Njouer de la guitare !
+Dialogue: 0,0:10:13.67,0:10:18.59,Default,,0000,0000,0000,,Alors, l’accord de {\i1}sol{\i0}…\N1re corde, 3e case.
+Dialogue: 0,0:10:19.09,0:10:21.14,Default,,0000,0000,0000,,5e corde, 2e case.
+Dialogue: 0,0:10:21.30,0:10:24.64,Default,,0000,0000,0000,,6e corde, 3e case…\NLe tout en même temps.
+Dialogue: 0,0:10:24.89,0:10:26.43,Default,,0000,0000,0000,,Sérieux ? C’est chaud.
+Dialogue: 0,0:10:27.43,0:10:29.69,Default,,0000,0000,0000,,Ça sonne vraiment comme ça ?
+Dialogue: 0,0:10:30.15,0:10:31.44,Default,,0000,0000,0000,,On verra bien.
+Dialogue: 0,0:10:31.73,0:10:34.40,Default,,0000,0000,0000,,Ensuite, l’accord de {\i1}do{\i0}…
+Dialogue: 0,0:10:35.28,0:10:39.99,Default,,0000,0000,0000,,2e corde, 1re case.\N4e corde, 2e case.
+Dialogue: 0,0:10:40.74,0:10:43.08,Default,,0000,0000,0000,,5e corde, 3e case.
+Dialogue: 0,0:10:43.24,0:10:47.12,Default,,0000,0000,0000,,6e corde, {\i1}palm mute{\i0}…\N{\i1}Palm{\i0} quoi ?
+Dialogue: 0,0:10:48.96,0:10:51.92,Default,,0000,0000,0000,,Il y a encore combien d’accords\Ncomme ça ?
+Dialogue: 0,0:10:55.75,0:10:57.55,Sign,SIGN,0000,0000,0000,,{\i1\b1}{\an8}COMBIEN D’ACCORDS EN TOUT ?
+Dialogue: 0,0:11:00.26,0:11:01.26,Default,,0000,0000,0000,,C’est mort.
+Dialogue: 0,0:11:02.47,0:11:04.68,Default,,0000,0000,0000,,{\i1}J’ai pas besoin de tout mémoriser.{\i0}
+Dialogue: 0,0:11:05.06,0:11:07.31,Default,,0000,0000,0000,,{\i1}Juste les accords les plus importants.{\i0}
+Dialogue: 0,0:11:18.86,0:11:20.15,Default,,0000,0000,0000,,Tu es déjà là ?
+Dialogue: 0,0:11:20.78,0:11:21.66,Default,,0000,0000,0000,,Oui…
+Dialogue: 0,0:11:22.03,0:11:25.83,Default,,0000,0000,0000,,Tu disais que ce jeu était sympa,\Nl’autre jour, non ?
+Dialogue: 0,0:11:28.41,0:11:31.04,Default,,0000,0000,0000,,J’ai croisé Akebi\Naprès l’entraînement.
+Dialogue: 0,0:11:32.25,0:11:33.46,Default,,0000,0000,0000,,Ah bon ?
+Dialogue: 0,0:11:34.96,0:11:37.71,Default,,0000,0000,0000,,Elle a hâte de t’entendre jouer\Nde la guitare.
+Dialogue: 0,0:11:39.01,0:11:40.59,Default,,0000,0000,0000,,T’y touches pas, ce soir ?
+Dialogue: 0,0:11:41.80,0:11:45.55,Default,,0000,0000,0000,,En fait, il y a tout un tas de façons\Nd’en jouer.
+Dialogue: 0,0:11:47.10,0:11:50.89,Default,,0000,0000,0000,,En plus,\Nil y a plein d’accords à mémoriser.
+Dialogue: 0,0:11:51.14,0:11:54.06,Default,,0000,0000,0000,,J’ai déjà du mal\Nà suivre nos cours,
+Dialogue: 0,0:11:54.23,0:11:56.73,Default,,0000,0000,0000,,alors j’arriverai jamais\Nà en jouer.
+Dialogue: 0,0:11:56.94,0:12:00.36,Default,,0000,0000,0000,,Dans ce cas,\Ntu devrais vite le dire à Akebi.
+Dialogue: 0,0:12:05.07,0:12:07.58,Default,,0000,0000,0000,,Une corde a pété\Nquand j’ai tourné une vis…
+Dialogue: 0,0:12:08.33,0:12:10.29,Default,,0000,0000,0000,,Elle était bien oxydée.
+Dialogue: 0,0:12:10.66,0:12:11.75,Default,,0000,0000,0000,,Ouais.
+Dialogue: 0,0:12:12.08,0:12:15.46,Default,,0000,0000,0000,,Et je l’avais pas remarqué,\Nvu que j’y connais rien…
+Dialogue: 0,0:12:15.67,0:12:16.75,Default,,0000,0000,0000,,Tu vas faire quoi ?
+Dialogue: 0,0:12:17.29,0:12:21.42,Default,,0000,0000,0000,,J’aimerais réussir à en jouer,\Nmais bon, elle est HS.
+Dialogue: 0,0:12:21.80,0:12:23.88,Default,,0000,0000,0000,,C’est trop tard pour apprendre…
+Dialogue: 0,0:12:24.05,0:12:26.68,Default,,0000,0000,0000,,Personne ne peut en jouer\Ndu premier coup.
+Dialogue: 0,0:12:28.01,0:12:31.52,Default,,0000,0000,0000,,Je m’entraîne chaque jour au basket\Npour la même raison.
+Dialogue: 0,0:12:39.40,0:12:41.11,Default,,0000,0000,0000,,J’ai encore gagné.
+Dialogue: 0,0:12:42.44,0:12:44.70,Default,,0000,0000,0000,,T’es vraiment balèze à ce jeu.
+Dialogue: 0,0:12:50.08,0:12:51.54,TiretsDefault,,0272,0000,0000,,– Joli coup.\N– À toi !
+Dialogue: 0,0:12:51.70,0:12:53.83,TiretsDefault,,0233,0000,0000,,– OK.\N– Bouge un peu plus.
+Dialogue: 0,0:12:54.00,0:12:55.17,Default,,0000,0000,0000,,Encore une !
+Dialogue: 0,0:13:01.51,0:13:02.96,Default,,0000,0000,0000,,{\i1}Tatsumori…{\i0}
+Dialogue: 0,0:13:03.38,0:13:04.80,Default,,0000,0000,0000,,{\i1}Elle fait de l’athlétisme.{\i0}
+Dialogue: 0,0:13:07.14,0:13:09.30,Default,,0000,0000,0000,,Continue comme ça, Akebi Komichi !
+Dialogue: 0,0:13:12.22,0:13:14.18,Default,,0000,0000,0000,,Crie à pleins poumons !
+Dialogue: 0,0:13:14.98,0:13:16.48,Default,,0000,0000,0000,,{\i1}Akebi…{\i0}
+Dialogue: 0,0:13:19.23,0:13:21.15,Default,,0000,0000,0000,,C’était mieux qu’hier.
+Dialogue: 0,0:13:21.32,0:13:24.49,Default,,0000,0000,0000,,{\i1}Elle transpire à grosses gouttes,{\i0}
+Dialogue: 0,0:13:24.78,0:13:26.66,Default,,0000,0000,0000,,{\i1}mais étrangement…{\i0}
+Dialogue: 0,0:13:47.13,0:13:50.72,Default,,0000,0000,0000,,Bien. Tu joueras ailière\Nau prochain entraînement.
+Dialogue: 0,0:13:50.89,0:13:51.47,Default,,0000,0000,0000,,Merci !
+Dialogue: 0,0:13:52.51,0:13:53.72,Default,,0000,0000,0000,,{\i1}Togano aussi.{\i0}
+Dialogue: 0,0:14:03.78,0:14:05.03,Default,,0000,0000,0000,,J’ai réussi !
+Dialogue: 0,0:14:14.54,0:14:17.04,Sign,SIGN,0000,0000,0000,,{\i1\b1}{\an8}MORCEAUX À LA GUITARE POUR DÉBUTANTS
+Dialogue: 0,0:14:15.41,0:14:19.54,Default,,0000,0000,0000,,Au début,\Nje n’arrivais pas à mettre un panier.
+Dialogue: 0,0:14:20.21,0:14:21.04,Default,,0000,0000,0000,,Hein ?
+Dialogue: 0,0:14:21.21,0:14:24.59,Default,,0000,0000,0000,,C’est normal,\Nje tentais direct des tirs à 3 points.
+Dialogue: 0,0:14:24.71,0:14:27.34,Default,,0000,0000,0000,,Ah ouais, tu brûlais les étapes…
+Dialogue: 0,0:14:27.63,0:14:29.72,Default,,0000,0000,0000,,Je rate encore pas mal de tirs,
+Dialogue: 0,0:14:30.84,0:14:35.72,Default,,0000,0000,0000,,donc je m’entraîne plus près du panier\Net je recule petit à petit.
+Dialogue: 0,0:14:36.89,0:14:39.69,Default,,0000,0000,0000,,Peut-être\Nque tu peux aussi commencer
+Dialogue: 0,0:14:41.40,0:14:44.07,Default,,0000,0000,0000,,par quelque chose de plus facile.
+Dialogue: 0,0:14:47.94,0:14:49.86,Default,,0000,0000,0000,,Je connais ce morceau.
+Dialogue: 0,0:16:25.96,0:16:26.96,Default,,0000,0000,0000,,T’es prête ?
+Dialogue: 0,0:16:27.92,0:16:28.96,Default,,0000,0000,0000,,Ah, oui.
+Dialogue: 0,0:16:35.97,0:16:37.97,TiretsDefault,,0287,0000,0000,,– Salut !\N– Salut.
+Dialogue: 0,0:16:40.02,0:16:40.97,Default,,0000,0000,0000,,Salut.
+Dialogue: 0,0:16:42.81,0:16:46.86,Default,,0000,0000,0000,,Akebi… Tu as un peu de temps,\Naprès les cours ?
+Dialogue: 0,0:16:49.98,0:16:51.99,Default,,0000,0000,0000,,Excusez-nous…
+Dialogue: 0,0:16:52.82,0:16:54.99,Default,,0000,0000,0000,,Mon cœur bat à cent à l’heure.
+Dialogue: 0,0:16:55.16,0:16:57.37,Default,,0000,0000,0000,,C’est moi qui devrais dire ça.
+Dialogue: 0,0:16:57.53,0:16:58.62,Default,,0000,0000,0000,,Ah oui !
+Dialogue: 0,0:17:00.41,0:17:02.58,Default,,0000,0000,0000,,Bon, je me lance.
+Dialogue: 0,0:18:13.53,0:18:15.78,Default,,0000,0000,0000,,Ah, tu étais là, Kizaki ?
+Dialogue: 0,0:18:17.07,0:18:18.03,Default,,0000,0000,0000,,Oui, et alors ?
+Dialogue: 0,0:18:18.24,0:18:20.95,Default,,0000,0000,0000,,{\i1}C’est Erika ?\NElle sait jouer du piano ?{\i0}
+Dialogue: 0,0:18:21.32,0:18:23.70,Default,,0000,0000,0000,,Ah, j’avais oublié, pardon.
+Dialogue: 0,0:18:23.87,0:18:26.91,Default,,0000,0000,0000,,Tu voulais quoi ?\NJe vais à mon club, là.
+Dialogue: 0,0:18:27.08,0:18:31.38,Default,,0000,0000,0000,,Toujours aussi dure avec les autres…\NAi a peur de toi, tu sais ?
+Dialogue: 0,0:18:31.54,0:18:35.46,Default,,0000,0000,0000,,Elle a l’impression de te déranger\Nquand elle va dans ta chambre,
+Dialogue: 0,0:18:35.67,0:18:38.93,Default,,0000,0000,0000,,alors elle hésitait\Nà te donner le journal du dortoir.
+Dialogue: 0,0:18:40.30,0:18:45.18,Default,,0000,0000,0000,,Je lui ai dit de faire attention,\Ncar tu fais flipper quand tu t’énerves.
+Dialogue: 0,0:18:45.39,0:18:47.52,Default,,0000,0000,0000,,Ne lui mets pas ces choses en tête !
+Dialogue: 0,0:18:47.68,0:18:49.48,Default,,0000,0000,0000,,Mais c’est la vérité.
+Dialogue: 0,0:18:49.64,0:18:51.40,Default,,0000,0000,0000,,Ça dépend qui m’énerve.
+Dialogue: 0,0:18:51.56,0:18:53.06,Default,,0000,0000,0000,,Attends, tu parles de…
+Dialogue: 0,0:18:55.78,0:18:58.36,Default,,0000,0000,0000,,Je n’avais jamais vu Erika\Ncomme ça…
+Dialogue: 0,0:19:00.24,0:19:02.74,Default,,0000,0000,0000,,Mais sa mélodie était magnifique.
+Dialogue: 0,0:19:04.49,0:19:05.54,Default,,0000,0000,0000,,Désolée.
+Dialogue: 0,0:19:08.08,0:19:10.17,Default,,0000,0000,0000,,Je préfère m’arrêter là.
+Dialogue: 0,0:19:10.79,0:19:14.04,Default,,0000,0000,0000,,Je peux pas jouer\Naprès la prestation de Kizaki.
+Dialogue: 0,0:19:14.21,0:19:15.42,Default,,0000,0000,0000,,Attends !
+Dialogue: 0,0:19:15.59,0:19:17.96,Default,,0000,0000,0000,,Je t’ai menti, Akebi.
+Dialogue: 0,0:19:18.72,0:19:21.05,Default,,0000,0000,0000,,Je ne sais pas jouer de la guitare.
+Dialogue: 0,0:19:21.72,0:19:22.72,Default,,0000,0000,0000,,À plus.
+Dialogue: 0,0:19:26.10,0:19:27.72,Default,,0000,0000,0000,,Je veux t’écouter jouer !
+Dialogue: 0,0:19:28.56,0:19:30.23,Default,,0000,0000,0000,,Joue un morceau pour moi.
+Dialogue: 0,0:19:49.91,0:19:54.08,Default,,0000,0000,0000,,{\i1}Je ne t’oublierai jamais{\i0}
+Dialogue: 0,0:19:54.38,0:19:59.51,Default,,0000,0000,0000,,{\i1}Alors que j’emprunte\Nce sentier tortu{\i0}
+Dialogue: 0,0:19:59.76,0:20:04.97,Default,,0000,0000,0000,,{\i1}Un nouveau soleil se lève\Nsur le monde dont je rêvais{\i0}
+Dialogue: 0,0:20:05.22,0:20:10.68,Default,,0000,0000,0000,,{\i1}Avec du sable doré à perte de vue{\i0}
+Dialogue: 0,0:20:11.89,0:20:15.90,Default,,0000,0000,0000,,{\i1}Les jours passés à rigoler\Net à se chatouiller{\i0}
+Dialogue: 0,0:20:16.15,0:20:21.32,Default,,0000,0000,0000,,{\i1}Sont désormais perdus à jamais{\i0}
+Dialogue: 0,0:20:21.61,0:20:25.24,Default,,0000,0000,0000,,{\i1}Je suis sûr\Nque l’avenir qui m’est réservé{\i0}
+Dialogue: 0,0:20:25.41,0:20:31.62,Default,,0000,0000,0000,,{\i1}Sera plus tumultueux\Nque je ne l’imaginais{\i0}
+Dialogue: 0,0:20:31.79,0:20:37.79,Default,,0000,0000,0000,,{\i1}Le simple fait d’entendre\Nles mots « je t’aime »{\i0}
+Dialogue: 0,0:20:37.96,0:20:43.13,Default,,0000,0000,0000,,{\i1}Me donnait l’impression\Nde devenir plus fort{\i0}
+Dialogue: 0,0:20:43.38,0:20:48.76,Default,,0000,0000,0000,,{\i1}Je m’accrochais\Nà ce modeste bonheur avec peine{\i0}
+Dialogue: 0,0:20:48.93,0:20:55.69,Default,,0000,0000,0000,,{\i1}Jusqu’à le briser à tort{\i0}
+Dialogue: 0,0:21:15.50,0:21:17.92,Default,,0000,0000,0000,,Non, je me trompe quelque part…
+Dialogue: 0,0:21:21.46,0:21:23.34,TiretsDefault,,0259,0000,0000,,– Je l’ai joué !\N– Quoi ?
+Dialogue: 0,0:21:23.63,0:21:25.34,Default,,0000,0000,0000,,Ouah ! C’est toi, Togano…
+Dialogue: 0,0:21:26.22,0:21:27.30,Default,,0000,0000,0000,,L’accord {\i1}fa{\i0}.
+Dialogue: 0,0:21:28.22,0:21:30.68,Default,,0000,0000,0000,,Ah bon… Et ?
+Dialogue: 0,0:21:32.81,0:21:34.60,Default,,0000,0000,0000,,Il est super important !
+Dialogue: 0,0:21:34.81,0:21:39.06,Default,,0000,0000,0000,,J’en aurai besoin pour épater Akebi\Navec un meilleur morceau.
+Dialogue: 0,0:21:41.40,0:21:42.90,Default,,0000,0000,0000,,Refais-le-moi écouter.
+Dialogue: 0,0:21:43.07,0:21:44.11,Default,,0000,0000,0000,,Quoi ?
+Dialogue: 0,0:21:44.65,0:21:45.82,Default,,0000,0000,0000,,L’accord {\i1}fa{\i0}.
+Dialogue: 0,0:21:46.49,0:21:49.32,Default,,0000,0000,0000,,Bon, si tu y tiens tant…
+Dialogue: 0,0:21:49.95,0:21:54.58,Default,,0000,0000,0000,,{\i1}J’ai entendu Kizaki et Hebimori\Njouer d’un instrument, aujourd’hui.{\i0}
+Dialogue: 0,0:21:54.95,0:21:59.13,Default,,0000,0000,0000,,{\i1}Ça m’a donné envie\Nde persévérer au club de théâtre.{\i0}
+Dialogue: 0,0:21:59.33,0:22:01.67,Default,,0000,0000,0000,,Ça va commencer, Komichi !
+Dialogue: 0,0:22:01.84,0:22:02.50,Default,,0000,0000,0000,,D’ac !
+Dialogue: 0,0:22:02.84,0:22:05.84,Default,,0000,0000,0000,,{\i1}Ensuite, pliez les genoux,\Ntendez les bras{\i0}
+Dialogue: 0,0:22:06.01,0:22:07.88,Default,,0000,0000,0000,,{\i1}et joignez les mains en l’air.{\i0}
+Dialogue: 0,0:22:08.05,0:22:09.76,Default,,0000,0000,0000,,Mains en l’air !
+Dialogue: 0,0:23:23.84,0:23:28.76,Default,,0000,0000,0000,,Supervision du projet : Nina Trommer\NRepérage : Stephanie Leborgne
+Dialogue: 0,0:23:29.13,0:23:34.05,Default,,0000,0000,0000,,Traduction : Benjamin Moro\NRelecture : Marion Sals
+Dialogue: 0,0:23:34.64,0:23:38.31,Default,,0000,0000,0000,,Publication : Jelizaveta Stolarova\NWAKANIM

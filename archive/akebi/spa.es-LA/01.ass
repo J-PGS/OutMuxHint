@@ -1,0 +1,349 @@
+﻿[Script Info]
+Title: Español (América Latina)
+Original Script: crunchyroll_la  [http://www.crunchyroll.com/user/crunchyroll_la]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Gen_Main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Gen_Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Gen_Main_Up,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00090909,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,1
+Style: Gen_Italics_top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,1
+Style: Cart_TitleEp,Times New Roman,22,&H00000000,&H000000FF,&H00353535,&H00797979,0,0,0,0,100,110,0,0,1,0,0,1,0020,0040,0020,1
+Style: Cart_A_Tre,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0020,1
+Style: Cart_C_Tre,Trebuchet MS,24,&H00323232,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0020,1
+Style: Cart_A_Tim,Times New Roman,24,&H00FFFFFF,&H000000FF,&H00303030,&H00303030,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_C_Tim,Times New Roman,24,&H00323232,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_A_Ari,Arial,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_C_Ari,Arial,24,&H00323232,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0020,1
+Style: Cart_Tre_NoShad,Trebuchet MS,20,&H00000000,&H000000FF,&H00FFFFFF,&H00D9D9D9,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0020,1
+Style: Cart_SeriesTitle,Trebuchet MS,28,&H00000000,&H000000FF,&H00FBFCFA,&H00000000,0,0,0,0,100,100,0,0,1,0,0,8,0030,0030,0050,1
+Style: Cart_Avance,Trebuchet MS,16,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,0010,0010,0018,1
+Style: Cart_Nota,Arial,24,&H001B3140,&H000000FF,&H00F9F9F9,&H008D365A,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0020,1
+Style: Cart_Next,Trebuchet MS,26,&H00F8FFFF,&H000000FF,&H00110D3A,&H005B5D5F,0,0,0,0,100,100,0,0,1,0,0,8,0020,0020,0130,1
+Style: Cart_TitleSeries,Trebuchet MS,20,&H00FFFFFF,&H000000FF,&H00494949,&H00797979,0,0,0,0,100,110,0,0,1,1,0,5,0020,0040,0020,1
+Style: Cart_SeriesTitle2,Trebuchet MS,28,&H00BEBEBE,&H000000FF,&H00FBFCFA,&H00000000,0,0,0,0,100,100,0,0,1,0,0,8,0033,0030,0053,1
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:16.41,0:00:17.74,Gen_Main,Komichi,0000,0000,0000,,¡Hola!
+Dialogue: 0,0:00:17.94,0:00:20.75,Gen_Main,Komichi,0000,0000,0000,,¡Buenos días!
+Dialogue: 0,0:00:52.51,0:00:54.71,Gen_Italics,Komichi,0000,0000,0000,,Si logro ser genial y tener éxito,
+Dialogue: 0,0:00:56.29,0:00:58.57,Gen_Italics,Komichi,0000,0000,0000,,como Miki, mi idol favorita,
+Dialogue: 0,0:00:59.72,0:01:00.97,Gen_Italics,Komichi,0000,0000,0000,,entonces…
+Dialogue: 0,0:01:01.65,0:01:03.25,Gen_Italics,Komichi,0000,0000,0000,,podré hacer…
+Dialogue: 0,0:01:07.48,0:01:09.50,Gen_Italics,Komichi,0000,0000,0000,,muchas amigas en mi nueva escuela.
+Dialogue: 0,0:01:09.64,0:01:10.76,Gen_Italics,Komichi,0000,0000,0000,,Muchas.
+Dialogue: 0,0:01:10.89,0:01:12.48,Gen_Italics,Komichi,0000,0000,0000,,¡Muchísimas!
+Dialogue: 0,0:01:17.10,0:01:18.31,Gen_Italics,Komichi,0000,0000,0000,,¡Puedo hacerlo!
+Dialogue: 0,0:01:20.34,0:01:22.78,Gen_Italics,Komichi,0000,0000,0000,,¡Viva! ¡Lo logré!
+Dialogue: 0,0:01:28.98,0:01:30.09,Gen_Main,Komichi,0000,0000,0000,,Qué fría.
+Dialogue: 0,0:01:30.29,0:01:32.70,Gen_Main,Taira,0000,0000,0000,,Me preguntaba quién se había caído…
+Dialogue: 0,0:01:34.11,0:01:35.64,Gen_Main,Komichi,0000,0000,0000,,Buenos días, señor Taira.
+Dialogue: 0,0:01:35.84,0:01:37.07,Gen_Main,Taira,0000,0000,0000,,Supuse que eras tú.
+Dialogue: 0,0:01:37.42,0:01:39.46,Gen_Main,Komichi,0000,0000,0000,,Verá, esto fue porque…
+Dialogue: 0,0:01:39.66,0:01:42.28,Gen_Main,Komichi,0000,0000,0000,,estaba probando nadar con ropa…
+Dialogue: 0,0:01:43.34,0:01:46.20,Gen_Main,Taira,0000,0000,0000,,Te llevaré a tu casa. Súbete atrás.
+Dialogue: 0,0:01:48.76,0:01:51.33,Gen_Main,Taira,0000,0000,0000,,Supe que diste tu examen\Npara la secundaria.
+Dialogue: 0,0:01:51.53,0:01:55.39,Gen_Main,Komichi,0000,0000,0000,,Sí, en la Academia Roubai.\NEs una escuela privada.
+Dialogue: 0,0:01:55.59,0:01:59.11,Gen_Main,Taira,0000,0000,0000,,Dicen que es muy difícil entrar.\NAhí estudió tu mamá, ¿no?
+Dialogue: 0,0:01:59.31,0:02:03.01,Gen_Main,Komichi,0000,0000,0000,,Sí. Por eso estoy tan feliz\Nde haber quedado.
+Dialogue: 0,0:02:03.21,0:02:04.69,Gen_Main,Taira,0000,0000,0000,,Ya veo.
+Dialogue: 0,0:02:04.89,0:02:08.02,Gen_Main,Komichi,0000,0000,0000,,Oí que hay más\Nde diez alumnas por curso.
+Dialogue: 0,0:02:08.22,0:02:10.63,Gen_Main,Komichi,0000,0000,0000,,Ni siquiera puedo imaginarlo.
+Dialogue: 0,0:02:10.83,0:02:14.94,Gen_Main,Taira,0000,0000,0000,,En la Primaria Futaba\Nsiempre fuiste tú sola, ¿no?
+Dialogue: 0,0:02:15.57,0:02:16.98,Gen_Main,Taira,0000,0000,0000,,Me alegro.
+Dialogue: 0,0:02:18.85,0:02:19.89,Gen_Main,Komichi,0000,0000,0000,,¡Sí!
+Dialogue: 0,0:02:21.07,0:02:26.00,Cart_SeriesTitle2,CARTEL,0000,0000,0000,,{\alpha&HFF&\blur1\t(0,1500,\alpha&HH00&)\c&HACACAC&}Ak{\blur2\r\alpha&HFF&\t(1200,2400,\alpha&HH00&\blur1)}e{\alpha&HFF&\t(0,1500,\alpha&HH00&\blur1)}bi{\blur2\r\alpha&HFF&\t(1200,2400,\alpha&HH00&\blur1)}'s S{\alpha&HFF&\t(0,1500,\alpha&HH00&\blur1)}a{\blur2\r\alpha&HFF&\t(1200,2400,\alpha&HH00&\blur1)}il{\alpha&HFF&\t(0,1500,\alpha&HH00&\blur1)}or {\blur2\r\alpha&HFF&\t(1200,2400,\alpha&HH00&\blur1)}U{\alpha&HFF&\t(0,1500,\alpha&HH00&\blur1)}n{\blur2\r\alpha&HFF&\t(1200,2400,\alpha&HH00&\blur1)}if{\alpha&HFF&\t(0,1500,\alpha&HH00&\blur1)}or{\alpha&HFF&\t(0,1500,\alpha&HH00&\blur1)}m
+Dialogue: 0,0:02:21.07,0:02:26.00,Cart_SeriesTitle,CARTEL,0000,0000,0000,,{\alpha&HFF&\t(0,1500,\alpha&HH00&}Ak{\r\alpha&HFF&\t(1200,2400,\alpha&HH00&)}e{\alpha&HFF&\t(0,1500,\alpha&HH00&}bi{\r\alpha&HFF&\t(1200,2400,\alpha&HH00&)}'s S{\alpha&HFF&\t(0,1500,\alpha&HH00&}a{\r\alpha&HFF&\t(1200,2400,\alpha&HH00&)}il{\alpha&HFF&\t(0,1500,\alpha&HH00&}or {\r\alpha&HFF&\t(1200,2400,\alpha&HH00&)}U{\alpha&HFF&\t(0,1500,\alpha&HH00&}n{\r\alpha&HFF&\t(1200,2400,\alpha&HH00&)}if{\alpha&HFF&\t(0,1500,\alpha&HH00&}or{\alpha&HFF&\t(0,1500,\alpha&HH00&}m
+Dialogue: 0,0:02:26.43,0:02:28.47,Gen_Main,Komichi,0000,0000,0000,,¡Gracias!
+Dialogue: 0,0:02:37.53,0:02:39.48,Gen_Main,Komichi,0000,0000,0000,,Ya llegué…
+Dialogue: 0,0:02:39.72,0:02:42.20,Gen_Main,Kao,0000,0000,0000,,Mamá, mi hermana ya llegó.
+Dialogue: 0,0:02:45.61,0:02:47.99,Gen_Main,Yuwa,0000,0000,0000,,Esas pisadas suenan sospechosas.
+Dialogue: 0,0:02:48.19,0:02:49.98,Gen_Main,Kao,0000,0000,0000,,Iré a ver.
+Dialogue: 0,0:02:52.33,0:02:54.55,Gen_Main,Yuwa,0000,0000,0000,,Eso te pasa por revoltosa.
+Dialogue: 0,0:02:54.98,0:02:56.62,Gen_Main,Yuwa,0000,0000,0000,,¿A quién habrás salido?
+Dialogue: 0,0:02:57.37,0:03:00.75,Gen_Main,Yuwa,0000,0000,0000,,Cierto. Papá te envió\Nun mensaje para felicitarte.
+Dialogue: 0,0:03:00.88,0:03:01.99,Gen_Main,Komichi,0000,0000,0000,,¿En serio?
+Dialogue: 0,0:03:01.99,0:03:04.03,Cart_C_Ari,CARTEL,0000,0000,0000,,{\bord0\b0\frz15.06\xshad-3\yshad-1\3a&H55&\pos(355.636,71.273)\c&HAD8771&\4c&HF7F1DD&\3c&HD5CCAE&}Tr{\c&H916D5A&}aba{\c&H9C7E64&}jaste {\c&H9D8976&}m{\c&H90714F&}uy {\c&H87643F&}duro. {\c&H8F685B&}¡Felic{\c&H806958&}ida{\c&H765B55&}des!
+Dialogue: 0,0:03:04.20,0:03:06.49,Cart_C_Ari,CARTEL,0000,0000,0000,,{\bord0\b0\xshad-3\yshad-1\3a&H55&\c&H9E7862&\4c&HF7F1DD&\3c&HD5CCAE&\pos(343.385,60.308)\frz14.94}Pero si te duermes sobre\Nel escritorio, te resfriarás
+Dialogue: 0,0:03:05.71,0:03:09.74,Gen_Main,Komichi,0000,0000,0000,,¿Eh? Papá no me ha visto, ¿cómo lo supo?
+Dialogue: 0,0:03:10.71,0:03:13.38,Gen_Main,Yuwa,0000,0000,0000,,Revisa los mensajes anteriores.
+Dialogue: 0,0:03:13.95,0:03:14.99,Gen_Main,Komichi,0000,0000,0000,,¿Eh?
+Dialogue: 0,0:03:15.79,0:03:16.89,Gen_Main,Komichi,0000,0000,0000,,¿Eh?
+Dialogue: 0,0:03:17.45,0:03:18.72,Gen_Main,Komichi,0000,0000,0000,,¡¿Eh?!
+Dialogue: 0,0:03:19.34,0:03:21.38,Cart_A_Tre,CARTEL,0000,0000,0000,,{\fad(400,0)\bord0\b0\xshad-3\yshad2\3a&H55&\c&H777471&\4c&HE5E2DB&\3c&HD5CCAE&\pos(184,2)}Ya las guardé todas
+Dialogue: 0,0:03:19.57,0:03:21.38,Gen_Main,Komichi,0000,0000,0000,,¡¿Eh?!
+Dialogue: 0,0:03:21.58,0:03:23.94,Gen_Main,Komichi,0000,0000,0000,,¡Mis padres me toman fotos a escondidas!
+Dialogue: 0,0:03:24.03,0:03:25.72,Gen_Main,Yuwa / Kao,0000,0000,0000,,¡Eso!
+Dialogue: 0,0:03:26.14,0:03:28.84,Gen_Main,Komichi,0000,0000,0000,,Ya no puedo confiar en nadie.
+Dialogue: 0,0:03:32.92,0:03:34.66,Gen_Main,Komichi,0000,0000,0000,,¿Hola? ¿Papá?
+Dialogue: 0,0:03:35.17,0:03:37.64,Gen_Main,Komichi,0000,0000,0000,,Sí. Ánimo con tu trabajo.
+Dialogue: 0,0:03:39.24,0:03:40.55,Gen_Main,Komichi,0000,0000,0000,,Sí… Sí…
+Dialogue: 0,0:03:41.35,0:03:44.95,Gen_Main,Komichi / Yuwa,0000,0000,0000,,-Pero no me la pasé durmiendo, ¿sabes?\N-¿De eso hablaban?
+Dialogue: 0,0:03:45.24,0:03:47.35,Gen_Main,Komichi,0000,0000,0000,,Estudié mucho.
+Dialogue: 0,0:03:47.87,0:03:51.82,Gen_Main,Komichi,0000,0000,0000,,Para la próxima debes guardar\Nfotos donde me vea linda.
+Dialogue: 0,0:03:55.42,0:03:58.96,Gen_Main,Komichi,0000,0000,0000,,Sí, ya lo pensé, pero es un secreto.
+Dialogue: 0,0:03:59.34,0:04:01.28,Gen_Main,Komichi,0000,0000,0000,,Sí… Sí…
+Dialogue: 0,0:04:01.48,0:04:04.04,Gen_Main,Komichi,0000,0000,0000,,De acuerdo. Hablamos luego.
+Dialogue: 0,0:04:05.14,0:04:06.32,Gen_Main,Kao,0000,0000,0000,,¿Qué dijo?
+Dialogue: 0,0:04:06.52,0:04:09.95,Gen_Main,Komichi,0000,0000,0000,,Que trabajará muy duro\Npara poder volver el próximo mes.
+Dialogue: 0,0:04:10.15,0:04:12.16,Gen_Main,Kao,0000,0000,0000,,¡Viva!
+Dialogue: 0,0:04:13.48,0:04:17.05,Gen_Main,Yuwa,0000,0000,0000,,Bien, ¿hacemos lo que tanto esperabas?
+Dialogue: 0,0:04:17.57,0:04:18.58,Gen_Main,Komichi,0000,0000,0000,,Sí.
+Dialogue: 0,0:04:19.91,0:04:23.05,Gen_Main,Komichi,0000,0000,0000,,Postulé a la Academia Roubai\Npara poder vestir
+Dialogue: 0,0:04:23.18,0:04:25.50,Gen_Main,Komichi,0000,0000,0000,,el uniforme de marinero\Nque tanto anhelo.
+Dialogue: 0,0:04:27.42,0:04:30.74,Gen_Italics,Komichi,0000,0000,0000,,Estuve muy nerviosa\Ndurante el examen y la entrevista,
+Dialogue: 0,0:04:32.51,0:04:35.21,Gen_Italics,Komichi,0000,0000,0000,,pero por fin podré ponérmelo.
+Dialogue: 0,0:04:37.46,0:04:41.17,Gen_Italics,Komichi,0000,0000,0000,,Me pregunto si se verá bien\Nen alguien como yo.
+Dialogue: 0,0:04:43.82,0:04:46.20,Gen_Main,Kao,0000,0000,0000,,Párate derecha o no te podrá medir bien.
+Dialogue: 0,0:04:46.69,0:04:49.38,Gen_Main,Komichi / Yuwa,0000,0000,0000,,-¿Qué tal?\N-Pues…
+Dialogue: 0,0:04:50.11,0:04:51.65,Gen_Main,Yuwa,0000,0000,0000,,Has engordado, Komichi.
+Dialogue: 0,0:04:52.68,0:04:55.23,Gen_Main,Yuwa,0000,0000,0000,,Estuviste mucho tiempo\Nsentada estudiando.
+Dialogue: 0,0:04:55.40,0:04:57.61,Gen_Main,Komichi,0000,0000,0000,,¡Ay, no, ay, no, adelgazaré como sea!
+Dialogue: 0,0:04:57.68,0:05:00.02,Gen_Main,Yuwa,0000,0000,0000,,Date prisa y cámbiate. Ya nos vamos.
+Dialogue: 0,0:05:00.22,0:05:03.82,Gen_Main,Kao / Komichi,0000,0000,0000,,-¡Nos vamos!\N-¡Vuelve a medirme después!
+Dialogue: 0,0:05:05.89,0:05:10.90,Gen_Main,Komichi,0000,0000,0000,,Es que lo confeccionarás especialmente\Npara mí, no quiero arruinarlo.
+Dialogue: 0,0:05:11.10,0:05:14.48,Gen_Main,Kao,0000,0000,0000,,Siempre hablabas de tu uniforme\Nmientras dormías.
+Dialogue: 0,0:05:14.68,0:05:17.56,Gen_Main,Komichi / Kao,0000,0000,0000,,-¡Kao!\N-Eras tan ruidosa que no podía dormir.
+Dialogue: 0,0:05:19.31,0:05:22.24,Gen_Main,Yuwa,0000,0000,0000,,Tu sueño es vestir\Nun uniforme de marinero, ¿no?
+Dialogue: 0,0:05:23.35,0:05:24.42,Gen_Main,Komichi,0000,0000,0000,,Sí.
+Dialogue: 0,0:05:24.62,0:05:27.18,Gen_Main,Yuwa,0000,0000,0000,,Entonces debo ponerle ganas.
+Dialogue: 0,0:05:27.79,0:05:31.35,Gen_Main,Komichi,0000,0000,0000,,¿Cómo eran las chicas en Roubai\Ncuando estudiabas ahí?
+Dialogue: 0,0:05:31.55,0:05:33.58,Gen_Main,Yuwa,0000,0000,0000,,Había muchas chicas muy divertidas.
+Dialogue: 0,0:05:33.78,0:05:37.02,Gen_Main,Yuwa,0000,0000,0000,,También varias\Nmás elegantes y con dinero.
+Dialogue: 0,0:05:37.22,0:05:41.04,Gen_Main,Komichi,0000,0000,0000,,Todo lo contrario a mí.\N¿Podré hablar con ellas?
+Dialogue: 0,0:05:41.24,0:05:45.32,Gen_Main,Yuwa,0000,0000,0000,,Pensaba: "¡Destronaré a la realeza!"\Ny cada día era como ir a la guerra.
+Dialogue: 0,0:05:49.17,0:05:52.78,Gen_Main,Komichi,0000,0000,0000,,Yo no soy tan fuerte como tú.
+Dialogue: 0,0:05:50.20,0:05:55.20,Cart_A_Tre,CARTEL,0000,0000,0000,,{\c&H9C84E5&\3c&H474961&\4c&H474961&\b0\fs20\fsp2\bord1\xshad-1\yshad1\pos(576,56)}Rent.-a-car{\b1}
+Dialogue: 0,0:05:50.20,0:05:55.20,Cart_A_Tre,CARTEL,0000,0000,0000,,{\c&H77D886&\3c&H446F5C&\bord2.5\fs20\pos(182,142)}Telas Nihori
+Dialogue: 0,0:05:50.20,0:05:55.20,Cart_A_Tre,CARTEL,0000,0000,0000,,{\c&H679E6D&\3c&HC7F1F1&\bord0.8\fs20\pos(182,142)}Telas Nihori
+Dialogue: 0,0:05:53.21,0:05:55.20,Gen_Main,Yuwa,0000,0000,0000,,Estás bien como eres, Komichi.
+Dialogue: 0,0:05:55.39,0:05:58.21,Gen_Main,Yuwa,0000,0000,0000,,Solo mantén la frente en alto y sonríe.
+Dialogue: 0,0:05:59.78,0:06:02.40,Gen_Main,Yuwa,0000,0000,0000,,Bien, a buscar esas telas.
+Dialogue: 0,0:06:03.97,0:06:06.48,Gen_Main,Komichi,0000,0000,0000,,¡Hay tantos rollos de tela!
+Dialogue: 0,0:06:11.32,0:06:14.02,Gen_Main,Komichi / Yuwa,0000,0000,0000,,-Entre ellos está mi…\N-Lo encontré.
+Dialogue: 0,0:06:14.68,0:06:17.48,Gen_Main,Komichi / Yuwa,0000,0000,0000,,-¡Qué rápida!\N-Esta tela se llama sarga.
+Dialogue: 0,0:06:17.74,0:06:21.25,Gen_Main,Yuwa,0000,0000,0000,,Se usa para el cuello de marinero,\Nla falda y los puños.
+Dialogue: 0,0:06:22.34,0:06:24.98,Gen_Main,Komichi,0000,0000,0000,,¡Esto se volverá mi uniforme!
+Dialogue: 0,0:06:27.44,0:06:31.31,Gen_Main,Yuwa,0000,0000,0000,,Esta tela es la gabardina.\NSe usa para el cuerpo y las mangas.
+Dialogue: 0,0:06:31.51,0:06:33.87,Gen_Main,Yuwa,0000,0000,0000,,Hay en distintos tonos blancos.
+Dialogue: 0,0:06:34.11,0:06:35.61,Gen_Main,Yuwa,0000,0000,0000,,Creo que estos te gustarán.
+Dialogue: 0,0:06:35.81,0:06:38.62,Gen_Main,Komichi,0000,0000,0000,,Prefiero el de la izquierda\Nque es más claro.
+Dialogue: 0,0:06:40.44,0:06:42.73,Gen_Main,Komichi,0000,0000,0000,,Son tan brillantes y suaves.
+Dialogue: 0,0:06:42.93,0:06:45.70,Gen_Main,Komichi,0000,0000,0000,,¡Mamá, qué divertido es elegir telas!
+Dialogue: 0,0:06:46.60,0:06:49.93,Gen_Main,Yuwa,0000,0000,0000,,¿Hacemos el listón más grande?\NSe verá más lindo.
+Dialogue: 0,0:06:50.13,0:06:52.50,Gen_Main,Komichi / Kao,0000,0000,0000,,-Sí.\N-¿Te ayudo, hermana?
+Dialogue: 0,0:06:52.70,0:06:54.54,Gen_Main,Komichi,0000,0000,0000,,No, así estoy bien.
+Dialogue: 0,0:06:54.74,0:06:56.91,Gen_Main,Yuwa,0000,0000,0000,,La línea es el detalle más importante.
+Dialogue: 0,0:06:57.01,0:06:58.64,Gen_Main,Komichi,0000,0000,0000,,¡Espera, espera!
+Dialogue: 0,0:07:00.09,0:07:02.10,Gen_Main,Komichi,0000,0000,0000,,Esta me gusta, mamá.
+Dialogue: 0,0:07:06.10,0:07:07.65,Gen_Main,Kao,0000,0000,0000,,Has estado así todo el día.
+Dialogue: 0,0:07:08.36,0:07:12.15,Gen_Main,Kao,0000,0000,0000,,Está bien que estés feliz,\Npero piensa en mis sentimientos.
+Dialogue: 0,0:07:12.54,0:07:14.66,Gen_Main,Komichi,0000,0000,0000,,Tienes razón.
+Dialogue: 0,0:07:15.34,0:07:18.87,Gen_Main,Komichi,0000,0000,0000,,No te presté atención durante\Nlos exámenes. Tendré cuidado.
+Dialogue: 0,0:07:20.50,0:07:21.67,Gen_Main,Kao,0000,0000,0000,,Hermana.
+Dialogue: 0,0:07:21.87,0:07:25.53,Gen_Main,Kao,0000,0000,0000,,¿No te da pena no ir más\Na la escuela conmigo?
+Dialogue: 0,0:07:32.54,0:07:35.41,Gen_Main,Komichi,0000,0000,0000,,¿No dijiste que ansiabas ir sola?
+Dialogue: 0,0:07:35.61,0:07:36.73,Gen_Main,Kao,0000,0000,0000,,Nunca dije eso.
+Dialogue: 0,0:07:36.93,0:07:38.41,Gen_Main,Komichi,0000,0000,0000,,Sí lo hiciste.
+Dialogue: 0,0:07:40.76,0:07:43.77,Gen_Main,Kao,0000,0000,0000,,Estoy un poquito triste…
+Dialogue: 0,0:07:48.03,0:07:51.02,Gen_Main,Komichi,0000,0000,0000,,Vas a entrar a tercero, ¿no?
+Dialogue: 0,0:07:51.22,0:07:54.20,Gen_Main,Kao,0000,0000,0000,,Y tú volverás a ir a primero.
+Dialogue: 0,0:07:54.40,0:07:55.95,Gen_Main,Komichi,0000,0000,0000,,Sí, así es.
+Dialogue: 0,0:07:56.81,0:08:00.90,Gen_Main,Komichi,0000,0000,0000,,A decir verdad, estoy igual\Nde preocupada que feliz.
+Dialogue: 0,0:08:01.10,0:08:03.58,Gen_Main,Komichi,0000,0000,0000,,No sé si podré hacer amigas.
+Dialogue: 0,0:08:04.26,0:08:06.46,Gen_Main,Komichi,0000,0000,0000,,Habrá muchas chicas de la ciudad
+Dialogue: 0,0:08:06.70,0:08:10.01,Gen_Main,Komichi,0000,0000,0000,,y no sé si nos llevaremos bien.
+Dialogue: 0,0:08:10.21,0:08:12.26,Gen_Main,Kao,0000,0000,0000,,No te preocupes por eso.
+Dialogue: 0,0:08:13.77,0:08:16.23,Gen_Main,Kao,0000,0000,0000,,Después de todo, eres genial.
+Dialogue: 0,0:08:17.32,0:08:21.27,Gen_Main,Komichi / Kao,0000,0000,0000,,-Gracias.\N-Sé que no me crees.
+Dialogue: 0,0:08:21.88,0:08:23.27,Gen_Main,Kao,0000,0000,0000,,Créeme.
+Dialogue: 0,0:08:26.26,0:08:28.31,Gen_Main,Komichi,0000,0000,0000,,Sí, te creo.
+Dialogue: 0,0:08:29.88,0:08:32.13,Gen_Main,Komichi,0000,0000,0000,,Ambas estaremos solas. Esforcémonos.
+Dialogue: 0,0:08:32.33,0:08:33.37,Gen_Main,Kao,0000,0000,0000,,Sí.
+Dialogue: 0,0:08:37.19,0:08:38.47,Gen_Main,Yuwa,0000,0000,0000,,Komichi.
+Dialogue: 0,0:08:39.51,0:08:40.72,Gen_Main,Yuwa,0000,0000,0000,,¿Tienes un minuto?
+Dialogue: 0,0:08:41.72,0:08:43.29,Gen_Main,Komichi,0000,0000,0000,,¿Ya lo terminaste?
+Dialogue: 0,0:08:43.49,0:08:46.10,Gen_Main,Yuwa,0000,0000,0000,,Aún no. Esto se llama hilvanado.
+Dialogue: 0,0:08:46.30,0:08:49.54,Gen_Main,Yuwa,0000,0000,0000,,Corrijo todo en otra tela\Nantes de hacer el de verdad.
+Dialogue: 0,0:08:50.26,0:08:52.76,Gen_Main,Komichi,0000,0000,0000,,Qué complicado es hacer un uniforme.
+Dialogue: 0,0:09:02.05,0:09:03.40,Gen_Main,Komichi,0000,0000,0000,,Mamá.
+Dialogue: 0,0:09:04.05,0:09:05.60,Gen_Main,Komichi,0000,0000,0000,,Ya terminé de lavar la ropa.
+Dialogue: 0,0:09:05.80,0:09:07.86,Gen_Main,Komichi,0000,0000,0000,,Yo me ocuparé de la limpieza.
+Dialogue: 0,0:09:09.11,0:09:11.13,Gen_Main,Yuwa,0000,0000,0000,,Gracias…
+Dialogue: 0,0:09:12.20,0:09:14.36,Gen_Main,Komichi,0000,0000,0000,,Mamá, yo lavo los platos.
+Dialogue: 0,0:09:14.69,0:09:16.36,Gen_Main,Komichi,0000,0000,0000,,Mamá, estoy terminando.
+Dialogue: 0,0:09:16.73,0:09:18.36,Gen_Main,Komichi,0000,0000,0000,,¡Mamá!
+Dialogue: 0,0:09:21.32,0:09:23.76,Gen_Main,Kao,0000,0000,0000,,Estás echando demasiada agua.
+Dialogue: 0,0:09:35.78,0:09:37.18,Gen_Main,Yuwa,0000,0000,0000,,Komichi.
+Dialogue: 0,0:09:37.53,0:09:38.95,Gen_Main,Yuwa,0000,0000,0000,,Acércate.
+Dialogue: 0,0:09:50.74,0:09:52.64,Gen_Main,Yuwa,0000,0000,0000,,Y ahora…
+Dialogue: 0,0:09:53.47,0:09:54.56,Gen_Main,Yuwa,0000,0000,0000,,está listo.
+Dialogue: 0,0:09:56.37,0:09:58.20,Gen_Main,Yuwa,0000,0000,0000,,Vamos, pruébatelo.
+Dialogue: 0,0:10:02.73,0:10:03.76,Gen_Main,Komichi,0000,0000,0000,,Sí.
+Dialogue: 0,0:10:06.58,0:10:08.21,Gen_Main,Yuwa,0000,0000,0000,,Te espero abajo.
+Dialogue: 0,0:11:21.53,0:11:24.18,Gen_Main,Kao,0000,0000,0000,,A mí me gusta este, ¿sabes?
+Dialogue: 0,0:11:24.38,0:11:27.54,Gen_Main,Yuwa / Kao,0000,0000,0000,,-¿No es muy maduro?\N-Está bien.
+Dialogue: 0,0:11:34.25,0:11:36.69,Gen_Main,Kao,0000,0000,0000,,¡Hermana, te ves genial!
+Dialogue: 0,0:11:40.57,0:11:42.47,Gen_Main,Yuwa,0000,0000,0000,,Komichi, ¿te molesta en alguna parte?
+Dialogue: 0,0:11:43.79,0:11:44.80,Gen_Main,Komichi,0000,0000,0000,,No.
+Dialogue: 0,0:11:48.58,0:11:49.62,Gen_Main,Komichi,0000,0000,0000,,No…
+Dialogue: 0,0:11:52.48,0:11:53.94,Gen_Main,Komichi,0000,0000,0000,,Gracias.
+Dialogue: 0,0:11:59.99,0:12:01.99,Cart_C_Tim,CARTEL,0000,0000,0000,,{\c&H504A42&\shad0\bord3\blur1\3c&HE9ECEB&\pos(169,12)}Ceremonia de ingreso\N{\fs16}Secundaria de la Academia Roubai
+Dialogue: 0,0:12:02.71,0:12:05.70,Gen_Main,Yuwa,0000,0000,0000,,Ha cambiado un poco, pero qué recuerdos.
+Dialogue: 0,0:12:05.93,0:12:09.29,Gen_Main,Komichi,0000,0000,0000,,Ay, estoy tan nerviosa…
+Dialogue: 0,0:12:10.38,0:12:13.13,Gen_Main,Komichi,0000,0000,0000,,¿Será una nueva alumna?
+Dialogue: 0,0:12:14.06,0:12:15.08,Gen_Main,Komichi,0000,0000,0000,,¿Eh?
+Dialogue: 0,0:12:16.31,0:12:17.74,Gen_Main,Komichi,0000,0000,0000,,¿Van con chaqueta?
+Dialogue: 0,0:12:18.36,0:12:22.16,Gen_Main,Yuwa,0000,0000,0000,,Komichi, ¿había otro evento hoy?
+Dialogue: 0,0:12:22.36,0:12:24.28,Gen_Main,Komichi,0000,0000,0000,,No…
+Dialogue: 0,0:12:26.02,0:12:29.35,Gen_Main,Directora,0000,0000,0000,,Muchas felicidades\Npor ingresar a la academia.
+Dialogue: 0,0:12:29.72,0:12:33.35,Gen_Main,Directora,0000,0000,0000,,Desde hoy, todas son alumnas\Nde la Academia Roubai.
+Dialogue: 0,0:12:33.55,0:12:35.35,Gen_Italics,Yuwa,0000,0000,0000,,¡Komichi…!
+Dialogue: 0,0:12:34.09,0:12:38.36,Gen_Main_Up,Directora,0000,0000,0000,,Nuestra escuela tiene\Nuna larga trayectoria…
+Dialogue: 0,0:12:35.55,0:12:38.36,Gen_Italics,Komichi,0000,0000,0000,,¡Mamá…!
+Dialogue: 0,0:12:42.58,0:12:44.02,Gen_Main,Yuwa,0000,0000,0000,,Ya llegamos.
+Dialogue: 0,0:12:44.61,0:12:46.03,Gen_Main,Kao,0000,0000,0000,,¡Bienvenidas!
+Dialogue: 0,0:12:46.23,0:12:48.54,Gen_Main,Kao,0000,0000,0000,,¿Cómo te fue, hermana?
+Dialogue: 0,0:12:48.74,0:12:50.46,Gen_Main,Komichi,0000,0000,0000,,Disculpa, permiso…
+Dialogue: 0,0:12:51.89,0:12:53.55,Gen_Main,Kao,0000,0000,0000,,¿Qué tiene?
+Dialogue: 0,0:12:53.75,0:12:56.93,Gen_Main,Yuwa,0000,0000,0000,,Fui yo la que no revisó bien.\NLe ruego me perdone.
+Dialogue: 0,0:12:57.13,0:13:01.63,Gen_Main,Directora,0000,0000,0000,,En su tiempo se usaba\Nese uniforme. Es natural.
+Dialogue: 0,0:13:01.83,0:13:05.49,Gen_Main,Directora,0000,0000,0000,,Además, desde la entrevista\Nsabíamos que Komichi
+Dialogue: 0,0:13:05.60,0:13:08.23,Gen_Main,Directora,0000,0000,0000,,anhelaba usar un uniforme de marinero.
+Dialogue: 0,0:13:08.43,0:13:12.85,Gen_Main,Directora,0000,0000,0000,,Fue nuestra culpa\Npor no aclararlo antes.
+Dialogue: 0,0:13:14.93,0:13:17.85,Gen_Main,Directora,0000,0000,0000,,Supe que usted lo confeccionó.
+Dialogue: 0,0:13:18.11,0:13:20.51,Gen_Main,Komichi,0000,0000,0000,,Sí, elegimos las telas juntas…
+Dialogue: 0,0:13:20.71,0:13:22.01,Gen_Main,Komichi,0000,0000,0000,,y…
+Dialogue: 0,0:13:22.71,0:13:23.86,Gen_Main,Directora,0000,0000,0000,,Ya veo.
+Dialogue: 0,0:13:24.38,0:13:27.17,Gen_Main,Directora,0000,0000,0000,,Mi mamá también confeccionó el mío.
+Dialogue: 0,0:13:27.37,0:13:29.89,Gen_Main,Directora,0000,0000,0000,,Estaba tan feliz.
+Dialogue: 0,0:13:31.79,0:13:33.38,Gen_Main,Directora,0000,0000,0000,,En vista de la situación,
+Dialogue: 0,0:13:33.50,0:13:37.72,Gen_Main,Directora,0000,0000,0000,,la academia permitirá que Komichi\Nvista el uniforme de marinero.
+Dialogue: 0,0:13:37.92,0:13:39.13,Gen_Main,Tamura,0000,0000,0000,,¿Directora?
+Dialogue: 0,0:13:39.33,0:13:43.06,Gen_Main,Directora,0000,0000,0000,,Aunque no sea el actual, también fue\Nel uniforme de esta escuela.
+Dialogue: 0,0:13:43.16,0:13:45.28,Gen_Main,Directora,0000,0000,0000,,No tengo por qué prohibirlo.
+Dialogue: 0,0:13:45.48,0:13:51.01,Gen_Main,Directora,0000,0000,0000,,Pero dejaremos la decisión final\Nen sus manos y de Komichi.
+Dialogue: 0,0:13:53.35,0:13:55.16,Gen_Main,Komichi,0000,0000,0000,,No puedo ser la única…
+Dialogue: 0,0:13:55.81,0:13:57.09,Gen_Main,Komichi,0000,0000,0000,,que lo use…
+Dialogue: 0,0:13:58.02,0:14:00.27,Cart_A_Tre,CARTEL,0000,0000,0000,,{\b0\fs8\frz90\3c&H3A74A3&\c&H0C3153&\pos(423,240)}Examen de admisión\NSecundaria de la Academia Roubai{\b1}
+Dialogue: 0,0:13:58.02,0:14:00.27,Cart_A_Tre,CARTEL,0000,0000,0000,,{\b0\fs14\frz90\3c&H3A74A3&\c&H0C3153&\pos(447,226)}Ciencias - Ayuda memoria{\b1}
+Dialogue: 0,0:13:58.02,0:14:00.27,Cart_A_Tre,CARTEL,0000,0000,0000,,{\b0\fs18\frz90\3c&H3A74A3&\c&H0C3153&\pos(473,159)}Cómo llevarse bien con otros
+Dialogue: 0,0:13:58.02,0:14:00.27,Cart_A_Tre,CARTEL,0000,0000,0000,,{\b0\fs18\frz90\3c&H3A74A3&\c&H0C3153&\pos(500,173)}Mi primera clase de {\c&H0A1973&}costura
+Dialogue: 0,0:13:58.02,0:14:00.27,Cart_A_Tre,CARTEL,0000,0000,0000,,{\b0\fs16\frz90\3c&H053867&\c&H001430&\pos(599,256)}Reptiles y anfibios\Nde Japón
+Dialogue: 0,0:13:58.02,0:14:00.27,Cart_A_Tre,CARTEL,0000,0000,0000,,{\b0\fs18\frz90\3c&H141705&\c&H3A74A3&\pos(545,266)}Criaturas del mar
+Dialogue: 0,0:14:07.53,0:14:09.82,Gen_Main,Kao,0000,0000,0000,,La cena de celebración está lista.
+Dialogue: 0,0:14:10.90,0:14:12.72,Gen_Main,Kao,0000,0000,0000,,Son huevos con doble yema.
+Dialogue: 0,0:14:13.39,0:14:16.30,Gen_Main,Komichi / Kao,0000,0000,0000,,-Kao, ¿supiste lo que pasó?\N-Sí.
+Dialogue: 0,0:14:16.70,0:14:19.02,Gen_Main,Komichi,0000,0000,0000,,Las chaquetas son más lindas, ¿no?
+Dialogue: 0,0:14:24.05,0:14:25.05,Gen_Main,Komichi,0000,0000,0000,,¡Ay!
+Dialogue: 0,0:14:25.25,0:14:26.90,Gen_Main,Komichi,0000,0000,0000,,¡¿Qué te pasa?!
+Dialogue: 0,0:14:28.39,0:14:30.92,Gen_Main,Kao,0000,0000,0000,,¿Ya no te gusta\Nel uniforme que hizo mamá?
+Dialogue: 0,0:14:31.12,0:14:32.80,Gen_Main,Komichi,0000,0000,0000,,¡Nunca dije eso!
+Dialogue: 0,0:14:34.26,0:14:36.31,Gen_Main,Kao,0000,0000,0000,,¡Ya no eres genial!
+Dialogue: 0,0:14:36.51,0:14:37.98,Gen_Main,Kao,0000,0000,0000,,¡Eres una tonta!
+Dialogue: 0,0:14:42.98,0:14:46.32,Gen_Main,Komichi,0000,0000,0000,,¡No lo decía por eso!
+Dialogue: 0,0:14:50.04,0:14:52.62,Gen_Main,Komichi,0000,0000,0000,,No es que no me guste. Me encanta.
+Dialogue: 0,0:14:53.19,0:14:56.08,Gen_Main,Komichi,0000,0000,0000,,Pero no quiero que piensen que soy rara.
+Dialogue: 0,0:14:56.60,0:14:59.08,Gen_Main,Kao,0000,0000,0000,,Después de todo, eres genial.
+Dialogue: 0,0:15:02.28,0:15:04.09,Gen_Italics,Komichi,0000,0000,0000,,Quiero ser genial.
+Dialogue: 0,0:15:04.54,0:15:08.58,Gen_Italics,Komichi,0000,0000,0000,,Y quiero tener muchísimas amigas.
+Dialogue: 0,0:15:09.85,0:15:13.58,Gen_Italics,Komichi,0000,0000,0000,,Si soy la única con este uniforme,\Nllamaré mucho la atención.
+Dialogue: 0,0:15:13.96,0:15:16.18,Gen_Italics,Komichi,0000,0000,0000,,¿Pero no sería una buena oportunidad?
+Dialogue: 0,0:15:36.12,0:15:39.60,Gen_Main,Kao,0000,0000,0000,,Hermana, ¿ya te vas a la escuela?
+Dialogue: 0,0:15:51.09,0:15:52.40,Gen_Main,Komichi,0000,0000,0000,,Gracias.
+Dialogue: 0,0:15:53.56,0:15:56.00,Gen_Main,Yuwa,0000,0000,0000,,Komichi, ¿estás bien?
+Dialogue: 0,0:15:56.79,0:15:59.89,Gen_Main,Komichi,0000,0000,0000,,Debo ir con la frente\Nen alto y sonreír, ¿no?
+Dialogue: 0,0:16:01.48,0:16:02.89,Gen_Main,Yuwa,0000,0000,0000,,Que te vaya bien.
+Dialogue: 0,0:16:04.85,0:16:06.15,Gen_Main,Komichi,0000,0000,0000,,¡Ya me voy!
+Dialogue: 0,0:16:22.20,0:16:23.69,Gen_Main,Komichi,0000,0000,0000,,Estuvo cerca.
+Dialogue: 0,0:16:38.21,0:16:39.82,Gen_Main,Komichi,0000,0000,0000,,No estoy segura,
+Dialogue: 0,0:16:40.02,0:16:43.41,Gen_Main,Komichi,0000,0000,0000,,pero creo que así me veo más seria.
+Dialogue: 0,0:16:44.86,0:16:48.19,Gen_Main,Komichi,0000,0000,0000,,¡Bien, aquí voy!
+Dialogue: 0,0:16:54.36,0:16:55.90,Gen_Main,Komichi,0000,0000,0000,,¡Cerezos!
+Dialogue: 0,0:17:14.22,0:17:17.68,Cart_A_Tre,CARTEL,0000,0000,0000,,{\an2\fs16\fax\3c&H7E55A0&\blur2\fax0.19\c&HFBF2FA&\frz348.3\move(469,288,469,-6)}Academia\N\h\hRoubai
+Dialogue: 0,0:17:19.41,0:17:23.98,Gen_Main,Komichi,0000,0000,0000,,Creo que… me entusiasmé demasiado…
+Dialogue: 0,0:17:26.93,0:17:28.45,Gen_Main,Komichi,0000,0000,0000,,¡Es enorme!
+Dialogue: 0,0:17:28.65,0:17:30.70,Gen_Main,Komichi,0000,0000,0000,,¡Parece un castillo!
+Dialogue: 0,0:17:40.98,0:17:42.45,Gen_Main,Komichi,0000,0000,0000,,¿Seré la primera?
+Dialogue: 1,0:17:42.45,0:17:45.46,Cart_C_Tre,CARTEL,0000,0000,0000,,{\3c&HBA9495&\c&H383533&\bord0\fs18\blur0.4\pos(308,25)}1.° año - Listado de clases
+Dialogue: 1,0:17:42.45,0:17:45.46,Cart_C_Tre,CARTEL,0000,0000,0000,,{\3c&HBA9495&\c&H383533&\bord0\fs38\fscy140\fsd\blur0.4\pos(307,150)}Clase 3
+Dialogue: 1,0:17:42.45,0:17:45.46,Cart_C_Tre,CARTEL,0000,0000,0000,,{\3c&HCBA9A8&\c&H383533&\an1\bord4\fs12\blur0.4\pos(220,267)}Número                    Nombre
+Dialogue: 1,0:17:42.45,0:17:45.46,Cart_C_Tre,CARTEL,0000,0000,0000,,{\3c&HCBA9A8&\c&H383533&\an1\bord5\fs12\blur0.4\pos(308,296)}Komichi Akebi
+Dialogue: 1,0:17:42.45,0:17:45.46,Cart_C_Tre,CARTEL,0000,0000,0000,,{\3c&HD0B0AF&\c&H383533&\an1\bord5\fs12\blur0.4\pos(308,314)}Touko Usagihara
+Dialogue: 1,0:17:42.45,0:17:45.46,Cart_C_Tre,CARTEL,0000,0000,0000,,{\3c&HD1B0B0&\c&H383533&\an1\bord5\fs12\blur0.4\pos(308,330)}Minoru Ookuma
+Dialogue: 1,0:17:42.45,0:17:45.46,Cart_C_Tre,CARTEL,0000,0000,0000,,{\3c&HD3B3B4&\c&H383533&\an1\bord5\fs12\blur0.4\pos(308,350)}Neko Kamimoku
+Dialogue: 2,0:17:44.53,0:17:47.71,Gen_Main,Komichi,0000,0000,0000,,Soy la primera de la lista.
+Dialogue: 0,0:17:48.14,0:17:49.41,Gen_Main,Komichi,0000,0000,0000,,Clase 3.
+Dialogue: 0,0:17:56.86,0:17:58.17,Gen_Main,Komichi,0000,0000,0000,,Aquí es.
+Dialogue: 0,0:18:00.60,0:18:02.25,Gen_Italics,Komichi,0000,0000,0000,,¡¿Ya hay alguien?!
+Dialogue: 0,0:18:02.45,0:18:05.84,Gen_Italics,Komichi,0000,0000,0000,,¿Qué hago? ¿Y si da miedo?
+Dialogue: 0,0:18:06.27,0:18:08.35,Gen_Main,Komichi,0000,0000,0000,,"Oh, qué pintas tan raras".
+Dialogue: 0,0:18:09.01,0:18:10.86,Gen_Main,Komichi,0000,0000,0000,,"¡No tiene nada de raro!".
+Dialogue: 0,0:18:11.58,0:18:14.63,Gen_Main,Komichi,0000,0000,0000,,"¡Llevémonos bien! ¡Toma!".
+Dialogue: 0,0:18:15.39,0:18:18.54,Gen_Italics,Komichi,0000,0000,0000,,¿Y por qué la estoy golpeando?
+Dialogue: 0,0:18:45.83,0:18:47.06,Gen_Main,Komichi,0000,0000,0000,,Disculpa…
+Dialogue: 0,0:18:47.34,0:18:49.06,Gen_Main,Komichi,0000,0000,0000,,Buenos días.
+Dialogue: 0,0:18:49.48,0:18:52.58,Gen_Main,Erika,0000,0000,0000,,Buenos… días…
+Dialogue: 0,0:18:56.39,0:18:58.34,Gen_Italics,Erika,0000,0000,0000,,Por favor, finge que no viste nada.
+Dialogue: 0,0:19:01.01,0:19:06.33,Gen_Main,Erika,0000,0000,0000,,Me viste con el cortaúñas revisando\Nsi mis pies olían mal, ¿no?
+Dialogue: 0,0:19:06.53,0:19:08.59,Gen_Italics,Komichi,0000,0000,0000,,¿Eso es lo que estaba haciendo?
+Dialogue: 0,0:19:08.79,0:19:10.83,Gen_Main,Komichi,0000,0000,0000,,Sí, no le diré a nadie.
+Dialogue: 0,0:19:11.37,0:19:13.50,Gen_Main,Komichi,0000,0000,0000,,Pero ¿tanto te huelen los pies?
+Dialogue: 0,0:19:13.70,0:19:15.34,Gen_Main,Erika,0000,0000,0000,,¡No preguntes!
+Dialogue: 0,0:19:15.54,0:19:16.86,Gen_Main,Erika,0000,0000,0000,,Me da mucha vergüenza.
+Dialogue: 0,0:19:17.06,0:19:18.96,Gen_Main,Komichi,0000,0000,0000,,A mí también me preocupa.
+Dialogue: 0,0:19:20.80,0:19:21.84,Gen_Main,Erika,0000,0000,0000,,¡Oye…!
+Dialogue: 0,0:19:22.85,0:19:25.86,Gen_Main,Komichi,0000,0000,0000,,Como vine corriendo,\Ncreo que huelen a sudor.
+Dialogue: 0,0:19:26.63,0:19:28.90,Gen_Main,Komichi,0000,0000,0000,,Sí, esto se podría volver un hábito.
+Dialogue: 0,0:19:31.55,0:19:33.70,Gen_Main,Erika,0000,0000,0000,,Qué graciosa eres.
+Dialogue: 0,0:19:33.90,0:19:38.48,Gen_Italics,Komichi,0000,0000,0000,,¡No puedo creerlo!\N¡Lo logré, Kao, dijo que soy graciosa!
+Dialogue: 0,0:19:39.32,0:19:42.86,Gen_Main,Erika,0000,0000,0000,,Oye, ¿quieres charlar un rato?
+Dialogue: 0,0:19:45.64,0:19:50.43,Gen_Main,Erika,0000,0000,0000,,Vaya, entonces seguirás viniendo\Ncon ese uniforme, Akebi.
+Dialogue: 0,0:19:50.70,0:19:52.31,Gen_Main,Erika,0000,0000,0000,,Qué valiente eres.
+Dialogue: 0,0:19:53.56,0:19:58.26,Gen_Main,Komichi,0000,0000,0000,,Erika Kizaki. Vienes de Tokio. ¡Genial!
+Dialogue: 0,0:19:58.46,0:20:00.13,Gen_Main,Erika,0000,0000,0000,,Estás anotando todo.
+Dialogue: 0,0:20:00.37,0:20:02.13,Gen_Main,Erika,0000,0000,0000,,Qué ordenada.
+Dialogue: 0,0:20:06.12,0:20:10.45,Gen_Main,Komichi,0000,0000,0000,,Tu cortaúñas es muy lindo.\N¿Siempre lo llevas?
+Dialogue: 0,0:20:10.65,0:20:12.55,Gen_Main,Erika,0000,0000,0000,,No, es la primera vez.
+Dialogue: 0,0:20:12.75,0:20:16.15,Gen_Main,Erika,0000,0000,0000,,Cuando estoy en un cuarto\Ny me preocupo o pongo nerviosa,
+Dialogue: 0,0:20:16.39,0:20:18.65,Gen_Main,Erika,0000,0000,0000,,me corto las uñas.
+Dialogue: 0,0:20:20.33,0:20:23.15,Gen_Main,Erika,0000,0000,0000,,Escuchar ese "clic" al cortarlas,
+Dialogue: 0,0:20:23.35,0:20:25.16,Gen_Main,Erika,0000,0000,0000,,en cierta forma, me relaja.
+Dialogue: 0,0:20:29.06,0:20:31.54,Gen_Main,Komichi,0000,0000,0000,,¿Estabas preocupada?
+Dialogue: 0,0:20:34.38,0:20:35.42,Gen_Main,Erika,0000,0000,0000,,Sí…
+Dialogue: 0,0:20:35.78,0:20:39.70,Gen_Main,Erika,0000,0000,0000,,Hoy pasarán muchas cosas nuevas.\NNo podía dormir…
+Dialogue: 0,0:20:40.17,0:20:43.58,Gen_Main,Erika,0000,0000,0000,,Como no podía estar quieta,\Ndecidí venir temprano,
+Dialogue: 0,0:20:43.71,0:20:45.48,Gen_Main,Erika,0000,0000,0000,,pero eso me puso más nerviosa.
+Dialogue: 0,0:20:51.71,0:20:53.18,Gen_Main,Erika,0000,0000,0000,,¿De verdad es tan gracioso?
+Dialogue: 0,0:20:53.45,0:20:55.57,Gen_Main,Komichi,0000,0000,0000,,No, no es por eso.
+Dialogue: 0,0:20:55.77,0:20:59.78,Gen_Main,Komichi,0000,0000,0000,,No sabía que alguien tan bella como tú\Nse podía preocupar así.
+Dialogue: 0,0:20:59.89,0:21:01.39,Gen_Main,Erika,0000,0000,0000,,Es natural, ¿no?
+Dialogue: 0,0:21:01.59,0:21:03.60,Gen_Main,Erika,0000,0000,0000,,Y mi apariencia no tiene nada que ver.
+Dialogue: 0,0:21:03.74,0:21:05.70,Gen_Main,Komichi,0000,0000,0000,,Tienes razón.
+Dialogue: 0,0:21:06.09,0:21:08.14,Gen_Main,Komichi,0000,0000,0000,,Yo tenía miedo.
+Dialogue: 0,0:21:08.34,0:21:11.50,Gen_Main,Komichi,0000,0000,0000,,Nunca antes había hablado\Ncon otra chica de mi edad
+Dialogue: 0,0:21:12.20,0:21:16.46,Gen_Main,Komichi,0000,0000,0000,,y me preocupaba\Nno pensar como las demás.
+Dialogue: 0,0:21:16.65,0:21:19.96,Gen_Main,Komichi,0000,0000,0000,,Por eso me alegra\Nque nos pasara lo mismo.
+Dialogue: 0,0:21:22.84,0:21:25.50,Gen_Main,Komichi,0000,0000,0000,,Pronto empezarán a llegar todas.
+Dialogue: 0,0:21:25.70,0:21:28.51,Gen_Main,Erika,0000,0000,0000,,Me había sentado en un sitio al azar.
+Dialogue: 0,0:21:30.22,0:21:31.54,Gen_Main,Komichi,0000,0000,0000,,El número uno.
+Dialogue: 0,0:21:32.21,0:21:33.52,Gen_Main,Komichi,0000,0000,0000,,Este es mi asiento.
+Dialogue: 0,0:21:34.82,0:21:37.46,Gen_Main,Komichi,0000,0000,0000,,Podré saludarlas de inmediato.
+Dialogue: 0,0:21:37.66,0:21:39.17,Gen_Main,Erika,0000,0000,0000,,Yo soy la número cinco.
+Dialogue: 0,0:21:48.78,0:21:51.78,Gen_Italics,Komichi,0000,0000,0000,,Creo que ya estoy más calmada.
+Dialogue: 0,0:21:54.78,0:21:56.93,Gen_Italics,Komichi,0000,0000,0000,,Estaré bien.
+Dialogue: 0,0:22:02.02,0:22:04.05,Gen_Italics,Komichi,0000,0000,0000,,Me pregunto si podré hacerlo…
+Dialogue: 0,0:22:06.91,0:22:08.23,Gen_Main,Komichi,0000,0000,0000,,¡Buenos días!

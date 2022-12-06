@@ -1,0 +1,411 @@
+﻿[Script Info]
+Title: Italiano
+Original Script: cr_it  [http://www.crunchyroll.com/user/cr_it]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,0010,0010,0010,1
+Style: main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0015,0
+Style: top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0015,0
+Style: italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0015,0
+Style: italicstop,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0015,0
+Style: flashback,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H0067482E,&H0067482E,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0015,1
+Style: flashback italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H0067482E,&H0067482E,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0015,1
+Style: flashbacktop,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H0067482E,&H0067482E,0,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0015,0
+Style: flashbackitalicstop,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H0067482E,&H0067482E,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0015,0
+Style: sign_3383_32_Akebi_s_Sailor_U,Georgia,40,&H00000000,&H000000FF,&H00E9E9E9,&H00E9E9E9,-1,0,0,0,100,100,0,0,1,0,3,1,0030,0030,0020,1
+Style: sign_3520_34_Episode_One__The,Georgia,13,&H32000000,&H000000FF,&HC8FFFFFF,&HC8FFFFFF,0,0,0,0,100,100,0,0,1,1,1,8,0030,0030,0020,1
+Style: sign_4364_45_Great_work__Cong,Arial,23,&H00A18470,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,1,0030,0030,0020,1
+Style: sign_8397_117_Fabrics_Store_Ni,Verdana,12,&H0077CA7F,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,2,0030,0030,0020,1
+Style: sign_8397_118_Car_Rental,Arial,15,&H00BCAAE9,&H000000FF,&H7D000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,1,1,0030,0030,0020,1
+Style: sign_8979_128_Chambray,Arial,9,&H00A0A2A2,&H000000FF,&H00F4F6F6,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,1,0030,0030,0020,1
+Style: sign_17263_208_Roubai_Academy_M,Times New Roman,10,&H00524B43,&H000000FF,&H00EAEDEC,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,7,0030,0030,0020,1
+Style: sign_20093_244_Middle_School_En,Times New Roman,15,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,7,0133,0070,0045,1
+Style: sign_24797_279_Roubai_Academy,Times New Roman,15,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,2,0030,0030,0020,1
+Style: sign_25474_283_New_First_Years_,Trebuchet MS,22,&H003B2F2D,&H000000FF,&H00BB9193,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,7,0030,0030,0020,1
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:16.37,0:00:17.75,main,Komichi,0000,0000,0000,,Eeehi!
+Dialogue: 0,0:00:17.75,0:00:20.74,main,Komichi,0000,0000,0000,,Buongiornooo!
+Dialogue: 0,0:00:52.58,0:00:54.69,italics,Komichi,0000,0000,0000,,Se riuscirò a essere splendida e avere successo
+Dialogue: 0,0:00:56.23,0:00:58.50,italics,Komichi,0000,0000,0000,,come la idol Miki,
+Dialogue: 0,0:00:59.71,0:01:00.85,italics,Komichi,0000,0000,0000,,quando inizierò
+Dialogue: 0,0:01:01.58,0:01:03.40,italics,Komichi,0000,0000,0000,,la nuova scuola...
+Dialogue: 0,0:01:07.69,0:01:09.50,italics,Komichi,0000,0000,0000,,potrò avere...
+Dialogue: 0,0:01:09.50,0:01:10.58,italics,Komichi,0000,0000,0000,,un sacco,
+Dialogue: 0,0:01:10.75,0:01:12.44,italics,Komichi,0000,0000,0000,,ma proprio un sacco...
+Dialogue: 0,0:01:17.06,0:01:18.27,italics,Komichi,0000,0000,0000,,di amiche!
+Dialogue: 0,0:01:20.26,0:01:21.58,italics,Komichi,0000,0000,0000,,Evviva!
+Dialogue: 0,0:01:21.58,0:01:22.73,italics,Komichi,0000,0000,0000,,Ce l'ho fatta!
+Dialogue: 0,0:01:27.37,0:01:28.46,main,Komichi,0000,0000,0000,,Oh.
+Dialogue: 0,0:01:29.02,0:01:30.26,main,Komichi,0000,0000,0000,,È freddissima.
+Dialogue: 0,0:01:30.26,0:01:32.63,main,Taira,0000,0000,0000,,Mi stavo chiedendo chi fosse appena caduto.
+Dialogue: 0,0:01:34.24,0:01:35.81,main,Komichi,0000,0000,0000,,Buongiorno, signor Taira!
+Dialogue: 0,0:01:35.81,0:01:37.08,main,Taira,0000,0000,0000,,Come pensavo eri tu, Komichi.
+Dialogue: 0,0:01:37.38,0:01:39.61,main,Komichi,0000,0000,0000,,Oh, ecco... io...
+Dialogue: 0,0:01:39.61,0:01:42.21,main,Komichi,0000,0000,0000,,mi stavo esercitando a nuotare vestita.
+Dialogue: 0,0:01:43.32,0:01:46.15,main,Taira,0000,0000,0000,,Ti do un passaggio fino a casa. \NSali qui dietro!
+Dialogue: 0,0:01:48.74,0:01:51.61,main,Taira,0000,0000,0000,,So che ti hanno presa alla scuola media \Ndove hai fatto l'esame di ammissione.
+Dialogue: 0,0:01:51.61,0:01:53.55,main,Komichi,0000,0000,0000,,Sì! L'Accademia Roubai.
+Dialogue: 0,0:01:53.55,0:01:55.60,main,Akebi,0000,0000,0000,,È una scuola privata.
+Dialogue: 0,0:01:55.60,0:01:59.36,main,Taira,0000,0000,0000,,Dicono sia una scuola difficile. \NCi è andata tua madre, giusto?
+Dialogue: 0,0:01:59.36,0:02:03.08,main,Komichi,0000,0000,0000,,Sì. Per questo sono così felice \Nche mi abbiano accettata!
+Dialogue: 0,0:02:03.08,0:02:04.82,main,Taira,0000,0000,0000,,Vedo! Vedo!
+Dialogue: 0,0:02:04.82,0:02:08.28,main,Komichi,0000,0000,0000,,Mi han detto che in tutte le classi\N ci sono più di dieci studentesse!
+Dialogue: 0,0:02:08.28,0:02:10.42,main,Komichi,0000,0000,0000,,Non riesco proprio a immaginarlo!
+Dialogue: 0,0:02:10.82,0:02:12.70,main,Taira,0000,0000,0000,,Alla scuola elementare Futaba
+Dialogue: 0,0:02:12.70,0:02:14.90,main,Taira,0000,0000,0000,,sei sempre stata l'unica in classe.
+Dialogue: 0,0:02:15.57,0:02:16.94,main,Taira,0000,0000,0000,,Sono contento per te!
+Dialogue: 0,0:02:18.88,0:02:19.74,main,Komichi,0000,0000,0000,,Già!
+Dialogue: 0,0:02:21.07,0:02:26.00,sign_3383_32_Akebi_s_Sailor_U,Title,0000,0000,0000,,{\move(70,100,73,100)\fad(2156,1)\fsp.5\t(1,2156,\fsp0)}Akebi's Sailor Uniform
+Dialogue: 0,0:02:26.42,0:02:28.38,main,Komichi,0000,0000,0000,,Grazieee!
+Dialogue: 0,0:02:26.79,0:02:30.58,sign_3520_34_Episode_One__The,Title,0000,0000,0000,,{\pos(510,75)\fad(482,430)}Episodio Uno \NLa divisa alla marinaretta dei miei sogni
+Dialogue: 0,0:02:37.54,0:02:39.33,main,Komichi,0000,0000,0000,,S-Sono a casa.
+Dialogue: 0,0:02:39.71,0:02:42.13,main,Kao,0000,0000,0000,,Mamma, è arrivata Komichi!
+Dialogue: 0,0:02:43.82,0:02:44.97,main,Yuwa,0000,0000,0000,,Hmm...
+Dialogue: 0,0:02:45.57,0:02:48.23,main,Yuwa,0000,0000,0000,,Il rumore dei suoi passi è un po' sospetto, vero?
+Dialogue: 0,0:02:48.23,0:02:49.96,main,Kao,0000,0000,0000,,Vado a vedere!
+Dialogue: 0,0:02:52.31,0:02:54.56,main,Yuwa,0000,0000,0000,,Sei proprio un maschiaccio!
+Dialogue: 0,0:02:54.98,0:02:56.51,main,Yuwa,0000,0000,0000,,Chissà da chi hai preso!
+Dialogue: 0,0:02:57.37,0:02:58.28,main,Yuwa,0000,0000,0000,,Oh, giusto!
+Dialogue: 0,0:02:58.63,0:03:01.16,main,Yuwa,0000,0000,0000,,Tuo padre ti ha mandato un messaggio\N per congratularsi con te.
+Dialogue: 0,0:03:01.16,0:03:01.99,main,Komichi,0000,0000,0000,,Davvero?!
+Dialogue: 0,0:03:01.99,0:03:04.03,sign_4364_45_Great_work__Cong,Text,0000,0000,0000,,{\frz14.96\pos(190,145)}Ottimo {\c&HA68A71&}lavo{\c&H997F61&}ro!\NCong{\c&HA8896E&}ratul{\c&H997F61&}azioni{\c&H957A59&}!
+Dialogue: 0,0:03:04.03,0:03:04.07,sign_4364_45_Great_work__Cong,Text,0000,0000,0000,,{\frz14.96\pos(165,60)}Ottimo {\c&HA68A71&}lavo{\c&H997F61&}ro!\NCong{\c&HA8896E&}ratul{\c&H997F61&}azioni{\c&H957A59&}!
+Dialogue: 0,0:03:04.07,0:03:04.12,sign_4364_45_Great_work__Cong,Text,0000,0000,0000,,{\frz14.96\pos(210,255)\c&H957E6D&}Ma se {\c&HA07F5F&}ti addo{\c&H92806E&}rmenti {\c&H9A7C5F&}alla {\c&H8A6C61&}scriva{\c&H756359&}nia,\N{\c&H957E6D&}ti prende{\c&HA07F5F&}rai {\c&H92806E&}un bel raffreddore{\c&H9A7C5F&}.
+Dialogue: 0,0:03:04.12,0:03:04.16,sign_4364_45_Great_work__Cong,Text,0000,0000,0000,,{\frz14.96\pos(187,190)\c&H957E6D&}Ma se {\c&HA07F5F&}ti addo{\c&H92806E&}rmenti {\c&H9A7C5F&}alla {\c&H8A6C61&}scriva{\c&H756359&}nia,\N{\c&H957E6D&}ti prende{\c&HA07F5F&}rai {\c&H92806E&}un bel raffreddore{\c&H9A7C5F&}.
+Dialogue: 0,0:03:04.16,0:03:04.20,sign_4364_45_Great_work__Cong,Text,0000,0000,0000,,{\frz14.96\pos(183,163)\c&H957E6D&}Ma se {\c&HA07F5F&}ti addo{\c&H92806E&}rmenti {\c&H9A7C5F&}alla {\c&H8A6C61&}scriva{\c&H756359&}nia,\N{\c&H957E6D&}ti prende{\c&HA07F5F&}rai {\c&H92806E&}un bel raffreddore{{\c&H9A7C5F&}.
+Dialogue: 0,0:03:04.20,0:03:06.49,sign_4364_45_Great_work__Cong,Text,0000,0000,0000,,{\frz14.96\pos(183,155)\c&H957E6D&}Ma se {\c&HA07F5F&}ti addo{\c&H92806E&}rmenti {\c&H9A7C5F&}alla {\c&H8A6C61&}scriva{\c&H756359&}nia,\N{\c&H957E6D&}ti prende{\c&HA07F5F&}rai {\c&H92806E&}un bel raffreddore{{\c&H9A7C5F&}.
+Dialogue: 0,0:03:05.71,0:03:06.49,main,Komichi,0000,0000,0000,,Eh?
+Dialogue: 0,0:03:06.67,0:03:09.74,main,Komichi,0000,0000,0000,,Come fa papà a saperlo? Non può avermi vista.
+Dialogue: 0,0:03:10.72,0:03:13.14,main,Yuwa,0000,0000,0000,,Scorri indietro la cronologia!
+Dialogue: 0,0:03:13.38,0:03:13.42,sign_4364_45_Great_work__Cong,Text,0000,0000,0000,,{\an7\pos(90,145)\fs15\c&H4E4C43&}Salvate tutte\NGrande!
+Dialogue: 0,0:03:13.38,0:03:13.42,sign_4364_45_Great_work__Cong,Text,0000,0000,0000,,{\pos(265,305)\c&H5A3944&}Letto
+Dialogue: 0,0:03:13.42,0:03:13.46,sign_4364_45_Great_work__Cong,Text,0000,0000,0000,,{\an7\pos(90,195)\fs15\c&H4E4C43&}Salvate tutte\NGrande!
+Dialogue: 0,0:03:13.42,0:03:13.46,sign_4364_45_Great_work__Cong,Text,0000,0000,0000,,{\pos(265,355)\c&H5A3944&}Letto
+Dialogue: 0,0:03:13.46,0:03:13.54,sign_4364_45_Great_work__Cong,Text,0000,0000,0000,,{\an7\pos(90,275)\fs15\c&H4E4C43&}Salvate tutte\NGrande!
+Dialogue: 0,0:03:14.22,0:03:14.94,main,Komichi,0000,0000,0000,,Eh?
+Dialogue: 0,0:03:16.02,0:03:16.82,main,Komichi,0000,0000,0000,,Eh?!
+Dialogue: 0,0:03:17.57,0:03:18.62,main,Komichi,0000,0000,0000,,Eeeh?!
+Dialogue: 0,0:03:19.34,0:03:21.38,sign_4364_45_Great_work__Cong,Text,0000,0000,0000,,{\an7\pos(90,145)\fs15\c&H4E4C43&\fad(526,1)}Salvate tutte\NGrande!
+Dialogue: 0,0:03:19.48,0:03:21.38,top,Komichi,0000,0000,0000,,Cosaaa?!
+Dialogue: 0,0:03:19.59,0:03:21.38,sign_4364_45_Great_work__Cong,Text,0000,0000,0000,,{\pos(265,305)\c&H5A3944&\fad(276,1)}Letto
+Dialogue: 0,0:03:21.38,0:03:24.19,main,Komichi,0000,0000,0000,,I miei genitori scattano foto di nascosto alla figlia!
+Dialogue: 0,0:03:24.19,0:03:25.25,main,Yuwa/Kao,0000,0000,0000,,{\i1}Yay{\i0}!
+Dialogue: 0,0:03:26.08,0:03:28.84,main,Komichi,0000,0000,0000,,Non posso più fidarmi di nessuno...
+Dialogue: 0,0:03:32.84,0:03:34.59,main,Komichi,0000,0000,0000,,Pronto, papà?
+Dialogue: 0,0:03:35.14,0:03:37.55,main,Komichi,0000,0000,0000,,Mh. Come va il lavoro?
+Dialogue: 0,0:03:39.23,0:03:40.46,main,Komichi,0000,0000,0000,,Mh, mh...
+Dialogue: 0,0:03:41.31,0:03:44.23,main,Komichi,0000,0000,0000,,Può darsi, ma non ho mica dormito tutto il tempo!
+Dialogue: 0,0:03:44.23,0:03:45.20,main,Yuwa,0000,0000,0000,,È quello il problema?
+Dialogue: 0,0:03:45.20,0:03:47.26,main,Komichi,0000,0000,0000,,Stavo studiando!
+Dialogue: 0,0:03:47.85,0:03:51.75,main,Komichi,0000,0000,0000,,D'ora in poi farai meglio a salvare\N delle foto più belle di tua figlia!
+Dialogue: 0,0:03:54.35,0:03:54.96,main,Komichi,0000,0000,0000,,Oh...
+Dialogue: 0,0:03:55.38,0:03:57.21,main,Komichi,0000,0000,0000,,Mi è venuta in mente una cosa proprio ora...
+Dialogue: 0,0:03:57.21,0:03:58.97,main,Komichi,0000,0000,0000,,ma per adesso resta un segreto.
+Dialogue: 0,0:03:59.32,0:04:00.04,main,Komichi,0000,0000,0000,,Mh.
+Dialogue: 0,0:04:00.63,0:04:02.64,main,Komichi,0000,0000,0000,,Mh. Va bene!
+Dialogue: 0,0:04:02.64,0:04:03.91,main,Komichi,0000,0000,0000,,Ci sentiamo!
+Dialogue: 0,0:04:05.04,0:04:06.44,main,Kao,0000,0000,0000,,Che ha detto?
+Dialogue: 0,0:04:06.44,0:04:09.78,main,Komichi,0000,0000,0000,,Che si darà da fare al lavoro \Nper tornare a casa il mese prossimo.
+Dialogue: 0,0:04:10.11,0:04:12.02,main,Kao,0000,0000,0000,,Evviva!
+Dialogue: 0,0:04:13.40,0:04:16.96,main,Yuwa,0000,0000,0000,,Allora, sei pronta per quella cosa \Nche stavi aspettando?
+Dialogue: 0,0:04:15.64,0:04:17.57,top,Kao,0000,0000,0000,,{\i1}Yay{\i0}! {\i1}Yay{\i0}!
+Dialogue: 0,0:04:17.57,0:04:18.36,main,Komichi,0000,0000,0000,,Sì.
+Dialogue: 0,0:04:19.95,0:04:25.40,flashback,Komichi,0000,0000,0000,,Ho scelto l'Accademia Roubai perché ho sempre\N sognato di indossare una divisa alla marinaretta!
+Dialogue: 0,0:04:27.39,0:04:30.74,italics,Komichi,0000,0000,0000,,Ero nervosissima all'esame e al colloquio,
+Dialogue: 0,0:04:32.47,0:04:35.16,italics,Komichi,0000,0000,0000,,ma finalmente posso indossarne una!
+Dialogue: 0,0:04:37.43,0:04:39.27,italics,Komichi,0000,0000,0000,,Mi domando se potrà stare bene
+Dialogue: 0,0:04:39.64,0:04:41.05,italics,Komichi,0000,0000,0000,,anche a una come me.
+Dialogue: 0,0:04:43.80,0:04:46.17,main,Kao,0000,0000,0000,,Sta' un po' dritta! Non riesce a prenderti le misure!
+Dialogue: 0,0:04:46.52,0:04:48.32,main,Komichi,0000,0000,0000,,C-Che ne pensi?
+Dialogue: 0,0:04:48.32,0:04:49.42,main,Yuwa,0000,0000,0000,,Hmm...
+Dialogue: 0,0:04:50.04,0:04:51.42,main,Yuwa,0000,0000,0000,,Sei ingrassata!
+Dialogue: 0,0:04:51.42,0:04:52.50,main,Komichi,0000,0000,0000,,Eh?!
+Dialogue: 0,0:04:52.77,0:04:55.35,main,Yuwa,0000,0000,0000,,Sei stata tanto seduta a studiare.
+Dialogue: 0,0:04:55.35,0:04:57.68,main,Komichi,0000,0000,0000,,No, non esiste! Dimagrirò, costi quel che costi!
+Dialogue: 0,0:04:57.68,0:05:00.01,main,Yuwa,0000,0000,0000,,Sbrigati a cambiarti. È ora di andare!
+Dialogue: 0,0:05:00.01,0:05:01.09,main,Kao,0000,0000,0000,,Ora di andare!
+Dialogue: 0,0:05:01.09,0:05:03.82,main,Komichi,0000,0000,0000,,Più tardi prendimi di nuovo le misure!
+Dialogue: 0,0:05:05.86,0:05:09.17,main,Komichi,0000,0000,0000,,Stai facendo tanta fatica per cucirmela.
+Dialogue: 0,0:05:09.17,0:05:11.16,main,Komichi,0000,0000,0000,,Non posso permettere che vada sprecata!
+Dialogue: 0,0:05:11.16,0:05:14.85,main,Kao,0000,0000,0000,,Ha parlato di divise alla marinaretta\Nanche mentre sognava.
+Dialogue: 0,0:05:14.85,0:05:15.61,main,Komichi,0000,0000,0000,,Kao!
+Dialogue: 0,0:05:15.61,0:05:17.56,main,Kao,0000,0000,0000,,Ha fatto così tanto chiasso che\Nnon sono riuscita a dormire!
+Dialogue: 0,0:05:19.23,0:05:22.22,main,Yuwa,0000,0000,0000,,La divisa alla marinaretta è un tuo sogno, vero?
+Dialogue: 0,0:05:23.38,0:05:24.42,main,Komichi,0000,0000,0000,,Sì!
+Dialogue: 0,0:05:24.42,0:05:27.17,main,Yuwa,0000,0000,0000,,Allora devo fare del mio meglio anche io!
+Dialogue: 0,0:05:27.60,0:05:31.65,main,Komichi,0000,0000,0000,,Che tipe erano le ragazze dell'Accademia Roubai \Nai tuoi tempi?
+Dialogue: 0,0:05:31.65,0:05:33.74,main,Yuwa,0000,0000,0000,,Ce n'erano molte divertenti.
+Dialogue: 0,0:05:33.74,0:05:37.32,main,Yuwa,0000,0000,0000,,Poi ce n'erano anche tante ricche ed eleganti.
+Dialogue: 0,0:05:37.32,0:05:39.23,main,Komichi,0000,0000,0000,,Tutto il mio contrario!
+Dialogue: 0,0:05:39.23,0:05:41.20,main,Komichi,0000,0000,0000,,Chissà se riuscirò a parlare con loro come si deve!
+Dialogue: 0,0:05:41.20,0:05:43.20,main,Yuwa,0000,0000,0000,,"È ora di prendere il sopravvento!"
+Dialogue: 0,0:05:43.20,0:05:45.30,main,Yuwa,0000,0000,0000,,Dicevo così ogni giorno,\N come se stessi andando in guerra.
+Dialogue: 0,0:05:49.16,0:05:52.66,main,Komichi,0000,0000,0000,,Ma io non sono forte come te, mamma.
+Dialogue: 0,0:05:50.20,0:05:55.20,sign_8397_117_Fabrics_Store_Ni,Text,0000,0000,0000,,{\pos(182,55)\fs15}Nihori\NVendita di Tessuti
+Dialogue: 0,0:05:50.20,0:05:55.20,sign_8397_118_Car_Rental,Text,0000,0000,0000,,{\clip(511,35,613,64)\pos(515,75)\fsp3\c&HBCAAE9&}Noleggio \N\h\h\hAuto
+Dialogue: 0,0:05:50.20,0:05:55.20,sign_8397_118_Car_Rental,Text,0000,0000,0000,,{\clip(511,35,613,70)\pos(515,75)\fsp3\c&HAB98E2&}Noleggio \N\h\h\hAuto
+Dialogue: 0,0:05:50.20,0:05:55.20,sign_8397_118_Car_Rental,Text,0000,0000,0000,,{\clip(511,35,613,76)\pos(515,75)\fsp3\c&H9B85DB&}Noleggio \N\h\h\hAuto
+Dialogue: 0,0:05:50.20,0:05:55.20,sign_8397_118_Car_Rental,Text,0000,0000,0000,,{\clip(511,35,613,82)\pos(515,75)\fsp3\c&H8A73D4&}Noleggio \N\h\h\hAuto
+Dialogue: 0,0:05:53.36,0:05:55.20,main,Yuwa,0000,0000,0000,,Dovrai solo essere te stessa, Komichi.
+Dialogue: 0,0:05:55.20,0:05:58.13,main,Yuwa,0000,0000,0000,,Abbi fiducia in te stessa e fa' un bel sorriso.
+Dialogue: 0,0:05:59.81,0:06:02.65,main,Yuwa,0000,0000,0000,,E ora cerchiamo i tessuti!
+Dialogue: 0,0:06:03.94,0:06:06.46,main,Komichi,0000,0000,0000,,Ci sono un sacco di rotoli di tessuto!
+Dialogue: 0,0:06:11.25,0:06:13.09,main,Komichi,0000,0000,0000,,E tra questi ci sono quelli che diventeranno...
+Dialogue: 0,0:06:13.09,0:06:13.91,main,Yuwa,0000,0000,0000,,Trovato!
+Dialogue: 0,0:06:14.47,0:06:17.48,sign_8979_128_Chambray,Text,0000,0000,0000,,{\frz5.19\fax-0.05\pos(105,35)}Chambray
+Dialogue: 0,0:06:14.47,0:06:17.48,sign_8979_128_Chambray,Text,0000,0000,0000,,{\frz5.62\fax-0.14\pos(275,25)\fsp2}Denim
+Dialogue: 0,0:06:14.47,0:06:17.48,sign_8979_128_Chambray,Text,0000,0000,0000,,{\frz4.61\fax-0.08\fsp2\pos(529,24)}\hSerge/\N\hGabardine
+Dialogue: 0,0:06:14.64,0:06:15.66,main,Komichi,0000,0000,0000,,Che velocità!
+Dialogue: 0,0:06:15.66,0:06:17.49,main,Yuwa,0000,0000,0000,,Questo tessuto si chiama "serge".
+Dialogue: 0,0:06:17.72,0:06:21.22,main,Yuwa,0000,0000,0000,,Ci farò il colletto, la gonna e i polsini.
+Dialogue: 0,0:06:22.33,0:06:24.92,main,Komichi,0000,0000,0000,,Questo diventerà la mia divisa!
+Dialogue: 0,0:06:27.23,0:06:29.24,main,Yuwa,0000,0000,0000,,Questo si chiama "gabardine".
+Dialogue: 0,0:06:29.24,0:06:31.45,main,Yuwa,0000,0000,0000,,Ci farò il corpetto e le maniche.
+Dialogue: 0,0:06:31.45,0:06:33.87,main,Yuwa,0000,0000,0000,,Ci sono diverse sfumature di bianco.
+Dialogue: 0,0:06:34.11,0:06:35.78,main,Yuwa,0000,0000,0000,,Scegli quella che preferisci.
+Dialogue: 0,0:06:35.78,0:06:38.62,main,Komichi,0000,0000,0000,,A me piace quella più accesa a sinistra!
+Dialogue: 0,0:06:40.34,0:06:42.83,main,Komichi,0000,0000,0000,,Sono così brillanti e lisci!
+Dialogue: 0,0:06:42.83,0:06:45.52,main,Komichi,0000,0000,0000,,Mamma! Comprare tessuti è uno spasso, vero?
+Dialogue: 0,0:06:45.52,0:06:46.12,main,Komichi,0000,0000,0000,,Ohi...
+Dialogue: 0,0:06:46.66,0:06:49.26,main,Yuwa,0000,0000,0000,,Il nastro lo faccio grande.
+Dialogue: 0,0:06:49.26,0:06:50.13,main,Yuwa,0000,0000,0000,,Sarà carinissimo!
+Dialogue: 0,0:06:50.13,0:06:51.02,main,Komichi,0000,0000,0000,,Sì!
+Dialogue: 0,0:06:51.02,0:06:52.76,main,Kao,0000,0000,0000,,Komichi, vuoi che ti aiuti?
+Dialogue: 0,0:06:52.76,0:06:54.81,main,Komichi,0000,0000,0000,,Nah, ce la faccio benissimo.
+Dialogue: 0,0:06:54.81,0:06:56.99,main,Yuwa,0000,0000,0000,,Non è una marinaretta senza strisce.
+Dialogue: 0,0:06:56.99,0:06:58.54,main,Komichi,0000,0000,0000,,Aspetta, aspetta!
+Dialogue: 0,0:07:00.05,0:07:02.04,main,Komichi,0000,0000,0000,,Mamma! Voglio questo!
+Dialogue: 0,0:07:06.05,0:07:07.65,main,Kao,0000,0000,0000,,È da stamattina che fai così.
+Dialogue: 0,0:07:07.88,0:07:08.55,main,Komichi,0000,0000,0000,,Eh?
+Dialogue: 0,0:07:08.55,0:07:12.08,main,Kao,0000,0000,0000,,È bello che tu sia felice,\N ma pensa anche a come mi sento io.
+Dialogue: 0,0:07:12.54,0:07:14.31,main,Komichi,0000,0000,0000,,H-Hai ragione!
+Dialogue: 0,0:07:15.32,0:07:17.84,main,Komichi,0000,0000,0000,,Hai sopportato con pazienza \Nmentre preparavo l'esame di ammissione.
+Dialogue: 0,0:07:17.84,0:07:18.82,main,Komichi,0000,0000,0000,,Farò più attenzione.
+Dialogue: 0,0:07:20.54,0:07:23.98,main,Kao,0000,0000,0000,,Komichi, non potremo più andare a scuola assieme.
+Dialogue: 0,0:07:23.98,0:07:25.43,main,Kao,0000,0000,0000,,Non sei un po' triste?
+Dialogue: 0,0:07:32.63,0:07:35.33,main,Komichi,0000,0000,0000,,Non dicevi che non vedevi l'ora di andare da sola?
+Dialogue: 0,0:07:35.62,0:07:36.82,main,Kao,0000,0000,0000,,No.
+Dialogue: 0,0:07:36.82,0:07:38.29,main,Komichi,0000,0000,0000,,Sì, invece!
+Dialogue: 0,0:07:40.78,0:07:43.74,main,Kao,0000,0000,0000,,Io... sono un po' triste.
+Dialogue: 0,0:07:48.01,0:07:51.16,main,Komichi,0000,0000,0000,,Ormai sei in terza, no?
+Dialogue: 0,0:07:51.16,0:07:54.20,main,Kao,0000,0000,0000,,Tu invece sarai di nuovo una primina!
+Dialogue: 0,0:07:54.20,0:07:55.95,main,Komichi,0000,0000,0000,,Sì, vero.
+Dialogue: 0,0:07:56.82,0:08:00.69,main,Komichi,0000,0000,0000,,In realtà, io sono tanto nervosa quanto felice.
+Dialogue: 0,0:08:01.10,0:08:03.42,main,Komichi,0000,0000,0000,,Non so se riuscirò a farmi delle amiche.
+Dialogue: 0,0:08:04.23,0:08:06.46,main,Komichi,0000,0000,0000,,Ci saranno anche molte ragazze di Tokyo.
+Dialogue: 0,0:08:06.46,0:08:10.20,main,Komichi,0000,0000,0000,,Chissà se riuscirò a essere alla loro altezza.
+Dialogue: 0,0:08:10.20,0:08:12.22,main,Kao,0000,0000,0000,,Questo non sarà un problema!
+Dialogue: 0,0:08:13.70,0:08:16.23,main,Kao,0000,0000,0000,,Perché tu sei fantastica!
+Dialogue: 0,0:08:17.20,0:08:18.30,main,Komichi,0000,0000,0000,,Grazie.
+Dialogue: 0,0:08:18.30,0:08:21.26,main,Kao,0000,0000,0000,,Ehi! Tu non ci credi affatto, vero?
+Dialogue: 0,0:08:21.83,0:08:23.27,main,Kao,0000,0000,0000,,Credici!
+Dialogue: 0,0:08:26.22,0:08:28.18,main,Komichi,0000,0000,0000,,Ok, ci crederò!
+Dialogue: 0,0:08:29.83,0:08:32.33,main,Komichi,0000,0000,0000,,Saremo entrambe da sole.\N Facciamo del nostro meglio!
+Dialogue: 0,0:08:32.33,0:08:33.27,main,Kao,0000,0000,0000,,Ok!
+Dialogue: 0,0:08:37.21,0:08:38.35,main,Yuwa,0000,0000,0000,,Komichi...
+Dialogue: 0,0:08:39.53,0:08:40.55,main,Yuwa,0000,0000,0000,,Hai un minuto?
+Dialogue: 0,0:08:41.63,0:08:43.29,main,Komichi,0000,0000,0000,,È già pronta?
+Dialogue: 0,0:08:43.29,0:08:44.55,main,Yuwa,0000,0000,0000,,Non ancora.
+Dialogue: 0,0:08:44.55,0:08:46.28,main,Yuwa,0000,0000,0000,,Questo si chiama "imbastire".
+Dialogue: 0,0:08:46.28,0:08:49.50,main,Yuwa,0000,0000,0000,,Regoliamo i dettagli su un tessuto diverso, \Npoi cuciamo quello vero.
+Dialogue: 0,0:08:50.21,0:08:52.74,main,Komichi,0000,0000,0000,,Ci vuole un sacco di lavoro per cucire una divisa...
+Dialogue: 0,0:09:02.06,0:09:03.30,main,Komichi,0000,0000,0000,,Mamma!
+Dialogue: 0,0:09:03.85,0:09:05.60,main,Komichi,0000,0000,0000,,Ho finito il bucato!
+Dialogue: 0,0:09:05.60,0:09:07.80,main,Komichi,0000,0000,0000,,Ora faccio anche le pulizie!
+Dialogue: 0,0:09:09.13,0:09:11.13,main,Yuwa,0000,0000,0000,,G-Grazie...
+Dialogue: 0,0:09:12.12,0:09:14.35,main,Komichi,0000,0000,0000,,Mamma, lavo io i piatti!
+Dialogue: 0,0:09:14.54,0:09:16.35,main,Komichi,0000,0000,0000,,Mamma, ho quasi finito!
+Dialogue: 0,0:09:16.65,0:09:18.36,main,Komichi,0000,0000,0000,,Mammaaa!
+Dialogue: 0,0:09:21.21,0:09:23.80,main,Kao,0000,0000,0000,,Komichi, stai sprecando acqua!
+Dialogue: 0,0:09:35.79,0:09:36.94,main,Yuwa,0000,0000,0000,,Komichi...
+Dialogue: 0,0:09:37.50,0:09:38.81,main,Yuwa,0000,0000,0000,,Vieni qua.
+Dialogue: 0,0:09:50.76,0:09:52.51,main,Yuwa,0000,0000,0000,,E con questo...
+Dialogue: 0,0:09:53.45,0:09:54.38,main,Yuwa,0000,0000,0000,,è pronta.
+Dialogue: 0,0:09:56.31,0:09:57.88,main,Yuwa,0000,0000,0000,,Su, provala.
+Dialogue: 0,0:10:00.83,0:10:01.71,main,Komichi,0000,0000,0000,,O...
+Dialogue: 0,0:10:02.72,0:10:03.55,main,Komichi,0000,0000,0000,,Ok.
+Dialogue: 0,0:10:06.54,0:10:07.96,main,Yuwa,0000,0000,0000,,Aspetto di sotto.
+Dialogue: 0,0:11:21.52,0:11:24.33,main,Kao,0000,0000,0000,,Senti, mamma, mi piace questo.
+Dialogue: 0,0:11:24.33,0:11:26.00,main,Yuwa,0000,0000,0000,,Sei un po' piccola per questo, non credi?
+Dialogue: 0,0:11:26.00,0:11:27.54,main,Kao,0000,0000,0000,,Va benissimo!
+Dialogue: 0,0:11:34.25,0:11:36.66,main,Kao,0000,0000,0000,,Komichi, sei stupenda!
+Dialogue: 0,0:11:40.52,0:11:42.47,main,Yuwa,0000,0000,0000,,Komichi, ti va bene?
+Dialogue: 0,0:11:43.82,0:11:44.65,main,Komichi,0000,0000,0000,,Sì...
+Dialogue: 0,0:11:48.63,0:11:49.46,main,Komichi,0000,0000,0000,,Sì.
+Dialogue: 0,0:11:52.54,0:11:53.85,main,Komichi,0000,0000,0000,,Grazie!
+Dialogue: 0,0:11:59.99,0:12:01.99,sign_17263_208_Roubai_Academy_M,Text,0000,0000,0000,,{\pos(120,20)\fs13}\h\hScuola Media Accademia Roubai\N{\fs20}Cerimonia d'ingresso
+Dialogue: 0,0:12:02.63,0:12:05.70,main,Yuwa,0000,0000,0000,,Alcune cose sono cambiate,\N ma che nostalgia!
+Dialogue: 0,0:12:06.89,0:12:09.25,main,Komichi,0000,0000,0000,,Sono così nervosa!
+Dialogue: 0,0:12:10.37,0:12:12.93,main,Komichi,0000,0000,0000,,Chissà se è una nuova studentessa... Aspetta...
+Dialogue: 0,0:12:14.46,0:12:15.07,main,Komichi,0000,0000,0000,,Eh?
+Dialogue: 0,0:12:16.27,0:12:17.59,main,Komichi,0000,0000,0000,,Hanno la giacca?
+Dialogue: 0,0:12:18.34,0:12:19.08,main,Yuwa,0000,0000,0000,,Komichi...
+Dialogue: 0,0:12:19.50,0:12:22.32,main,Yuwa,0000,0000,0000,,Per caso, ci sono altri eventi qui oggi?
+Dialogue: 0,0:12:22.32,0:12:24.18,main,Komichi,0000,0000,0000,,N-No...
+Dialogue: 0,0:12:25.95,0:12:29.34,main,Principal,0000,0000,0000,,Benvenute, voglio congratularmi con tutte voi \Nper essere state ammesse in questa scuola.
+Dialogue: 0,0:12:29.66,0:12:33.64,main,Principal,0000,0000,0000,,Da oggi siete tutte studentesse\N dell'Accademia Roubai.
+Dialogue: 0,0:12:33.64,0:12:35.35,italics,Yuwa,0000,0000,0000,,Komichi!
+Dialogue: 0,0:12:34.09,0:12:38.35,top,Principal,0000,0000,0000,,Per tanti anni questa scuola\N ha formato molte eccellenti allieve...
+Dialogue: 0,0:12:35.35,0:12:38.16,italics,Komichi,0000,0000,0000,,Mammaaa!
+Dialogue: 0,0:12:42.57,0:12:43.92,main,Yuwa,0000,0000,0000,,Eccoci!
+Dialogue: 0,0:12:44.64,0:12:45.82,main,Kao,0000,0000,0000,,Bentornate!
+Dialogue: 0,0:12:46.18,0:12:48.71,main,Kao,0000,0000,0000,,Komichi, com'è andata?
+Dialogue: 0,0:12:48.71,0:12:50.30,main,Komichi,0000,0000,0000,,Non ora, scusa.
+Dialogue: 0,0:12:51.88,0:12:53.32,main,Kao,0000,0000,0000,,Che le prende?
+Dialogue: 0,0:12:53.72,0:12:57.14,flashback,Yuwa,0000,0000,0000,,Sono mortificata per non essermi accertata\N di quale fosse la divisa!
+Dialogue: 0,0:12:57.14,0:13:00.30,flashback,Principal,0000,0000,0000,,Quando frequentava lei, \Nera quella la divisa della scuola, vero?
+Dialogue: 0,0:13:00.30,0:13:01.64,flashback,Principal,0000,0000,0000,,Poteva succedere.
+Dialogue: 0,0:13:01.64,0:13:08.40,flashback,Principal,0000,0000,0000,,E poi, sappiamo dal suo colloquio che Komichi \Nsognava di indossare la divisa alla marinaretta.
+Dialogue: 0,0:13:08.40,0:13:10.87,flashback,Principal,0000,0000,0000,,Avremmo dovuto informarla in quell'occasione.
+Dialogue: 0,0:13:10.87,0:13:12.81,flashback,Principal,0000,0000,0000,,È colpa nostra.
+Dialogue: 0,0:13:14.92,0:13:17.87,flashback,Principal,0000,0000,0000,,Mi par di capire che la signora Yuwa\N l'ha cucita apposta per te, vero?
+Dialogue: 0,0:13:18.08,0:13:21.85,flashback,Komichi,0000,0000,0000,,Sì! Abbiamo scelto assieme i tessuti... e poi...
+Dialogue: 0,0:13:22.71,0:13:23.86,flashback,Principal,0000,0000,0000,,Capisco.
+Dialogue: 0,0:13:24.33,0:13:27.31,flashback,Principal,0000,0000,0000,,Anch'io mi feci fare la divisa da mia madre.
+Dialogue: 0,0:13:27.31,0:13:29.83,flashback,Principal,0000,0000,0000,,Ne fui così felice!
+Dialogue: 0,0:13:31.78,0:13:33.45,flashback,Principal,0000,0000,0000,,Viste le circostanze,
+Dialogue: 0,0:13:33.45,0:13:37.90,flashback,Principal,0000,0000,0000,,Komichi avrà il permesso di usare la divisa \Nalla marinaretta nella nostra scuola.
+Dialogue: 0,0:13:37.90,0:13:39.24,flashback,Tamura,0000,0000,0000,,Preside?!
+Dialogue: 0,0:13:39.24,0:13:42.95,flashback,Principal,0000,0000,0000,,È una divisa ufficiale della scuola, \Nanche se di molto tempo fa.
+Dialogue: 0,0:13:42.95,0:13:45.10,flashback,Principal,0000,0000,0000,,Non ci sono motivi per proibirla.
+Dialogue: 0,0:13:45.48,0:13:51.02,flashback,Principal,0000,0000,0000,,Ma la decisione finale la lascio a Komichi \Ne alla sua famiglia.
+Dialogue: 0,0:13:53.39,0:13:55.34,italics,Komichi,0000,0000,0000,,La indosserei solo io...
+Dialogue: 0,0:13:55.88,0:13:56.86,italics,Komichi,0000,0000,0000,,Sarebbe un po'...
+Dialogue: 0,0:13:58.02,0:14:00.27,sign_20093_244_Middle_School_En,Text,0000,0000,0000,,{\c&H0F3A5F&\3c&H407EA8&}Esami di Ammissione alla Scuola Media 76: \N{\3c&H16217D&\c&H001032&}Scuola Media Accademia Roubai\N{\b0\fnVerdana\c&H0E3155&\3c&H356B98&} Scienze: {\c&H0C2B3E&}Test di Memoria\N{\fnTrebuchet MS\c&H0A2441&\3c&H3277A0&} Andare d'accordo con gli altri\N{\b1\c&H132C71&\3c&H4D6B7F&}Cucito {\c&H0B2A3D&}per Principianti\N {\fnArial\c&H4D748F&\3c&H253400&}Guida al Mondo Marino: Creature del Mare\N{\fnVerdana\b0\c&H001A41&\3c&H073B7F&} Rettili e Anfibi del Giappone
+Dialogue: 0,0:14:07.47,0:14:09.76,main,Kao,0000,0000,0000,,La cena di congratulazioni è pronta.
+Dialogue: 0,0:14:10.83,0:14:12.60,main,Kao,0000,0000,0000,,Hai due tuorli!
+Dialogue: 0,0:14:13.31,0:14:15.25,main,Komichi,0000,0000,0000,,Kao, hai sentito cos'è successo?
+Dialogue: 0,0:14:15.25,0:14:16.10,main,Kao,0000,0000,0000,,Sì.
+Dialogue: 0,0:14:16.70,0:14:19.06,main,Komichi,0000,0000,0000,,Le giacche sono carine, vero?
+Dialogue: 0,0:14:24.12,0:14:25.06,main,Komichi,0000,0000,0000,,Ahia!
+Dialogue: 0,0:14:25.06,0:14:26.85,main,Komichi,0000,0000,0000,,P-Perché l'hai fatto?
+Dialogue: 0,0:14:28.52,0:14:31.21,main,Kao,0000,0000,0000,,Non ti piace più la divisa alla marinaretta\N che ti ha fatto mamma?!
+Dialogue: 0,0:14:31.21,0:14:32.82,main,Komichi,0000,0000,0000,,Non ho detto questo!
+Dialogue: 0,0:14:34.25,0:14:36.32,main,Kao,0000,0000,0000,,Komichi, sei brutta!
+Dialogue: 0,0:14:36.32,0:14:37.93,main,Kao,0000,0000,0000,,Sei una stupida!
+Dialogue: 0,0:14:42.96,0:14:46.73,main,Komichi,0000,0000,0000,,Aaah, ti ho detto che non è così!
+Dialogue: 0,0:14:49.99,0:14:52.53,main,Komichi,0000,0000,0000,,Mi piace, anzi l'adoro!
+Dialogue: 0,0:14:53.17,0:14:56.07,main,Komichi,0000,0000,0000,,Però non voglio che tutte pensino che sono strana.
+Dialogue: 0,0:14:56.55,0:14:59.07,flashback,Kao,0000,0000,0000,,Perché tu sei fantastica!
+Dialogue: 0,0:15:02.24,0:15:04.09,italics,Komichi,0000,0000,0000,,Voglio essere splendida.
+Dialogue: 0,0:15:04.53,0:15:08.52,italics,Komichi,0000,0000,0000,,E poi voglio farmi tante amiche.
+Dialogue: 0,0:15:09.82,0:15:13.59,italics,Komichi,0000,0000,0000,,Se sarò l'unica con la marinaretta, \Nmi farò notare.
+Dialogue: 0,0:15:13.91,0:15:16.07,italics,Komichi,0000,0000,0000,,E se fosse la mia occasione?
+Dialogue: 0,0:15:36.11,0:15:37.78,main,Kao,0000,0000,0000,,Komichi...
+Dialogue: 0,0:15:37.78,0:15:39.61,main,Kao,0000,0000,0000,,Vai già via?
+Dialogue: 0,0:15:51.06,0:15:52.28,main,Komichi,0000,0000,0000,,Grazie.
+Dialogue: 0,0:15:53.59,0:15:54.90,main,Yuwa,0000,0000,0000,,Komichi...
+Dialogue: 0,0:15:54.90,0:15:55.80,main,Yuwa,0000,0000,0000,,Sei sicura?
+Dialogue: 0,0:15:56.79,0:15:59.66,main,Komichi,0000,0000,0000,,Fiducia in me stessa e un bel sorriso, giusto?
+Dialogue: 0,0:16:01.47,0:16:02.88,main,Yuwa,0000,0000,0000,,A più tardi!
+Dialogue: 0,0:16:04.79,0:16:06.07,main,Komichi,0000,0000,0000,,Vado!
+Dialogue: 0,0:16:18.65,0:16:20.66,main,Komichi,0000,0000,0000,,Op...là!
+Dialogue: 0,0:16:20.66,0:16:23.65,main,Komichi,0000,0000,0000,,Ohi, ohi... c'è mancato poco.
+Dialogue: 0,0:16:37.14,0:16:39.96,main,Komichi,0000,0000,0000,,Hmm... Non sono convinta...
+Dialogue: 0,0:16:39.96,0:16:40.67,main,Komichi,0000,0000,0000,,Però...
+Dialogue: 0,0:16:41.00,0:16:43.36,main,Komichi,0000,0000,0000,,sento di avere le idee un po' più chiare.
+Dialogue: 0,0:16:44.68,0:16:46.59,main,Komichi,0000,0000,0000,,Pronti...
+Dialogue: 0,0:16:46.59,0:16:48.18,main,Komichi,0000,0000,0000,,Viaaa!
+Dialogue: 0,0:16:54.35,0:16:55.85,main,Komichi,0000,0000,0000,,Ciliegi!
+Dialogue: 0,0:17:14.22,0:17:17.76,sign_24797_279_Roubai_Academy,Text,0000,0000,0000,,{\fay.2\move(475,275,475,-25)}Accademia \NRoubai
+Dialogue: 0,0:17:19.40,0:17:23.98,main,Komichi,0000,0000,0000,,Forse... mi sono esaltata... un po' troppo...
+Dialogue: 0,0:17:26.87,0:17:30.59,main,Komichi,0000,0000,0000,,È enorme! Sembra un vero e proprio castello!
+Dialogue: 0,0:17:40.95,0:17:42.46,main,Komichi,0000,0000,0000,,Sono arrivata per prima?
+Dialogue: 0,0:17:42.45,0:17:45.46,sign_25474_283_New_First_Years_,Text,0000,0000,0000,,{\pos(145,85)}Nuove Prime     {\fsp3.5}Lista delle Classi
+Dialogue: 0,0:17:42.45,0:17:45.46,sign_25474_283_New_First_Years_,Text,0000,0000,0000,,{\clip(254,143,354,149)\pos(305,175)\an2\c&H373230&\fs30\fsp1\3c&HA18A8F&}Classe 3
+Dialogue: 0,0:17:42.45,0:17:45.46,sign_25474_283_New_First_Years_,Text,0000,0000,0000,,{\clip(254,149,354,155)\pos(305,175)\an2\c&H373230&\fs30\fsp1\3c&HA58C91&}Classe 3
+Dialogue: 0,0:17:42.45,0:17:45.46,sign_25474_283_New_First_Years_,Text,0000,0000,0000,,{\clip(254,155,354,161)\pos(305,175)\an2\c&H373230&\fs30\fsp1\3c&HAA8F93&}Classe 3
+Dialogue: 0,0:17:42.45,0:17:45.46,sign_25474_283_New_First_Years_,Text,0000,0000,0000,,{\clip(254,161,354,167)\pos(305,175)\an2\c&H373230&\fs30\fsp1\3c&HAE9196&}Classe 3
+Dialogue: 0,0:17:42.45,0:17:45.46,sign_25474_283_New_First_Years_,Text,0000,0000,0000,,{\clip(254,167,354,173)\pos(305,175)\an2\c&H373230&\fs30\fsp1\3c&HB39498&}Classe 3
+Dialogue: 0,0:17:42.45,0:17:45.46,sign_25474_283_New_First_Years_,Text,0000,0000,0000,,{\clip(254,173,354,179)\pos(305,175)\an2\c&H373230&\fs30\fsp1\3c&HB7969A&}Classe 3
+Dialogue: 0,0:17:42.45,0:17:45.46,sign_25474_283_New_First_Years_,Text,0000,0000,0000,,{\an1\fs9\pos(220,250)\3c&HC0959F&\fscx90}Posto a sedere
+Dialogue: 0,0:17:42.45,0:17:45.46,sign_25474_283_New_First_Years_,Text,0000,0000,0000,,{\an1\pos(321,250)\fs9\fsp5\3c&HC8A5A2&}Nome
+Dialogue: 0,0:17:42.45,0:17:45.46,sign_25474_283_New_First_Years_,Text,0000,0000,0000,,{\an1\fs9\pos(380,295)\3c&HCDABAA&}Komichi Akebi
+Dialogue: 0,0:17:42.45,0:17:45.46,sign_25474_283_New_First_Years_,Text,0000,0000,0000,,{\an1\fs9\pos(380,313)\3c&HCDABAA&}Touko Usagihara
+Dialogue: 0,0:17:42.45,0:17:45.46,sign_25474_283_New_First_Years_,Text,0000,0000,0000,,{\an1\fs9\pos(380,330)\3c&HCDABAA&}Minoru Ohkuma
+Dialogue: 0,0:17:42.45,0:17:45.46,sign_25474_283_New_First_Years_,Text,0000,0000,0000,,{\an1\fs9\pos(380,350)\3c&HCDABAA&}Neko Kamimoku
+Dialogue: 0,0:17:44.53,0:17:47.71,top,Komichi,0000,0000,0000,,Sono al banco numero 1.
+Dialogue: 0,0:17:48.15,0:17:49.29,main,Komichi,0000,0000,0000,,Classe 3...
+Dialogue: 0,0:17:56.85,0:17:57.99,main,Komichi,0000,0000,0000,,Eccola.
+Dialogue: 0,0:18:00.55,0:18:02.42,italics,Komichi,0000,0000,0000,,C'è già qualcuno?!
+Dialogue: 0,0:18:02.42,0:18:05.84,italics,Komichi,0000,0000,0000,,Che faccio? E se fosse una ragazza spaventosa?!
+Dialogue: 0,0:18:06.18,0:18:08.35,main,Komichi,0000,0000,0000,,Bleah, che strano abbigliamento!
+Dialogue: 0,0:18:08.35,0:18:10.84,main,Komichi,0000,0000,0000,,N-Non è strano!
+Dialogue: 0,0:18:11.53,0:18:13.74,main,Komichi,0000,0000,0000,,Vediamo di andare d'accordo!
+Dialogue: 0,0:18:13.74,0:18:14.49,main,Komichi,0000,0000,0000,,Ehi!
+Dialogue: 0,0:18:15.40,0:18:18.53,italics,Komichi,0000,0000,0000,,Perché sto cercando di picchiarla?!
+Dialogue: 0,0:18:45.87,0:18:46.77,main,Komichi,0000,0000,0000,,Ecco...
+Dialogue: 0,0:18:47.27,0:18:49.05,main,Komichi,0000,0000,0000,,Buongiorno.
+Dialogue: 0,0:18:49.47,0:18:52.54,main,Erika,0000,0000,0000,,Buon...giorno...
+Dialogue: 0,0:18:56.31,0:18:58.33,main,Erika,0000,0000,0000,,Fa' finta di non aver visto nulla, ti prego!
+Dialogue: 0,0:18:58.57,0:18:59.32,main,Komichi,0000,0000,0000,,Eh?
+Dialogue: 0,0:19:00.92,0:19:03.02,main,Erika,0000,0000,0000,,Voglio dire... hai visto, no?
+Dialogue: 0,0:19:03.02,0:19:06.03,main,Erika,0000,0000,0000,,Che stavo annusando l'odore dei miei piedi \Nsul tagliaunghie.
+Dialogue: 0,0:19:06.32,0:19:08.40,italics,Komichi,0000,0000,0000,,Ecco cosa stava facendo!
+Dialogue: 0,0:19:08.76,0:19:10.83,main,Komichi,0000,0000,0000,,Certo! Non dirò niente a nessuno!
+Dialogue: 0,0:19:11.28,0:19:13.81,main,Komichi,0000,0000,0000,,Dimmi... ti puzzano così tanto i piedi?
+Dialogue: 0,0:19:13.81,0:19:15.34,main,Erika,0000,0000,0000,,C-Che domande fai!
+Dialogue: 0,0:19:15.34,0:19:17.07,main,Erika,0000,0000,0000,,Sono già fin troppo in imbarazzo.
+Dialogue: 0,0:19:17.07,0:19:18.83,main,Komichi,0000,0000,0000,,Ora mi hai incuriosita.
+Dialogue: 0,0:19:20.81,0:19:21.84,main,Erika,0000,0000,0000,,Ehi!
+Dialogue: 0,0:19:22.79,0:19:25.85,main,Komichi,0000,0000,0000,,Sono venuta di corsa. \NForse sanno un po' di sudore.
+Dialogue: 0,0:19:26.58,0:19:28.81,main,Komichi,0000,0000,0000,,Capisco che possa diventare un'abitudine, però!
+Dialogue: 0,0:19:31.36,0:19:33.52,main,Erika,0000,0000,0000,,Sei davvero divertente.
+Dialogue: 0,0:19:33.93,0:19:35.89,italics,Komichi,0000,0000,0000,,Non ci credo! Ce l'ho fatta, Kao!
+Dialogue: 0,0:19:35.89,0:19:38.57,italics,Komichi,0000,0000,0000,,Ha detto che sono divertente!
+Dialogue: 0,0:19:39.31,0:19:42.86,main,Erika,0000,0000,0000,,Senti... ti va di chiacchierare un po' con me?
+Dialogue: 0,0:19:45.63,0:19:50.69,main,Erika,0000,0000,0000,,Oh... Quindi d'ora in poi \Nindosserai la divisa alla marinaretta, Akebi?
+Dialogue: 0,0:19:50.69,0:19:52.21,main,Erika,0000,0000,0000,,Ne hai di fegato!
+Dialogue: 0,0:19:53.51,0:19:57.12,main,Komichi,0000,0000,0000,,Ti chiami Erika Kizaki e vieni da T-Tokyo.
+Dialogue: 0,0:19:57.12,0:19:58.48,main,Komichi,0000,0000,0000,,C-Che forza!
+Dialogue: 0,0:19:58.48,0:20:00.14,main,Erika,0000,0000,0000,,Stai prendendo appunti?
+Dialogue: 0,0:20:00.38,0:20:02.12,main,Erika,0000,0000,0000,,Akebi, tu sì che sei diligente.
+Dialogue: 0,0:20:06.17,0:20:08.90,main,Komichi,0000,0000,0000,,I-Il tuo tagliaunghie è proprio carino!
+Dialogue: 0,0:20:08.90,0:20:10.65,main,Komichi,0000,0000,0000,,Lo porti sempre con te?
+Dialogue: 0,0:20:10.65,0:20:12.64,main,Erika,0000,0000,0000,,No, questa è la prima volta.
+Dialogue: 0,0:20:12.64,0:20:16.14,main,Erika,0000,0000,0000,,Quando sono nervosa o in ansia, nella mia stanza,
+Dialogue: 0,0:20:16.38,0:20:18.65,main,Erika,0000,0000,0000,,mi taglio le unghie.
+Dialogue: 0,0:20:20.25,0:20:23.15,main,Erika,0000,0000,0000,,Sentire questo click clack...
+Dialogue: 0,0:20:23.15,0:20:25.15,main,Erika,0000,0000,0000,,no so perché, ma mi rilassa.
+Dialogue: 0,0:20:29.03,0:20:31.29,main,Komichi,0000,0000,0000,,Anche adesso sei nervosa?
+Dialogue: 0,0:20:31.29,0:20:31.97,main,Erika,0000,0000,0000,,Eh?
+Dialogue: 0,0:20:34.40,0:20:37.92,main,Erika,0000,0000,0000,,Sì... oggi mi aspettano tante esperienze nuove.
+Dialogue: 0,0:20:38.21,0:20:39.65,main,Erika,0000,0000,0000,,Non ho chiuso occhio stanotte.
+Dialogue: 0,0:20:40.16,0:20:43.74,main,Erika,0000,0000,0000,,Sono venuta a scuola presto \Nperché non riuscivo più a star ferma senza far nulla.
+Dialogue: 0,0:20:43.74,0:20:45.52,main,Erika,0000,0000,0000,,Ma ho finito col sentirmi ancora più nervosa.
+Dialogue: 0,0:20:51.69,0:20:53.19,main,Erika,0000,0000,0000,,Lo trovi divertente?
+Dialogue: 0,0:20:53.42,0:20:55.75,main,Komichi,0000,0000,0000,,No, affatto.
+Dialogue: 0,0:20:55.75,0:20:59.85,main,Komichi,0000,0000,0000,,Ho pensato "quindi anche una ragazza\N carina come lei si preoccupa!"
+Dialogue: 0,0:20:59.85,0:21:01.64,main,Erika,0000,0000,0000,,C-Certo che mi preoccupo!
+Dialogue: 0,0:21:01.64,0:21:03.69,main,Erika,0000,0000,0000,,E poi l'aspetto non c'entra nulla.
+Dialogue: 0,0:21:03.69,0:21:05.69,main,Komichi,0000,0000,0000,,S-Sì, hai ragione!
+Dialogue: 0,0:21:06.02,0:21:08.34,main,Komichi,0000,0000,0000,,Però io avevo un po' paura.
+Dialogue: 0,0:21:08.34,0:21:11.47,main,Komichi,0000,0000,0000,,Non avevo mai parlato \Ncon qualcuno della mia età prima d'ora.
+Dialogue: 0,0:21:12.19,0:21:16.19,main,Komichi,0000,0000,0000,,Mi chiedevo cos'avrei fatto se il mio modo di pensare\N fosse stato diverso da quello delle altre.
+Dialogue: 0,0:21:16.46,0:21:18.28,main,Komichi,0000,0000,0000,,Quindi sono felice!
+Dialogue: 0,0:21:18.28,0:21:19.70,main,Komichi,0000,0000,0000,,La pensiamo allo stesso modo!
+Dialogue: 0,0:21:22.81,0:21:25.67,main,Komichi,0000,0000,0000,,Oh, ora dovrebbero arrivare anche le altre.
+Dialogue: 0,0:21:25.67,0:21:28.52,main,Erika,0000,0000,0000,,Io mi sono seduta su una sedia a caso.
+Dialogue: 0,0:21:30.21,0:21:31.43,main,Komichi,0000,0000,0000,,Numero 1...
+Dialogue: 0,0:21:32.22,0:21:33.39,main,Komichi,0000,0000,0000,,Questo è il mio posto.
+Dialogue: 0,0:21:34.80,0:21:37.57,main,Komichi,0000,0000,0000,,Il più vicino per salutare chi entra.
+Dialogue: 0,0:21:37.57,0:21:39.07,main,Erika,0000,0000,0000,,Io sono al numero 5.
+Dialogue: 0,0:21:48.78,0:21:51.78,italics,Komichi,0000,0000,0000,,Anch'io adesso mi sento un po' più calma.
+Dialogue: 0,0:21:54.78,0:21:56.86,italics,Komichi,0000,0000,0000,,Ora... andrà tutto bene.
+Dialogue: 0,0:22:01.99,0:22:04.04,italics,Komichi,0000,0000,0000,,Forse posso farlo anch'io.
+Dialogue: 0,0:22:06.87,0:22:08.09,main,Komichi,0000,0000,0000,,Buongiorno!

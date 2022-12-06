@@ -1,0 +1,285 @@
+﻿[Script Info]
+Title: Français (France)
+Original Script: cr_fr  [http://www.crunchyroll.com/user/cr_fr]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,1,2,0002,0002,0025,1
+Style: Italique,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,1,1,2,0002,0002,0025,1
+Style: TiretsDefault,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,1,1,0020,0002,0025,1
+Style: TiretsItalique,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,1,1,1,0020,0002,0025,1
+Style: Sign,Arial,18,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,0,8,0002,0002,0025,1
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:06.48,0:00:09.73,Default,,0000,0000,0000,,Ah bon ?\NC’te boutique existe aussi à Tokyo ?
+Dialogue: 0,0:00:12.65,0:00:16.03,Default,,0000,0000,0000,,Il faut toujours faire la queue\Nau moins une heure.
+Dialogue: 0,0:00:24.87,0:00:26.50,Default,,0000,0000,0000,,Pile à l’heure, Komichi.
+Dialogue: 0,0:00:28.25,0:00:29.55,Default,,0000,0000,0000,,Salut…
+Dialogue: 0,0:00:29.71,0:00:33.51,Default,,0000,0000,0000,,C’est rare que tu arrives\Njuste avant le début des cours.
+Dialogue: 0,0:00:34.09,0:00:37.22,Default,,0000,0000,0000,,Il paraît que Mme Tamura\Nest un peu en retard.
+Dialogue: 0,0:00:37.76,0:00:39.43,Default,,0000,0000,0000,,J’ai de la chance !
+Dialogue: 0,0:00:39.81,0:00:41.27,Default,,0000,0000,0000,,Dis, Akebi !
+Dialogue: 0,0:00:41.43,0:00:43.06,Default,,0000,0000,0000,,Oui ? Quoi ?
+Dialogue: 0,0:00:43.43,0:00:46.31,Default,,0000,0000,0000,,Tu danseras vraiment\Nà la soirée de clôture ?
+Dialogue: 0,0:00:46.31,0:00:49.19,Sign,SIGN,0000,0000,0000,,{\i1\b1}{\an8}PROGRAMME\NDE LA SOIRÉE DE CLÔTURE DU FESTIVAL
+Dialogue: 0,0:00:46.48,0:00:49.19,Default,,0000,0000,0000,,Ah, oui… Je représenterai mon club.
+Dialogue: 0,0:00:49.36,0:00:52.99,Default,,0000,0000,0000,,J’hésitais à participer,\Nmais j’irai te voir danser !
+Dialogue: 0,0:00:53.28,0:00:54.53,Default,,0000,0000,0000,,J’ai hâte d’y être.
+Dialogue: 0,0:00:54.70,0:00:55.86,Default,,0000,0000,0000,,Je viens aussi !
+Dialogue: 0,0:00:56.11,0:00:57.57,Default,,0000,0000,0000,,Merci.
+Dialogue: 0,0:00:57.74,0:01:01.91,Default,,0000,0000,0000,,C’dingue, Komichi !\NT’nous réserves quoi comme danse ?
+Dialogue: 0,0:01:02.54,0:01:07.37,Default,,0000,0000,0000,,En fait, j’ai déjà commencé à répéter.\NJe m’entraînais, ce matin.
+Dialogue: 0,0:01:02.54,0:01:08.00,Sign,SIGN,0000,0000,0000,,{\i1\b1}{\an8}DANSE\N(CLUB DE THÉÂTRE : AKEBI KOMICHI)
+Dialogue: 0,0:01:07.54,0:01:10.42,Default,,0000,0000,0000,,Ah, c’est pour ça\Nque t’es arrivée plus tard.
+Dialogue: 0,0:01:33.23,0:01:35.11,Default,,0000,0000,0000,,Il y en a bien un…
+Dialogue: 0,0:02:23.99,0:02:26.12,Default,,0000,0000,0000,,{\i1}Je ne devrais pas m’imposer.{\i0}
+Dialogue: 0,0:02:30.50,0:02:32.63,Default,,0000,0000,0000,,Au fait, Kizaki…
+Dialogue: 0,0:02:33.17,0:02:35.38,Default,,0000,0000,0000,,Tu sais jouer du piano, non ?
+Dialogue: 0,0:02:38.92,0:02:43.35,Default,,0000,0000,0000,,Je t’ai entendu pratiquer\Nquand tu nettoyais la salle de musique.
+Dialogue: 0,0:02:43.51,0:02:46.89,Default,,0000,0000,0000,,Et puis, il y a un piano\Ndans ta chambre, non ?
+Dialogue: 0,0:02:48.14,0:02:51.81,Default,,0000,0000,0000,,Si tu faisais un duo avec Akebi\Nà la soirée de clôture,
+Dialogue: 0,0:02:52.02,0:02:54.06,Default,,0000,0000,0000,,ça mettrait grave de l’ambiance.
+Dialogue: 0,0:02:55.86,0:03:00.36,Default,,0000,0000,0000,,J’ai le CD de la chanson de Miki\Nsur laquelle Akebi va danser.
+Dialogue: 0,0:03:00.91,0:03:04.41,Default,,0000,0000,0000,,L’accompagnement au piano\Nest top, en plus !
+Dialogue: 0,0:03:06.04,0:03:07.33,Default,,0000,0000,0000,,Alors je me disais…
+Dialogue: 0,0:03:09.46,0:03:14.29,Default,,0000,0000,0000,,Ah, t’énerve pas ! Oublie tout !\NC’était juste un petit délire.
+Dialogue: 0,0:03:14.92,0:03:17.38,Default,,0000,0000,0000,,Au fait,\Nj’ai vu Ai dans les couloirs…
+Dialogue: 0,0:03:17.55,0:03:19.09,Default,,0000,0000,0000,,Je ne suis pas énervée !
+Dialogue: 0,0:03:22.72,0:03:25.22,Default,,0000,0000,0000,,J’étais juste un peu surprise.
+Dialogue: 0,0:03:25.47,0:03:26.47,Default,,0000,0000,0000,,Vraiment ?
+Dialogue: 0,0:03:27.10,0:03:28.89,Default,,0000,0000,0000,,Ouf, tant mieux…
+Dialogue: 0,0:03:29.98,0:03:32.85,Default,,0000,0000,0000,,Ah, j’ai confectionné des biscuits.
+Dialogue: 0,0:03:34.86,0:03:35.81,Default,,0000,0000,0000,,Tu en veux ?
+Dialogue: 0,0:03:38.73,0:03:39.99,Default,,0000,0000,0000,,Un seul.
+Dialogue: 0,0:03:56.46,0:03:57.59,Default,,0000,0000,0000,,C’est délicieux.
+Dialogue: 0,0:04:03.26,0:04:06.18,Default,,0000,0000,0000,,Je ne sais pas\Nsi on mettra de l’ambiance,
+Dialogue: 0,0:04:06.51,0:04:07.89,Default,,0000,0000,0000,,mais bon…
+Dialogue: 0,0:04:08.56,0:04:11.56,Default,,0000,0000,0000,,je peux essayer\Nde jouer un peu du piano.
+Dialogue: 0,0:05:42.15,0:05:45.99,Sign,SIGN,0000,0000,0000,,{\i1\b1}{\an8}ON PROFITE DE CE MOMENT…\NTOUTES ENSEMBLE
+Dialogue: 0,0:05:58.25,0:05:59.25,Default,,0000,0000,0000,,Oups.
+Dialogue: 0,0:06:02.04,0:06:03.17,Default,,0000,0000,0000,,Réceptionnez-la !
+Dialogue: 0,0:06:08.72,0:06:09.97,Default,,0000,0000,0000,,Je l’ai !
+Dialogue: 0,0:06:13.76,0:06:15.35,Default,,0000,0000,0000,,Vous allez bien ?
+Dialogue: 0,0:06:15.52,0:06:17.94,Default,,0000,0000,0000,,Vous faites vraiment la paire !
+Dialogue: 0,0:06:18.94,0:06:22.15,Default,,0000,0000,0000,,On s’en sortira pas\Nsi vous renvoyez pas la balle.
+Dialogue: 0,0:06:26.11,0:06:28.90,Default,,0000,0000,0000,,Rien se passe comme on le veut !
+Dialogue: 0,0:06:29.57,0:06:31.91,Default,,0000,0000,0000,,C’est pourtant une épreuve majeure…
+Dialogue: 0,0:06:32.07,0:06:36.58,Default,,0000,0000,0000,,Elle rapporte pas mal de points,\Net la finale marque la fin du festival.
+Dialogue: 0,0:06:36.75,0:06:38.75,Default,,0000,0000,0000,,Il y aura un sacré monde.
+Dialogue: 0,0:06:38.91,0:06:40.33,Default,,0000,0000,0000,,On va faire comment ?
+Dialogue: 0,0:06:41.33,0:06:45.38,Default,,0000,0000,0000,,Si seulement on pouvait\Ns’entraîner à six le week-end…
+Dialogue: 0,0:06:46.05,0:06:47.76,Default,,0000,0000,0000,,S’entraîner à six ?
+Dialogue: 0,0:06:47.88,0:06:51.05,Default,,0000,0000,0000,,Oui, on est une équipe.\NOn doit être au complet.
+Dialogue: 0,0:06:51.84,0:06:52.80,Default,,0000,0000,0000,,Mince,
+Dialogue: 0,0:06:52.97,0:06:55.81,Default,,0000,0000,0000,,je pensais uniquement\Nà m’entraîner seule…
+Dialogue: 0,0:06:58.56,0:07:00.69,Default,,0000,0000,0000,,Mais on a nulle part où aller.
+Dialogue: 0,0:07:00.85,0:07:01.77,Default,,0000,0000,0000,,Oui…
+Dialogue: 0,0:07:02.02,0:07:05.90,Default,,0000,0000,0000,,Ce serait bien d’avoir un gymnase\Ndispo le week-end.
+Dialogue: 0,0:07:10.49,0:07:12.16,Default,,0000,0000,0000,,{\i1}Komori à l’appareil.{\i0}
+Dialogue: 0,0:07:12.28,0:07:15.41,Default,,0000,0000,0000,,Bonsoir, Mme Mako.\NC’est moi, Akebi Komichi.
+Dialogue: 0,0:07:15.99,0:07:18.41,Default,,0000,0000,0000,,Ah, ça faisait longtemps, Komichi !
+Dialogue: 0,0:07:18.58,0:07:22.17,Default,,0000,0000,0000,,Oui, en effet !\NJ’espère que je ne vous dérange pas.
+Dialogue: 0,0:07:22.33,0:07:26.13,Default,,0000,0000,0000,,{\i1}Pourquoi ce ton ?\NTu n’as pas à être si polie avec moi.{\i0}
+Dialogue: 0,0:07:26.63,0:07:28.80,Default,,0000,0000,0000,,{\i1}Tout se passe bien à Rôbai ?{\i0}
+Dialogue: 0,0:07:29.01,0:07:30.80,Default,,0000,0000,0000,,Oui, je m’amuse beaucoup !
+Dialogue: 0,0:07:31.26,0:07:34.22,Default,,0000,0000,0000,,{\i1}D’ailleurs, l’école organise\Nun festival sportif…{\i0}
+Dialogue: 0,0:07:34.60,0:07:37.18,Default,,0000,0000,0000,,Oh, tu dois avoir hâte\Nd’y participer.
+Dialogue: 0,0:07:38.85,0:07:41.23,Default,,0000,0000,0000,,Justement, par rapport à ça…
+Dialogue: 0,0:07:43.35,0:07:47.98,Default,,0000,0000,0000,,Tu veux emprunter notre gymnase\Npour t’entraîner avec ta classe ?
+Dialogue: 0,0:07:48.40,0:07:51.32,Default,,0000,0000,0000,,{\i1}Aucun problème,\Nvous êtes les bienvenues !{\i0}
+Dialogue: 0,0:07:52.24,0:07:53.24,Default,,0000,0000,0000,,Merci…
+Dialogue: 0,0:07:53.61,0:07:54.95,Default,,0000,0000,0000,,{\i1}Je suis si contente…{\i0}
+Dialogue: 0,0:07:57.49,0:08:01.75,Default,,0000,0000,0000,,Depuis toute petite,\Ntu disais vouloir des amis, non ?
+Dialogue: 0,0:08:03.37,0:08:08.17,Default,,0000,0000,0000,,Tu étais la seule élève de ta classe\Npendant tes six années de primaire,
+Dialogue: 0,0:08:08.92,0:08:13.51,Default,,0000,0000,0000,,alors je te répétais qu’un jour,\Ntu serais entourée d’amis…
+Dialogue: 0,0:08:14.01,0:08:16.47,Default,,0000,0000,0000,,mais je ne pouvais\Nrien faire de plus.
+Dialogue: 0,0:08:17.26,0:08:20.85,Default,,0000,0000,0000,,Si tu savais à quel point\Nta situation me frustrait…
+Dialogue: 0,0:08:23.27,0:08:25.27,Default,,0000,0000,0000,,{\i1}Mais ça, c’était avant…{\i0}
+Dialogue: 0,0:08:26.19,0:08:28.48,Default,,0000,0000,0000,,{\i1}Maintenant, tu as des amies.{\i0}
+Dialogue: 0,0:08:29.73,0:08:30.94,Default,,0000,0000,0000,,{\i1}Ce simple fait…{\i0}
+Dialogue: 0,0:08:31.94,0:08:35.20,Default,,0000,0000,0000,,me rend on ne peut plus heureuse.
+Dialogue: 0,0:08:38.24,0:08:39.16,Default,,0000,0000,0000,,Oui…
+Dialogue: 0,0:08:42.08,0:08:43.87,Default,,0000,0000,0000,,Merci, c’est gentil.
+Dialogue: 0,0:08:50.67,0:08:51.96,Default,,0000,0000,0000,,Alors ?
+Dialogue: 0,0:08:52.88,0:08:56.64,Default,,0000,0000,0000,,Elle accepte\Nde nous prêter le gymnase.
+Dialogue: 0,0:09:01.47,0:09:04.48,Sign,SIGN,0000,0000,0000,,{\i1\b1}{\an8}WASHIO HITOMI / NAWASHIRO YASUKO
+Dialogue: 0,0:09:02.72,0:09:04.14,Default,,0000,0000,0000,,Je vois…
+Dialogue: 0,0:09:04.48,0:09:06.31,Default,,0000,0000,0000,,Votre entraînement passe avant.
+Dialogue: 0,0:09:06.48,0:09:08.56,Default,,0000,0000,0000,,Oui, désolée.
+Dialogue: 0,0:09:13.69,0:09:15.20,Default,,0000,0000,0000,,C’est dommage !
+Dialogue: 0,0:09:15.49,0:09:19.16,Default,,0000,0000,0000,,Si seulement notre club\Nne s’entraînait pas le dimanche…
+Dialogue: 0,0:09:20.08,0:09:21.70,Default,,0000,0000,0000,,Tu n’es pas du même avis ?
+Dialogue: 0,0:09:21.95,0:09:26.25,Default,,0000,0000,0000,,Il faut dire que notre club\Nproduit les meilleurs résultats.
+Dialogue: 0,0:09:27.29,0:09:28.75,Default,,0000,0000,0000,,Tu rédiges quoi ?
+Dialogue: 0,0:09:30.09,0:09:31.34,Default,,0000,0000,0000,,Une demande écrite.
+Dialogue: 0,0:09:33.63,0:09:36.97,Default,,0000,0000,0000,,N’empêche, les filles\Nsont plus motivées que jamais.
+Dialogue: 0,0:09:37.22,0:09:38.84,Default,,0000,0000,0000,,Pour un simple festival…
+Dialogue: 0,0:09:39.43,0:09:41.81,Default,,0000,0000,0000,,C’est pas sympa de dire ça.
+Dialogue: 0,0:09:42.01,0:09:47.02,Default,,0000,0000,0000,,Oublie pas que je me donne à fond\Naux encouragements avec Akebi, hein…
+Dialogue: 0,0:09:52.07,0:09:54.28,Default,,0000,0000,0000,,Elles pourront pas venir, alors.
+Dialogue: 0,0:09:57.99,0:09:58.99,Default,,0000,0000,0000,,Bon !
+Dialogue: 0,0:09:58.99,0:10:02.49,Sign,SIGN,0000,0000,0000,,{\i1\b1}{\an8}KIZAKI ERIKA
+Dialogue: 0,0:10:17.01,0:10:18.05,Default,,0000,0000,0000,,Ouais…
+Dialogue: 0,0:10:18.97,0:10:20.01,Default,,0000,0000,0000,,C’est ça.
+Dialogue: 0,0:10:20.64,0:10:23.06,Default,,0000,0000,0000,,Dimanche ?\NAu vieux bahut d’Komichi ?
+Dialogue: 0,0:10:24.18,0:10:25.43,Default,,0000,0000,0000,,Ç’a l’air fun !
+Dialogue: 0,0:10:25.93,0:10:28.02,Default,,0000,0000,0000,,Oui, je serai dispo.
+Dialogue: 0,0:10:28.35,0:10:29.60,Default,,0000,0000,0000,,{\i1}Merci !{\i0}
+Dialogue: 0,0:10:30.73,0:10:35.07,Default,,0000,0000,0000,,T’apporteras des mandarines\Nde ta région ? Super, merci !
+Dialogue: 0,0:10:36.19,0:10:38.57,Default,,0000,0000,0000,,Oui, à demain, alors.
+Dialogue: 0,0:10:44.74,0:10:46.95,Default,,0000,0000,0000,,C’est pas le moment de se réjouir !
+Dialogue: 0,0:10:47.54,0:10:49.96,Default,,0000,0000,0000,,Je dois absolument m’améliorer !
+Dialogue: 0,0:10:50.79,0:10:52.92,Default,,0000,0000,0000,,J’aimerais bien venir…
+Dialogue: 0,0:10:54.42,0:10:58.97,Default,,0000,0000,0000,,J’y vais pour m’entraîner au volley,\Npas pour jouer.
+Dialogue: 0,0:11:00.34,0:11:02.59,Default,,0000,0000,0000,,Je m’entraînerai, moi aussi !
+Dialogue: 0,0:11:02.76,0:11:06.22,Default,,0000,0000,0000,,J’en ai marre de jouer toute seule\Ndans le gymnase.
+Dialogue: 0,0:11:08.60,0:11:10.14,Default,,0000,0000,0000,,Oups, j’ai dit « jouer ».
+Dialogue: 0,0:11:26.99,0:11:29.50,Default,,0000,0000,0000,,Ses joues sont toutes moelleuses.
+Dialogue: 0,0:11:30.33,0:11:33.67,TiretsDefault,,0207,0000,0000,,– T’avais une p’tite sœur ?\N– Oui.
+Dialogue: 0,0:11:33.88,0:11:35.84,Default,,0000,0000,0000,,Les filles !
+Dialogue: 0,0:11:36.00,0:11:37.88,TiretsDefault,,0267,0000,0000,,– Usagihara !\N– Salut !
+Dialogue: 0,0:11:38.88,0:11:39.92,Default,,0000,0000,0000,,Salut.
+Dialogue: 0,0:11:40.13,0:11:44.59,Default,,0000,0000,0000,,Nawashiro et Washio ont club,\Nmais cet après-midi, il y aura…
+Dialogue: 0,0:11:47.31,0:11:48.43,Default,,0000,0000,0000,,Super !
+Dialogue: 0,0:11:48.81,0:11:51.14,Default,,0000,0000,0000,,On est arrivées à temps.
+Dialogue: 0,0:11:53.40,0:11:54.90,Default,,0000,0000,0000,,Vous êtes venues ?
+Dialogue: 0,0:12:00.07,0:12:01.24,Default,,0000,0000,0000,,T’es grande !
+Dialogue: 0,0:12:06.28,0:12:07.37,Default,,0000,0000,0000,,Tiens ?
+Dialogue: 0,0:12:08.58,0:12:10.75,Default,,0000,0000,0000,,C’est quoi, cette petite chose ?
+Dialogue: 0,0:12:11.08,0:12:13.58,Default,,0000,0000,0000,,Ça craint !\NLe bus va bientôt passer !
+Dialogue: 0,0:12:16.96,0:12:19.42,Default,,0000,0000,0000,,Du coup, pourquoi vous êtes là ?
+Dialogue: 0,0:12:19.84,0:12:23.09,Default,,0000,0000,0000,,En fait,\Nquand tu as quitté notre chambre…
+Dialogue: 0,0:12:25.59,0:12:29.60,Sign,SIGN,0000,0000,0000,,{\i1\b1}{\an8}DEMANDE D’AUTORISATION DE SORTIE\NPOUR S’ENTRAÎNER À L’ÉPREUVE DE VOLLEY
+Dialogue: 0,0:12:27.68,0:12:29.60,Default,,0000,0000,0000,,T’as rédigé une demande ?
+Dialogue: 0,0:12:30.06,0:12:32.27,Default,,0000,0000,0000,,Elles sèchent l’entraînement !
+Dialogue: 0,0:12:32.98,0:12:35.69,Default,,0000,0000,0000,,Disons plutôt qu’on participe\Nà un autre.
+Dialogue: 0,0:12:35.85,0:12:38.77,Default,,0000,0000,0000,,Je n’ai pas menti,\Net la capitaine a accepté.
+Dialogue: 0,0:12:40.28,0:12:42.03,Default,,0000,0000,0000,,Vous vous forcez pas, hein ?
+Dialogue: 0,0:12:42.24,0:12:44.49,Default,,0000,0000,0000,,Pourquoi tu fais cette tête ?
+Dialogue: 0,0:12:44.74,0:12:48.12,Default,,0000,0000,0000,,Estime-toi heureuse\Nqu’on puisse s’entraîner à six.
+Dialogue: 0,0:12:49.74,0:12:51.12,Default,,0000,0000,0000,,Tu veux gagner ?
+Dialogue: 0,0:12:52.95,0:12:54.12,Default,,0000,0000,0000,,Oui.
+Dialogue: 0,0:12:55.29,0:12:57.13,Default,,0000,0000,0000,,Et remporter le tournoi, non ?
+Dialogue: 0,0:12:57.29,0:13:00.13,TiretsDefault,,0235,0000,0000,,– Elle a dit ça ?\N– Tu as oublié, Riri ?
+Dialogue: 0,0:13:00.30,0:13:03.30,Default,,0000,0000,0000,,Je plaisante !\NTu crois tout ce que je dis.
+Dialogue: 0,0:13:03.42,0:13:04.22,Default,,0000,0000,0000,,Hé !
+Dialogue: 0,0:13:04.38,0:13:06.93,TiretsDefault,,0217,0000,0000,,– Te moque pas de moi !\N– On arrive !
+Dialogue: 0,0:13:07.05,0:13:08.22,Default,,0000,0000,0000,,Trop drôle.
+Dialogue: 0,0:13:12.93,0:13:15.06,Default,,0000,0000,0000,,Ce bâtiment a du vécu.
+Dialogue: 0,0:13:15.19,0:13:17.19,Default,,0000,0000,0000,,On se croirait dans un film.
+Dialogue: 0,0:13:17.35,0:13:20.48,Default,,0000,0000,0000,,Je vais demander\Nla clé du gymnase à la prof.
+Dialogue: 0,0:13:20.90,0:13:22.94,Default,,0000,0000,0000,,Kao, emmène-les aux vestiaires.
+Dialogue: 0,0:13:23.11,0:13:24.36,Default,,0000,0000,0000,,Suivez-moi !
+Dialogue: 0,0:13:28.87,0:13:30.16,Default,,0000,0000,0000,,Mme Mako.
+Dialogue: 0,0:13:30.45,0:13:31.83,Default,,0000,0000,0000,,Komichi !
+Dialogue: 0,0:13:35.91,0:13:37.12,Default,,0000,0000,0000,,Voilà la clé.
+Dialogue: 0,0:13:37.54,0:13:38.71,Default,,0000,0000,0000,,Merci.
+Dialogue: 0,0:13:39.38,0:13:42.17,Default,,0000,0000,0000,,Le filet et les ballons\Nsont dans le local.
+Dialogue: 0,0:13:42.38,0:13:43.80,Default,,0000,0000,0000,,Tu t’en sortiras ?
+Dialogue: 0,0:13:43.92,0:13:46.59,Default,,0000,0000,0000,,Oui, il y a des filles\Ndu club de volley.
+Dialogue: 0,0:13:46.76,0:13:49.80,Default,,0000,0000,0000,,Je vois…\NCombien d’amies as-tu amenées ?
+Dialogue: 0,0:13:50.05,0:13:52.43,Default,,0000,0000,0000,,Cinq, et il y a aussi Kao.
+Dialogue: 0,0:13:54.85,0:13:59.65,Default,,0000,0000,0000,,Entraînez-vous bien.\NJe viendrai jeter un œil en douce.
+Dialogue: 0,0:14:01.65,0:14:02.69,Default,,0000,0000,0000,,Oui !
+Dialogue: 0,0:14:04.82,0:14:06.65,Default,,0000,0000,0000,,Allez, on s’y met.
+Dialogue: 0,0:14:32.01,0:14:33.22,Default,,0000,0000,0000,,Bien joué !
+Dialogue: 0,0:14:39.85,0:14:41.06,Default,,0000,0000,0000,,Encore !
+Dialogue: 0,0:14:43.44,0:14:45.69,Default,,0000,0000,0000,,Komichi fait d’bons progrès !
+Dialogue: 0,0:14:45.86,0:14:48.36,Default,,0000,0000,0000,,Oui, elle m’a même surpassée.
+Dialogue: 0,0:14:48.49,0:14:49.61,Default,,0000,0000,0000,,Je plains ton club.
+Dialogue: 0,0:14:51.70,0:14:54.03,Default,,0000,0000,0000,,Renvoie-moi un service !
+Dialogue: 0,0:14:54.45,0:14:56.04,Default,,0000,0000,0000,,Tu t’amuses tant que ça ?
+Dialogue: 0,0:14:57.37,0:14:58.37,Default,,0000,0000,0000,,Oui.
+Dialogue: 0,0:14:59.16,0:15:02.38,Default,,0000,0000,0000,,Comment dire…\Nje passe un bon moment.
+Dialogue: 0,0:15:03.13,0:15:06.25,Default,,0000,0000,0000,,J’ai toujours été seule avec Kao\Ndans ce gymnase.
+Dialogue: 0,0:15:06.92,0:15:09.09,Default,,0000,0000,0000,,Alors je suis vraiment contente
+Dialogue: 0,0:15:10.22,0:15:12.84,Default,,0000,0000,0000,,de pouvoir m’entraîner\Navec vous toutes.
+Dialogue: 0,0:15:16.22,0:15:18.35,Default,,0000,0000,0000,,Tu devras aussi assurer au festival.
+Dialogue: 0,0:15:18.60,0:15:20.44,Default,,0000,0000,0000,,Y a encore du ch’min à faire.
+Dialogue: 0,0:15:21.19,0:15:24.27,Default,,0000,0000,0000,,Perso, je m’amuse\Nbien plus qu’avant.
+Dialogue: 0,0:15:24.52,0:15:27.44,Default,,0000,0000,0000,,Oui, je fais presque plus\Ntomber la balle.
+Dialogue: 0,0:15:27.90,0:15:30.20,Default,,0000,0000,0000,,Allez, une dernière avant la pause !
+Dialogue: 0,0:15:30.36,0:15:31.70,TiretsDefault,,0285,0000,0000,,– Oui !\N– Ouais !
+Dialogue: 0,0:15:34.62,0:15:36.08,Default,,0000,0000,0000,,Smashe-la, Akebi !
+Dialogue: 0,0:15:41.00,0:15:42.79,Default,,0000,0000,0000,,On peut enfin souffler !
+Dialogue: 0,0:15:44.88,0:15:47.59,Default,,0000,0000,0000,,Pouah ! J’crève de chaud !
+Dialogue: 0,0:15:47.75,0:15:49.42,Default,,0000,0000,0000,,Euh… Minakami !
+Dialogue: 0,0:15:49.63,0:15:52.18,Default,,0000,0000,0000,,Ne te déshabille pas\Ndans le gymnase !
+Dialogue: 0,0:15:56.85,0:15:58.31,Default,,0000,0000,0000,,Laisse-toi faire !
+Dialogue: 0,0:15:58.72,0:16:00.39,Default,,0000,0000,0000,,Non, arrête !
+Dialogue: 0,0:16:00.52,0:16:04.23,Default,,0000,0000,0000,,Tu dégoulines de sueur !\NMontre-moi c’que t’as sous l’capot.
+Dialogue: 0,0:16:04.40,0:16:06.73,Default,,0000,0000,0000,,Je me changerai dans les vestiaires !
+Dialogue: 0,0:16:06.90,0:16:09.86,Default,,0000,0000,0000,,Kao, attrapons\Nla folle du déshabillage !
+Dialogue: 0,0:16:10.03,0:16:11.28,Default,,0000,0000,0000,,J’arrive !
+Dialogue: 0,0:16:11.90,0:16:12.57,Default,,0000,0000,0000,,Hé !
+Dialogue: 0,0:16:12.70,0:16:14.36,Default,,0000,0000,0000,,Enlevons-lui son short !
+Dialogue: 0,0:16:14.53,0:16:17.62,TiretsDefault,,0231,0000,0000,,– Hein ? Abusez pas !\N– Arrête de bouger.
+Dialogue: 0,0:16:17.78,0:16:19.87,TiretsDefault,,0244,0000,0000,,– Pas bouger !\N– J’y ai échappé…
+Dialogue: 0,0:16:22.58,0:16:24.08,Default,,0000,0000,0000,,Au secours !
+Dialogue: 0,0:16:25.54,0:16:27.21,Default,,0000,0000,0000,,Tu t’y mets aussi ?
+Dialogue: 0,0:16:40.47,0:16:42.48,Default,,0000,0000,0000,,On reprend l’entraînement ?
+Dialogue: 0,0:16:44.14,0:16:45.60,Default,,0000,0000,0000,,C’est parti.
+Dialogue: 0,0:16:46.44,0:16:48.02,Default,,0000,0000,0000,,Akebi…
+Dialogue: 0,0:16:49.15,0:16:51.28,Default,,0000,0000,0000,,Où sont les toilettes ?
+Dialogue: 0,0:16:51.69,0:16:55.95,Default,,0000,0000,0000,,Celles du gymnase sont HS.\NViens, je te montre le chemin.
+Dialogue: 0,0:17:04.41,0:17:06.79,Default,,0000,0000,0000,,Cette école est vraiment vieille.
+Dialogue: 0,0:17:06.96,0:17:10.30,Default,,0000,0000,0000,,Oui, elle fermera\Nquand Kao finira sa primaire.
+Dialogue: 0,0:17:11.96,0:17:13.72,Default,,0000,0000,0000,,Je suis contente, du coup.
+Dialogue: 0,0:17:15.88,0:17:19.01,Default,,0000,0000,0000,,Vous ferez aussi partie\Ndes souvenirs de l’école.
+Dialogue: 0,0:17:23.18,0:17:27.06,Default,,0000,0000,0000,,Tu sais, j’avais peur\Nd’aller aux toilettes jusqu’en CE2,
+Dialogue: 0,0:17:27.23,0:17:31.15,Default,,0000,0000,0000,,alors je demandais à la prof\Nde rester devant la porte.
+Dialogue: 0,0:17:31.73,0:17:35.03,Default,,0000,0000,0000,,Si je pouvais,\Nje dirais à mon ancienne moi
+Dialogue: 0,0:17:35.61,0:17:36.78,Default,,0000,0000,0000,,que maintenant
+Dialogue: 0,0:17:38.11,0:17:40.49,Default,,0000,0000,0000,,je me lave les mains\Navec une copine.
+Dialogue: 0,0:17:41.74,0:17:43.20,Default,,0000,0000,0000,,Akebi…
+Dialogue: 0,0:17:53.17,0:17:56.30,Default,,0000,0000,0000,,Bon, et si j’allais\Njeter un coup d’œil ?
+Dialogue: 0,0:18:03.56,0:18:06.27,TiretsDefault,,0230,0000,0000,,– Étirez-vous bien.\N– Qui joue, du coup ?
+Dialogue: 0,0:18:06.43,0:18:08.69,Default,,0000,0000,0000,,On formera les équipes au chifoumi.
+Dialogue: 0,0:18:08.98,0:18:10.61,Default,,0000,0000,0000,,Ah, Mme Mako !
+Dialogue: 0,0:18:12.32,0:18:13.61,Default,,0000,0000,0000,,Komichi…
+Dialogue: 0,0:18:15.57,0:18:17.20,Default,,0000,0000,0000,,Vous êtes si nombreuses…
+Dialogue: 0,0:18:18.61,0:18:22.08,Default,,0000,0000,0000,,Hé, Kamimoku !\NNe t’endors pas là !
+Dialogue: 0,0:18:22.62,0:18:24.45,Default,,0000,0000,0000,,Ah, elles sont arrivées !
+Dialogue: 0,0:18:26.75,0:18:29.96,Default,,0000,0000,0000,,Vu que Nawashiro et Washio\Nne devaient pas venir,
+Dialogue: 0,0:18:30.13,0:18:33.04,Default,,0000,0000,0000,,j’ai invité les filles de la classe.
+Dialogue: 0,0:18:53.82,0:18:56.61,Default,,0000,0000,0000,,Un tas de tes copines sont venues !
+Dialogue: 0,0:19:03.37,0:19:04.62,Default,,0000,0000,0000,,Usagihara !
+Dialogue: 0,0:19:09.83,0:19:11.25,Default,,0000,0000,0000,,Tu me donnes chaud.
+Dialogue: 0,0:19:12.38,0:19:13.42,Default,,0000,0000,0000,,Oui…
+Dialogue: 0,0:19:18.51,0:19:19.51,Default,,0000,0000,0000,,{\i1}C’est dingue…{\i0}
+Dialogue: 0,0:19:20.18,0:19:22.80,Default,,0000,0000,0000,,{\i1}On va s’entraîner toutes ensemble !{\i0}
+Dialogue: 0,0:19:25.01,0:19:29.81,Default,,0000,0000,0000,,Désolée, j’ai pas pu inviter Kizaki,\Nvu qu’elle répétait de son côté.
+Dialogue: 0,0:19:31.94,0:19:35.73,Default,,0000,0000,0000,,Il faut pas lui en vouloir,\Nc’est pour le festival.
+Dialogue: 0,0:19:39.07,0:19:40.53,Default,,0000,0000,0000,,Encore une fausse note.
+Dialogue: 0,0:19:42.57,0:19:44.74,Default,,0000,0000,0000,,C’est dur, le rythme est rapide.
+Dialogue: 0,0:19:49.41,0:19:50.62,Default,,0000,0000,0000,,Je vois…
+Dialogue: 0,0:19:52.17,0:19:56.50,Default,,0000,0000,0000,,Il y a aussi d’autres domaines\Noù on doit s’entraîner seule !
+Dialogue: 0,0:19:56.84,0:20:01.84,Sign,SIGN,0000,0000,0000,,{\i1\b1}{\an8}HEM – FUKUMOTO MIKI
+Dialogue: 0,0:20:03.51,0:20:04.51,Default,,0000,0000,0000,,{\i1}Je suis sûre{\i0}
+Dialogue: 0,0:20:05.22,0:20:06.39,Default,,0000,0000,0000,,{\i1}qu’avec Komichi…{\i0}
+Dialogue: 0,0:21:24.92,0:21:26.38,Default,,0000,0000,0000,,{\i1}On profite de ce moment…{\i0}
+Dialogue: 0,0:21:27.22,0:21:28.34,Default,,0000,0000,0000,,{\i1}toutes ensemble.{\i0}
+Dialogue: 0,0:21:29.35,0:21:30.22,Default,,0000,0000,0000,,Je sers !
+Dialogue: 0,0:21:39.86,0:21:42.82,Default,,0000,0000,0000,,On s’est bien marrées, Komichi.
+Dialogue: 0,0:21:43.36,0:21:44.44,Default,,0000,0000,0000,,Oui.
+Dialogue: 0,0:21:45.03,0:21:48.45,Default,,0000,0000,0000,,Tu crois que vous finirez premières,\Nau festival ?
+Dialogue: 0,0:21:49.70,0:21:50.78,Default,,0000,0000,0000,,Oui.
+Dialogue: 0,0:21:51.83,0:21:53.29,Default,,0000,0000,0000,,Si on unit nos forces…
+Dialogue: 0,0:21:55.87,0:21:57.29,Default,,0000,0000,0000,,on gagnera !
+Dialogue: 0,0:21:58.33,0:22:01.84,Sign,SIGN,0000,0000,0000,,{\i1\b1}{\an8}FESTIVAL SPORTIF DE L’ÉCOLE RÔBAI
+Dialogue: 0,0:23:23.08,0:23:28.01,Default,,0000,0000,0000,,Supervision du projet : Nina Trommer\NRepérage : Stephanie Leborgne
+Dialogue: 0,0:23:28.38,0:23:33.30,Default,,0000,0000,0000,,Traduction : Benjamin Moro\NRelecture : Marion Sals
+Dialogue: 0,0:23:33.89,0:23:37.56,Default,,0000,0000,0000,,Publication : Jelizaveta Stolarova\NWAKANIM

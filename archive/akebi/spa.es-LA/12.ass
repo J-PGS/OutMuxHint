@@ -1,0 +1,188 @@
+﻿[Script Info]
+Title: Español (América Latina)
+Original Script: crunchyroll_la  [http://www.crunchyroll.com/user/crunchyroll_la]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Gen_Main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Gen_Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Gen_Main_Up,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00090909,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,1
+Style: Gen_Italics_top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,1
+Style: Cart_TitleEp,Times New Roman,12,&H00000000,&H000000FF,&H6FFFFFFF,&H00797979,0,0,0,0,100,110,0,0,1,1,0,8,0020,0040,0020,1
+Style: Cart_A_Tre,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0020,1
+Style: Cart_C_Tre,Trebuchet MS,24,&H00323232,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0020,1
+Style: Cart_A_Tim,Times New Roman,24,&H00FFFFFF,&H000000FF,&H00303030,&H00303030,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_C_Tim,Times New Roman,24,&H00323232,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_A_Ari,Arial,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_C_Ari,Arial,24,&H00323232,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0020,1
+Style: Cart_Tre_NoShad,Trebuchet MS,20,&H00000000,&H000000FF,&H00FFFFFF,&H00D9D9D9,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0020,1
+Style: Cart_SeriesTitle,Times New Roman,24,&H00000000,&H000000FF,&H00FBFCFA,&H00000000,0,0,0,0,100,100,0,0,1,0,0,8,0030,0030,0050,1
+Style: Cart_Avance,Trebuchet MS,16,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,0010,0010,0018,1
+Style: Cart_Nota,Arial,24,&H001B3140,&H000000FF,&H00F9F9F9,&H008D365A,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0020,1
+Style: Cart_Next,Trebuchet MS,26,&H00F8FFFF,&H000000FF,&H00110D3A,&H005B5D5F,0,0,0,0,100,100,0,0,1,0,0,8,0020,0020,0130,1
+Style: Cart_TitleSeries,Trebuchet MS,20,&H00FFFFFF,&H000000FF,&H00494949,&H00797979,0,0,0,0,100,110,0,0,1,1,0,5,0020,0040,0020,1
+Style: Cart_SeriesTitle2,Trebuchet MS,28,&H00BEBEBE,&H000000FF,&H00FBFCFA,&H00000000,0,0,0,0,100,100,0,0,1,0,0,8,0033,0030,0053,1
+Style: Cart_EX01,Times New Roman,10,&H004B504F,&H000000FF,&H00F3F3F3,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,2,0030,0030,0020,1
+Style: Cart_EX02,Comic Sans MS,25,&H00A49A90,&H000000FF,&H00F3F3F3,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,2,0030,0030,0020,1
+Style: Cart_EX04,Trebuchet MS,18,&H00C4C8CA,&H000000FF,&H00413C3B,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0030,0030,0020,1
+Style: Cart_EXC,Trebuchet MS,14,&H007D3936,&H000000FF,&H00BCAFB5,&H00000000,0,0,0,0,100,100,0,0,1,4,0,2,0030,0030,0020,1
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:09.98,0:00:13.20,Cart_C_Tre,Text,0000,0000,0000,,{\fsp2\fscx100}Festival Deportivo {\c&H4E7DEB&} de la Academia
+Dialogue: 0,0:00:29.55,0:00:31.32,Gen_Main,Chica 1,0000,0000,0000,,¡Vamos, dense prisa!
+Dialogue: 0,0:00:38.22,0:00:40.00,Gen_Main,Mika,0000,0000,0000,,Y comenzamos con…
+Dialogue: 0,0:00:40.26,0:00:43.46,Gen_Main,Miku,0000,0000,0000,,El club de música ligera. Adelante.
+Dialogue: 0,0:02:27.00,0:02:30.50,Cart_C_Tre,Text,0000,0000,0000,,{\frz357.5\fs14\fscx80\pos(290,156)\3c&H707C87&\c&H30363E&}Cierre Festival Deportivo\N¡Cámbiense de ropa y vayan a la Celebración nocturna!
+Dialogue: 0,0:02:27.29,0:02:30.50,Cart_TitleEp,CARTEL,0000,0000,0000,,{\blur1\fad(400,0)\pos(116,69)}Episodio 12\N{\fs16}No estoy sola
+Dialogue: 0,0:02:30.50,0:02:34.00,Cart_C_Tre,Text,0000,0000,0000,,{\pos(472,104)\c&H0D1147&\3c&H125074&}Primer año\N{\c&H091420&\3c&H334D5E&}Las ganadoras son…
+Dialogue: 0,0:02:37.17,0:02:39.10,Gen_Main,Chica 2,0000,0000,0000,,¡Gracias!
+Dialogue: 0,0:02:42.68,0:02:44.01,Gen_Main,Miku,0000,0000,0000,,Muy bien.
+Dialogue: 0,0:02:44.18,0:02:47.30,Gen_Main,Miku,0000,0000,0000,,Chicas,\N¿están disfrutando la celebración?
+Dialogue: 0,0:02:47.56,0:02:49.29,Gen_Main,Todas,0000,0000,0000,,¡Sí!
+Dialogue: 0,0:02:49.56,0:02:52.96,Gen_Main,Mika,0000,0000,0000,,Sí, esto está muy prendido.
+Dialogue: 0,0:02:54.82,0:02:58.70,Gen_Main,Mika,0000,0000,0000,,¡A continuación viene la esperada\Nactuación del club de teatro!
+Dialogue: 0,0:02:59.28,0:03:00.36,Gen_Main,Hotaru,0000,0000,0000,,¿Quién será?
+Dialogue: 0,0:03:04.20,0:03:06.49,Gen_Main,Komichi,0000,0000,0000,,Oh, Usagihara.
+Dialogue: 0,0:03:08.37,0:03:11.92,Gen_Main,Mika,0000,0000,0000,,El número de este año está a cargo\Nde la única miembro de primero.
+Dialogue: 0,0:03:12.33,0:03:16.13,Gen_Main,Miku,0000,0000,0000,,Y esa chica\Nes la más famosa de la escuela.
+Dialogue: 0,0:03:17.42,0:03:19.65,Gen_Main,Touko / Komichi,0000,0000,0000,,-¿Te secaste el sudor?\N-Sí.
+Dialogue: 0,0:03:20.30,0:03:23.22,Gen_Main,Mika,0000,0000,0000,,Si tu mirada se cruza con la suya,\Nsiempre te saluda.
+Dialogue: 0,0:03:23.43,0:03:26.35,Gen_Main,Miku,0000,0000,0000,,Y siempre anda con su inconfundible\Nuniforme de marinero.
+Dialogue: 0,0:03:26.81,0:03:30.03,Gen_Main,Touko,0000,0000,0000,,Cuando te llamen las del club\Nde radio, sales a escena.
+Dialogue: 0,0:03:30.17,0:03:31.18,Gen_Main,Komichi,0000,0000,0000,,Sí.
+Dialogue: 0,0:03:33.06,0:03:34.63,Gen_Main,Touko,0000,0000,0000,,¿Estás nerviosa?
+Dialogue: 0,0:03:34.90,0:03:36.11,Gen_Main,Komichi,0000,0000,0000,,Un poco.
+Dialogue: 0,0:03:37.27,0:03:39.86,Gen_Main,Touko,0000,0000,0000,,Tranquila. Lo harás muy bien.
+Dialogue: 0,0:03:40.03,0:03:42.10,Gen_Main,Touko,0000,0000,0000,,Yo también te estaré apoyando.
+Dialogue: 0,0:03:42.96,0:03:44.05,Gen_Main,Komichi,0000,0000,0000,,¡Sí!
+Dialogue: 0,0:03:44.32,0:03:46.09,Gen_Main,Mika,0000,0000,0000,,¿Ya saben quién es?
+Dialogue: 0,0:03:46.37,0:03:48.87,Gen_Main,Miku,0000,0000,0000,,Muy bien, adelante.
+Dialogue: 0,0:04:07.89,0:04:09.89,Gen_Italics,Komichi,0000,0000,0000,,No escucho nada.
+Dialogue: 0,0:04:11.95,0:04:13.88,Gen_Italics,Komichi,0000,0000,0000,,Es como si estuviera bajo el agua.
+Dialogue: 0,0:04:36.50,0:04:38.50,Gen_Main,Touko / Erika,0000,0000,0000,,Muchas gracias.
+Dialogue: 0,0:04:40.67,0:04:43.75,Gen_Main,Touko,0000,0000,0000,,A la presidenta le encantó\Nla idea del acompañamiento.
+Dialogue: 0,0:04:44.01,0:04:47.42,Gen_Main,Erika,0000,0000,0000,,Me sorprendió cuando me dijo\Nque tocara en el escenario.
+Dialogue: 0,0:04:48.60,0:04:53.18,Gen_Main,Erika,0000,0000,0000,,Oye, gracias…\NHasta me prestaste el disco.
+Dialogue: 0,0:04:54.10,0:04:56.98,Gen_Main,Touko,0000,0000,0000,,No es nada. Akebi se pondrá muy feliz.
+Dialogue: 0,0:05:03.50,0:05:06.88,Gen_Main,Touko,0000,0000,0000,,La canción que bailarás tiene\Nun acompañamiento de piano, ¿no?
+Dialogue: 0,0:05:07.03,0:05:10.10,Gen_Main,Komichi,0000,0000,0000,,Sí, me encanta ese piano.
+Dialogue: 0,0:05:10.37,0:05:14.18,Gen_Main,Touko,0000,0000,0000,,¿Qué harías si alguien tocara el piano\Nen vivo para la celebración?
+Dialogue: 0,0:05:14.37,0:05:15.46,Gen_Main,Komichi,0000,0000,0000,,¿Qué?
+Dialogue: 0,0:05:15.83,0:05:19.04,Gen_Main,Komichi,0000,0000,0000,,Ni siquiera puedo imaginar\Nque pase algo tan genial.
+Dialogue: 0,0:05:20.04,0:05:23.01,Gen_Italics,Komichi,0000,0000,0000,,No podría imaginarlo.
+Dialogue: 0,0:05:43.69,0:05:45.36,Gen_Italics,Ayumi,0000,0000,0000,,Ese baile.
+Dialogue: 0,0:05:49.16,0:05:50.86,Gen_Main,Komichi,0000,0000,0000,,¡Ánimo!
+Dialogue: 0,0:06:03.71,0:06:06.13,Gen_Italics,Ayumi,0000,0000,0000,,Es el mismo de cuando nos animaba.
+Dialogue: 0,0:06:06.76,0:06:09.67,Gen_Italics,Kei,0000,0000,0000,,Akebi siempre andaba corriendo.
+Dialogue: 0,0:06:10.22,0:06:12.58,Gen_Italics,Kei,0000,0000,0000,,Solo veía su espalda saltando,
+Dialogue: 0,0:06:13.06,0:06:14.13,Gen_Italics,Kei,0000,0000,0000,,pero ahora…
+Dialogue: 0,0:06:14.39,0:06:17.56,Gen_Italics,Erika,0000,0000,0000,,Rayos, realmente soy una tonta.
+Dialogue: 0,0:06:18.31,0:06:21.51,Gen_Italics,Erika,0000,0000,0000,,Desde aquí no puedo ver\Na Komichi ni un poquito.
+Dialogue: 0,0:06:25.36,0:06:26.57,Gen_Italics,Erika,0000,0000,0000,,No importa.
+Dialogue: 0,0:06:27.40,0:06:28.88,Gen_Italics,Erika,0000,0000,0000,,Puedo recordarla.
+Dialogue: 0,0:06:39.62,0:06:43.21,Gen_Italics,Erika,0000,0000,0000,,Después de todo, desde primera hora…
+Dialogue: 0,0:06:57.64,0:06:59.99,Gen_Main,Neko,0000,0000,0000,,Ahora también podría hacer ese paso.
+Dialogue: 0,0:07:00.49,0:07:02.63,Gen_Main,Tomono,0000,0000,0000,,Claro, ensayaban juntas todo el tiempo.
+Dialogue: 0,0:07:03.90,0:07:06.86,Gen_Italics,Neko,0000,0000,0000,,Akebi siempre…
+Dialogue: 0,0:07:30.88,0:07:33.84,Gen_Main,Komichi,0000,0000,0000,,Nadie podría atajar un tiro así.
+Dialogue: 0,0:07:55.87,0:07:59.18,Gen_Main,Komichi,0000,0000,0000,,¡Hotaru, no tienes por qué llorar!
+Dialogue: 0,0:08:00.95,0:08:02.82,Gen_Main,Hotaru,0000,0000,0000,,Después de un partido horrible…
+Dialogue: 0,0:08:40.58,0:08:42.66,Gen_Italics,Neko / Kei,0000,0000,0000,,-Ella…\N-Siempre…
+Dialogue: 0,0:08:43.96,0:08:45.57,Gen_Italics,Yasuko,0000,0000,0000,,Nos estuvo apoyando.
+Dialogue: 0,0:08:49.88,0:08:52.63,Gen_Italics,Todas,0000,0000,0000,,Ahora es nuestro turno.
+Dialogue: 0,0:09:16.41,0:09:16.53,Cart_EX02,Text,0000,0000,0000,,{\frz4.33\pos(315,135)}Akebi
+Dialogue: 0,0:09:16.53,0:09:16.66,Cart_EX02,Text,0000,0000,0000,,{\frz2.42\pos(317,125)}Akebi
+Dialogue: 0,0:09:16.66,0:09:16.78,Cart_EX02,Text,0000,0000,0000,,{\pos(319,110)}Akebi
+Dialogue: 0,0:09:16.78,0:09:16.91,Cart_EX02,Text,0000,0000,0000,,{\pos(323,108)}Akebi
+Dialogue: 0,0:09:16.91,0:09:17.03,Cart_EX02,Text,0000,0000,0000,,{\pos(325,105)\frz-2.39}Akebi
+Dialogue: 0,0:09:17.03,0:09:17.91,Cart_EX02,Text,0000,0000,0000,,{\pos(325,103)\frz-2.39}Akebi
+Dialogue: 0,0:09:23.16,0:09:25.49,Gen_Italics,Komichi,0000,0000,0000,,Puedo escuchar los ánimos de todas.
+Dialogue: 0,0:09:27.79,0:09:30.92,Gen_Main,Chica 3,0000,0000,0000,,Es la ronda final.\NEn el carril 3, la clase 1-3.
+Dialogue: 0,0:09:44.73,0:09:47.02,Gen_Main,Ai / Komichi,0000,0000,0000,,-¡Ookuma!\N-¡Vamos!
+Dialogue: 0,0:09:56.19,0:09:58.81,Gen_Main,Komichi,0000,0000,0000,,¡Tú puedes, Tatsumori!
+Dialogue: 0,0:09:59.07,0:10:02.37,Gen_Main,Riri,0000,0000,0000,,Komichi, no importa en qué lugar quedes.
+Dialogue: 0,0:10:03.37,0:10:05.59,Gen_Main,Komichi,0000,0000,0000,,Gracias por la preocupación.
+Dialogue: 0,0:10:06.16,0:10:09.41,Gen_Main,Komichi,0000,0000,0000,,Muy bien, hora de ir a sudar.
+Dialogue: 0,0:10:09.58,0:10:10.67,Gen_Main,Riri,0000,0000,0000,,Bien.
+Dialogue: 0,0:10:22.60,0:10:25.15,Gen_Main,Erika / Kei / Tomono,0000,0000,0000,,-¡Komichi!\N-¡Ánimo, Akebi!
+Dialogue: 0,0:10:25.52,0:10:27.48,Gen_Main,Ai / Minoru,0000,0000,0000,,-¡Akebi!\N-¡Tú puedes!
+Dialogue: 0,0:10:41.41,0:10:44.08,Gen_Main,Touko,0000,0000,0000,,¡Vamos, Riri!
+Dialogue: 0,0:10:49.67,0:10:51.21,Gen_Main,Komichi / Ai,0000,0000,0000,,-¡Sigue así!\N-¡Ánimo!
+Dialogue: 0,0:10:57.88,0:11:00.05,Gen_Main,Todas,0000,0000,0000,,¡Vamos!
+Dialogue: 0,0:11:08.98,0:11:11.98,Gen_Main,Chica 3,0000,0000,0000,,¡Y las ganadoras son la clase 1-3!
+Dialogue: 0,0:11:20.49,0:11:22.68,Gen_Italics,Komichi,0000,0000,0000,,Yo sola no habría podido hacerlo.
+Dialogue: 0,0:11:24.37,0:11:26.33,Gen_Italics,Komichi,0000,0000,0000,,¡No estoy sola!
+Dialogue: 0,0:11:30.62,0:11:33.48,Gen_Italics,Erika,0000,0000,0000,,Komichi siempre me sorprende.
+Dialogue: 0,0:11:34.63,0:11:37.90,Gen_Italics,Erika,0000,0000,0000,,Siempre, desde que la conocí,\Nhasta el día de hoy.
+Dialogue: 0,0:11:39.88,0:11:42.34,Gen_Main,Erika,0000,0000,0000,,La segunda parte es con violín.
+Dialogue: 0,0:12:24.51,0:12:29.43,Gen_Italics,Erika,0000,0000,0000,,La razón por la que tocar\Nme volvió a parecer divertido
+Dialogue: 0,0:12:33.81,0:12:35.73,Gen_Italics,Erika,0000,0000,0000,,es porque tú estás aquí.
+Dialogue: 0,0:13:03.17,0:13:04.67,Gen_Main,Ai,0000,0000,0000,,Es el último evento.
+Dialogue: 0,0:13:04.84,0:13:06.42,Gen_Main,Ai,0000,0000,0000,,¡Rápido, rápido!
+Dialogue: 0,0:13:06.59,0:13:08.00,Gen_Main,Ai,0000,0000,0000,,Es la final.
+Dialogue: 0,0:13:16.10,0:13:18.33,Gen_Main,Ayumi,0000,0000,0000,,Ay, qué nervios.
+Dialogue: 0,0:13:20.19,0:13:21.94,Gen_Main,Ai,0000,0000,0000,,¡Vamos, Riri!
+Dialogue: 0,0:13:26.11,0:13:27.28,Gen_Main,Hitomi,0000,0000,0000,,¡Recíbanla!
+Dialogue: 0,0:13:32.74,0:13:36.22,Gen_Italics,Komichi,0000,0000,0000,,Perdimos la ventaja por mi culpa.
+Dialogue: 0,0:13:36.67,0:13:37.79,Gen_Main,Komichi,0000,0000,0000,,Lo siento.
+Dialogue: 0,0:13:40.96,0:13:42.35,Gen_Main,Hitomi,0000,0000,0000,,Te lanzaste muy bien.
+Dialogue: 0,0:13:42.71,0:13:45.10,Gen_Main,Erika / Ai,0000,0000,0000,,-¡Komichi!\N-¡Tú puedes!
+Dialogue: 0,0:13:45.47,0:13:47.20,Gen_Main,Hitomi,0000,0000,0000,,¡Sigan tan motivadas como Komi!
+Dialogue: 0,0:14:25.84,0:14:27.83,Gen_Main,Hitomi,0000,0000,0000,,¡Nos quedaremos con el último set!
+Dialogue: 0,0:14:28.01,0:14:29.54,Gen_Main,Komichi,0000,0000,0000,,Ganaremos a como dé lugar.
+Dialogue: 0,0:14:49.20,0:14:51.11,Gen_Italics,Komichi,0000,0000,0000,,¡La conectaré pasé lo que pase!
+Dialogue: 0,0:15:03.79,0:15:05.88,Gen_Main,Ayumi,0000,0000,0000,,Minakami la devolvió, pero…
+Dialogue: 0,0:15:09.05,0:15:10.37,Gen_Main,Kei,0000,0000,0000,,¡La levantó!
+Dialogue: 0,0:15:11.30,0:15:12.89,Gen_Main,Ai,0000,0000,0000,,¡Esto no ha acabado!
+Dialogue: 0,0:15:24.81,0:15:26.86,Gen_Main,Hitomi,0000,0000,0000,,¡Komi!
+Dialogue: 0,0:15:30.78,0:15:32.96,Gen_Italics,Komichi,0000,0000,0000,,Fallar no es una opción.
+Dialogue: 0,0:15:40.04,0:15:40.87,Gen_Italics,Komichi,0000,0000,0000,,Después de todo…
+Dialogue: 0,0:15:42.50,0:15:44.68,Gen_Italics,Komichi,0000,0000,0000,,ya pude hacer algo como eso.
+Dialogue: 0,0:15:54.43,0:15:56.05,Gen_Main,Komichi,0000,0000,0000,,¡Algo así!
+Dialogue: 0,0:16:46.94,0:16:51.12,Gen_Main,Yasuko / Touko,0000,0000,0000,,-¡Akebi!\N-¡Akebi! ¡Kizaki!
+Dialogue: 0,0:16:52.78,0:16:55.35,Gen_Main,Chica 4,0000,0000,0000,,¡Akebi, eso fue genial!
+Dialogue: 0,0:17:12.71,0:17:15.27,Gen_Main,Komichi,0000,0000,0000,,Erika, gracias.
+Dialogue: 0,0:17:30.90,0:17:33.40,Cart_EX04,Text,0000,0000,0000,,{\fs36\pos(439,86)\frz8.768}Ganadoras\N Clase 1-3
+Dialogue: 0,0:18:24.24,0:18:26.47,Gen_Main,Kao,0000,0000,0000,,Al fin despiertas, hermana.
+Dialogue: 0,0:18:30.50,0:18:32.29,Gen_Main,Komichi,0000,0000,0000,,¡¿Qué hora es?!
+Dialogue: 0,0:18:33.75,0:18:36.40,Gen_Main,Kao,0000,0000,0000,,Hoy yo me desperté antes que tú.
+Dialogue: 0,0:18:36.67,0:18:38.98,Gen_Main,Kao,0000,0000,0000,,El desayuno ya está servido.
+Dialogue: 0,0:18:39.43,0:18:41.74,Gen_Main,Komichi,0000,0000,0000,,¡Ahora voy!
+Dialogue: 0,0:18:51.77,0:18:55.68,Gen_Main,Komichi,0000,0000,0000,,Siento como si hubiera sido un sueño.
+Dialogue: 0,0:19:48.45,0:19:50.24,Gen_Main,Sato,0000,0000,0000,,¿Te llevo medio camino?
+Dialogue: 0,0:19:50.50,0:19:53.17,Gen_Main,Komichi,0000,0000,0000,,Así estoy bien.\NSiempre me voy corriendo.
+Dialogue: 0,0:19:53.42,0:19:55.56,Gen_Main,Yuwa / Komichi,0000,0000,0000,,-¿No olvidas nada?\N-No.
+Dialogue: 0,0:19:56.00,0:19:57.41,Gen_Main,Kao,0000,0000,0000,,Hermana.
+Dialogue: 0,0:19:58.14,0:19:59.20,Gen_Main,Komichi,0000,0000,0000,,¿Sí?
+Dialogue: 0,0:19:59.46,0:20:01.41,Gen_Main,Kao,0000,0000,0000,,Tienes el cuello doblado.
+Dialogue: 0,0:20:03.13,0:20:04.58,Gen_Main,Komichi,0000,0000,0000,,Gracias.
+Dialogue: 0,0:20:08.81,0:20:10.17,Gen_Main,Komichi,0000,0000,0000,,Ya me voy.
+Dialogue: 0,0:20:20.78,0:20:23.52,Gen_Main,Taira,0000,0000,0000,,¡Hola, Komichi!
+Dialogue: 0,0:20:25.78,0:20:29.06,Gen_Main,Komichi,0000,0000,0000,,¡Buenos días, señor Taira!
+Dialogue: 0,0:20:53.27,0:20:56.40,Gen_Main,Chicas,0000,0000,0000,,Un, dos, un, dos, un, dos, un, dos…
+Dialogue: 0,0:20:56.77,0:20:59.61,Gen_Main,Chica 5 / Chica 6,0000,0000,0000,,-Bien.\N-Aquí voy.
+Dialogue: 0,0:20:59.61,0:21:02.61,Cart_EXC,Text,0000,0000,0000,,{\frz-12.91\fax0.23\move(70,80,70,100)}Club de Natación
+Dialogue: 0,0:20:59.61,0:21:02.61,Cart_EXC,Text,0000,0000,0000,,{\fnTimes New Roman\b1\c&H483B5F&\3c&HB8B1B9&\frz-19.03\fax0.37\move(193,30,193,50)\fs8}Club de montañismo
+Dialogue: 0,0:20:59.61,0:21:02.61,Cart_EXC,Text,0000,0000,0000,,{\c&H2C232A&\frz-8.53\fax0.14\move(145,165,145,185)}Club de Tenis
+Dialogue: 0,0:20:59.61,0:21:02.61,Cart_EXC,Text,0000,0000,0000,,{\fnTimes New Roman\b1\fax0.1\fs8\c&H4E388C&\move(235,190,235,213)\frz352.4}Club de Ping Pong
+Dialogue: 0,0:21:23.17,0:21:24.63,Gen_Main,Erika,0000,0000,0000,,Te estaba esperando.
+Dialogue: 0,0:21:29.64,0:21:33.64,Cart_EX04,Text,0000,0000,0000,,{\3c&H775B57&\c&HEBD6D0&\pos(150,20)}Ganadoras\NClase 1-3
+Dialogue: 0,0:21:44.15,0:21:50.16,Cart_EX04,Text,0000,0000,0000,,{\c&HD8C6C0&\3c&H493836&\pos(244,69)}Ganadoras\NClase 1-3
+Dialogue: 0,0:21:44.94,0:21:47.07,Gen_Main,Erika,0000,0000,0000,,Fue tan divertido.
+Dialogue: 0,0:21:47.32,0:21:50.16,Gen_Main,Erika / Komichi,0000,0000,0000,,-Es verdad.\N-¿Podremos volver a hacerlo?
+Dialogue: 0,0:21:50.78,0:21:53.66,Gen_Main,Erika,0000,0000,0000,,Claro que sí, muchas veces.
+Dialogue: 0,0:22:06.88,0:22:08.07,Gen_Main,Komichi,0000,0000,0000,,Buenos días.
+Dialogue: 0,0:23:22.67,0:23:25.88,Cart_EX04,Text,0000,0000,0000,,{\fs36\pos(439,86)\frz8.768}Ganadoras\N Clase 1-3
