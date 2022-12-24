@@ -1,0 +1,15 @@
+﻿
+
+
+WinDVD 无法直接播放文件夹，请配合 DVDFabVirtualDrive 或 ImgDrive 使用。
+
+DVDFabVirtualDrive https://ja.dvdfab.cn/virtual-drive.htm
+ImgDrive http://www.yubsoft.com/imgdrive/index.htm
+
+DVDFabVirtualDrive 使用方法: 
+安装启动 DVDFabVirtualDrive  —-> 图标右键  —-> 生成.miniso镜像(M)  —-> 目录选择到链接好的外挂结构对应卷的卷标(能看见BDMV和CERTIFICATE) —-> 启动WinDVD，选择刚才映射到的盘符
+
+ImgDrive 使用方法: 
+安装启动 ImgDrive  —-> 文件 —-> 加载文件夹(Ctrl+F) —-> 目录选择到链接好的外挂结构对应卷的卷标(能看见BDMV和CERTIFICATE) —-> 启动WinDVD，选择刚才映射到的盘符(注意需要安装版，便携版不可用此功能)
+
+※只考虑挂载给 WinDVD 使用这种情况，两者无明显优劣。不需要特意去换。
