@@ -1,0 +1,518 @@
+﻿[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title: 
+ScriptType: v4.00+
+PlayDepth: 0
+ScaledBorderAndShadow: Yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,モトヤLマルベリ3等幅,17,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0.7,0.0,2,20,20,21,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:07.17,0:00:08.84,Default,,0,0,0,,{\c&Hffffff&}（咲太(さくた)のあくび）
+Dialogue: 0,0:00:10.96,0:00:11.76,Default,,0,0,0,,{\c&Hffffff&}（扉が開く音）\N（咲太）ん？
+Dialogue: 0,0:00:11.84,0:00:13.09,Default,,0,0,0,,{\c&Hffffff&}（前沢(まえさわ)）くっ…
+Dialogue: 0,0:00:23.89,0:00:24.94,Default,,0,0,0,,{\c&Hffffff&}（女子）フフッ\N（男子）うんこ
+Dialogue: 0,0:00:25.02,0:00:26.94,Default,,0,0,0,,{\c&Hffffff&}（女子）童貞シャウト
+Dialogue: 0,0:00:31.19,0:00:32.78,Default,,0,0,0,,{\c&Hffffff&}（玲奈(れな)）あ…\N（朋絵(ともえ)）あっ
+Dialogue: 0,0:00:36.53,0:00:37.91,Default,,0,0,0,,{\c&Hffffff&}（日南子(ひなこ)）フフッ\N（朋絵）あっ ああ…
+Dialogue: 0,0:00:37.99,0:00:38.70,Default,,0,0,0,,{\c&Hffffff&}（日南子）ヒュー ヒュー
+Dialogue: 0,0:00:42.29,0:00:43.71,Default,,0,0,0,,{\c&Hffffff&}（咲太）これは もう…
+Dialogue: 0,0:00:44.29,0:00:47.58,Default,,0,0,0,,{\c&Hffffff&}“先輩以上 恋人未満”\Nって雰囲気じゃないよな
+Dialogue: 0,0:00:48.50,0:00:52.51,Default,,0,0,0,,{\c&Hffffff&}夏休み中に自然消滅なんて\N信じてもらえるのか？
+Dialogue: 0,0:00:53.05,0:00:55.05,Default,,0,0,0,,{\an8\c&Hffffff&}♪～
+Dialogue: 0,0:02:20.93,0:02:22.93,Default,,0,0,0,,{\an8\c&Hffffff&}～♪
+Dialogue: 0,0:02:26.35,0:02:28.56,Default,,0,0,0,,{\an8\c&Hffffff&}（麻衣(まい)）こら！\Nよそ見するな
+Dialogue: 0,0:02:28.64,0:02:30.19,Default,,0,0,0,,{\an8\c&Hffffff&}試験勉強するわよ
+Dialogue: 0,0:02:30.27,0:02:33.61,Default,,0,0,0,,{\c&Hffffff&}（咲太）僕は赤点さえ\N回避できればいいんだけどな
+Dialogue: 0,0:02:33.69,0:02:36.53,Default,,0,0,0,,{\c&Hffffff&}（麻衣）咲太って\Nちゃんと進路は考えてるの？
+Dialogue: 0,0:02:36.61,0:02:38.82,Default,,0,0,0,,{\c&Hffffff&}将来は 麻衣さんと添い遂げたい
+Dialogue: 0,0:02:40.61,0:02:41.78,Default,,0,0,0,,{\c&Hffffff&}あ…
+Dialogue: 0,0:02:41.87,0:02:44.03,Default,,0,0,0,,{\c&Hffffff&}大学に行こうと考えています
+Dialogue: 0,0:02:44.66,0:02:45.62,Default,,0,0,0,,{\c&Hffffff&}麻衣さんは？
+Dialogue: 0,0:02:45.70,0:02:47.08,Default,,0,0,0,,{\c&Hffffff&}進学予定
+Dialogue: 0,0:02:47.16,0:02:49.21,Default,,0,0,0,,{\c&Hffffff&}仕事に専念するんじゃないんだ
+Dialogue: 0,0:02:49.29,0:02:51.50,Default,,0,0,0,,{\c&Hffffff&}しながらでも通えるでしょ？
+Dialogue: 0,0:02:51.58,0:02:53.96,Default,,0,0,0,,{\c&Hffffff&}横浜にある公立にしようと思ってる
+Dialogue: 0,0:02:54.04,0:02:55.67,Default,,0,0,0,,{\c&Hffffff&}麻衣さん 優秀だしね
+Dialogue: 0,0:02:55.75,0:02:58.84,Default,,0,0,0,,{\c&Hffffff&}咲太は 私と同じ大学に\N通いたいわよね？
+Dialogue: 0,0:02:58.92,0:03:00.30,Default,,0,0,0,,{\c&Hffffff&}可能なら…
+Dialogue: 0,0:03:00.38,0:03:02.43,Default,,0,0,0,,{\c&Hffffff&}なら しっかり勉強したいでしょ？
+Dialogue: 0,0:03:02.51,0:03:04.51,Default,,0,0,0,,{\c&Hffffff&}それは まあ…
+Dialogue: 0,0:03:04.60,0:03:06.76,Default,,0,0,0,,{\c&Hffffff&}何よ 煮えきらないわね
+Dialogue: 0,0:03:06.85,0:03:09.48,Default,,0,0,0,,{\c&Hffffff&}根本的な学力の問題もあるので
+Dialogue: 0,0:03:09.56,0:03:11.23,Default,,0,0,0,,{\c&Hffffff&}いまいち やる気が出ません
+Dialogue: 0,0:03:11.31,0:03:14.77,Default,,0,0,0,,{\c&Hffffff&}じゃあ“バニーガールの衣装で\N教えてあげる”って言ったら？
+Dialogue: 0,0:03:14.86,0:03:16.86,Default,,0,0,0,,{\c&Hffffff&}いろいろなやる気が出そうです！
+Dialogue: 0,0:03:17.44,0:03:18.32,Default,,0,0,0,,{\c&Hffffff&}あ…
+Dialogue: 0,0:03:24.74,0:03:25.45,Default,,0,0,0,,{\c&Hffffff&}何よ
+Dialogue: 0,0:03:25.53,0:03:28.75,Default,,0,0,0,,{\c&Hffffff&}まさか 本当に着てくれるとは\N思いませんでした
+Dialogue: 0,0:03:28.83,0:03:30.96,Default,,0,0,0,,{\c&Hffffff&}私じゃなくて 教科書を見なさい
+Dialogue: 0,0:03:31.04,0:03:32.67,Default,,0,0,0,,{\c&Hffffff&}どうしたの？　麻衣さん
+Dialogue: 0,0:03:32.75,0:03:33.50,Default,,0,0,0,,{\c&Hffffff&}何が？
+Dialogue: 0,0:03:33.58,0:03:36.34,Default,,0,0,0,,{\c&Hffffff&}あんまり怒らないし\N何かあった？
+Dialogue: 0,0:03:36.42,0:03:37.46,Default,,0,0,0,,{\c&Hffffff&}別に…
+Dialogue: 0,0:03:37.96,0:03:40.59,Default,,0,0,0,,{\c&Hffffff&}たまには 餌をあげたほうが\Nいいと思っただけよ
+Dialogue: 0,0:03:40.67,0:03:41.55,Default,,0,0,0,,{\c&Hffffff&}（咲太）何？
+Dialogue: 0,0:03:41.63,0:03:44.89,Default,,0,0,0,,{\c&Hffffff&}あの子のために ケンカまで\Nするとは思わなかったってこと
+Dialogue: 0,0:03:45.47,0:03:47.97,Default,,0,0,0,,{\c&Hffffff&}（咲太）\Nもしかして 月曜のあれ 見てた？
+Dialogue: 0,0:03:48.06,0:03:49.10,Default,,0,0,0,,{\c&Hffffff&}（麻衣）途中からね
+Dialogue: 0,0:03:49.18,0:03:51.98,Default,,0,0,0,,{\c&Hffffff&}あっ そうだ　靴洗いなさいよ
+Dialogue: 0,0:03:52.06,0:03:54.35,Default,,0,0,0,,{\c&Hffffff&}（咲太）うんこ踏んだっていうの\Nあれ ウソです
+Dialogue: 0,0:03:54.44,0:03:56.19,Default,,0,0,0,,{\c&Hffffff&}（麻衣）な～んだ つまんない
+Dialogue: 0,0:03:56.27,0:03:58.57,Default,,0,0,0,,{\c&Hffffff&}（咲太）要するに\N構ってほしかったんですか？
+Dialogue: 0,0:03:58.65,0:03:59.78,Default,,0,0,0,,{\c&Hffffff&}殴るわよ
+Dialogue: 0,0:03:59.86,0:04:01.15,Default,,0,0,0,,{\c&Hffffff&}（咲太）顔は やめて
+Dialogue: 0,0:04:01.24,0:04:04.78,Default,,0,0,0,,{\c&Hffffff&}ハア… さっさと\N私の機嫌を取りなさいよ
+Dialogue: 0,0:04:05.28,0:04:06.24,Default,,0,0,0,,{\c&Hffffff&}（咲太）麻衣さん
+Dialogue: 0,0:04:06.32,0:04:07.20,Default,,0,0,0,,{\c&Hffffff&}何？
+Dialogue: 0,0:04:07.28,0:04:08.45,Default,,0,0,0,,{\c&Hffffff&}好きです
+Dialogue: 0,0:04:08.53,0:04:11.33,Default,,0,0,0,,{\c&Hffffff&}（咲太）イテテテ…\N（麻衣）堂々と浮気するな
+Dialogue: 0,0:04:11.41,0:04:13.92,Default,,0,0,0,,{\c&Hffffff&}今は あの１年生の\N彼氏なんでしょ？
+Dialogue: 0,0:04:18.96,0:04:20.67,Default,,0,0,0,,{\c&Hffffff&}試験できたか？
+Dialogue: 0,0:04:20.76,0:04:23.09,Default,,0,0,0,,{\c&Hffffff&}あっ あんまり　先輩は？
+Dialogue: 0,0:04:23.17,0:04:24.84,Default,,0,0,0,,{\c&Hffffff&}（咲太）ばっちり\N（朋絵）できたの？
+Dialogue: 0,0:04:24.93,0:04:26.09,Default,,0,0,0,,{\c&Hffffff&}（咲太）できなかった
+Dialogue: 0,0:04:26.18,0:04:28.60,Default,,0,0,0,,{\c&Hffffff&}（朋絵）なんだ　先輩 仲間じゃん
+Dialogue: 0,0:04:32.02,0:04:34.85,Default,,0,0,0,,{\c&Hffffff&}（朋絵）玲奈ちゃんたちと\N海に行く約束してるの
+Dialogue: 0,0:04:34.94,0:04:37.48,Default,,0,0,0,,{\c&Hffffff&}あたし 学校の水着しか\N持ってなくて
+Dialogue: 0,0:04:37.56,0:04:39.32,Default,,0,0,0,,{\c&Hffffff&}（咲太）\N中学のでいいんじゃないか？
+Dialogue: 0,0:04:39.40,0:04:40.86,Default,,0,0,0,,{\c&Hffffff&}（朋絵）なんで戻るの
+Dialogue: 0,0:04:40.94,0:04:43.28,Default,,0,0,0,,{\c&Hffffff&}あっ これとか どうかな？
+Dialogue: 0,0:04:43.36,0:04:46.99,Default,,0,0,0,,{\c&Hffffff&}（咲太）僕は大量の詰め物を見て\N喜ぶ趣味はないな
+Dialogue: 0,0:04:47.07,0:04:49.24,Default,,0,0,0,,{\c&Hffffff&}先輩に見せるためじゃないし
+Dialogue: 0,0:04:49.33,0:04:51.16,Default,,0,0,0,,{\c&Hffffff&}（咲太）そういう水着はさあ…
+Dialogue: 0,0:04:51.24,0:04:53.58,Default,,0,0,0,,{\c&Hffffff&}あのくらいに成長してからにしろ
+Dialogue: 0,0:04:53.66,0:04:55.71,Default,,0,0,0,,{\c&Hffffff&}（朋絵）そんなの 一生無理！
+Dialogue: 0,0:04:56.29,0:04:58.92,Default,,0,0,0,,{\c&Hffffff&}っていうか そういう\N失礼なことばっか言ってると
+Dialogue: 0,0:04:59.00,0:05:00.92,Default,,0,0,0,,{\c&Hffffff&}桜島(さくらじま)先輩に嫌われるよ
+Dialogue: 0,0:05:01.00,0:05:03.55,Default,,0,0,0,,{\c&Hffffff&}言ったら確実に殴られるな
+Dialogue: 0,0:05:03.63,0:05:05.22,Default,,0,0,0,,{\c&Hffffff&}なんか うれしそう
+Dialogue: 0,0:05:05.84,0:05:08.59,Default,,0,0,0,,{\c&Hffffff&}桜島先輩とは海行ったりするの？
+Dialogue: 0,0:05:08.68,0:05:09.93,Default,,0,0,0,,{\c&Hffffff&}（咲太）どうかな
+Dialogue: 0,0:05:10.01,0:05:13.18,Default,,0,0,0,,{\c&Hffffff&}麻衣さんは芸能人だから\Nそういうのは無理かもな
+Dialogue: 0,0:05:13.27,0:05:16.10,Default,,0,0,0,,{\c&Hffffff&}あたし 先輩に協力してあげるね
+Dialogue: 0,0:05:16.19,0:05:18.27,Default,,0,0,0,,{\c&Hffffff&}桜島先輩と うまくいくように
+Dialogue: 0,0:05:18.35,0:05:21.40,Default,,0,0,0,,{\c&Hffffff&}（咲太）誰のせいで おつきあいが\N遠のいたと思ってんだよ
+Dialogue: 0,0:05:21.48,0:05:24.32,Default,,0,0,0,,{\c&Hffffff&}うっ…\Nだ… だから応援するんだよ
+Dialogue: 0,0:05:24.40,0:05:27.11,Default,,0,0,0,,{\c&Hffffff&}はいはい\N気持ちだけ もらっておくよ
+Dialogue: 0,0:05:28.91,0:05:29.66,Default,,0,0,0,,{\c&Hffffff&}（咲太）なあ 古賀(こが)
+Dialogue: 0,0:05:29.74,0:05:31.03,Default,,0,0,0,,{\c&Hffffff&}（朋絵）何？
+Dialogue: 0,0:05:31.12,0:05:33.70,Default,,0,0,0,,{\c&Hffffff&}（咲太）別れ方\N考えておいたほうがよくないか？
+Dialogue: 0,0:05:33.79,0:05:35.46,Default,,0,0,0,,{\c&Hffffff&}（朋絵）うん 分かってる
+Dialogue: 0,0:05:35.54,0:05:38.42,Default,,0,0,0,,{\c&Hffffff&}先輩の振り方なら\N考えてあるから安心して
+Dialogue: 0,0:05:38.50,0:05:40.50,Default,,0,0,0,,{\c&Hffffff&}待て 僕が振られるのか？
+Dialogue: 0,0:05:40.59,0:05:44.67,Default,,0,0,0,,{\c&Hffffff&}結局 先輩は\N桜島先輩に未練たらたらで
+Dialogue: 0,0:05:44.76,0:05:47.09,Default,,0,0,0,,{\c&Hffffff&}それに気付いたあたしに\N振られる設定
+Dialogue: 0,0:05:47.18,0:05:48.72,Default,,0,0,0,,{\c&Hffffff&}（咲太）微妙にリアルだな
+Dialogue: 0,0:05:48.80,0:05:50.68,Default,,0,0,0,,{\c&Hffffff&}（朋絵）\N“先輩なんて知らない！”って
+Dialogue: 0,0:05:50.76,0:05:52.35,Default,,0,0,0,,{\c&Hffffff&}最後は ひっぱたいたことにする
+Dialogue: 0,0:05:52.43,0:05:54.10,Default,,0,0,0,,{\c&Hffffff&}（咲太）それ 実演はしないよな？
+Dialogue: 0,0:05:54.18,0:05:55.56,Default,,0,0,0,,{\c&Hffffff&}（朋絵）リアリティーは大事
+Dialogue: 0,0:05:55.64,0:05:56.81,Default,,0,0,0,,{\c&Hffffff&}（咲太）やるのか…
+Dialogue: 0,0:05:56.89,0:05:59.40,Default,,0,0,0,,{\c&Hffffff&}終業式のあとは空けておいてね
+Dialogue: 0,0:05:59.48,0:06:02.52,Default,,0,0,0,,{\c&Hffffff&}海デートの帰りにケンカした\Nって想定だから
+Dialogue: 0,0:06:05.11,0:06:06.82,Default,,0,0,0,,{\c&Hffffff&}（かえで）お兄ちゃん 朝ですよ！
+Dialogue: 0,0:06:06.90,0:06:07.99,Default,,0,0,0,,{\c&Hffffff&}ん…
+Dialogue: 0,0:06:10.45,0:06:12.20,Default,,0,0,0,,{\c&Hffffff&}おはよう かえで
+Dialogue: 0,0:06:12.28,0:06:14.04,Default,,0,0,0,,{\c&Hffffff&}（かえで）おはようございます
+Dialogue: 0,0:06:15.37,0:06:16.33,Default,,0,0,0,,{\c&Hffffff&}（テレビ:男性アナ）\N今日は７月18日…
+Dialogue: 0,0:06:16.41,0:06:18.71,Default,,0,0,0,,{\c&Hffffff&}（かえで）明日から夏休みですね
+Dialogue: 0,0:06:18.79,0:06:20.92,Default,,0,0,0,,{\c&Hffffff&}夏といえば なんだろうな？
+Dialogue: 0,0:06:21.00,0:06:22.21,Default,,0,0,0,,{\c&Hffffff&}（かえで）スイカです！
+Dialogue: 0,0:06:22.29,0:06:23.84,Default,,0,0,0,,{\c&Hffffff&}じゃあ 今度 買ってくるか
+Dialogue: 0,0:06:23.92,0:06:25.55,Default,,0,0,0,,{\c&Hffffff&}丸いのがいいです
+Dialogue: 0,0:06:29.05,0:06:30.89,Default,,0,0,0,,{\c&Hffffff&}（国見(くにみ)）咲太 夏の予定は？
+Dialogue: 0,0:06:30.97,0:06:31.84,Default,,0,0,0,,{\c&Hffffff&}バイト
+Dialogue: 0,0:06:31.93,0:06:33.60,Default,,0,0,0,,{\c&Hffffff&}古賀さんもいるしな
+Dialogue: 0,0:06:33.68,0:06:34.51,Default,,0,0,0,,{\c&Hffffff&}国見は？
+Dialogue: 0,0:06:34.60,0:06:36.72,Default,,0,0,0,,{\c&Hffffff&}バイト 部活 デート
+Dialogue: 0,0:06:36.81,0:06:38.52,Default,,0,0,0,,{\c&Hffffff&}（咲太）青春長者め
+Dialogue: 0,0:06:38.60,0:06:40.48,Default,,0,0,0,,{\c&Hffffff&}（国見）人のこと言えないだろ
+Dialogue: 0,0:06:40.56,0:06:43.23,Default,,0,0,0,,{\c&Hffffff&}（校長）え～ いよいよ明日から
+Dialogue: 0,0:06:43.31,0:06:45.82,Default,,0,0,0,,{\c&Hffffff&}長い夏休みが始まります
+Dialogue: 0,0:06:46.32,0:06:49.15,Default,,0,0,0,,{\c&Hffffff&}そこで皆さんに\N２つのことをお願いします
+Dialogue: 0,0:06:49.24,0:06:51.57,Default,,0,0,0,,{\c&Hffffff&}（咲太）いよいよ 最後のデート
+Dialogue: 0,0:06:51.66,0:06:55.79,Default,,0,0,0,,{\c&Hffffff&}僕たちが全校生徒についたウソも\N今日で終わりだ
+Dialogue: 0,0:06:58.33,0:06:59.75,Default,,0,0,0,,{\c&Hffffff&}（駆けてくる足音）
+Dialogue: 0,0:06:59.83,0:07:02.79,Default,,0,0,0,,{\c&Hffffff&}（朋絵）\Nあっ 先輩のほうが早かった
+Dialogue: 0,0:07:07.05,0:07:09.72,Default,,0,0,0,,{\c&Hffffff&}水着 学校の更衣室で着てきたの
+Dialogue: 0,0:07:10.72,0:07:12.39,Default,,0,0,0,,{\c&Hffffff&}先輩 目がエロい
+Dialogue: 0,0:07:12.47,0:07:13.39,Default,,0,0,0,,{\c&Hffffff&}（咲太）知ってる
+Dialogue: 0,0:07:13.47,0:07:15.89,Default,,0,0,0,,{\c&Hffffff&}（朋絵）\Nあんまり見ないでって意味！
+Dialogue: 0,0:07:19.52,0:07:20.39,Default,,0,0,0,,{\c&Hffffff&}ん…
+Dialogue: 0,0:07:35.91,0:07:37.33,Default,,0,0,0,,{\c&Hffffff&}よし 泳ぐか
+Dialogue: 0,0:07:37.41,0:07:39.00,Default,,0,0,0,,{\c&Hffffff&}えっ 感想なし？
+Dialogue: 0,0:07:39.08,0:07:41.41,Default,,0,0,0,,{\c&Hffffff&}あんまり見てほしくないんだろ？
+Dialogue: 0,0:07:41.50,0:07:43.37,Default,,0,0,0,,{\c&Hffffff&}まっ かわいいと思うぞ
+Dialogue: 0,0:07:43.46,0:07:45.21,Default,,0,0,0,,{\c&Hffffff&}か… かわいいって言うな！
+Dialogue: 0,0:07:45.29,0:07:47.34,Default,,0,0,0,,{\c&Hffffff&}じゃあ なんて言ってほしいんだ？
+Dialogue: 0,0:07:47.92,0:07:50.13,Default,,0,0,0,,{\c&Hffffff&}か… かわいい かな
+Dialogue: 0,0:07:50.21,0:07:52.47,Default,,0,0,0,,{\c&Hffffff&}（咲太）古賀は情緒不安定なのか？
+Dialogue: 0,0:07:52.55,0:07:54.72,Default,,0,0,0,,{\c&Hffffff&}乙女心は そういうものなの！
+Dialogue: 0,0:07:54.80,0:07:56.14,Default,,0,0,0,,{\c&Hffffff&}いっちょん分からん
+Dialogue: 0,0:07:56.22,0:07:58.47,Default,,0,0,0,,{\c&Hffffff&}先輩 ホント ムカつく
+Dialogue: 0,0:07:58.56,0:07:59.81,Default,,0,0,0,,{\c&Hffffff&}（咲太）ムカつかれたから
+Dialogue: 0,0:07:59.89,0:08:02.39,Default,,0,0,0,,{\c&Hffffff&}僕は焼きとうもろこしでも\N食べるかな
+Dialogue: 0,0:08:02.89,0:08:04.40,Default,,0,0,0,,{\c&Hffffff&}（朋絵）あたしも行く！
+Dialogue: 0,0:08:14.61,0:08:15.36,Default,,0,0,0,,{\c&Hffffff&}（２人）アハハッ
+Dialogue: 0,0:08:15.45,0:08:16.45,Default,,0,0,0,,{\c&Hffffff&}（朋絵）それ！\N（咲太）ハハッ
+Dialogue: 0,0:08:16.53,0:08:18.58,Default,,0,0,0,,{\c&Hffffff&}アハハハッ！　うわあ！
+Dialogue: 0,0:08:19.54,0:08:22.25,Default,,0,0,0,,{\c&Hffffff&}（咲太）どっちの城が\N波に打ち勝つか 勝負な
+Dialogue: 0,0:08:22.33,0:08:24.71,Default,,0,0,0,,{\c&Hffffff&}（朋絵）\N負けたほうが かき氷 おごりね
+Dialogue: 0,0:08:27.08,0:08:27.92,Default,,0,0,0,,{\c&Hffffff&}（朋絵）ふ～ん
+Dialogue: 0,0:08:28.00,0:08:29.55,Default,,0,0,0,,{\c&Hffffff&}（咲太）尻に救われたな
+Dialogue: 0,0:08:29.63,0:08:31.55,Default,,0,0,0,,{\c&Hffffff&}（朋絵）う… うるさいな！
+Dialogue: 0,0:08:33.13,0:08:35.05,Default,,0,0,0,,{\c&Hffffff&}うお～っ おお…
+Dialogue: 0,0:08:35.13,0:08:37.55,Default,,0,0,0,,{\c&Hffffff&}アハハハハッ ハハッ
+Dialogue: 0,0:08:41.43,0:08:42.89,Default,,0,0,0,,{\c&Hffffff&}（朋絵）ねえ 先輩
+Dialogue: 0,0:08:42.98,0:08:44.85,Default,,0,0,0,,{\c&Hffffff&}（咲太）また 腹減ったのか？
+Dialogue: 0,0:08:45.48,0:08:47.06,Default,,0,0,0,,{\c&Hffffff&}（朋絵）今日まで ありがと
+Dialogue: 0,0:08:48.48,0:08:49.02,Default,,0,0,0,,{\c&Hffffff&}はい
+Dialogue: 0,0:08:49.52,0:08:50.07,Default,,0,0,0,,{\c&Hffffff&}（咲太）ん？
+Dialogue: 0,0:08:50.57,0:08:52.49,Default,,0,0,0,,{\c&Hffffff&}（朋絵）握手だよ\N（咲太）なんで？
+Dialogue: 0,0:08:52.99,0:08:54.20,Default,,0,0,0,,{\c&Hffffff&}お別れの
+Dialogue: 0,0:09:00.49,0:09:04.41,Default,,0,0,0,,{\c&Hffffff&}先輩は結局\N桜島先輩のことが好きで
+Dialogue: 0,0:09:04.50,0:09:07.17,Default,,0,0,0,,{\c&Hffffff&}あたしに愛想を尽かされ\N振られました
+Dialogue: 0,0:09:07.67,0:09:09.46,Default,,0,0,0,,{\c&Hffffff&}ビンタは しなくていいのか？
+Dialogue: 0,0:09:09.54,0:09:11.71,Default,,0,0,0,,{\c&Hffffff&}それは したことにしておく
+Dialogue: 0,0:09:12.21,0:09:15.72,Default,,0,0,0,,{\c&Hffffff&}ここで ひっぱたいたら\Nあたし 超恩知らずだし
+Dialogue: 0,0:09:15.80,0:09:18.47,Default,,0,0,0,,{\c&Hffffff&}そっか　まあ なら…
+Dialogue: 0,0:09:19.05,0:09:20.72,Default,,0,0,0,,{\c&Hffffff&}（咲太）お疲れ\N（朋絵）うん
+Dialogue: 0,0:09:22.10,0:09:23.81,Default,,0,0,0,,{\c&Hffffff&}（咲太）いい夏休みをな
+Dialogue: 0,0:09:23.89,0:09:24.68,Default,,0,0,0,,{\c&Hffffff&}（朋絵）先輩も
+Dialogue: 0,0:09:25.31,0:09:27.77,Default,,0,0,0,,{\c&Hffffff&}桜島先輩と つきあえるといいね
+Dialogue: 0,0:09:27.85,0:09:31.27,Default,,0,0,0,,{\c&Hffffff&}フッ… まあ 気長にやるよ
+Dialogue: 0,0:09:37.70,0:09:39.41,Default,,0,0,0,,{\c&Hffffff&}お兄ちゃん 朝ですよ
+Dialogue: 0,0:09:39.49,0:09:40.62,Default,,0,0,0,,{\c&Hffffff&}ん…
+Dialogue: 0,0:09:41.28,0:09:42.87,Default,,0,0,0,,{\c&Hffffff&}あのな かえで…
+Dialogue: 0,0:09:42.95,0:09:43.66,Default,,0,0,0,,{\c&Hffffff&}（かえで）はい！
+Dialogue: 0,0:09:44.16,0:09:47.42,Default,,0,0,0,,{\c&Hffffff&}世の中には\N夏休みというものがあるんだぞ
+Dialogue: 0,0:09:47.50,0:09:50.54,Default,,0,0,0,,{\c&Hffffff&}でも 夏休みは明日からですよね？
+Dialogue: 0,0:09:50.63,0:09:52.04,Default,,0,0,0,,{\c&Hffffff&}（咲太）いや 今日だろ
+Dialogue: 0,0:09:52.13,0:09:53.71,Default,,0,0,0,,{\c&Hffffff&}いえ 明日です
+Dialogue: 0,0:09:54.80,0:09:55.55,Default,,0,0,0,,{\c&Hffffff&}（咲太）ハッ…
+Dialogue: 0,0:10:00.01,0:10:01.10,Default,,0,0,0,,{\c&Hffffff&}（かえで）お兄ちゃん？
+Dialogue: 0,0:10:02.14,0:10:04.27,Default,,0,0,0,,{\an8\c&Hffffff&}（咲太）かえで\Nスイカ食べたいか？
+Dialogue: 0,0:10:04.35,0:10:06.18,Default,,0,0,0,,{\an8\c&Hffffff&}えっ 食べたいです
+Dialogue: 0,0:10:06.27,0:10:08.35,Default,,0,0,0,,{\an8\c&Hffffff&}丸いのを\N今度 買ってくるよ
+Dialogue: 0,0:10:09.40,0:10:12.27,Default,,0,0,0,,{\c&Hffffff&}（朋絵）へえ～\Nあっ このアプリ？
+Dialogue: 0,0:10:12.36,0:10:13.77,Default,,0,0,0,,{\c&Hffffff&}（亜矢(あや)）どれどれ？
+Dialogue: 0,0:10:13.86,0:10:15.03,Default,,0,0,0,,{\c&Hffffff&}（玲奈）朋絵\N（朋絵）あっ…
+Dialogue: 0,0:10:16.82,0:10:19.03,Default,,0,0,0,,{\c&Hffffff&}（朋絵）急に教室に来られると困る
+Dialogue: 0,0:10:19.11,0:10:21.82,Default,,0,0,0,,{\c&Hffffff&}悪いとは思ったが しかたないだろ
+Dialogue: 0,0:10:21.91,0:10:23.53,Default,,0,0,0,,{\c&Hffffff&}なんか マズいことあったのか？
+Dialogue: 0,0:10:23.62,0:10:24.41,Default,,0,0,0,,{\c&Hffffff&}なんで？
+Dialogue: 0,0:10:24.49,0:10:27.25,Default,,0,0,0,,{\c&Hffffff&}なんでって…\Nまたループしただろ？
+Dialogue: 0,0:10:27.33,0:10:28.04,Default,,0,0,0,,{\c&Hffffff&}（朋絵）えっ？
+Dialogue: 0,0:10:28.12,0:10:29.83,Default,,0,0,0,,{\c&Hffffff&}今日 ２回目だよな？
+Dialogue: 0,0:10:29.92,0:10:30.75,Default,,0,0,0,,{\c&Hffffff&}（朋絵）ううん
+Dialogue: 0,0:10:30.83,0:10:33.21,Default,,0,0,0,,{\c&Hffffff&}ちょっと待て\N古賀は１回目なのか？
+Dialogue: 0,0:10:33.29,0:10:34.21,Default,,0,0,0,,{\c&Hffffff&}うん
+Dialogue: 0,0:10:34.30,0:10:36.13,Default,,0,0,0,,{\c&Hffffff&}（チャイム）
+Dialogue: 0,0:10:36.21,0:10:39.26,Default,,0,0,0,,{\c&Hffffff&}分かった\N一旦 今のは忘れてくれ
+Dialogue: 0,0:10:39.34,0:10:40.43,Default,,0,0,0,,{\c&Hffffff&}放課後は？
+Dialogue: 0,0:10:40.51,0:10:42.93,Default,,0,0,0,,{\c&Hffffff&}予定どおりでいい\Nあとでな
+Dialogue: 0,0:10:44.72,0:10:45.85,Default,,0,0,0,,{\c&Hffffff&}（咲太）どう思う？
+Dialogue: 0,0:10:45.93,0:10:48.56,Default,,0,0,0,,{\an8\c&Hffffff&}（理央(りお)）\N梓川(あずさがわ) 頭は大丈夫？
+Dialogue: 0,0:10:48.64,0:10:50.06,Default,,0,0,0,,{\an8\c&Hffffff&}どういう意味だ？
+Dialogue: 0,0:10:50.14,0:10:53.40,Default,,0,0,0,,{\an8\c&Hffffff&}小学生でも分かるような\N質問をしてきたから
+Dialogue: 0,0:10:54.98,0:10:58.40,Default,,0,0,0,,{\c&Hffffff&}梓川が考えたとおり その１年生…
+Dialogue: 0,0:10:58.49,0:10:59.74,Default,,0,0,0,,{\c&Hffffff&}（咲太）古賀朋絵な
+Dialogue: 0,0:10:59.82,0:11:01.61,Default,,0,0,0,,{\c&Hffffff&}（理央）\Nその子がラプラスの悪魔なら
+Dialogue: 0,0:11:01.70,0:11:03.28,Default,,0,0,0,,{\c&Hffffff&}答えは簡単でしょ
+Dialogue: 0,0:11:03.37,0:11:04.62,Default,,0,0,0,,{\c&Hffffff&}（咲太）簡単か？
+Dialogue: 0,0:11:04.70,0:11:07.20,Default,,0,0,0,,{\c&Hffffff&}（理央）７月18日と19日に
+Dialogue: 0,0:11:07.29,0:11:09.91,Default,,0,0,0,,{\c&Hffffff&}何か決定的な違いが\Nあるんじゃないの？
+Dialogue: 0,0:11:10.00,0:11:14.17,Default,,0,0,0,,{\c&Hffffff&}例えば 梓川との関係性が\N変わってしまうとか
+Dialogue: 0,0:11:15.67,0:11:18.13,Default,,0,0,0,,{\c&Hffffff&}ホントは梓川も\N気付いてるんじゃないの？
+Dialogue: 0,0:11:18.21,0:11:19.30,Default,,0,0,0,,{\c&Hffffff&}なんにだよ
+Dialogue: 0,0:11:19.88,0:11:22.55,Default,,0,0,0,,{\c&Hffffff&}彼女が再び\Nサイコロを振りだした理由
+Dialogue: 0,0:11:24.22,0:11:26.47,Default,,0,0,0,,{\c&Hffffff&}ただ 今回に関して言えば
+Dialogue: 0,0:11:26.56,0:11:29.52,Default,,0,0,0,,{\c&Hffffff&}古賀は 今日が２回目だって\N気付いてないんだよ
+Dialogue: 0,0:11:29.60,0:11:32.23,Default,,0,0,0,,{\c&Hffffff&}（理央）\Nだとしたら 梓川が悪魔なのかもね
+Dialogue: 0,0:11:32.31,0:11:33.44,Default,,0,0,0,,{\c&Hffffff&}僕は違う
+Dialogue: 0,0:11:33.52,0:11:36.44,Default,,0,0,0,,{\an8\c&Hffffff&}なら やっぱり\N可能性はひとつしかない
+Dialogue: 0,0:11:37.02,0:11:38.11,Default,,0,0,0,,{\c&Hffffff&}ひとつか…
+Dialogue: 0,0:11:38.19,0:11:38.94,Default,,0,0,0,,{\c&Hffffff&}（理央）そう
+Dialogue: 0,0:11:39.53,0:11:41.49,Default,,0,0,0,,{\c&Hffffff&}彼女はウソをついている
+Dialogue: 0,0:11:44.03,0:11:45.45,Default,,0,0,0,,{\c&Hffffff&}（駆けてくる足音）
+Dialogue: 0,0:11:45.53,0:11:48.37,Default,,0,0,0,,{\c&Hffffff&}（朋絵）\Nあっ 先輩のほうが早かった
+Dialogue: 0,0:11:52.75,0:11:55.50,Default,,0,0,0,,{\c&Hffffff&}水着 学校の更衣室で着てきたの
+Dialogue: 0,0:11:56.50,0:11:58.25,Default,,0,0,0,,{\c&Hffffff&}先輩 目がエロい
+Dialogue: 0,0:12:05.64,0:12:06.93,Default,,0,0,0,,{\c&Hffffff&}（朋絵）それ！\N（咲太）ハハッ
+Dialogue: 0,0:12:07.01,0:12:08.31,Default,,0,0,0,,{\c&Hffffff&}（２人の笑い声）
+Dialogue: 0,0:12:10.14,0:12:11.81,Default,,0,0,0,,{\c&Hffffff&}うお～っ おお…
+Dialogue: 0,0:12:11.89,0:12:13.81,Default,,0,0,0,,{\c&Hffffff&}アハハハハッ ハハッ
+Dialogue: 0,0:12:16.98,0:12:18.57,Default,,0,0,0,,{\c&Hffffff&}今日まで ありがと
+Dialogue: 0,0:12:27.66,0:12:29.03,Default,,0,0,0,,{\c&Hffffff&}よし 泳ぐか
+Dialogue: 0,0:12:29.12,0:12:30.79,Default,,0,0,0,,{\c&Hffffff&}えっ 感想なし？
+Dialogue: 0,0:12:33.87,0:12:35.08,Default,,0,0,0,,{\c&Hffffff&}（２人の笑い声）
+Dialogue: 0,0:12:37.21,0:12:38.09,Default,,0,0,0,,{\c&Hffffff&}おお…
+Dialogue: 0,0:12:38.17,0:12:39.84,Default,,0,0,0,,{\c&Hffffff&}アハハハハッ ハハッ
+Dialogue: 0,0:12:40.71,0:12:42.34,Default,,0,0,0,,{\c&Hffffff&}今日まで ありがと
+Dialogue: 0,0:12:45.18,0:12:46.89,Default,,0,0,0,,{\c&Hffffff&}お兄ちゃん 朝ですよ
+Dialogue: 0,0:12:51.93,0:12:53.10,Default,,0,0,0,,{\c&Hffffff&}（咲太）ん…
+Dialogue: 0,0:12:57.10,0:12:58.23,Default,,0,0,0,,{\c&Hffffff&}なあ 国見
+Dialogue: 0,0:12:58.31,0:12:59.23,Default,,0,0,0,,{\c&Hffffff&}（国見）ん？
+Dialogue: 0,0:12:59.32,0:13:00.44,Default,,0,0,0,,{\c&Hffffff&}彼女 いるよな？
+Dialogue: 0,0:13:00.94,0:13:02.49,Default,,0,0,0,,{\c&Hffffff&}ありがたいことにな
+Dialogue: 0,0:13:03.11,0:13:05.07,Default,,0,0,0,,{\c&Hffffff&}（咲太）\Nそんなお前に思いを寄せている⸺
+Dialogue: 0,0:13:05.15,0:13:07.03,Default,,0,0,0,,{\c&Hffffff&}ほかの女子がいたら どうする？
+Dialogue: 0,0:13:08.12,0:13:11.49,Default,,0,0,0,,{\c&Hffffff&}その子の気持ちに気付いたら\N国見は どうするんだ？
+Dialogue: 0,0:13:11.58,0:13:13.45,Default,,0,0,0,,{\c&Hffffff&}それ 誰のこと言ってんだよ
+Dialogue: 0,0:13:13.54,0:13:15.08,Default,,0,0,0,,{\c&Hffffff&}例えばの話
+Dialogue: 0,0:13:15.54,0:13:17.29,Default,,0,0,0,,{\c&Hffffff&}（国見）例えばねえ…
+Dialogue: 0,0:13:18.13,0:13:20.54,Default,,0,0,0,,{\c&Hffffff&}俺が気付いてること\Nバレてんのかな？
+Dialogue: 0,0:13:20.63,0:13:22.42,Default,,0,0,0,,{\c&Hffffff&}（咲太）今は まだ気付いてない
+Dialogue: 0,0:13:22.51,0:13:24.01,Default,,0,0,0,,{\c&Hffffff&}（国見）今はね…
+Dialogue: 0,0:13:25.26,0:13:26.97,Default,,0,0,0,,{\c&Hffffff&}本人が胸に秘めた思いを
+Dialogue: 0,0:13:27.05,0:13:29.26,Default,,0,0,0,,{\c&Hffffff&}無理やり 引っ張り出させる\Nっていうのは
+Dialogue: 0,0:13:29.35,0:13:31.31,Default,,0,0,0,,{\c&Hffffff&}正直 抵抗あるよな
+Dialogue: 0,0:13:31.81,0:13:35.39,Default,,0,0,0,,{\c&Hffffff&}自意識過剰って気もするし\N俺って何様だよって
+Dialogue: 0,0:13:35.89,0:13:38.69,Default,,0,0,0,,{\c&Hffffff&}けど このままでいいとも\N思ってない
+Dialogue: 0,0:13:39.36,0:13:40.94,Default,,0,0,0,,{\c&Hffffff&}どうするのが正解なんだ？
+Dialogue: 0,0:13:41.02,0:13:42.78,Default,,0,0,0,,{\c&Hffffff&}聞いたのは僕だ
+Dialogue: 0,0:13:43.28,0:13:45.78,Default,,0,0,0,,{\c&Hffffff&}（校長）え～ いよいよ明日から
+Dialogue: 0,0:13:45.86,0:13:48.28,Default,,0,0,0,,{\c&Hffffff&}長い夏休みが始まります
+Dialogue: 0,0:13:49.16,0:13:49.99,Default,,0,0,0,,{\c&Hffffff&}あっ…
+Dialogue: 0,0:13:52.99,0:13:54.95,Default,,0,0,0,,{\c&Hffffff&}（咲太）古賀はウソをついている
+Dialogue: 0,0:13:59.38,0:14:01.92,Default,,0,0,0,,{\c&Hffffff&}（朋絵）先輩？　海 こっちだよ
+Dialogue: 0,0:14:02.00,0:14:04.38,Default,,0,0,0,,{\c&Hffffff&}（咲太）僕は今日が４度目なんだよ
+Dialogue: 0,0:14:04.46,0:14:06.34,Default,,0,0,0,,{\c&Hffffff&}海は飽きたってこと？
+Dialogue: 0,0:14:06.42,0:14:08.76,Default,,0,0,0,,{\c&Hffffff&}古賀は空気が読めて助かる
+Dialogue: 0,0:14:09.64,0:14:11.05,Default,,0,0,0,,{\c&Hffffff&}（朋絵）江の島に行くの？
+Dialogue: 0,0:14:11.14,0:14:13.60,Default,,0,0,0,,{\c&Hffffff&}（咲太）\N最初のデートで行きそびれただろ？
+Dialogue: 0,0:14:38.46,0:14:39.62,Default,,0,0,0,,{\c&Hffffff&}（２人）ハア…
+Dialogue: 0,0:14:39.71,0:14:41.54,Default,,0,0,0,,{\c&Hffffff&}（朋絵）ハア～ 足 パンパン
+Dialogue: 0,0:14:41.63,0:14:43.04,Default,,0,0,0,,{\c&Hffffff&}（咲太）１年生のくせに
+Dialogue: 0,0:14:43.13,0:14:44.88,Default,,0,0,0,,{\c&Hffffff&}（朋絵）何 その理屈
+Dialogue: 0,0:14:44.96,0:14:45.96,Default,,0,0,0,,{\c&Hffffff&}（かしわ手）
+Dialogue: 0,0:14:49.51,0:14:52.64,Default,,0,0,0,,{\c&Hffffff&}（咲太）縁結びの絵馬だってさ\N書いていくか
+Dialogue: 0,0:14:52.72,0:14:55.01,Default,,0,0,0,,{\c&Hffffff&}（朋絵）えっ 神様にウソつくの？
+Dialogue: 0,0:14:55.85,0:14:58.27,Default,,0,0,0,,{\c&Hffffff&}せ… 先輩 罰当たりだって
+Dialogue: 0,0:14:58.35,0:15:00.48,Default,,0,0,0,,{\c&Hffffff&}みんなをだますって決めた時点で
+Dialogue: 0,0:15:00.56,0:15:03.11,Default,,0,0,0,,{\c&Hffffff&}地獄に落ちる覚悟はできてんだろ？
+Dialogue: 0,0:15:03.19,0:15:04.86,Default,,0,0,0,,{\c&Hffffff&}（咲太）ほら\N（朋絵）あ…
+Dialogue: 0,0:15:10.07,0:15:12.03,Default,,0,0,0,,{\c&Hffffff&}あたしは いいけど…
+Dialogue: 0,0:15:14.24,0:15:15.78,Default,,0,0,0,,{\c&Hffffff&}あっ… ええ？
+Dialogue: 0,0:15:15.87,0:15:17.29,Default,,0,0,0,,{\c&Hffffff&}ちょっと 先輩？
+Dialogue: 0,0:15:17.37,0:15:20.04,Default,,0,0,0,,{\c&Hffffff&}みんなのホントのお願いの中に\Nウソを交ぜたら
+Dialogue: 0,0:15:20.12,0:15:21.46,Default,,0,0,0,,{\c&Hffffff&}罰が当たるって
+Dialogue: 0,0:15:21.54,0:15:22.92,Default,,0,0,0,,{\c&Hffffff&}あたし 持ってかえるから
+Dialogue: 0,0:15:23.00,0:15:26.13,Default,,0,0,0,,{\c&Hffffff&}ウソをついてるのは僕だけだから\N平気だろ
+Dialogue: 0,0:15:26.21,0:15:27.05,Default,,0,0,0,,{\c&Hffffff&}えっ？
+Dialogue: 0,0:15:30.30,0:15:32.09,Default,,0,0,0,,{\c&Hffffff&}（朋絵）先輩\N（咲太）ん？
+Dialogue: 0,0:15:32.18,0:15:33.43,Default,,0,0,0,,{\c&Hffffff&}（朋絵）さっきの…
+Dialogue: 0,0:15:34.97,0:15:36.14,Default,,0,0,0,,{\c&Hffffff&}なんでもない
+Dialogue: 0,0:15:37.22,0:15:40.35,Default,,0,0,0,,{\c&Hffffff&}ねえ 先輩\N今からでも 海行かない？
+Dialogue: 0,0:15:40.43,0:15:42.39,Default,,0,0,0,,{\c&Hffffff&}あたし この下 水着だし
+Dialogue: 0,0:15:44.23,0:15:45.23,Default,,0,0,0,,{\c&Hffffff&}先輩？
+Dialogue: 0,0:15:45.31,0:15:47.73,Default,,0,0,0,,{\c&Hffffff&}（咲太）古賀 もうウソは終わりだ
+Dialogue: 0,0:15:47.82,0:15:50.44,Default,,0,0,0,,{\c&Hffffff&}えっ？　ああ… うん\N今日までだしね
+Dialogue: 0,0:15:50.53,0:15:51.99,Default,,0,0,0,,{\c&Hffffff&}（咲太）そうじゃない\N（朋絵）あ…
+Dialogue: 0,0:15:52.49,0:15:54.28,Default,,0,0,0,,{\c&Hffffff&}顔 なんか怖いよ？
+Dialogue: 0,0:15:55.49,0:15:57.37,Default,,0,0,0,,{\c&Hffffff&}何？　どうしたの？
+Dialogue: 0,0:15:57.87,0:15:59.83,Default,,0,0,0,,{\c&Hffffff&}僕が気付かないと思ったか？
+Dialogue: 0,0:15:59.91,0:16:01.79,Default,,0,0,0,,{\c&Hffffff&}だから なんの話？
+Dialogue: 0,0:16:02.37,0:16:05.67,Default,,0,0,0,,{\c&Hffffff&}（咲太）ウソでも\N約３週間 恋人やってたんだぞ
+Dialogue: 0,0:16:06.67,0:16:09.88,Default,,0,0,0,,{\c&Hffffff&}僕は空気が読めているくせに\N読まないんだ
+Dialogue: 0,0:16:12.55,0:16:14.51,Default,,0,0,0,,{\c&Hffffff&}古賀が言わなくても 僕は言う
+Dialogue: 0,0:16:15.64,0:16:17.89,Default,,0,0,0,,{\c&Hffffff&}古賀が 何度\Nサイコロを振り直しても
+Dialogue: 0,0:16:17.97,0:16:19.43,Default,,0,0,0,,{\c&Hffffff&}人の気持ちは変わらない
+Dialogue: 0,0:16:19.93,0:16:21.43,Default,,0,0,0,,{\c&Hffffff&}ウソは本当にならないし
+Dialogue: 0,0:16:22.02,0:16:23.85,Default,,0,0,0,,{\c&Hffffff&}本当はウソにならないんだ
+Dialogue: 0,0:16:26.19,0:16:27.73,Default,,0,0,0,,{\c&Hffffff&}（朋絵）100回やっても？
+Dialogue: 0,0:16:27.82,0:16:28.44,Default,,0,0,0,,{\c&Hffffff&}（咲太）ああ
+Dialogue: 0,0:16:29.11,0:16:30.53,Default,,0,0,0,,{\c&Hffffff&}（朋絵）1000回やっても？
+Dialogue: 0,0:16:30.61,0:16:31.49,Default,,0,0,0,,{\c&Hffffff&}そうだ
+Dialogue: 0,0:16:31.57,0:16:32.82,Default,,0,0,0,,{\c&Hffffff&}（朋絵）１万回でも？
+Dialogue: 0,0:16:32.90,0:16:35.11,Default,,0,0,0,,{\c&Hffffff&}１億回やっても変わらない
+Dialogue: 0,0:16:35.20,0:16:36.95,Default,,0,0,0,,{\c&Hffffff&}僕が好きなのは麻衣さんだ
+Dialogue: 0,0:16:37.66,0:16:39.41,Default,,0,0,0,,{\c&Hffffff&}同じことを繰り返しても
+Dialogue: 0,0:16:39.49,0:16:41.83,Default,,0,0,0,,{\c&Hffffff&}古賀の気持ちだって\Nずっと そのままだ
+Dialogue: 0,0:16:49.38,0:16:53.51,Default,,0,0,0,,{\c&Hffffff&}先輩 ウソつきだよ\N気持ちは変わるよ
+Dialogue: 0,0:16:54.01,0:16:56.34,Default,,0,0,0,,{\c&Hffffff&}繰り返した分だけ\N積み重なっていく…
+Dialogue: 0,0:16:56.84,0:16:58.55,Default,,0,0,0,,{\c&Hffffff&}積み重なっていった
+Dialogue: 0,0:16:59.93,0:17:03.85,Default,,0,0,0,,{\c&Hffffff&}忘れようって決めて\Nなのに 忘れられなくて
+Dialogue: 0,0:17:04.35,0:17:07.23,Default,,0,0,0,,{\c&Hffffff&}今度こそ忘れようと思ったのに\Nダメだった
+Dialogue: 0,0:17:07.73,0:17:10.57,Default,,0,0,0,,{\c&Hffffff&}この気持ちと さよならしよう\Nって決めたのに
+Dialogue: 0,0:17:12.11,0:17:16.11,Default,,0,0,0,,{\c&Hffffff&}今日はね 先輩と\N楽しく最後のデートをして
+Dialogue: 0,0:17:16.61,0:17:19.78,Default,,0,0,0,,{\c&Hffffff&}ウソの恋人を\N笑顔で終わらせなきゃいけないの
+Dialogue: 0,0:17:20.28,0:17:24.12,Default,,0,0,0,,{\c&Hffffff&}そして 先輩は\N桜島先輩と うまくいって
+Dialogue: 0,0:17:24.20,0:17:26.04,Default,,0,0,0,,{\c&Hffffff&}２学期になったら あたしは
+Dialogue: 0,0:17:26.12,0:17:27.00,Default,,0,0,0,,{\c&Hffffff&}“よかったね”って
+Dialogue: 0,0:17:27.08,0:17:29.75,Default,,0,0,0,,{\c&Hffffff&}少し意地悪く\N先輩をからかうんだよ
+Dialogue: 0,0:17:30.54,0:17:32.80,Default,,0,0,0,,{\c&Hffffff&}それで 先輩と友達になるの
+Dialogue: 0,0:17:33.30,0:17:37.68,Default,,0,0,0,,{\c&Hffffff&}仲良く なんでも話せて\Nちょっと甘えられる年上の友達
+Dialogue: 0,0:17:38.18,0:17:39.64,Default,,0,0,0,,{\c&Hffffff&}今までのことも
+Dialogue: 0,0:17:39.72,0:17:43.14,Default,,0,0,0,,{\c&Hffffff&}“ウソの恋人ごっこ\N結構 楽しかったね”って
+Dialogue: 0,0:17:43.22,0:17:44.64,Default,,0,0,0,,{\c&Hffffff&}思い出話にして
+Dialogue: 0,0:17:44.73,0:17:46.98,Default,,0,0,0,,{\c&Hffffff&}これからも ずっと\N仲良くするんだから
+Dialogue: 0,0:17:48.10,0:17:49.61,Default,,0,0,0,,{\c&Hffffff&}するんだから…
+Dialogue: 0,0:17:50.73,0:17:52.86,Default,,0,0,0,,{\c&Hffffff&}あたしが望んでいるのは それだけ
+Dialogue: 0,0:17:53.36,0:17:55.90,Default,,0,0,0,,{\c&Hffffff&}特別な何かを\N欲しがっているわけじゃない
+Dialogue: 0,0:17:56.40,0:17:57.91,Default,,0,0,0,,{\c&Hffffff&}わがままだって言ってない
+Dialogue: 0,0:17:58.49,0:18:01.07,Default,,0,0,0,,{\c&Hffffff&}誰にも迷惑だって かけてないよ？
+Dialogue: 0,0:18:01.87,0:18:02.62,Default,,0,0,0,,{\c&Hffffff&}なのに…
+Dialogue: 0,0:18:03.66,0:18:04.58,Default,,0,0,0,,{\c&Hffffff&}なのに…
+Dialogue: 0,0:18:05.50,0:18:07.83,Default,,0,0,0,,{\c&Hffffff&}どうして\N明日になってくれないの！
+Dialogue: 0,0:18:07.92,0:18:11.67,Default,,0,0,0,,{\c&Hffffff&}なんで 朝起きると 昨日よりも\N気持ちが大きくなってるの？
+Dialogue: 0,0:18:12.25,0:18:13.42,Default,,0,0,0,,{\c&Hffffff&}こんなの ひどいよ
+Dialogue: 0,0:18:13.92,0:18:16.30,Default,,0,0,0,,{\c&Hffffff&}なかったことにするって\N決めたのに
+Dialogue: 0,0:18:16.38,0:18:17.84,Default,,0,0,0,,{\c&Hffffff&}そんなことしなくていい
+Dialogue: 0,0:18:17.93,0:18:19.34,Default,,0,0,0,,{\c&Hffffff&}しなきゃダメ！
+Dialogue: 0,0:18:19.43,0:18:22.60,Default,,0,0,0,,{\c&Hffffff&}だって 先輩は\N桜島先輩のことが好きじゃん！
+Dialogue: 0,0:18:22.68,0:18:24.26,Default,,0,0,0,,{\c&Hffffff&}あたしなんか迷惑でしょ？
+Dialogue: 0,0:18:24.85,0:18:27.18,Default,,0,0,0,,{\c&Hffffff&}こんな気持ち\N友達は持ってないもん
+Dialogue: 0,0:18:27.27,0:18:29.52,Default,,0,0,0,,{\c&Hffffff&}友達にはない感情だもん！
+Dialogue: 0,0:18:29.60,0:18:31.86,Default,,0,0,0,,{\c&Hffffff&}僕が いつ迷惑だって言った？
+Dialogue: 0,0:18:31.94,0:18:34.53,Default,,0,0,0,,{\c&Hffffff&}あっ… ひどいよ
+Dialogue: 0,0:18:35.28,0:18:37.69,Default,,0,0,0,,{\c&Hffffff&}先輩なんて嫌い 大嫌い！
+Dialogue: 0,0:18:37.78,0:18:41.11,Default,,0,0,0,,{\c&Hffffff&}先輩が いけないんじゃん！\Nあたしに いっぱい優しくしたから
+Dialogue: 0,0:18:41.20,0:18:42.66,Default,,0,0,0,,{\c&Hffffff&}そうだよ
+Dialogue: 0,0:18:42.74,0:18:45.20,Default,,0,0,0,,{\c&Hffffff&}だから 僕に\N気を遣う必要なんてないんだ
+Dialogue: 0,0:18:45.70,0:18:47.25,Default,,0,0,0,,{\c&Hffffff&}（朋絵）こんなあたしも大嫌い
+Dialogue: 0,0:18:47.33,0:18:48.79,Default,,0,0,0,,{\c&Hffffff&}こんなの あたしじゃない！
+Dialogue: 0,0:18:48.87,0:18:51.38,Default,,0,0,0,,{\c&Hffffff&}いいや 古賀だよ\Nそれも古賀だ
+Dialogue: 0,0:18:51.46,0:18:54.04,Default,,0,0,0,,{\c&Hffffff&}違う！\Nこれは あたしじゃないよ
+Dialogue: 0,0:18:54.13,0:18:56.34,Default,,0,0,0,,{\c&Hffffff&}あたしは夏休みが来てほしい
+Dialogue: 0,0:18:56.42,0:18:59.38,Default,,0,0,0,,{\c&Hffffff&}早く先輩と友達になって\N楽しく笑いたい
+Dialogue: 0,0:18:59.47,0:19:00.84,Default,,0,0,0,,{\c&Hffffff&}それしか望んでない！
+Dialogue: 0,0:19:00.93,0:19:03.35,Default,,0,0,0,,{\c&Hffffff&}もう自分にウソをつくのは やめろ
+Dialogue: 0,0:19:03.43,0:19:04.47,Default,,0,0,0,,{\c&Hffffff&}ハッ…
+Dialogue: 0,0:19:05.18,0:19:07.64,Default,,0,0,0,,{\c&Hffffff&}お前は正義の女子高生だろ？
+Dialogue: 0,0:19:08.14,0:19:09.85,Default,,0,0,0,,{\c&Hffffff&}古賀に できないことなんてない
+Dialogue: 0,0:19:09.94,0:19:13.36,Default,,0,0,0,,{\c&Hffffff&}ずるい… ずるいよ そんな言い方
+Dialogue: 0,0:19:14.27,0:19:17.48,Default,,0,0,0,,{\c&Hffffff&}だからさ\Nもう我慢しなくていいんだ
+Dialogue: 0,0:19:20.11,0:19:21.95,Default,,0,0,0,,{\c&Hffffff&}先輩のバカ！　バカ！
+Dialogue: 0,0:19:22.03,0:19:23.99,Default,,0,0,0,,{\c&Hffffff&}嫌い！　大嫌い
+Dialogue: 0,0:19:24.49,0:19:26.87,Default,,0,0,0,,{\c&Hffffff&}でも… でも…
+Dialogue: 0,0:19:28.20,0:19:29.29,Default,,0,0,0,,{\c&Hffffff&}好き
+Dialogue: 0,0:19:30.46,0:19:32.83,Default,,0,0,0,,{\c&Hffffff&}あたしは先輩が好き
+Dialogue: 0,0:19:33.33,0:19:34.46,Default,,0,0,0,,{\c&Hffffff&}（息を吸う音）
+Dialogue: 0,0:19:34.54,0:19:38.55,Default,,0,0,0,,{\c&Hffffff&}（朋絵）大好き～！
+Dialogue: 0,0:19:42.05,0:19:44.64,Default,,0,0,0,,{\c&Hffffff&}（咲太）古賀 よく頑張ったな
+Dialogue: 0,0:19:46.05,0:19:47.51,Default,,0,0,0,,{\c&Hffffff&}ホント 頑張った
+Dialogue: 0,0:19:49.35,0:19:51.94,Default,,0,0,0,,{\c&Hffffff&}うっ うう…
+Dialogue: 0,0:19:52.02,0:19:57.19,Default,,0,0,0,,{\c&Hffffff&}（泣き声）
+Dialogue: 0,0:20:00.82,0:20:03.24,Default,,0,0,0,,{\c&Hffffff&}（鳥のさえずり）
+Dialogue: 0,0:20:03.32,0:20:05.62,Default,,0,0,0,,{\c&Hffffff&}やってくれました 日本代表！
+Dialogue: 0,0:20:06.20,0:20:09.37,Default,,0,0,0,,{\c&Hffffff&}おはようございます\N今日は６月27日 金曜日
+Dialogue: 0,0:20:10.00,0:20:13.42,Default,,0,0,0,,{\c&Hffffff&}おお… スゲえな あいつ
+Dialogue: 0,0:20:13.50,0:20:14.21,Default,,0,0,0,,{\c&Hffffff&}（かえで）ん？
+Dialogue: 0,0:20:14.71,0:20:16.21,Default,,0,0,0,,{\an8\c&Hffffff&}（咲太）最初から全部
+Dialogue: 0,0:20:16.29,0:20:18.67,Default,,0,0,0,,{\an8\c&Hffffff&}未来のシミュレーション\Nだったのかよ
+Dialogue: 0,0:20:22.13,0:20:23.55,Default,,0,0,0,,{\c&Hffffff&}（咲太）あの 麻衣さん
+Dialogue: 0,0:20:23.63,0:20:24.51,Default,,0,0,0,,{\c&Hffffff&}（麻衣）何よ
+Dialogue: 0,0:20:24.59,0:20:27.05,Default,,0,0,0,,{\c&Hffffff&}好きです\Nつきあってください
+Dialogue: 0,0:20:28.89,0:20:32.43,Default,,0,0,0,,{\c&Hffffff&}１か月間 同じこと言われてると\N何も感じなくなる
+Dialogue: 0,0:20:32.52,0:20:33.44,Default,,0,0,0,,{\c&Hffffff&}ときめかない
+Dialogue: 0,0:20:33.52,0:20:36.02,Default,,0,0,0,,{\c&Hffffff&}（咲太）そっか 失恋か…
+Dialogue: 0,0:20:36.10,0:20:38.48,Default,,0,0,0,,{\c&Hffffff&}じゃあ 新しい恋を探すしかないな
+Dialogue: 0,0:20:38.57,0:20:39.32,Default,,0,0,0,,{\c&Hffffff&}（麻衣）えっ ちょっ…
+Dialogue: 0,0:20:39.40,0:20:41.53,Default,,0,0,0,,{\c&Hffffff&}今まで ありがとうございました
+Dialogue: 0,0:20:42.03,0:20:44.11,Default,,0,0,0,,{\c&Hffffff&}ダ… ダメとは言ってない
+Dialogue: 0,0:20:44.20,0:20:45.91,Default,,0,0,0,,{\c&Hffffff&}何 諦めようとしてるのよ！
+Dialogue: 0,0:20:45.99,0:20:47.66,Default,,0,0,0,,{\c&Hffffff&}なら いいの？
+Dialogue: 0,0:20:47.74,0:20:48.78,Default,,0,0,0,,{\c&Hffffff&}うっ…
+Dialogue: 0,0:20:49.62,0:20:51.62,Default,,0,0,0,,{\c&Hffffff&}咲太のくせに生意気
+Dialogue: 0,0:20:51.70,0:20:52.87,Default,,0,0,0,,{\c&Hffffff&}いいの？
+Dialogue: 0,0:20:54.16,0:20:56.63,Default,,0,0,0,,{\c&Hffffff&}うん… いいよ
+Dialogue: 0,0:20:58.79,0:21:01.88,Default,,0,0,0,,{\c&Hffffff&}あのさ 麻衣さんって\N僕のこと どう思ってる？
+Dialogue: 0,0:21:01.96,0:21:04.22,Default,,0,0,0,,{\c&Hffffff&}どうって それは…
+Dialogue: 0,0:21:04.30,0:21:05.22,Default,,0,0,0,,{\c&Hffffff&}それは？
+Dialogue: 0,0:21:05.30,0:21:06.59,Default,,0,0,0,,{\c&Hffffff&}いいでしょ 別に
+Dialogue: 0,0:21:06.68,0:21:08.89,Default,,0,0,0,,{\c&Hffffff&}よくないから聞いてるんだけど
+Dialogue: 0,0:21:09.85,0:21:11.35,Default,,0,0,0,,{\c&Hffffff&}どうしても聞きたい？
+Dialogue: 0,0:21:11.43,0:21:12.27,Default,,0,0,0,,{\c&Hffffff&}はい
+Dialogue: 0,0:21:13.06,0:21:14.31,Default,,0,0,0,,{\c&Hffffff&}（麻衣）あっ！\N（咲太）ん？
+Dialogue: 0,0:21:21.27,0:21:22.57,Default,,0,0,0,,{\c&Hffffff&}これで分かったでしょ？
+Dialogue: 0,0:21:22.65,0:21:23.61,Default,,0,0,0,,{\c&Hffffff&}（咲太）あ…
+Dialogue: 0,0:21:24.74,0:21:26.95,Default,,0,0,0,,{\c&Hffffff&}マウス トゥ マウスがよかったな
+Dialogue: 0,0:21:28.41,0:21:30.58,Default,,0,0,0,,{\c&Hffffff&}（麻衣）調子に乗るな\N（咲太）イテッ
+Dialogue: 0,0:21:31.28,0:21:33.29,Default,,0,0,0,,{\c&Hffffff&}（鼻歌）
+Dialogue: 0,0:21:33.87,0:21:34.91,Default,,0,0,0,,{\c&Hffffff&}（朋絵）ごめんなさい
+Dialogue: 0,0:21:35.00,0:21:37.50,Default,,0,0,0,,{\c&Hffffff&}あたし 前沢先輩とは\Nつきあえません
+Dialogue: 0,0:21:38.08,0:21:40.13,Default,,0,0,0,,{\c&Hffffff&}（前沢）今 彼氏とかいないよな？
+Dialogue: 0,0:21:40.21,0:21:40.88,Default,,0,0,0,,{\c&Hffffff&}（朋絵）はい
+Dialogue: 0,0:21:40.96,0:21:42.63,Default,,0,0,0,,{\c&Hffffff&}（前沢）\Nじゃあ 好きなヤツいるの？
+Dialogue: 0,0:21:42.71,0:21:44.63,Default,,0,0,0,,{\c&Hffffff&}はい　その人は
+Dialogue: 0,0:21:44.72,0:21:47.51,Default,,0,0,0,,{\c&Hffffff&}今時 スマホも持ってない\N原始人です
+Dialogue: 0,0:21:48.14,0:21:49.55,Default,,0,0,0,,{\c&Hffffff&}（足音）
+Dialogue: 0,0:21:49.64,0:21:51.93,Default,,0,0,0,,{\c&Hffffff&}（咲太）誰が原始人だ？\N（朋絵）あっ
+Dialogue: 0,0:21:52.01,0:21:54.77,Default,,0,0,0,,{\c&Hffffff&}別に 先輩のことだなんて\N言ってない
+Dialogue: 0,0:21:54.85,0:21:57.02,Default,,0,0,0,,{\c&Hffffff&}それより先輩 責任取ってよ
+Dialogue: 0,0:21:57.10,0:21:57.98,Default,,0,0,0,,{\c&Hffffff&}責任？
+Dialogue: 0,0:21:58.06,0:22:00.02,Default,,0,0,0,,{\c&Hffffff&}これで 玲奈ちゃんに嫌われて
+Dialogue: 0,0:22:00.11,0:22:02.19,Default,,0,0,0,,{\c&Hffffff&}クラスに居場所 なくなるんだから
+Dialogue: 0,0:22:02.27,0:22:04.65,Default,,0,0,0,,{\c&Hffffff&}なんで その責任が僕に来る
+Dialogue: 0,0:22:04.74,0:22:06.45,Default,,0,0,0,,{\c&Hffffff&}だって 先輩のせいだし
+Dialogue: 0,0:22:06.53,0:22:07.78,Default,,0,0,0,,{\c&Hffffff&}理由を聞こうか
+Dialogue: 0,0:22:08.36,0:22:10.49,Default,,0,0,0,,{\c&Hffffff&}先輩が\Nあたしを大人にしたんじゃん
+Dialogue: 0,0:22:10.57,0:22:12.03,Default,,0,0,0,,{\c&Hffffff&}なんかエロいな
+Dialogue: 0,0:22:12.12,0:22:15.79,Default,,0,0,0,,{\c&Hffffff&}先輩って 分かってるくせに\Nいつも そういうこと言うよね
+Dialogue: 0,0:22:15.87,0:22:16.83,Default,,0,0,0,,{\c&Hffffff&}照(て)れ隠し？
+Dialogue: 0,0:22:16.91,0:22:20.25,Default,,0,0,0,,{\c&Hffffff&}まっ 古賀に何かあっても\N友達でいてやるよ
+Dialogue: 0,0:22:20.75,0:22:22.59,Default,,0,0,0,,{\c&Hffffff&}だから 独りぼっちにはならない
+Dialogue: 0,0:22:22.67,0:22:26.42,Default,,0,0,0,,{\c&Hffffff&}先輩を親友にしてあげるの\Nあたしのほうだし
+Dialogue: 0,0:22:28.18,0:22:31.09,Default,,0,0,0,,{\c&Hffffff&}（咲太）それから\N夏休みが始まるまでの期間は
+Dialogue: 0,0:22:31.18,0:22:32.60,Default,,0,0,0,,{\c&Hffffff&}驚きの連続だった
+Dialogue: 0,0:22:33.56,0:22:37.10,Default,,0,0,0,,{\c&Hffffff&}僕と古賀が体験した日々は\N実際に そのとおりになった
+Dialogue: 0,0:22:37.89,0:22:39.94,Default,,0,0,0,,{\c&Hffffff&}バイト先に古賀が\N新人として入ってきて
+Dialogue: 0,0:22:40.85,0:22:43.69,Default,,0,0,0,,{\c&Hffffff&}麻衣さんは かえでに\N仕事で使った服をくれ
+Dialogue: 0,0:22:43.77,0:22:46.03,Default,,0,0,0,,{\c&Hffffff&}そのあと 仕事で鹿児島に行き
+Dialogue: 0,0:22:46.11,0:22:50.07,Default,,0,0,0,,{\c&Hffffff&}帰ってからはバニーガールの格好で\N僕に勉強を教えてくれた
+Dialogue: 0,0:22:50.66,0:22:53.33,Default,,0,0,0,,{\c&Hffffff&}期末試験の内容まで\Nそっくり同じだ
+Dialogue: 0,0:22:54.20,0:22:55.33,Default,,0,0,0,,{\c&Hffffff&}（理央）なるほどね
+Dialogue: 0,0:22:55.41,0:22:59.33,Default,,0,0,0,,{\c&Hffffff&}周囲に合わせるため\N必死で空気を読んでいた少女は
+Dialogue: 0,0:22:59.41,0:23:00.08,Default,,0,0,0,,{\c&Hffffff&}気が付くと
+Dialogue: 0,0:23:00.17,0:23:03.21,Default,,0,0,0,,{\c&Hffffff&}未来まで読めるように\Nなっていたわけだ
+Dialogue: 0,0:23:04.84,0:23:08.38,Default,,0,0,0,,{\c&Hffffff&}（咲太）でも どうして\N70億の人類の中で
+Dialogue: 0,0:23:08.47,0:23:11.30,Default,,0,0,0,,{\c&Hffffff&}僕だけが その現象に\N巻き込まれたんだろう
+Dialogue: 0,0:23:11.89,0:23:13.51,Default,,0,0,0,,{\an8\c&Hffffff&}量子もつれじゃないの？
+Dialogue: 0,0:23:13.60,0:23:15.68,Default,,0,0,0,,{\an8\c&Hffffff&}量子もつれ？\Nなんだ それ？
+Dialogue: 0,0:23:15.76,0:23:18.14,Default,,0,0,0,,{\an8\c&Hffffff&}（理央）離れた\N位置にある２つの粒子が
+Dialogue: 0,0:23:18.23,0:23:21.10,Default,,0,0,0,,{\an8\c&Hffffff&}なんの媒介も\N必要とせずに 瞬時に
+Dialogue: 0,0:23:21.19,0:23:24.56,Default,,0,0,0,,{\an8\c&Hffffff&}情報を共有して動く\N奇妙な現象のこと
+Dialogue: 0,0:23:24.65,0:23:27.32,Default,,0,0,0,,{\an8\c&Hffffff&}（咲太）つまり 双葉(ふたば)は\N僕と古賀がもつれて
+Dialogue: 0,0:23:27.40,0:23:28.94,Default,,0,0,0,,{\an8\c&Hffffff&}同期したって\N言いたいのか？
+Dialogue: 0,0:23:29.03,0:23:29.99,Default,,0,0,0,,{\an8\c&Hffffff&}（理央）そっ
+Dialogue: 0,0:23:30.07,0:23:31.86,Default,,0,0,0,,{\an8\c&Hffffff&}（咲太）けど なんで\Nもつれるんだよ
+Dialogue: 0,0:23:32.41,0:23:33.87,Default,,0,0,0,,{\an8\c&Hffffff&}（理央）量子もつれが\N起こるのは
+Dialogue: 0,0:23:33.95,0:23:36.08,Default,,0,0,0,,{\an8\c&Hffffff&}粒子同士が衝突したあと
+Dialogue: 0,0:23:36.58,0:23:39.04,Default,,0,0,0,,{\an8\c&Hffffff&}その１年生と\N最近 何か衝撃を
+Dialogue: 0,0:23:39.12,0:23:41.04,Default,,0,0,0,,{\an8\c&Hffffff&}与え合ったり\Nしなかった？
+Dialogue: 0,0:23:41.62,0:23:44.08,Default,,0,0,0,,{\an8\c&Hffffff&}（咲太）あ…\N尻を蹴り合った
+Dialogue: 0,0:23:48.88,0:23:50.67,Default,,0,0,0,,{\an8\c&Hffffff&}（理央）梓川\N（咲太）ん？
+Dialogue: 0,0:23:51.13,0:23:53.68,Default,,0,0,0,,{\an8\c&Hffffff&}再現実験をしたい\N尻を出せ
+Dialogue: 0,0:23:53.76,0:23:54.76,Default,,0,0,0,,{\an8\c&Hffffff&}断る
+Dialogue: 0,0:23:54.85,0:23:57.47,Default,,0,0,0,,{\an8\c&Hffffff&}（理央）\Nいいから出せ ブタ野郎
+Dialogue: 0,0:24:00.10,0:24:02.06,Default,,0,0,0,,{\an8\c&Hffffff&}（咲太）\N麻衣さんのエプロン姿
+Dialogue: 0,0:24:02.14,0:24:03.65,Default,,0,0,0,,{\an8\c&Hffffff&}楽しみだな～
+Dialogue: 0,0:24:03.73,0:24:05.02,Default,,0,0,0,,{\an8\c&Hffffff&}（麻衣）\N私 料理のときは
+Dialogue: 0,0:24:05.11,0:24:06.36,Default,,0,0,0,,{\an8\c&Hffffff&}エプロンしないけど
+Dialogue: 0,0:24:06.44,0:24:07.77,Default,,0,0,0,,{\an8\c&Hffffff&}（咲太）え～
+Dialogue: 0,0:24:07.86,0:24:09.73,Default,,0,0,0,,{\an8\c&Hffffff&}はいはい 分かったわよ
+Dialogue: 0,0:24:09.82,0:24:11.86,Default,,0,0,0,,{\an8\c&Hffffff&}なんなら\N裸エプロンでも
+Dialogue: 0,0:24:11.95,0:24:13.61,Default,,0,0,0,,{\an8\c&Hffffff&}下剤でも\N入れようかしら
+Dialogue: 0,0:24:13.70,0:24:14.87,Default,,0,0,0,,{\an8\c&Hffffff&}冗談です
+Dialogue: 0,0:24:14.95,0:24:16.62,Default,,0,0,0,,{\an8\c&Hffffff&}本気だったくせに
+Dialogue: 0,0:24:16.70,0:24:17.28,Default,,0,0,0,,{\an8\c&Hffffff&}ん？
+Dialogue: 0,0:24:20.45,0:24:21.41,Default,,0,0,0,,{\c&Hffffff&}どうしたの？
+Dialogue: 0,0:24:21.50,0:24:24.04,Default,,0,0,0,,{\c&Hffffff&}（少女）あっ… この子が…
+Dialogue: 0,0:24:24.12,0:24:24.88,Default,,0,0,0,,{\c&Hffffff&}（麻衣･咲太）ん？
+Dialogue: 0,0:24:29.00,0:24:30.59,Default,,0,0,0,,{\c&Hffffff&}麻衣さん 傘いい？
+Dialogue: 0,0:24:30.67,0:24:31.47,Default,,0,0,0,,{\c&Hffffff&}うん
+Dialogue: 0,0:24:33.01,0:24:35.55,Default,,0,0,0,,{\c&Hffffff&}（咲太）\Nとりあえず うちに連れていくよ
+Dialogue: 0,0:24:35.64,0:24:39.18,Default,,0,0,0,,{\c&Hffffff&}あっ でも その子\N私 引き取りたいんです
+Dialogue: 0,0:24:39.26,0:24:41.39,Default,,0,0,0,,{\c&Hffffff&}だったら あとで連絡して
+Dialogue: 0,0:24:41.48,0:24:43.27,Default,,0,0,0,,{\c&Hffffff&}うちの電話番号 教えるから
+Dialogue: 0,0:24:43.77,0:24:45.65,Default,,0,0,0,,{\c&Hffffff&}僕は 梓川咲太
+Dialogue: 0,0:24:45.73,0:24:48.36,Default,,0,0,0,,{\c&Hffffff&}梓川サービスエリアの“梓川”に
+Dialogue: 0,0:24:48.44,0:24:50.19,Default,,0,0,0,,{\c&Hffffff&}花咲く太郎(たろう)の“咲太”
+Dialogue: 0,0:24:50.28,0:24:53.82,Default,,0,0,0,,{\c&Hffffff&}（翔子）\N私は 牧之原翔子(まきのはらしょうこ)といいます
+Dialogue: 0,0:24:53.90,0:24:54.78,Default,,0,0,0,,{\c&Hffffff&}ハッ…
+Dialogue: 0,0:24:56.70,0:24:59.78,Default,,0,0,0,,{\c&Hffffff&}（理央）\Nさすが梓川 ブタ野郎だね
