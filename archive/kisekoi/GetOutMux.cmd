@@ -30,7 +30,7 @@ echo.
 echo.
 echo       Muxing %label% in %lang%
 echo       with %format% / %rate%
-echo       Support PowerDVD playback!
+echo       DO NOT Support PowerDVD playback!
 echo.
 echo.
 ping 127.0.0.1 -n 3 >nul 2>&1

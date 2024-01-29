@@ -7,4 +7,4 @@ CsmStudioCompilerCli.exe -i "%maindir%%lang%\MOV.ass" -l %lang% -o "%maindir%%la
 mkdir "%maindir%%label%\BDMV\CLIPINF\"
 move "%maindir%%label%\BDMV\STREAM\*.clpi" "%maindir%%label%\BDMV\CLIPINF\"
 
-:: Refer to aokihagane/kinmosa/takagi3/aobuta
+:: Refer to aokihagane/kinmosa/takagi3/aobuta/kisekoi
