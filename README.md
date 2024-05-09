@@ -24,4 +24,4 @@ Please consult the scripts and readme for detailed usage.
 
 ## Misc
 
-Most of subtitles are grabbed from [kitsunekko.net](https://www.kitsunekko.net/), batch styled with [SubtitleEdit](https://github.com/SubtitleEdit/subtitleedit) in [MotoyaLMaru](https://github.com/aosp-mirror/platform_frameworks_base/blob/lollipop-release/data/fonts/MTLmr3m.ttf) [ALT](https://github.com/googlefonts/kosugi-maru/blob/main/fonts/ttf/KosugiMaru-Regular.ttf).
+Most of subtitles are grabbed from [kitsunekko.net](https://www.kitsunekko.net/), auto-retimed by [alass](https://github.com/kaegi/alass), batch styled with [SubtitleEdit](https://github.com/SubtitleEdit/subtitleedit) in [MotoyaLMaru](https://github.com/aosp-mirror/platform_frameworks_base/blob/lollipop-release/data/fonts/MTLmr3m.ttf) [ALT](https://github.com/googlefonts/kosugi-maru/blob/main/fonts/ttf/KosugiMaru-Regular.ttf).
