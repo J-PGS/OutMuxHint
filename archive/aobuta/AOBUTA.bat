@@ -48,12 +48,22 @@ move %maindir%%lang%\*.ass %maindir%%lang%\MOV\
 
 
 :: MOV2 odekake
-:: set label=AOBUTA_MOVIE_ODEKAKE
-:: move %maindir%%lang%\MOV\*.ass %maindir%%lang%\
-:: CsmStudioCompilerCli.exe -i "%maindir%%lang%\ODEKAKE.ass" -l %lang% -o "%maindir%%label%\BDMV\STREAM\10000.m2ts" -f %format% -r %rate% -t 00:10:00.000
-:: mkdir "%maindir%%label%\BDMV\CLIPINF\"
-:: move "%maindir%%label%\BDMV\STREAM\*.clpi" "%maindir%%label%\BDMV\CLIPINF\"
-:: move %maindir%%lang%\*.ass %maindir%%lang%\MOV\
+set label=AOBUTA_MOVIE_ODEKAKE
+move %maindir%%lang%\MOV\*.ass %maindir%%lang%\
+CsmStudioCompilerCli.exe -i "%maindir%%lang%\ODEKAKE.ass" -l %lang% -o "%maindir%%label%\BDMV\STREAM\10000.m2ts" -f %format% -r %rate% -t 00:10:00.000
+mkdir "%maindir%%label%\BDMV\CLIPINF\"
+move "%maindir%%label%\BDMV\STREAM\*.clpi" "%maindir%%label%\BDMV\CLIPINF\"
+move %maindir%%lang%\*.ass %maindir%%lang%\MOV\
 
 
-:: S2 knapsack
+:: MOV3 knapsack
+set label=AOBUTA_MOVIE_KNAPSACK
+move %maindir%%lang%\MOV\*.ass %maindir%%lang%\
+CsmStudioCompilerCli.exe -i "%maindir%%lang%\KNAPSACK.ass" -l %lang% -o "%maindir%%label%\BDMV\STREAM\10000.m2ts" -f %format% -r %rate% -t 00:10:00.000
+mkdir "%maindir%%label%\BDMV\CLIPINF\"
+move "%maindir%%label%\BDMV\STREAM\*.clpi" "%maindir%%label%\BDMV\CLIPINF\"
+move %maindir%%lang%\*.ass %maindir%%lang%\MOV\
+
+
+:: S2
+
